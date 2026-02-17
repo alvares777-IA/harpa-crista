@@ -1674,3 +1674,82 @@ body {
     margin-bottom: 8px;
     border-radius: var(--radius-md);
 }
+
+/* ---- Import Feature ---- */
+.import-card {
+    background: var(--bg-card);
+    border: 1px solid var(--accent-gold);
+    border-radius: var(--radius-lg);
+    padding: 30px;
+    text-align: center;
+    margin: 20px 0;
+    backdrop-filter: blur(10px);
+}
+
+.import-icon {
+    font-size: 3rem;
+    color: var(--accent-gold);
+    margin-bottom: 15px;
+    opacity: 0.8;
+}
+
+.import-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+    font-family: var(--font-display);
+}
+
+.import-text {
+    color: var(--text-secondary);
+    margin-bottom: 25px;
+    font-size: 0.95rem;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn-import {
+    display: inline-flex;
+    align-items: center;
+    padding: 12px 25px;
+    background: var(--accent-gold);
+    color: #000 !important;
+    border: none;
+    border-radius: var(--radius-full);
+    font-weight: 600;
+    text-decoration: none;
+    transition: all var(--transition-normal);
+    cursor: pointer;
+}
+
+.btn-import:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(240, 192, 64, 0.4);
+    background: #f8e070;
+}
+
+.import-editor {
+    margin-top: 25px;
+    display: none;
+    text-align: left;
+}
+
+.import-textarea {
+    width: 100%;
+    min-height: 200px;
+    background: rgba(0, 0, 0, 0.4);
+    border: 1px solid var(--border-light);
+    border-radius: var(--radius-md);
+    color: var(--text-primary);
+    padding: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.9rem;
+    margin-bottom: 15px;
+    resize: vertical;
+}
+
+.import-textarea:focus {
+    outline: none;
+    border-color: var(--accent-gold);
+}
