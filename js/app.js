@@ -1,0 +1,460 @@
+/**
+ * HARPA CRISTÃ - Main Application Logic
+ * Gerencia listagem, busca, filtros e favoritos
+ */
+
+$(document).ready(function () {
+    'use strict';
+
+    // ===== CONSTANTS =====
+    var ITEMS_PER_PAGE = 50;
+    var STORAGE_KEYS = {
+        FAVORITES: 'harpa_favoritos',
+        RECENT: 'harpa_recentes',
+        VIEW_MODE: 'harpa_view_mode',
+        FONT_SIZE: 'harpa_font_size'
+    };
+
+    // ===== STATE =====
+    var state = {
+        allHymns: [],
+        filteredHymns: [],
+        displayedCount: 0,
+        currentFilter: 'all',
+        currentLetter: 'all',
+        currentView: 'list',
+        searchTimeout: null
+    };
+
+    // ===== INITIALIZATION =====
+    function init() {
+        // Load hymn data
+        if (typeof HINOS_DATA !== 'undefined') {
+            state.allHymns = HINOS_DATA;
+            state.filteredHymns = HINOS_DATA.slice();
+        }
+
+        // Restore view mode
+        var savedView = localStorage.getItem(STORAGE_KEYS.VIEW_MODE);
+        if (savedView) {
+            state.currentView = savedView;
+        }
+
+        // Setup UI
+        setupSplashScreen();
+        setupNavbar();
+        setupSearch();
+        setupFilters();
+        setupAlphabetFilter();
+        setupViewToggle();
+        setupScrollTop();
+        createParticles();
+        updateStats();
+        renderHymns();
+
+        // Hide splash
+        setTimeout(function () {
+            $('#splash-screen').addClass('hidden');
+        }, 1800);
+    }
+
+    // ===== SPLASH SCREEN =====
+    function setupSplashScreen() {
+        // Already animated via CSS
+    }
+
+    // ===== NAVBAR =====
+    function setupNavbar() {
+        $(window).on('scroll', function () {
+            if ($(this).scrollTop() > 50) {
+                $('#mainNavbar').addClass('scrolled');
+            } else {
+                $('#mainNavbar').removeClass('scrolled');
+            }
+        });
+    }
+
+    // ===== PARTICLES =====
+    function createParticles() {
+        var container = $('#particles');
+        if (!container.length) return;
+
+        for (var i = 0; i < 30; i++) {
+            var particle = $('<div class="particle"></div>');
+            particle.css({
+                left: Math.random() * 100 + '%',
+                animationDuration: (Math.random() * 10 + 8) + 's',
+                animationDelay: (Math.random() * 5) + 's',
+                width: (Math.random() * 3 + 1) + 'px',
+                height: (Math.random() * 3 + 1) + 'px'
+            });
+            container.append(particle);
+        }
+    }
+
+    // ===== SEARCH =====
+    function setupSearch() {
+        var $input = $('#searchInput');
+        var $clear = $('#searchClear');
+        var $wrapper = $('.search-wrapper');
+
+        $input.on('input', function () {
+            var val = $(this).val().trim();
+            $clear.toggleClass('d-none', val.length === 0);
+            $wrapper.toggleClass('searching', val.length > 0);
+
+            clearTimeout(state.searchTimeout);
+            state.searchTimeout = setTimeout(function () {
+                filterHymns();
+                updateSearchTitle(val);
+            }, 250);
+        });
+
+        $clear.on('click', function () {
+            $input.val('');
+            $clear.addClass('d-none');
+            $wrapper.removeClass('searching');
+            filterHymns();
+            updateSearchTitle('');
+            $input.focus();
+        });
+
+        // Search on enter
+        $input.on('keydown', function (e) {
+            if (e.key === 'Enter') {
+                clearTimeout(state.searchTimeout);
+                filterHymns();
+                updateSearchTitle($input.val());
+            }
+        });
+    }
+
+    function updateSearchTitle(query) {
+        var $title = $('.section-title h2');
+        if (query.length > 0) {
+            $title.html('<i class="bi bi-search me-2"></i>' + state.filteredHymns.length + ' hinos encontrados');
+        } else {
+            $title.text('Todos os Hinos');
+        }
+    }
+
+    // ===== FILTERS =====
+    function setupFilters() {
+        $('.filter-btn').on('click', function () {
+            var filter = $(this).data('filter');
+            state.currentFilter = filter;
+            $('.filter-btn').removeClass('active');
+            $(this).addClass('active');
+            filterHymns();
+        });
+    }
+
+    // ===== ALPHABET FILTER =====
+    function setupAlphabetFilter() {
+        var letters = [];
+        var usedLetters = {};
+
+        state.allHymns.forEach(function (hymn) {
+            var first = hymn.titulo.charAt(0).toUpperCase();
+            if (!usedLetters[first]) {
+                usedLetters[first] = true;
+                letters.push(first);
+            }
+        });
+
+        letters.sort();
+
+        var $container = $('#alphabetFilter');
+        letters.forEach(function (letter) {
+            $container.append(
+                '<button class="alpha-btn" data-letter="' + letter + '">' + letter + '</button>'
+            );
+        });
+
+        $container.on('click', '.alpha-btn', function () {
+            var letter = $(this).data('letter');
+            state.currentLetter = letter;
+            $('.alpha-btn').removeClass('active');
+            $(this).addClass('active');
+            filterHymns();
+        });
+    }
+
+    // ===== VIEW TOGGLE =====
+    function setupViewToggle() {
+        // Restore saved view
+        updateViewMode(state.currentView);
+
+        $('.view-btn').on('click', function () {
+            var view = $(this).data('view');
+            state.currentView = view;
+            localStorage.setItem(STORAGE_KEYS.VIEW_MODE, view);
+            $('.view-btn').removeClass('active');
+            $(this).addClass('active');
+            updateViewMode(view);
+        });
+    }
+
+    function updateViewMode(view) {
+        var $container = $('#hymnsContainer');
+        $container.removeClass('list-view grid-view');
+        $container.addClass(view + '-view');
+
+        $('.view-btn').removeClass('active');
+        $('.view-btn[data-view="' + view + '"]').addClass('active');
+    }
+
+    // ===== FILTER LOGIC =====
+    function filterHymns() {
+        var search = $('#searchInput').val().trim().toLowerCase();
+        var favorites = getFavorites();
+        var recents = getRecents();
+
+        state.filteredHymns = state.allHymns.filter(function (hymn) {
+            // Filter by category
+            if (state.currentFilter === 'favorites') {
+                if (favorites.indexOf(hymn.numero) === -1) return false;
+            }
+            if (state.currentFilter === 'recent') {
+                if (recents.indexOf(hymn.numero) === -1) return false;
+            }
+
+            // Filter by letter
+            if (state.currentLetter !== 'all') {
+                if (hymn.titulo.charAt(0).toUpperCase() !== state.currentLetter) return false;
+            }
+
+            // Filter by search
+            if (search) {
+                var matchNumber = hymn.numero.toString() === search;
+                var matchTitle = hymn.titulo.toLowerCase().indexOf(search) > -1;
+                var matchLyrics = false;
+
+                if (hymn.letra && hymn.letra.versos) {
+                    hymn.letra.versos.forEach(function (v) {
+                        if (v.texto.toLowerCase().indexOf(search) > -1) {
+                            matchLyrics = true;
+                        }
+                    });
+                }
+
+                if (!matchNumber && !matchTitle && !matchLyrics) return false;
+            }
+
+            return true;
+        });
+
+        // Sort recents by most recent
+        if (state.currentFilter === 'recent') {
+            state.filteredHymns.sort(function (a, b) {
+                return recents.indexOf(a.numero) - recents.indexOf(b.numero);
+            });
+        }
+
+        state.displayedCount = 0;
+        renderHymns();
+    }
+
+    // ===== RENDER HYMNS =====
+    function renderHymns() {
+        var $container = $('#hymnsContainer');
+        var $noResults = $('#noResults');
+        var $loadMore = $('#loadMoreContainer');
+        var $resultsCount = $('#resultsCount');
+
+        if (state.displayedCount === 0) {
+            $container.empty();
+        }
+
+        var start = state.displayedCount;
+        var end = Math.min(start + ITEMS_PER_PAGE, state.filteredHymns.length);
+        var favorites = getFavorites();
+
+        if (state.filteredHymns.length === 0) {
+            $noResults.removeClass('d-none');
+            $loadMore.addClass('d-none');
+            $resultsCount.text('Nenhum hino encontrado');
+            return;
+        }
+
+        $noResults.addClass('d-none');
+
+        for (var i = start; i < end; i++) {
+            var hymn = state.filteredHymns[i];
+            var isFav = favorites.indexOf(hymn.numero) > -1;
+            var preview = '';
+
+            if (hymn.letra && hymn.letra.versos && hymn.letra.versos[0]) {
+                preview = hymn.letra.versos[0].texto.split('\n')[0];
+                if (preview.length > 60) preview = preview.substring(0, 60) + '...';
+            }
+
+            var card = buildHymnCard(hymn, isFav, preview);
+            $container.append(card);
+        }
+
+        state.displayedCount = end;
+
+        // Update count
+        $resultsCount.text(
+            'Mostrando ' + state.displayedCount + ' de ' + state.filteredHymns.length + ' hinos'
+        );
+
+        // Show/hide load more
+        if (state.displayedCount < state.filteredHymns.length) {
+            $loadMore.removeClass('d-none');
+        } else {
+            $loadMore.addClass('d-none');
+        }
+
+        // Update view mode
+        updateViewMode(state.currentView);
+    }
+
+    function buildHymnCard(hymn, isFav, preview) {
+        var favClass = isFav ? ' favorited' : '';
+        var favIcon = isFav ? 'bi-heart-fill' : 'bi-heart';
+
+        return '<div class="hymn-card" data-numero="' + hymn.numero + '">' +
+            '<div class="hymn-number">' + hymn.numero + '</div>' +
+            '<div class="hymn-info" onclick="window.location.href=\'hino.html?n=' + hymn.numero + '\'">' +
+            '<div class="hymn-title">' + escapeHtml(hymn.titulo) + '</div>' +
+            '<div class="hymn-preview">' + escapeHtml(preview) + '</div>' +
+            '</div>' +
+            '<div class="hymn-actions">' +
+            '<button class="hymn-action-btn btn-fav' + favClass + '" data-numero="' + hymn.numero + '" title="Favorito">' +
+            '<i class="bi ' + favIcon + '"></i>' +
+            '</button>' +
+            '<button class="hymn-action-btn btn-open" onclick="window.location.href=\'hino.html?n=' + hymn.numero + '\'" title="Abrir hino">' +
+            '<i class="bi bi-chevron-right"></i>' +
+            '</button>' +
+            '</div>' +
+            '</div>';
+    }
+
+    // ===== LOAD MORE =====
+    $('#loadMoreBtn').on('click', function () {
+        renderHymns();
+    });
+
+    // ===== FAVORITES =====
+    function getFavorites() {
+        try {
+            var data = localStorage.getItem(STORAGE_KEYS.FAVORITES);
+            return data ? JSON.parse(data) : [];
+        } catch (e) {
+            return [];
+        }
+    }
+
+    function toggleFavorite(numero) {
+        var favs = getFavorites();
+        var idx = favs.indexOf(numero);
+        if (idx > -1) {
+            favs.splice(idx, 1);
+        } else {
+            favs.push(numero);
+        }
+        localStorage.setItem(STORAGE_KEYS.FAVORITES, JSON.stringify(favs));
+        return favs.indexOf(numero) > -1;
+    }
+
+    // Event delegation for favorite buttons
+    $(document).on('click', '.btn-fav', function (e) {
+        e.stopPropagation();
+        var numero = parseInt($(this).data('numero'));
+        var isFav = toggleFavorite(numero);
+        var $btn = $(this);
+
+        if (isFav) {
+            $btn.addClass('favorited');
+            $btn.find('i').removeClass('bi-heart').addClass('bi-heart-fill');
+        } else {
+            $btn.removeClass('favorited');
+            $btn.find('i').removeClass('bi-heart-fill').addClass('bi-heart');
+        }
+
+        updateStats();
+    });
+
+    // ===== RECENTS =====
+    function getRecents() {
+        try {
+            var data = localStorage.getItem(STORAGE_KEYS.RECENT);
+            return data ? JSON.parse(data) : [];
+        } catch (e) {
+            return [];
+        }
+    }
+
+    // ===== STATS =====
+    function updateStats() {
+        var favs = getFavorites();
+        $('#totalHymns').text(state.allHymns.length);
+        $('#totalFavorites').text(favs.length);
+
+        // Count hymns with detailed content
+        var withContent = 0;
+        state.allHymns.forEach(function (h) {
+            if (h.letra && h.letra.versos && h.letra.versos.length > 1) {
+                withContent++;
+            }
+        });
+        $('#totalWithAudio').text(withContent);
+    }
+
+    // ===== SCROLL TO TOP =====
+    function setupScrollTop() {
+        var $btn = $('#scrollTopBtn');
+
+        $(window).on('scroll', function () {
+            if ($(this).scrollTop() > 500) {
+                $btn.addClass('visible');
+            } else {
+                $btn.removeClass('visible');
+            }
+        });
+
+        $btn.on('click', function () {
+            $('html, body').animate({ scrollTop: 0 }, 500);
+        });
+    }
+
+    // ===== UTILITY =====
+    function escapeHtml(text) {
+        if (!text) return '';
+        var map = {
+            '&': '&amp;',
+            '<': '&lt;',
+            '>': '&gt;',
+            '"': '&quot;',
+            "'": '&#039;'
+        };
+        return text.replace(/[&<>"']/g, function (m) { return map[m]; });
+    }
+
+    // ===== GLOBAL FUNCTIONS =====
+    window.HarpaApp = {
+        getFavorites: getFavorites,
+        toggleFavorite: toggleFavorite,
+        getRecents: getRecents,
+        addRecent: function (numero) {
+            var recents = getRecents();
+            var idx = recents.indexOf(numero);
+            if (idx > -1) recents.splice(idx, 1);
+            recents.unshift(numero);
+            if (recents.length > 30) recents = recents.slice(0, 30);
+            localStorage.setItem(STORAGE_KEYS.RECENT, JSON.stringify(recents));
+        },
+        getHymn: function (numero) {
+            for (var i = 0; i < HINOS_DATA.length; i++) {
+                if (HINOS_DATA[i].numero === numero) return HINOS_DATA[i];
+            }
+            return null;
+        },
+        escapeHtml: escapeHtml
+    };
+
+    // ===== START =====
+    init();
+});
