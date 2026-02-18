@@ -126,9 +126,9 @@ $(document).ready(function () {
         var importedCifra = localStorage.getItem('harpa_cifra_' + currentHymn.numero);
         var chordsText = importedCifra || currentHymn.cifras;
 
-        var isMissing = !chordsText || 
-                        chordsText.indexOf('Em breve') > -1 || 
-                        chordsText.indexOf('disponíveis') > -1;
+        var isMissing = !chordsText ||
+            chordsText.indexOf('Em breve') > -1 ||
+            chordsText.indexOf('disponíveis') > -1;
 
         if (isMissing && !importedCifra) {
             renderImportUI($container);
@@ -176,11 +176,19 @@ $(document).ready(function () {
         });
 
         if (importedCifra) {
-            $container.append('<div class="alert alert-info py-2 mb-3" style="font-size:0.8rem">' +
-                '<i class="bi bi-info-circle me-1"></i> Esta cifra foi importada por você. ' +
-                '<a href="#" id="btnResetCifra" class="alert-link ms-2">Restaurar original</a></div>');
-            
-            $('#btnResetCifra').on('click', function(e) {
+            $container.append('<div class="alert alert-info py-2 mb-3 d-flex align-items-center justify-content-between" style="font-size:0.8rem">' +
+                '<span><i class="bi bi-info-circle me-1"></i> Esta cifra foi importada por você.</span>' +
+                '<div>' +
+                '<a href="#" id="btnEditCifra" class="alert-link ms-2"><i class="bi bi-pencil-square"></i> Editar</a>' +
+                '<a href="#" id="btnResetCifra" class="alert-link ms-3 text-muted" style="text-decoration:none">Excluir</a>' +
+                '</div></div>');
+
+            $('#btnEditCifra').on('click', function (e) {
+                e.preventDefault();
+                renderImportUI($container, importedCifra);
+            });
+
+            $('#btnResetCifra').on('click', function (e) {
                 e.preventDefault();
                 if (confirm('Deseja excluir a cifra importada e voltar ao original?')) {
                     localStorage.removeItem('harpa_cifra_' + currentHymn.numero);
@@ -192,14 +200,16 @@ $(document).ready(function () {
         $container.append($pre);
     }
 
-    function renderImportUI($container) {
+    function renderImportUI($container, initialText) {
+        var isEditing = !!initialText;
+        var textValue = initialText || '';
         var searchUrl = 'https://www.google.com/search?q=harpa+crista+' + currentHymn.numero + '+' + encodeURIComponent(currentHymn.titulo) + '+cifra';
-        
+
         var html = '<div class="import-card fade-in">' +
-            '<div class="import-icon"><i class="bi bi-cloud-download"></i></div>' +
-            '<h3 class="import-title">Cifra não disponível</h3>' +
-            '<p class="import-text">Este hino ainda não possui cifras no banco de dados local. Deseja buscar na internet e importar?</p>' +
-            '<div class="d-flex flex-wrap justify-content-center gap-3">' +
+            '<div class="import-icon"><i class="bi ' + (isEditing ? 'bi-pencil-square' : 'bi-cloud-download') + '"></i></div>' +
+            '<h3 class="import-title">' + (isEditing ? 'Editar Cifra' : 'Cifra não disponível') + '</h3>' +
+            '<p class="import-text">' + (isEditing ? 'Ajuste a cifra abaixo e clique em salvar.' : 'Este hino ainda não possui cifras no banco de dados local. Deseja buscar na internet e importar?') + '</p>' +
+            '<div class="d-flex flex-wrap justify-content-center gap-3 ' + (isEditing ? 'd-none' : '') + '">' +
             '  <a href="' + searchUrl + '" target="_blank" class="btn-import" id="btnSearchInternet">' +
             '    <i class="bi bi-search me-2"></i>Buscar na Internet' +
             '  </a>' +
@@ -207,31 +217,35 @@ $(document).ready(function () {
             '    <i class="bi bi-pencil-square me-2"></i>Colar Manualmente' +
             '  </button>' +
             '</div>' +
-            '<div class="import-editor" id="importEditor">' +
+            '<div class="import-editor" id="importEditor" style="' + (isEditing ? 'display:block' : '') + '">' +
             '  <p class="mt-4 mb-2 text-start small text-muted">Cole a cifra abaixo no formato <code>[Acorde]Texto</code> para melhor exibição:</p>' +
-            '  <textarea class="import-textarea" id="importText" placeholder="Ex: [G]Deus prometeu com cer[C]teza..."></textarea>' +
+            '  <textarea class="import-textarea" id="importText" placeholder="Ex: [G]Deus prometeu com cer[C]teza...">' + escapeHtml(textValue) + '</textarea>' +
             '  <div class="d-flex gap-2 justify-content-end">' +
             '    <button class="btn btn-sm btn-outline-secondary" id="btnCancelImport">Cancelar</button>' +
-            '    <button class="btn btn-sm btn-primary" id="btnSaveImport" style="background:var(--accent-gold); border:none; color:#000; font-weight:600">Salvar Cifra</button>' +
+            '    <button class="btn btn-sm btn-primary" id="btnSaveImport" style="background:var(--accent-gold); border:none; color:#000; font-weight:600">Salvar Alterações</button>' +
             '  </div>' +
             '</div>' +
             '</div>';
-            
+
         $container.html(html);
 
-        $('#btnShowEditor').on('click', function() {
+        $('#btnShowEditor').on('click', function () {
             $('#importEditor').slideDown();
             $(this).fadeOut();
             $('#btnSearchInternet').removeClass('btn-import').addClass('btn btn-sm btn-outline-light');
         });
 
-        $('#btnCancelImport').on('click', function() {
-            $('#importEditor').slideUp();
-            $('#btnShowEditor').fadeIn();
-            $('#btnSearchInternet').addClass('btn-import').removeClass('btn btn-sm btn-outline-light');
+        $('#btnCancelImport').on('click', function () {
+            if (isEditing) {
+                renderChords();
+            } else {
+                $('#importEditor').slideUp();
+                $('#btnShowEditor').fadeIn();
+                $('#btnSearchInternet').addClass('btn-import').removeClass('btn btn-sm btn-outline-light');
+            }
         });
 
-        $('#btnSaveImport').on('click', function() {
+        $('#btnSaveImport').on('click', function () {
             var text = $('#importText').val().trim();
             if (text.length < 10) {
                 alert('Por favor, cole uma cifra válida.');
