@@ -433,28 +433,64 @@ $(document).ready(function () {
         return text.replace(/[&<>"']/g, function (m) { return map[m]; });
     }
 
-    // ===== GLOBAL FUNCTIONS =====
-    window.HarpaApp = {
-        getFavorites: getFavorites,
-        toggleFavorite: toggleFavorite,
-        getRecents: getRecents,
-        addRecent: function (numero) {
-            var recents = getRecents();
-            var idx = recents.indexOf(numero);
-            if (idx > -1) recents.splice(idx, 1);
-            recents.unshift(numero);
-            if (recents.length > 30) recents = recents.slice(0, 30);
-            localStorage.setItem(STORAGE_KEYS.RECENT, JSON.stringify(recents));
-        },
-        getHymn: function (numero) {
-            for (var i = 0; i < HINOS_DATA.length; i++) {
-                if (HINOS_DATA[i].numero === numero) return HINOS_DATA[i];
-            }
-            return null;
-        },
-        escapeHtml: escapeHtml
-    };
-
     // ===== START =====
     init();
 });
+
+// ===== GLOBAL FUNCTIONS (Defined outside ready for immediate access) =====
+window.HarpaApp = {
+    getFavorites: function () {
+        try {
+            var data = localStorage.getItem('harpa_favoritos');
+            return data ? JSON.parse(data) : [];
+        } catch (e) {
+            return [];
+        }
+    },
+    toggleFavorite: function (numero) {
+        var favs = this.getFavorites();
+        var idx = favs.indexOf(numero);
+        if (idx > -1) {
+            favs.splice(idx, 1);
+        } else {
+            favs.push(numero);
+        }
+        localStorage.setItem('harpa_favoritos', JSON.stringify(favs));
+        return favs.indexOf(numero) > -1;
+    },
+    getRecents: function () {
+        try {
+            var data = localStorage.getItem('harpa_recentes');
+            return data ? JSON.parse(data) : [];
+        } catch (e) {
+            return [];
+        }
+    },
+    addRecent: function (numero) {
+        var recents = this.getRecents();
+        var idx = recents.indexOf(numero);
+        if (idx > -1) recents.splice(idx, 1);
+        recents.unshift(numero);
+        if (recents.length > 30) recents = recents.slice(0, 30);
+        localStorage.setItem('harpa_recentes', JSON.stringify(recents));
+    },
+    getHymn: function (numero) {
+        if (typeof HINOS_DATA !== 'undefined') {
+            for (var i = 0; i < HINOS_DATA.length; i++) {
+                if (HINOS_DATA[i].numero === numero) return HINOS_DATA[i];
+            }
+        }
+        return null;
+    },
+    escapeHtml: function (text) {
+        if (!text) return '';
+        var map = {
+            '&': '&amp;',
+            '<': '&lt;',
+            '>': '&gt;',
+            '"': '&quot;',
+            "'": '&#039;'
+        };
+        return text.replace(/[&<>"']/g, function (m) { return map[m]; });
+    }
+};

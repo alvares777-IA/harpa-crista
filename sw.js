@@ -3,7 +3,7 @@
  * Caching strategy for offline functionality
  */
 
-var CACHE_NAME = 'harpa-crista-v1';
+var CACHE_NAME = 'harpa-crista-v2';
 var urlsToCache = [
     '/',
     '/index.html',
@@ -53,22 +53,23 @@ self.addEventListener('activate', function (event) {
     self.clients.claim();
 });
 
-// Fetch - Cache first, then network
+// Fetch
 self.addEventListener('fetch', function (event) {
     // Skip non-GET requests
     if (event.request.method !== 'GET') return;
 
-    // For audio files, try network first
-    if (event.request.url.includes('/audio/')) {
+    var url = event.request.url;
+
+    // Network first for HTML and JS files to avoid stale content
+    // This solves the problem when publishing new versions to the server
+    if (url.endsWith('.html') || url.includes('/js/') || url === self.location.origin + '/') {
         event.respondWith(
             fetch(event.request)
                 .then(function (response) {
-                    if (response.ok) {
-                        var responseClone = response.clone();
-                        caches.open(CACHE_NAME).then(function (cache) {
-                            cache.put(event.request, responseClone);
-                        });
-                    }
+                    var responseClone = response.clone();
+                    caches.open(CACHE_NAME).then(function (cache) {
+                        cache.put(event.request, responseClone);
+                    });
                     return response;
                 })
                 .catch(function () {
@@ -78,7 +79,25 @@ self.addEventListener('fetch', function (event) {
         return;
     }
 
-    // Cache first for everything else
+    // Audio files: try network first, then cache
+    if (url.includes('/audio/')) {
+        event.respondWith(
+            fetch(event.request)
+                .then(function (response) {
+                    var responseClone = response.clone();
+                    caches.open(CACHE_NAME).then(function (cache) {
+                        cache.put(event.request, responseClone);
+                    });
+                    return response;
+                })
+                .catch(function () {
+                    return caches.match(event.request);
+                })
+        );
+        return;
+    }
+
+    // Cache first for everything else (images, CSS, fonts)
     event.respondWith(
         caches.match(event.request)
             .then(function (response) {
