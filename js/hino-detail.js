@@ -32,6 +32,20 @@ $(document).ready(function () {
             }
         }
 
+        // Se não encontrou nos hinos oficiais, busca nos personalizados
+        if (!currentHymn) {
+            var customData = localStorage.getItem('harpa_hinos_custom');
+            if (customData) {
+                var customHymns = JSON.parse(customData);
+                for (var j = 0; j < customHymns.length; j++) {
+                    if (customHymns[j].numero === numero) {
+                        currentHymn = customHymns[j];
+                        break;
+                    }
+                }
+            }
+        }
+
         if (!currentHymn) {
             window.location.href = 'index.html';
             return;
@@ -295,9 +309,16 @@ $(document).ready(function () {
         var prevHymn = null;
         var nextHymn = null;
 
-        for (var i = 0; i < HINOS_DATA.length; i++) {
-            if (HINOS_DATA[i].numero === prevNum) prevHymn = HINOS_DATA[i];
-            if (HINOS_DATA[i].numero === nextNum) nextHymn = HINOS_DATA[i];
+        var allAvailable = HINOS_DATA.slice();
+        var customData = localStorage.getItem('harpa_hinos_custom');
+        if (customData) {
+            allAvailable = allAvailable.concat(JSON.parse(customData));
+            allAvailable.sort(function (a, b) { return a.numero - b.numero; });
+        }
+
+        for (var i = 0; i < allAvailable.length; i++) {
+            if (allAvailable[i].numero === prevNum) prevHymn = allAvailable[i];
+            if (allAvailable[i].numero === nextNum) nextHymn = allAvailable[i];
         }
 
         if (prevHymn) {

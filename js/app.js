@@ -30,8 +30,17 @@ $(document).ready(function () {
     function init() {
         // Load hymn data
         if (typeof HINOS_DATA !== 'undefined') {
-            state.allHymns = HINOS_DATA;
-            state.filteredHymns = HINOS_DATA.slice();
+            state.allHymns = HINOS_DATA.slice();
+
+            // Carrega hinos personalizados do localStorage
+            var customHymns = getCustomHymns();
+            if (customHymns.length > 0) {
+                state.allHymns = state.allHymns.concat(customHymns);
+                // Ordena por número
+                state.allHymns.sort(function (a, b) { return a.numero - b.numero; });
+            }
+
+            state.filteredHymns = state.allHymns.slice();
         }
 
         // Restore view mode
@@ -48,6 +57,7 @@ $(document).ready(function () {
         setupAlphabetFilter();
         setupViewToggle();
         setupScrollTop();
+        setupCustomHymns(); // Setup "Novo Hino"
         createParticles();
         updateStats();
         renderHymns();
@@ -56,6 +66,72 @@ $(document).ready(function () {
         setTimeout(function () {
             $('#splash-screen').addClass('hidden');
         }, 1800);
+    }
+
+    // ===== CUSTOM HYMNS =====
+    function getCustomHymns() {
+        try {
+            var data = localStorage.getItem('harpa_hinos_custom');
+            return data ? JSON.parse(data) : [];
+        } catch (e) {
+            return [];
+        }
+    }
+
+    function setupCustomHymns() {
+        $('#btnAddHymn').on('click', function (e) {
+            e.preventDefault();
+            $('#modalNovoHino').modal('show');
+        });
+
+        $('#btnSalvarNovoHino').on('click', saveCustomHymn);
+    }
+
+    function saveCustomHymn() {
+        var titulo = $('#novoTitulo').val().trim();
+        var letraRaw = $('#novaLetra').val().trim();
+        var cifra = $('#novaCifra').val().trim();
+
+        if (!titulo || !letraRaw) {
+            alert('Por favor, preencha o título e a letra.');
+            return;
+        }
+
+        var customHymns = getCustomHymns();
+
+        // Determina o próximo número (mínimo 1000)
+        var nextNumber = 1000;
+        if (customHymns.length > 0) {
+            var maxNum = Math.max.apply(Math, customHymns.map(function (h) { return h.numero; }));
+            nextNumber = Math.max(1000, maxNum + 1);
+        }
+
+        // Processa a letra em versos (separados por linha em branco)
+        var estrofes = letraRaw.split(/\n\s*\n/);
+        var versos = estrofes.map(function (texto, index) {
+            return {
+                tipo: 'verso',
+                numero: index + 1,
+                texto: texto.trim()
+            };
+        });
+
+        var novoHino = {
+            numero: nextNumber,
+            titulo: titulo,
+            letra: { versos: versos },
+            cifras: cifra || "Cifra disponível em breve...",
+            custom: true // Flag para identificar que é personalizado
+        };
+
+        customHymns.push(novoHino);
+        localStorage.setItem('harpa_hinos_custom', JSON.stringify(customHymns));
+
+        $('#modalNovoHino').modal('hide');
+        $('#formNovoHino')[0].reset();
+
+        alert('Hino #' + nextNumber + ' incluído com sucesso!');
+        location.reload(); // Recarrega para atualizar a lista e stats
     }
 
     // ===== SPLASH SCREEN =====
@@ -478,6 +554,13 @@ window.HarpaApp = {
         if (typeof HINOS_DATA !== 'undefined') {
             for (var i = 0; i < HINOS_DATA.length; i++) {
                 if (HINOS_DATA[i].numero === numero) return HINOS_DATA[i];
+            }
+        }
+        var customData = localStorage.getItem('harpa_hinos_custom');
+        if (customData) {
+            var customHymns = JSON.parse(customData);
+            for (var j = 0; j < customHymns.length; j++) {
+                if (customHymns[j].numero === numero) return customHymns[j];
             }
         }
         return null;

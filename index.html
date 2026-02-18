@@ -142,6 +142,10 @@
                     <button class="filter-btn" data-filter="recent">
                         <i class="bi bi-clock-history"></i> Recentes
                     </button>
+                    <button class="filter-btn add-custom-hymn" id="btnAddHymn"
+                        style="background: var(--accent-gold); color: var(--primary-dark);">
+                        <i class="bi bi-plus-circle-fill"></i> Novo Hino
+                    </button>
                 </div>
                 <div class="view-toggle">
                     <button class="view-btn active" data-view="list" title="Lista">
@@ -194,6 +198,48 @@
     <button class="scroll-top-btn" id="scrollTopBtn" title="Voltar ao topo">
         <i class="bi bi-chevron-up"></i>
     </button>
+
+    <!-- Modal Novo Hino -->
+    <div class="modal fade" id="modalNovoHino" tabindex="-1" aria-labelledby="modalNovoHinoLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content bg-dark text-white border-secondary">
+                <div class="modal-header border-secondary">
+                    <h5 class="modal-title" id="modalNovoHinoLabel"><i class="bi bi-plus-circle me-2"></i>Incluir Novo
+                        Hino</h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"
+                        aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form id="formNovoHino">
+                        <div class="mb-3">
+                            <label class="form-label small text-muted text-uppercase">Título do Hino</label>
+                            <input type="text" id="novoTitulo" class="form-control bg-dark border-secondary text-white"
+                                placeholder="Ex: Grandioso és Tu" required>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label small text-muted text-uppercase">Letra (Versos)</label>
+                            <textarea id="novaLetra" class="form-control bg-dark border-secondary text-white" rows="6"
+                                placeholder="Digite aqui a letra do hino..." required></textarea>
+                            <small class="text-muted">Dica: Separe as estrofes com uma linha em branco.</small>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label small text-muted text-uppercase">Cifra (Opcional)</label>
+                            <textarea id="novaCifra"
+                                class="form-control bg-dark border-secondary text-white font-monospace" rows="6"
+                                placeholder="Digite aqui a cifra..."></textarea>
+                        </div>
+                    </form>
+                </div>
+                <div class="modal-footer border-secondary">
+                    <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">Cancelar</button>
+                    <button type="button" class="btn btn-primary" id="btnSalvarNovoHino"
+                        style="background: var(--accent-gold); border: none; color: #000; font-weight: 600;">
+                        Salvar Hino
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!-- Footer -->
     <footer class="main-footer">
