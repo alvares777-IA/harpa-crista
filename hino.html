@@ -54,7 +54,7 @@
     <!-- Hymn Detail Header -->
     <section class="hymn-detail-header" id="hymnHeader">
         <div class="container">
-            <a href="index.html" class="back-btn">
+            <a href="index.html" class="back-btn" style="position: relative; z-index: 100;">
                 <i class="bi bi-arrow-left"></i> Voltar aos Hinos
             </a>
 
@@ -66,15 +66,15 @@
 
             <!-- Action Buttons -->
             <div class="action-buttons-row">
-                <button class="action-btn btn-play-sung" id="btnPlaySung" title="Ouvir hino cantado">
+                <button class="action-btn btn-play-sung d-none" id="btnPlaySung" title="Ouvir hino cantado">
                     <i class="bi bi-play-circle"></i>
                     <span>Cantado</span>
                 </button>
-                <button class="action-btn btn-play-back" id="btnPlayBack" title="Ouvir playback instrumental">
+                <button class="action-btn btn-play-back d-none" id="btnPlayBack" title="Ouvir playback instrumental">
                     <i class="bi bi-music-note-beamed"></i>
                     <span>Playback</span>
                 </button>
-                <button class="action-btn btn-cifras" id="btnCifras" title="Ver cifras">
+                <button class="action-btn btn-cifras d-none" id="btnCifras" title="Ver cifras">
                     <i class="bi bi-file-music"></i>
                     <span>Cifras</span>
                 </button>

@@ -91,12 +91,43 @@ $(document).ready(function () {
         var $container = $('#lyricsContent');
         $container.empty();
 
+        var localLetra = localStorage.getItem('harpa_letra_' + currentHymn.numero);
+
+        if (localLetra) {
+            // Render overridden lyrics (plain text)
+            $container.append('<div class="alert alert-info py-2 mb-3 d-flex align-items-center justify-content-between" style="font-size:0.8rem">' +
+                '<span><i class="bi bi-info-circle me-1"></i> Esta letra foi modificada por você.</span>' +
+                '<div>' +
+                '<a href="#" id="btnEditLetra" class="alert-link ms-2"><i class="bi bi-pencil-square"></i> Editar</a>' +
+                '<a href="#" id="btnResetLetra" class="alert-link ms-3 text-muted" style="text-decoration:none">Excluir</a>' +
+                '</div></div>');
+
+            var $pre = $('<div class="lyrics-verse"><div class="verse-text" style="white-space: pre-wrap;">' + escapeHtml(localLetra) + '</div></div>');
+            $container.append($pre);
+
+            $('#btnEditLetra').on('click', function (e) { e.preventDefault(); renderEditor($container, 'letra', localLetra); });
+            $('#btnResetLetra').on('click', function (e) {
+                e.preventDefault();
+                if (confirm('Deseja excluir a letra personalizada?')) {
+                    localStorage.removeItem('harpa_letra_' + currentHymn.numero);
+                    renderLyrics();
+                }
+            });
+            return;
+        }
+
         if (!currentHymn.letra || !currentHymn.letra.versos) {
             $container.html('<div class="text-center text-muted py-5">' +
                 '<i class="bi bi-file-text" style="font-size:3rem;opacity:0.3"></i>' +
-                '<p class="mt-3">Letra não disponível</p></div>');
+                '<p class="mt-3">Letra não disponível</p>' +
+                '<button class="btn btn-sm btn-outline-primary" id="btnCreateLetra">Adicionar Letra</button></div>');
+
+            $('#btnCreateLetra').on('click', function () { renderEditor($container, 'letra', ''); });
             return;
         }
+
+        // Add Edit button for original lyrics
+        $container.append('<div class="text-end mb-3"><button class="btn btn-sm btn-outline-secondary" id="btnEditOriginalLetra"><i class="bi bi-pencil"></i> Editar Letra</button></div>');
 
         currentHymn.letra.versos.forEach(function (verso) {
             var labelClass = verso.tipo === 'coro' ? 'chorus-label' : '';
@@ -115,6 +146,14 @@ $(document).ready(function () {
 
             $container.append(html);
         });
+
+        $('#btnEditOriginalLetra').on('click', function () {
+            var text = currentHymn.letra.versos.map(function (v) {
+                var prefix = v.tipo === 'coro' ? '[Coro]\n' : (v.numero ? '[Verso ' + v.numero + ']\n' : '[Verso]\n');
+                return prefix + v.texto;
+            }).join('\n\n');
+            renderEditor($container, 'letra', text);
+        });
     }
 
     // ===== RENDER CHORDS =====
@@ -122,18 +161,29 @@ $(document).ready(function () {
         var $container = $('#chordsContent');
         $container.empty();
 
-        // Check if there's an imported version in localStorage
-        var importedCifra = localStorage.getItem('harpa_cifra_' + currentHymn.numero);
-        var chordsText = importedCifra || currentHymn.cifras;
+        var localCifra = localStorage.getItem('harpa_cifra_' + currentHymn.numero);
+        var chordsText = localCifra || currentHymn.cifras;
 
         var isMissing = !chordsText ||
             chordsText.indexOf('Em breve') > -1 ||
             chordsText.indexOf('disponíveis') > -1;
 
-        if (isMissing && !importedCifra) {
-            renderImportUI($container);
+        if (isMissing && !localCifra) {
+            renderEditor($container, 'cifra');
             return;
         }
+
+        // Add Edit button for chords
+        var alertHtml = localCifra ?
+            '<div class="alert alert-info py-2 mb-3 d-flex align-items-center justify-content-between" style="font-size:0.8rem">' +
+            '<span><i class="bi bi-info-circle me-1"></i> Esta cifra foi modificada por você.</span>' +
+            '<div>' +
+            '<a href="#" id="btnEditCifra" class="alert-link ms-2"><i class="bi bi-pencil-square"></i> Editar</a>' +
+            '<a href="#" id="btnResetCifra" class="alert-link ms-3 text-muted" style="text-decoration:none">Excluir</a>' +
+            '</div></div>' :
+            '<div class="text-end mb-3"><button class="btn btn-sm btn-outline-secondary" id="btnEditOriginalCifra"><i class="bi bi-pencil"></i> Editar Cifra</button></div>';
+
+        $container.append(alertHtml);
 
         var lines = chordsText.split('\n');
         var $pre = $('<pre class="fade-in"></pre>');
@@ -144,7 +194,6 @@ $(document).ready(function () {
                 return;
             }
 
-            // Regex for [Chord] followed by any characters until next [Chord] or end of line
             var parts = line.split(/(\[[^\]]+\])/g);
             var $lineSpan = $('<span></span>');
 
@@ -152,65 +201,53 @@ $(document).ready(function () {
                 if (part && part.startsWith('[') && part.endsWith(']')) {
                     var chord = part.substring(1, part.length - 1);
                     var nextText = parts[index + 1] || '';
-
-                    // Take the first word or space from the next text to anchor the chord
                     var match = nextText.match(/^(\s*\S+|\s+)/);
                     var word = match ? match[0] : '';
 
-                    // Update the next part to remove what we just took
-                    if (match) {
-                        parts[index + 1] = nextText.substring(word.length);
-                    }
+                    if (match) parts[index + 1] = nextText.substring(word.length);
 
                     var $chordRow = $('<div class="chord-row"></div>');
                     $chordRow.append('<span class="chord-highlight">' + escapeHtml(chord) + '</span>');
                     $chordRow.append('<span class="word-with-chord">' + (word.trim() === '' ? '&nbsp;' : escapeHtml(word)) + '</span>');
                     $lineSpan.append($chordRow);
                 } else if (part && (part.trim().length > 0 || part === ' ')) {
-                    // Regular text that doesn't have a chord immediately above it
                     $lineSpan.append('<span class="plain-word">' + escapeHtml(part) + '</span>');
                 }
             });
-
             $pre.append($lineSpan).append('\n');
         });
 
-        if (importedCifra) {
-            $container.append('<div class="alert alert-info py-2 mb-3 d-flex align-items-center justify-content-between" style="font-size:0.8rem">' +
-                '<span><i class="bi bi-info-circle me-1"></i> Esta cifra foi importada por você.</span>' +
-                '<div>' +
-                '<a href="#" id="btnEditCifra" class="alert-link ms-2"><i class="bi bi-pencil-square"></i> Editar</a>' +
-                '<a href="#" id="btnResetCifra" class="alert-link ms-3 text-muted" style="text-decoration:none">Excluir</a>' +
-                '</div></div>');
-
-            $('#btnEditCifra').on('click', function (e) {
-                e.preventDefault();
-                renderImportUI($container, importedCifra);
-            });
-
-            $('#btnResetCifra').on('click', function (e) {
-                e.preventDefault();
-                if (confirm('Deseja excluir a cifra importada e voltar ao original?')) {
-                    localStorage.removeItem('harpa_cifra_' + currentHymn.numero);
-                    renderChords();
-                }
-            });
-        }
-
         $container.append($pre);
+
+        $('#btnEditCifra, #btnEditOriginalCifra').on('click', function (e) {
+            e.preventDefault();
+            renderEditor($container, 'cifra', chordsText);
+        });
+
+        $('#btnResetCifra').on('click', function (e) {
+            e.preventDefault();
+            if (confirm('Deseja excluir a cifra personalizada?')) {
+                localStorage.removeItem('harpa_cifra_' + currentHymn.numero);
+                renderChords();
+            }
+        });
     }
 
-    function renderImportUI($container, initialText) {
+    function renderEditor($container, type, initialText) {
+        var isCifra = type === 'cifra';
         var isEditing = !!initialText;
         var textValue = initialText || '';
-        var searchUrl = 'https://www.google.com/search?q=harpa+crista+' + currentHymn.numero + '+' + encodeURIComponent(currentHymn.titulo) + '+cifra';
+        var searchUrl = 'https://www.google.com/search?q=harpa+crista+' + currentHymn.numero + '+' + encodeURIComponent(currentHymn.titulo) + '+' + type;
+
+        var title = isEditing ? 'Editar ' + (isCifra ? 'Cifra' : 'Letra') : (isCifra ? 'Cifra' : 'Letra') + ' não disponível';
+        var desc = isEditing ? 'Ajuste o texto abaixo e clique em salvar.' : 'Este hino ainda não possui ' + (isCifra ? 'cifras' : 'letra') + ' localmente. Deseja buscar na internet?';
 
         var html = '<div class="import-card fade-in">' +
             '<div class="import-icon"><i class="bi ' + (isEditing ? 'bi-pencil-square' : 'bi-cloud-download') + '"></i></div>' +
-            '<h3 class="import-title">' + (isEditing ? 'Editar Cifra' : 'Cifra não disponível') + '</h3>' +
-            '<p class="import-text">' + (isEditing ? 'Ajuste a cifra abaixo e clique em salvar.' : 'Este hino ainda não possui cifras no banco de dados local. Deseja buscar na internet e importar?') + '</p>' +
+            '<h3 class="import-title">' + title + '</h3>' +
+            '<p class="import-text">' + desc + '</p>' +
             '<div class="d-flex flex-wrap justify-content-center gap-3 ' + (isEditing ? 'd-none' : '') + '">' +
-            '  <a href="' + searchUrl + '" target="_blank" class="btn-import" id="btnSearchInternet">' +
+            '  <a href="' + searchUrl + '" target="_blank" class="btn-import">' +
             '    <i class="bi bi-search me-2"></i>Buscar na Internet' +
             '  </a>' +
             '  <button class="btn-import" style="background: var(--bg-glass); color: var(--text-primary); border: 1px solid var(--border-light)" id="btnShowEditor">' +
@@ -218,8 +255,8 @@ $(document).ready(function () {
             '  </button>' +
             '</div>' +
             '<div class="import-editor" id="importEditor" style="' + (isEditing ? 'display:block' : '') + '">' +
-            '  <p class="mt-4 mb-2 text-start small text-muted">Cole a cifra abaixo no formato <code>[Acorde]Texto</code> para melhor exibição:</p>' +
-            '  <textarea class="import-textarea" id="importText" placeholder="Ex: [G]Deus prometeu com cer[C]teza...">' + escapeHtml(textValue) + '</textarea>' +
+            '  <p class="mt-4 mb-2 text-start small text-muted">Cole a ' + (isCifra ? 'cifra' : 'letra') + ' abaixo:</p>' +
+            '  <textarea class="import-textarea" id="importText" style="min-height:300px">' + escapeHtml(textValue) + '</textarea>' +
             '  <div class="d-flex gap-2 justify-content-end">' +
             '    <button class="btn btn-sm btn-outline-secondary" id="btnCancelImport">Cancelar</button>' +
             '    <button class="btn btn-sm btn-primary" id="btnSaveImport" style="background:var(--accent-gold); border:none; color:#000; font-weight:600">Salvar Alterações</button>' +
@@ -231,28 +268,21 @@ $(document).ready(function () {
 
         $('#btnShowEditor').on('click', function () {
             $('#importEditor').slideDown();
-            $(this).fadeOut();
-            $('#btnSearchInternet').removeClass('btn-import').addClass('btn btn-sm btn-outline-light');
+            $(this).closest('.import-card').find('.d-flex.gap-3').fadeOut();
         });
 
         $('#btnCancelImport').on('click', function () {
-            if (isEditing) {
-                renderChords();
-            } else {
-                $('#importEditor').slideUp();
-                $('#btnShowEditor').fadeIn();
-                $('#btnSearchInternet').addClass('btn-import').removeClass('btn btn-sm btn-outline-light');
-            }
+            if (isCifra) renderChords(); else renderLyrics();
         });
 
         $('#btnSaveImport').on('click', function () {
             var text = $('#importText').val().trim();
-            if (text.length < 10) {
-                alert('Por favor, cole uma cifra válida.');
+            if (text.length < 5) {
+                alert('O conteúdo é muito curto.');
                 return;
             }
-            localStorage.setItem('harpa_cifra_' + currentHymn.numero, text);
-            renderChords();
+            localStorage.setItem('harpa_' + type + '_' + currentHymn.numero, text);
+            if (isCifra) renderChords(); else renderLyrics();
         });
     }
 
