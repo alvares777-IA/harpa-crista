@@ -7,8 +7,7 @@
     'use strict';
 
     // CONFIGURAÇÃO
-    var DEFAULT_CLIENT_ID = 'YOUR_CLIENT_ID.apps.googleusercontent.com';
-    var CLIENT_ID = localStorage.getItem('harpa_drive_client_id') || DEFAULT_CLIENT_ID;
+    var CLIENT_ID = '169358736135-r4qemh4j0e4fb2o4b8ip5ej3gl4hua8n.apps.googleusercontent.com';
     var SCOPES = 'https://www.googleapis.com/auth/drive.file';
     var BACKUP_FILE_NAME = 'harpa_crista_backup.json';
 
@@ -124,7 +123,7 @@
     }
 
     function checkInited() {
-        if (gapiInited && gsisInited && CLIENT_ID !== DEFAULT_CLIENT_ID) {
+        if (gapiInited && gsisInited) {
             $btnConnect.prop('disabled', false);
             var savedToken = localStorage.getItem('harpa_drive_token');
             if (savedToken) {
@@ -146,24 +145,6 @@
         $('#btnDisconnectDrive').on('click', function (e) {
             e.preventDefault();
             localStorage.removeItem('harpa_drive_token');
-            location.reload();
-        });
-
-        // Drive Config UI
-        $('#btnShowDriveConfig').on('click', function (e) {
-            e.preventDefault();
-            $('#driveConfigArea').toggleClass('d-none');
-            $('#inputClientId').val(CLIENT_ID === DEFAULT_CLIENT_ID ? '' : CLIENT_ID);
-        });
-
-        $('#btnSaveClientId').on('click', function () {
-            var val = $('#inputClientId').val().trim();
-            if (val.length < 10) {
-                alert('Insira um Client ID válido.');
-                return;
-            }
-            localStorage.setItem('harpa_drive_client_id', val);
-            alert('Configuração salva! Reiniciando...');
             location.reload();
         });
     }
