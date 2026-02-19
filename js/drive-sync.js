@@ -75,22 +75,36 @@
     }
 
     function loadScripts() {
-        console.log('Iniciando carregamento de scripts do Google...');
+        console.log('[Drive] Carregando scripts... Origem: ' + window.location.origin);
+        updateStatus('Carregando serviços Google...', 'text-warning');
 
+        // Timeout: se após 10s não inicializou, mostra mensagem
+        var loadTimeout = setTimeout(function () {
+            if (!gapiInited || !gsisInited) {
+                var falhou = [];
+                if (!gsisInited) falhou.push('Google Identity');
+                if (!gapiInited) falhou.push('Google API');
+                console.warn('[Drive] Timeout ao carregar: ' + falhou.join(', '));
+                updateStatus('Indisponível no momento', '');
+                $btnConnect.prop('disabled', true);
+            }
+        }, 10000);
+
+        // Script 1: Google Identity Services (GSI)
         var gsiScript = document.createElement('script');
         gsiScript.src = 'https://accounts.google.com/gsi/client';
         gsiScript.onload = function () {
-            console.log('GSI carregado.');
+            console.log('[Drive] GSI carregado.');
 
             try {
                 tokenClient = google.accounts.oauth2.initTokenClient({
                     client_id: CLIENT_ID,
                     scope: SCOPES,
-                    callback: (tokenResponse) => {
+                    callback: function (tokenResponse) {
                         if (tokenResponse.error !== undefined) {
-                            console.error('Erro na Autenticação:', tokenResponse);
-                            updateStatus('Erro Auth', 'text-danger');
-                            throw (tokenResponse);
+                            console.error('[Drive] Erro na Autenticação:', tokenResponse);
+                            updateStatus('Erro na autenticação', 'text-danger');
+                            return;
                         }
                         accessToken = tokenResponse.access_token;
                         localStorage.setItem('harpa_drive_token', accessToken);
@@ -98,26 +112,40 @@
                     },
                 });
                 gsisInited = true;
+                console.log('[Drive] GSI inicializado com sucesso.');
                 checkInited();
             } catch (e) {
-                console.warn('Google Drive não configurado corretamente para este domínio.');
+                console.error('[Drive] Erro ao inicializar GSI:', e);
+                updateStatus('Erro ao conectar serviços Google', 'text-danger');
             }
+        };
+        gsiScript.onerror = function () {
+            console.error('[Drive] Falha ao carregar script GSI.');
+            updateStatus('Serviço Google indisponível', 'text-danger');
         };
         document.head.appendChild(gsiScript);
 
+        // Script 2: Google API (GAPI)
         var gapiScript = document.createElement('script');
         gapiScript.src = 'https://apis.google.com/js/api.js';
         gapiScript.onload = function () {
+            console.log('[Drive] GAPI script carregado.');
             gapi.load('client', function () {
                 gapi.client.init({
                     discoveryDocs: ['https://www.googleapis.com/discovery/v1/apis/drive/v3/rest'],
                 }).then(function () {
                     gapiInited = true;
+                    console.log('[Drive] GAPI inicializado com sucesso.');
                     checkInited();
-                }).catch(err => {
-                    console.error('Erro ao inicializar GAPI client:', err);
+                }).catch(function (err) {
+                    console.error('[Drive] Erro ao inicializar GAPI client:', err);
+                    updateStatus('Erro na API do Google Drive', 'text-danger');
                 });
             });
+        };
+        gapiScript.onerror = function () {
+            console.error('[Drive] Falha ao carregar script GAPI.');
+            updateStatus('API do Google indisponível', 'text-danger');
         };
         document.head.appendChild(gapiScript);
     }
