@@ -208,11 +208,14 @@
             var content = JSON.stringify(data);
 
             // 1. Procura se já existe o arquivo
+            console.log('[Drive] Buscando backup existente...');
             var search = await gapi.client.drive.files.list({
                 q: "name = '" + BACKUP_FILE_NAME + "' and trashed = false",
-                fields: 'files(id, name, modifiedTime)'
+                fields: 'files(id, name, modifiedTime)',
+                spaces: 'drive'
             });
 
+            console.log('[Drive] Resultado da busca:', search.result.files);
             var fileId = search.result.files.length > 0 ? search.result.files[0].id : null;
 
             if (fileId) {
