@@ -511,14 +511,16 @@ $(document).ready(function () {
         $('#totalHymns').text(state.allHymns.length);
         $('#totalFavorites').text(favs.length);
 
-        // Count hymns with detailed content
-        var withContent = 0;
+        // Count hymns with audio links (cantado ou playback)
+        var withAudio = 0;
         state.allHymns.forEach(function (h) {
-            if (h.letra && h.letra.versos && h.letra.versos.length > 1) {
-                withContent++;
+            var hasCantado = !!getAudioLink(h.numero, 'cantado');
+            var hasPlayback = !!getAudioLink(h.numero, 'playback');
+            if (hasCantado || hasPlayback) {
+                withAudio++;
             }
         });
-        $('#totalWithAudio').text(withContent);
+        $('#totalWithAudio').text(withAudio);
     }
 
     // ===== SCROLL TO TOP =====
