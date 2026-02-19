@@ -203,19 +203,27 @@
 
     async function backupData() {
         try {
-            updateStatus('Iniciando backup...', 'text-warning');
+            updateStatus('Verificando backup existente...', 'text-warning');
             var data = collectAllData();
             var content = JSON.stringify(data);
 
             // 1. Procura se já existe o arquivo
             var search = await gapi.client.drive.files.list({
                 q: "name = '" + BACKUP_FILE_NAME + "' and trashed = false",
-                fields: 'files(id, name)'
+                fields: 'files(id, name, modifiedTime)'
             });
 
             var fileId = search.result.files.length > 0 ? search.result.files[0].id : null;
 
             if (fileId) {
+                // Já existe um backup — pede confirmação
+                var lastDate = new Date(search.result.files[0].modifiedTime).toLocaleString();
+                if (!confirm('Já existe um backup no Google Drive de ' + lastDate + '.\n\nDeseja sobrescrever com os dados atuais?')) {
+                    updateStatus('Backup cancelado.', '');
+                    return;
+                }
+
+                updateStatus('Atualizando backup...', 'text-warning');
                 // Atualiza existente
                 await gapi.client.request({
                     path: '/upload/drive/v3/files/' + fileId,
