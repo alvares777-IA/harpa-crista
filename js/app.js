@@ -23,7 +23,9 @@ $(document).ready(function () {
         currentFilter: 'all',
         currentLetter: 'all',
         currentView: 'list',
-        searchTimeout: null
+        searchTimeout: null,
+        filterCantado: false,
+        filterPlayback: false
     };
 
     // ===== INITIALIZATION =====
@@ -54,6 +56,7 @@ $(document).ready(function () {
         setupNavbar();
         setupSearch();
         setupFilters();
+        setupAudioFilters();
         setupAlphabetFilter();
         setupViewToggle();
         setupScrollTop();
@@ -216,13 +219,33 @@ $(document).ready(function () {
 
     // ===== FILTERS =====
     function setupFilters() {
-        $('.filter-btn').on('click', function () {
+        $('.filter-btn[data-filter]').on('click', function () {
             var filter = $(this).data('filter');
             state.currentFilter = filter;
-            $('.filter-btn').removeClass('active');
+            $('.filter-btn[data-filter]').removeClass('active');
             $(this).addClass('active');
             filterHymns();
         });
+    }
+
+    // ===== AUDIO FILTERS (toggle) =====
+    function setupAudioFilters() {
+        $('.filter-toggle').on('click', function (e) {
+            e.stopPropagation();
+            var type = $(this).data('audio');
+            if (type === 'cantado') {
+                state.filterCantado = !state.filterCantado;
+            } else if (type === 'playback') {
+                state.filterPlayback = !state.filterPlayback;
+            }
+            $(this).toggleClass('active');
+            filterHymns();
+        });
+    }
+
+    // Helper: retorna o link de áudio salvo para um hino
+    function getAudioLink(numero, type) {
+        return localStorage.getItem('harpa_audio_' + type + '_' + numero) || '';
     }
 
     // ===== ALPHABET FILTER =====
@@ -295,6 +318,14 @@ $(document).ready(function () {
                 if (recents.indexOf(hymn.numero) === -1) return false;
             }
 
+            // Filter by audio links (AND logic when both active)
+            if (state.filterCantado) {
+                if (!getAudioLink(hymn.numero, 'cantado')) return false;
+            }
+            if (state.filterPlayback) {
+                if (!getAudioLink(hymn.numero, 'playback')) return false;
+            }
+
             // Filter by letter
             if (state.currentLetter !== 'all') {
                 if (hymn.titulo.charAt(0).toUpperCase() !== state.currentLetter) return false;
@@ -347,9 +378,20 @@ $(document).ready(function () {
         var favorites = getFavorites();
 
         if (state.filteredHymns.length === 0) {
+            // Mensagem dinâmica baseada nos filtros de áudio
+            var noResultsMsg = 'Nenhum hino encontrado';
+            if (state.filterCantado && state.filterPlayback) {
+                noResultsMsg = 'Não encontrei nenhum resultado para hinos com links Cantado e Playback';
+            } else if (state.filterCantado) {
+                noResultsMsg = 'Não encontrei nenhum resultado para hinos com link Cantado';
+            } else if (state.filterPlayback) {
+                noResultsMsg = 'Não encontrei nenhum resultado para hinos com link Playback';
+            }
             $noResults.removeClass('d-none');
+            $noResults.find('h3').text(noResultsMsg);
+            $noResults.find('p').text(state.filterCantado || state.filterPlayback ? 'Adicione links de áudio nos hinos para que eles apareçam aqui.' : 'Tente buscar com outros termos');
             $loadMore.addClass('d-none');
-            $resultsCount.text('Nenhum hino encontrado');
+            $resultsCount.text(noResultsMsg);
             return;
         }
 

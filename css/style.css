@@ -1779,3 +1779,40 @@ body {
     transform: translateY(-2px);
     box-shadow: 0 5px 15px rgba(66, 133, 244, 0.3);
 }
+
+/* --- Audio Filter Toggle Buttons --- */
+.filter-toggle.active {
+    background: var(--accent-primary) !important;
+    color: #fff !important;
+    box-shadow: 0 0 12px rgba(108, 92, 231, 0.4);
+}
+
+/* --- Audio Link: has-link indicator on detail page --- */
+.action-btn.has-link {
+    position: relative;
+    border-color: var(--accent-gold);
+    color: var(--accent-gold);
+}
+
+.action-btn.has-link::after {
+    content: '';
+    position: absolute;
+    top: 6px;
+    right: 6px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--accent-gold);
+    box-shadow: 0 0 6px rgba(240, 192, 64, 0.6);
+}
+
+/* --- Audio Links Tab --- */
+.audio-links-content .import-card {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.audio-links-content .input-group .form-control:focus {
+    border-color: var(--accent-gold);
+    box-shadow: 0 0 0 0.2rem rgba(240, 192, 64, 0.15);
+}

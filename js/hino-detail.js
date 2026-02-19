@@ -69,6 +69,7 @@ $(document).ready(function () {
         renderHeader();
         renderLyrics();
         renderChords();
+        renderAudioLinks();
         renderNavigation();
         setupEventHandlers();
         setupAudioPlayer();
@@ -362,13 +363,31 @@ $(document).ready(function () {
             $('html, body').animate({ scrollTop: $('.content-tabs').offset().top - 70 }, 300);
         });
 
-        // Play buttons
+        // Play buttons - open external links
         $('#btnPlaySung').on('click', function () {
-            playAudio('cantado');
+            var link = localStorage.getItem('harpa_audio_cantado_' + currentHymn.numero);
+            if (link) {
+                window.open(link, '_blank');
+            } else {
+                // Switch to audio tab
+                var tabEl = document.getElementById('tab-audio');
+                var tab = new bootstrap.Tab(tabEl);
+                tab.show();
+                $('html, body').animate({ scrollTop: $('.content-tabs').offset().top - 70 }, 300);
+            }
         });
 
         $('#btnPlayBack').on('click', function () {
-            playAudio('playback');
+            var link = localStorage.getItem('harpa_audio_playback_' + currentHymn.numero);
+            if (link) {
+                window.open(link, '_blank');
+            } else {
+                // Switch to audio tab
+                var tabEl = document.getElementById('tab-audio');
+                var tab = new bootstrap.Tab(tabEl);
+                tab.show();
+                $('html, body').animate({ scrollTop: $('.content-tabs').offset().top - 70 }, 300);
+            }
         });
 
         // Font size controls
@@ -467,25 +486,29 @@ $(document).ready(function () {
     function playAudio(type) {
         audioType = type;
         var typeLabel = type === 'cantado' ? 'Cantado' : 'Playback';
+        var link = localStorage.getItem('harpa_audio_' + type + '_' + currentHymn.numero);
+
+        if (!link) {
+            // Switch to audio tab for the user to add a link
+            var tabEl = document.getElementById('tab-audio');
+            var tab = new bootstrap.Tab(tabEl);
+            tab.show();
+            return;
+        }
 
         // Show player bar
         $('#audioPlayerBar').addClass('active');
         $('#playerTitle').text(currentHymn.numero + '. ' + currentHymn.titulo);
         $('#playerType').text(typeLabel);
 
-        // Try to load audio file
-        // Audio files should be in: audio/cantado/001.mp3 or audio/playback/001.mp3
-        var audioPath = 'audio/' + type + '/' + padNumber(currentHymn.numero, 3) + '.mp3';
         var $audio = $('#audioElement')[0];
-
-        $audio.src = audioPath;
+        $audio.src = link;
         $audio.load();
 
         $audio.play().then(function () {
             isPlaying = true;
             $('#playerPlayPause i').removeClass('bi-play-fill').addClass('bi-pause-fill');
 
-            // Update button state
             if (type === 'cantado') {
                 $('#btnPlaySung').html('<i class="bi bi-pause-circle"></i><span>Pausar</span>');
             } else {
@@ -521,20 +544,98 @@ $(document).ready(function () {
     }
 
     function showAudioNotice() {
-        // Show a friendly notice that audio files need to be added
         var $playerBar = $('#audioPlayerBar');
         $playerBar.addClass('active');
         $('#playerTitle').text(currentHymn.titulo);
         $('#playerType').html(
             '<span style="color: var(--accent-gold)">' +
             '<i class="bi bi-info-circle me-1"></i>' +
-            'Adicione os arquivos MP3 na pasta audio/' + audioType + '/' +
+            'Não foi possível reproduzir o link. Verifique a URL informada.' +
             '</span>'
         );
 
         setTimeout(function () {
             $playerBar.removeClass('active');
         }, 4000);
+    }
+
+    // ===== RENDER AUDIO LINKS =====
+    function renderAudioLinks() {
+        var $container = $('#audioLinksContent');
+        if (!$container.length) return;
+        $container.empty();
+
+        var linkCantado = localStorage.getItem('harpa_audio_cantado_' + currentHymn.numero) || '';
+        var linkPlayback = localStorage.getItem('harpa_audio_playback_' + currentHymn.numero) || '';
+
+        // Update button styles based on link availability
+        if (linkCantado) {
+            $('#btnPlaySung').addClass('has-link').attr('title', 'Abrir link Cantado');
+        } else {
+            $('#btnPlaySung').removeClass('has-link').attr('title', 'Adicionar link Cantado');
+        }
+        if (linkPlayback) {
+            $('#btnPlayBack').addClass('has-link').attr('title', 'Abrir link Playback');
+        } else {
+            $('#btnPlayBack').removeClass('has-link').attr('title', 'Adicionar link Playback');
+        }
+
+        var html = '<div class="import-card fade-in">' +
+            '<div class="import-icon"><i class="bi bi-headphones"></i></div>' +
+            '<h3 class="import-title">Links de Áudio</h3>' +
+            '<p class="import-text">Informe os links para os áudios deste hino. Pode ser YouTube, Google Drive ou qualquer URL de áudio.</p>' +
+            '<div class="mb-4">' +
+            '  <label class="form-label small text-uppercase"><i class="bi bi-play-circle me-1"></i>Link Cantado</label>' +
+            '  <div class="input-group">' +
+            '    <input type="url" id="inputLinkCantado" class="form-control bg-dark border-secondary text-white" placeholder="https://..." value="' + escapeHtml(linkCantado) + '">' +
+            '    <button class="btn btn-outline-secondary" id="btnClearCantado" title="Limpar"><i class="bi bi-x-lg"></i></button>' +
+            '  </div>' +
+            (linkCantado ? '  <small class="text-success"><i class="bi bi-check-circle me-1"></i>Link salvo</small>' : '  <small class="text-muted">Nenhum link cadastrado</small>') +
+            '</div>' +
+            '<div class="mb-4">' +
+            '  <label class="form-label small text-uppercase"><i class="bi bi-music-note-beamed me-1"></i>Link Playback</label>' +
+            '  <div class="input-group">' +
+            '    <input type="url" id="inputLinkPlayback" class="form-control bg-dark border-secondary text-white" placeholder="https://..." value="' + escapeHtml(linkPlayback) + '">' +
+            '    <button class="btn btn-outline-secondary" id="btnClearPlayback" title="Limpar"><i class="bi bi-x-lg"></i></button>' +
+            '  </div>' +
+            (linkPlayback ? '  <small class="text-success"><i class="bi bi-check-circle me-1"></i>Link salvo</small>' : '  <small class="text-muted">Nenhum link cadastrado</small>') +
+            '</div>' +
+            '<div class="text-center">' +
+            '  <button class="btn btn-primary" id="btnSalvarLinks" style="background: var(--accent-gold); border: none; color: #000; font-weight: 600; padding: 10px 40px;">' +
+            '    <i class="bi bi-check-lg me-1"></i> Salvar Links' +
+            '  </button>' +
+            '</div>' +
+            '</div>';
+
+        $container.html(html);
+
+        // Event handlers
+        $('#btnSalvarLinks').on('click', function () {
+            var cantado = $('#inputLinkCantado').val().trim();
+            var playback = $('#inputLinkPlayback').val().trim();
+
+            if (cantado) {
+                localStorage.setItem('harpa_audio_cantado_' + currentHymn.numero, cantado);
+            } else {
+                localStorage.removeItem('harpa_audio_cantado_' + currentHymn.numero);
+            }
+            if (playback) {
+                localStorage.setItem('harpa_audio_playback_' + currentHymn.numero, playback);
+            } else {
+                localStorage.removeItem('harpa_audio_playback_' + currentHymn.numero);
+            }
+
+            alert('Links salvos com sucesso!');
+            renderAudioLinks(); // Refresh UI
+        });
+
+        $('#btnClearCantado').on('click', function () {
+            $('#inputLinkCantado').val('');
+        });
+
+        $('#btnClearPlayback').on('click', function () {
+            $('#inputLinkPlayback').val('');
+        });
     }
 
     // ===== SCROLL TOP =====

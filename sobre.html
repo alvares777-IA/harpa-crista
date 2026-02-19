@@ -96,8 +96,8 @@
                             <li><i class="bi bi-check-circle text-success me-2"></i>Sistema de favoritos</li>
                             <li><i class="bi bi-check-circle text-success me-2"></i>Hinos recentes</li>
                             <li><i class="bi bi-check-circle text-success me-2"></i>Controle de tamanho da fonte</li>
-                            <li><i class="bi bi-check-circle text-success me-2"></i>Reprodução de áudio cantado e
-                                playback</li>
+                            <li><i class="bi bi-check-circle text-success me-2"></i>Links externos para áudio cantado
+                                e playback</li>
                             <li><i class="bi bi-check-circle text-success me-2"></i>Design responsivo para todos os
                                 dispositivos</li>
                         </ul>
@@ -106,24 +106,32 @@
                     <div class="about-card fade-in">
                         <h3><i class="bi bi-music-note-beamed me-2"></i>Áudio dos Hinos</h3>
                         <p>
-                            Para adicionar os áudios dos hinos, organize os arquivos MP3 nas seguintes pastas:
+                            Cada hino pode ter links para áudios <strong>Cantado</strong> e <strong>Playback</strong>.
+                            Na página de cada hino, você pode adicionar ou editar esses links livremente —
+                            basta informar a URL de qualquer áudio acessível na internet (YouTube, Google Drive, etc).
                         </p>
-                        <div
-                            style="background: rgba(0,0,0,0.3); padding: 16px; border-radius: 8px; font-family: monospace; color: var(--accent-gold); margin: 12px 0;">
-                            <div>📁 audio/</div>
-                            <div>&nbsp;&nbsp;📁 cantado/</div>
-                            <div>&nbsp;&nbsp;&nbsp;&nbsp;🎵 001.mp3</div>
-                            <div>&nbsp;&nbsp;&nbsp;&nbsp;🎵 002.mp3</div>
-                            <div>&nbsp;&nbsp;&nbsp;&nbsp;🎵 ... (até 640.mp3)</div>
-                            <div>&nbsp;&nbsp;📁 playback/</div>
-                            <div>&nbsp;&nbsp;&nbsp;&nbsp;🎵 001.mp3</div>
-                            <div>&nbsp;&nbsp;&nbsp;&nbsp;🎵 002.mp3</div>
-                            <div>&nbsp;&nbsp;&nbsp;&nbsp;🎵 ... (até 640.mp3)</div>
-                        </div>
                         <p>
-                            Os nomes dos arquivos devem corresponder ao número do hino com 3 dígitos
-                            (ex: 001.mp3, 039.mp3, 545.mp3).
+                            Os links são salvos no seu dispositivo e incluídos nos backups.
                         </p>
+
+                        <h5 class="mt-4 mb-3" style="font-size: 0.9rem; color: var(--accent-gold);">
+                            <i class="bi bi-funnel me-2"></i>Filtros de Áudio na Tela Inicial
+                        </h5>
+                        <p>
+                            Na tela inicial, os botões <strong>Cantado</strong> e <strong>Playback</strong>
+                            funcionam como filtros. Ao ativá-los:
+                        </p>
+                        <ul style="color: var(--text-secondary); line-height: 2;">
+                            <li><i class="bi bi-check-circle text-success me-2"></i>Se apenas <strong>Cantado</strong>
+                                estiver ativo, serão listados somente os hinos que possuem link de áudio cantado.</li>
+                            <li><i class="bi bi-check-circle text-success me-2"></i>Se apenas <strong>Playback</strong>
+                                estiver ativo, serão listados somente os hinos que possuem link de playback.</li>
+                            <li><i class="bi bi-check-circle text-success me-2"></i>Se <strong>ambos</strong> estiverem
+                                ativos, serão listados apenas os hinos que possuem <strong>os dois links</strong>
+                                preenchidos (condição AND).</li>
+                            <li><i class="bi bi-info-circle text-info me-2"></i>Se nenhum hino for encontrado, uma
+                                mensagem informará de acordo com os filtros selecionados.</li>
+                        </ul>
                     </div>
 
                     <div class="about-card fade-in">
