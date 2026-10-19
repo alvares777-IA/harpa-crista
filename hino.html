@@ -225,6 +225,30 @@
         </div>
     </footer>
 
+    <!-- Modal: diagrama do acorde no violão -->
+    <div class="modal fade" id="modalAcorde" tabindex="-1" aria-labelledby="modalAcordeLabel" aria-hidden="true">
+        <div class="modal-dialog modal-sm modal-dialog-centered">
+            <div class="modal-content bg-dark text-white border-secondary">
+                <div class="modal-header border-secondary py-2">
+                    <h5 class="modal-title chord-modal-title" id="modalAcordeLabel"></h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal"
+                        aria-label="Fechar"></button>
+                </div>
+                <div class="modal-body text-center">
+                    <div id="acordeDiagrama"></div>
+                    <p class="chord-modal-notes" id="acordeNotas"></p>
+                    <div class="chord-modal-nav" id="acordeNav">
+                        <button type="button" class="btn btn-sm btn-outline-secondary" id="acordeAnterior"
+                            aria-label="Posição anterior"><i class="bi bi-chevron-left"></i></button>
+                        <span id="acordeContador"></span>
+                        <button type="button" class="btn btn-sm btn-outline-secondary" id="acordeProximo"
+                            aria-label="Próxima posição"><i class="bi bi-chevron-right"></i></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Hidden Audio Element -->
     <audio id="audioElement" preload="none"></audio>
 
@@ -236,6 +260,8 @@
     <script src="js/hinos-data.js"></script>
     <!-- App Core (for shared functions) -->
     <script src="js/app.js"></script>
+    <!-- Diagramas de acordes -->
+    <script src="js/acordes-violao.js"></script>
     <!-- Hymn Detail JS -->
     <script src="js/hino-detail.js"></script>
 </body>

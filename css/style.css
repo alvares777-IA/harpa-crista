@@ -1202,6 +1202,63 @@ body {
     font-weight: 700;
 }
 
+/* Acorde clicável na cifra */
+#chordsContent .chord-highlight {
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background var(--transition-fast);
+}
+
+#chordsContent .chord-highlight:hover,
+#chordsContent .chord-highlight:focus-visible {
+    background: rgba(240, 192, 64, 0.15);
+    outline: none;
+}
+
+/* ---- Modal do acorde (diagrama no violão) ---- */
+#modalAcorde .modal-content {
+    background: var(--bg-secondary) !important;
+    border-radius: var(--radius-lg);
+}
+
+.chord-modal-title {
+    color: var(--accent-gold);
+    font-weight: 800;
+    font-size: 1.5rem;
+}
+
+.chord-modal-notes {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    margin: 4px 0 12px;
+}
+
+.chord-modal-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+}
+
+.cv-diagrama {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    font-family: var(--font-primary);
+}
+
+.cv-traste { stroke: var(--text-muted); stroke-width: 1.5; }
+.cv-nut { stroke: var(--text-primary); stroke-width: 5; }
+.cv-corda { stroke: var(--text-secondary); stroke-width: 1.5; }
+.cv-dedo,
+.cv-pestana { fill: var(--accent-gold); }
+.cv-solta { fill: none; stroke: var(--text-primary); stroke-width: 1.8; }
+.cv-marca { fill: var(--text-muted); font-size: 16px; font-weight: 700; }
+.cv-casa { fill: var(--text-secondary); font-size: 13px; font-weight: 600; }
+.cv-nome-corda { fill: var(--text-muted); font-size: 10px; }
+
 /* ---- Audio Player ---- */
 .audio-player-bar {
     position: fixed;

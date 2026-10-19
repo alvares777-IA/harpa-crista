@@ -12,6 +12,8 @@ $(document).ready(function () {
     var isPlaying = false;
     var currentFontSize = 16;
     var audioType = '';
+    var chordVoicings = [];
+    var chordVoicingIndex = 0;
 
     // ===== INITIALIZATION =====
     function init() {
@@ -224,7 +226,8 @@ $(document).ready(function () {
                     if (match) parts[index + 1] = nextText.substring(word.length);
 
                     var $chordRow = $('<div class="chord-row"></div>');
-                    $chordRow.append('<span class="chord-highlight">' + escapeHtml(chord) + '</span>');
+                    $chordRow.append('<span class="chord-highlight" role="button" tabindex="0" title="Ver no violão">' +
+                        escapeHtml(chord) + '</span>');
                     $chordRow.append('<span class="word-with-chord">' + (word.trim() === '' ? '&nbsp;' : escapeHtml(word)) + '</span>');
                     $lineSpan.append($chordRow);
                 } else if (part && (part.trim().length > 0 || part === ' ')) {
@@ -364,6 +367,19 @@ $(document).ready(function () {
             tab.show();
             $('html, body').animate({ scrollTop: $('.content-tabs').offset().top - 70 }, 300);
         });
+
+        // Acorde na cifra - abre o diagrama no violão
+        $('#chordsContent').on('click', '.chord-highlight', function () {
+            showChordDiagram($(this).text().trim());
+        });
+        $('#chordsContent').on('keydown', '.chord-highlight', function (e) {
+            if (e.key === 'Enter' || e.key === ' ') {
+                e.preventDefault();
+                showChordDiagram($(this).text().trim());
+            }
+        });
+        $('#acordeAnterior').on('click', function () { moveChordVoicing(-1); });
+        $('#acordeProximo').on('click', function () { moveChordVoicing(1); });
 
         // Play buttons - open external links
         $('#btnPlaySung').on('click', function () {
@@ -638,6 +654,37 @@ $(document).ready(function () {
         $('#btnClearPlayback').on('click', function () {
             $('#inputLinkPlayback').val('');
         });
+    }
+
+    // ===== CHORD DIAGRAM =====
+    function showChordDiagram(chord) {
+        chordVoicings = AcordesViolao.posicoes(chord);
+        chordVoicingIndex = 0;
+
+        $('#modalAcordeLabel').text(chord);
+        var notes = AcordesViolao.notas(chord);
+        $('#acordeNotas').text(notes.length ? notes.join(' · ') : '');
+
+        if (!chordVoicings.length) {
+            $('#acordeDiagrama').html('<p class="text-muted my-4">Diagrama não disponível para este acorde.</p>');
+            $('#acordeNav').hide();
+        } else {
+            renderChordVoicing();
+        }
+
+        bootstrap.Modal.getOrCreateInstance(document.getElementById('modalAcorde')).show();
+    }
+
+    function moveChordVoicing(step) {
+        if (!chordVoicings.length) return;
+        chordVoicingIndex = (chordVoicingIndex + step + chordVoicings.length) % chordVoicings.length;
+        renderChordVoicing();
+    }
+
+    function renderChordVoicing() {
+        $('#acordeDiagrama').html(AcordesViolao.desenhar(chordVoicings[chordVoicingIndex]));
+        $('#acordeContador').text('Posição ' + (chordVoicingIndex + 1) + ' de ' + chordVoicings.length);
+        $('#acordeNav').toggle(chordVoicings.length > 1);
     }
 
     // ===== SCROLL TOP =====
