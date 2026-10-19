@@ -1,0 +1,15 @@
+{
+  "name": "extrair-harpa",
+  "private": true,
+  "description": "Extrai as cifras da Harpa Cristã Cifrada (PDF) para js/hinos-data.js",
+  "type": "module",
+  "scripts": {
+    "extrair": "node 1-extrair-linhas.js",
+    "montar": "node 2-montar-cifras.js",
+    "aplicar": "node 3-aplicar-no-app.js",
+    "tudo": "npm run extrair && npm run montar && npm run aplicar"
+  },
+  "dependencies": {
+    "pdf-parse": "^2.4.5"
+  }
+}

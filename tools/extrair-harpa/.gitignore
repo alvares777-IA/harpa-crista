@@ -1,0 +1,5 @@
+# PDF de origem (126 MB, material da CPAD) — fica só local
+*.pdf
+node_modules/
+# Arquivos intermediários gerados pelas etapas 1 e 2
+saida/

@@ -179,9 +179,11 @@ $(document).ready(function () {
         var localCifra = localStorage.getItem('harpa_cifra_' + currentHymn.numero);
         var chordsText = localCifra || currentHymn.cifras;
 
+        // Compara com os textos de aviso exatos: a letra de alguns hinos
+        // contém "Em breve" (ex.: 409) e não pode ser tratada como ausente.
         var isMissing = !chordsText ||
-            chordsText.indexOf('Em breve') > -1 ||
-            chordsText.indexOf('disponíveis') > -1;
+            chordsText.indexOf('as cifras deste hino estarão disponíveis') > -1 ||
+            chordsText.indexOf('Cifra disponível em breve') > -1;
 
         if (isMissing && !localCifra) {
             renderEditor($container, 'cifra');

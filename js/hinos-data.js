@@ -296,7 +296,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 11 - Ó Cristão, Eia Avante\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nÓ Cris[F]tãos, eia a[Bb]vante, eia a[F]vante!\nPor Je[C]sus e Sua Igreja a lu[F]tar;\nCo'a Pa[Bb]lavra, essa espada fla[F]mante,\nVa[Gm]mos, vamos, ir[C]mãos, pele[F]jar.\n\nCoro:\nÓ Cris[Bb]tão, sempre avante na [F]lida!\nO Evan[C]gelho com fé a pre[F]gar;\nAo tra[Bb]balho o Senhor nos con[F]vida,\nVamos, [Gm]pois, com Je[C]sus pele[F]jar.\n\nÓ cris[F]tãos, eia a[Bb]vante, eia a[F]vante!\nBoa [C]nova aos perdidos le[F]var;\nPor ci[Bb]dades e vilas a[F]diante,\nSalva[Gm]ção vamos [C]nós procla[F]mar.\n\nÓ Cris[F]tãos, eia a[Bb]vante, eia a[F]vante!\nPois a au[C]rora já vemos [F]raiar,\nDesse [Bb]dia em que Cristo, triun[F]fante.\nNeste [Gm]mundo há de [C]sempre rei[F]nar.\n\nÓ cris[F]tãos, eia a[Bb]vante, eia a[F]vante!\nVexi[C]lários da fé vamos [F]ser;\nE a van[Bb]guarda do exército bri[F]lhante\nQue glo[Gm]riosa vi[C]tória há de [F]ter!\n\nÓ cris[F]tãos, eia a[Bb]vante, eia a[F]vante!\nCom co[C]ragem, sem nada te[F]mer;\nCom Je[Bb]sus, divinal coman[F]dante,\nNós ha[Gm]vemos, ir[C]mãos, de ven[F]cer."
     },
     {
         "numero": 12,
@@ -329,7 +329,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 12 - Vem Já, Pecador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nPeca[Bb]dor, vê a luz, brilha para ti,\nLá da cruz do Salva[F]dor,\nOnde a [Bb]vida deu;\ne do lado [Eb]Seu Corre [Bb/F]sangue [F]reden[Bb]tor.\n\nCoro:\nÓ vem [F]Já, como es[Bb]tás!\nVem ago[F]ra, ao Salvador;\nSua vida deu, tudo padeceu;\nNão de[F]mores! Vem Já, peca[Bb]dor!\n\nNa es[Bb]curidão do Jardim orou Tão aflito meu Senhor;\nQuando [Bb]pranteou, sangue Seu [Eb]suou,\nNo [Bb/F]Getsê[F]mane em [Bb]dor!\n\nVê o [Bb]Salvador co'as feridas mãos\nTe chamando, ó peca[F]dor!\nVida e[Bb]terna têm os que nEle [Eb]crêem\nE [Bb/F]aceitam o [F]Seu a[Bb]mor.\n\nVem a [Bb]Cristo, vem confessando,\njá, Teus pecados, e te ouvi[F]rá,\nE no [Bb]coração sentirás o per[Eb]dão,\nPois Je[Bb/F]sus te [F]perdoa[Bb]rá."
     },
     {
         "numero": 13,
@@ -363,7 +363,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 13 - Jesus Comprou-me\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n[C]Jesus comprou-me [Am]do mun[D]do a[G]qui,\n[G]Palavras [Dm]doces [G]são para [C]mim;\n[C]Jesus com[F]prou-me e vai me [G]dar\n[C]Eterno [G]gozo, celeste [C]lar.\n[C]Jesus com[F]prou-me e vai me [G]dar\n[C]Eterno [G]gozo, celeste [C]lar.\n\n[C]Jesus comprou-me [Am]da escra[D]vi[G]dão,\n[G]A paz [Dm]eu gozo [G]por Seu per[C]dão;\n[C]Sou despre[F]zado um pouco a[G]qui,\n[C]Mas eu es[G]pero gozar a[C]li.\n[C]Sou despre[F]zado um pouco a[G]qui,\n[C]Mas eu es[G]pero gozar a[C]li.\n\n[C]Jesus comprou-[Am]me, e eu [D]fi[G]quei\nP'[G]ra sempre [Dm]livre [G]da dura [C]lei!\n[C]Agora es[F]pero até Ele [G]vir,\nP'[C]ra que me [G]leve ao Seu por[C]vir.\n[C]Agora es[F]pero até Ele [G]vir,\nP'[C]ra que me [G]leve ao Seu por[C]vir.\n\nÓ vinde, ami[Am]gos, e jun[D]to a [G]nós,\n[G]Ouvi de[Dm]pressa [G]do céu a [C]voz;\n- [C]O que de[F]mora não chega[G]rá,\n[C]Porque se [G]perde e morre[C]rá.\n- [C]O que demo[F]ra não chega[G]rá,\n[C]Porque se [G]perde e morre[C]rá.\n\n[C]Jesus comprou-[Am]me e me [D]da[G]rá\n[G]Lugar às [Dm]mesas, [G]que esperam [C]lá.\n[C]Ouve o con[F]vite, ó peca[G]dor,\n[C]Pois Jesus [G]Cristo é o Salva[C]dor.\n[C]Ouve o con[F]vite, ó peca[G]dor,\n[C]Pois Jesus [G]Cristo é o Salva[C]dor."
     },
     {
         "numero": 14,
@@ -396,7 +396,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 14 - Gozo Em Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Oh! que gozo sinto [Db]em Je[Ab]sus,\n[Eb]Que por mim expi[Ab]rou na cruz;\n[Ab]A minh’alma deu di[Db]vina [Ab]luz,\n[Eb]Glória a meu Je[Ab]sus!\n\nCoro:\n[Ab]Quanta glória velo [Eb]em Jesus,\n[Eb]Gozo santo e bendi[Ab]ta luz,\n[Bb]Cujos raios bri[Eb]lham lá na cruz,\nNa [Bb]qual ,morreu Je[Eb]sus.\n[Ab]Sempre avante quero [Db]eu an[Ab]dar,\n[Eb]Té no céu che[Ab]gar.\n\n[Ab]Livre do pecado [Db]já es[Ab]tou,\n[Eb]Do abismo [Ab]me retirou,\n[Ab]Sobre a rocha eterna [Db]me fir[Ab]mou;\n[Eb]Glória a meu Je[Ab]sus!\n\n[Ab]Divinal louvor Je[Db]sus me [Ab]deu;\n[Eb]Harmonia que [Ab]vem do céu;\n[Ab]Cantarei, alegre, [Db]Cristo é [Ab]meu,\n[Eb]Glória a meu Je[Ab]sus!\n\n[Ab]Esta nova hei de [Db]procla[Ab]mar;\n[Eb]Muitos hão de as[Ab]sim chegar,\n[Ab]E a glória rece[Db]ber, sem [Ab]par,\n[Eb]Glória a meu Je[Ab]sus!"
     },
     {
         "numero": 15,
@@ -457,7 +457,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 16 - Despertar Para o Trabalho\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\n[D]Posso tendo as mãos vazias,\n[A]Com Jesus eu me encon[D]trar?\n[D]Nada fiz, e vão-se os dias,\n[G]Que Lhe [A]posso apresen[D]tar?\n\nCoro:\nPosso tendo as mãos vazias,\n[Bm]Com Jesus, eu me [E]encon[A]trar?\nQuantas almas poderia\n[G]Ao Se[G/A]nhor a[A]presen[D]tar?\n\n[D]Não mais temerei a morte;\n[A]Vencerei por salvo es[D]tar;\n[D]Qual será a minha sorte,\n[G]Se no [A]céu vazio en[D]trar?\n\n[D]No celeste lar entrando,\n[A]Como irei ao Salva[D]dor?\n[D]Quantas almas irei levando,\n[G]Para [A]meu fiel Se[D]nhor?\n\n[D]Do pecado, preso em elos,\n[A]Passei anos em vão la[D]bor;\n[D]Quem me dera reavê-los,\nP’[G]ra ser[A]vir ao meu Se[D]nhor.\n\n[D]Despertemos, Já é dia;\n[A]Trabalhemos, com fer[D]vor;\n[D]E levemos, com alegria,\n[G]Muitas [A]almas ao Se[D]nhor."
     },
     {
         "numero": 17,
@@ -486,7 +486,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 17 - Pensando Em Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nNas [F]horas que passo pensando em Jesus\nAs [F]trevas desfaço, buscando a [C]luz;\nQue [F]horas de vida, tão [G]doces p'ra [C]mim,\nJe[Bb]sus me con[F]vida, que eu [C]suba p'ra [F]Si!\n\nDa [F]vida voando, sem nenhum temor;\nA[F]cima buscando do véu o a[C]mor;\nQue [F]doce ventura, que as[G]pecto fe[C]liz,\nQue [Bb]nova na[F]tura minh'[C]alma ben[F]diz.\n\nDo [F]mar o bramido, da brisa o langor\nDa [F]ave o carpido de doce a[C]mor,\nMe [F]falam sentidos a[G]cordes dos [C]céus,\nMe [Bb]trazem aos ou[F]vidos os [C]hinos de [F]Deus!\n\nMinh’[F]alma ansiosa já quer percorrer\nA [F]senda gloriosa que eu hei de [C]ver;\nQue [F]coisa tão bela; oh! [G]que luz sem [C]véu!\nJe[Bb]sus me re[F]vela mis[C]térios do [F]céu."
     },
     {
         "numero": 18,
@@ -514,7 +514,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 18 - Grata Nova\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nGra[Dm]ta nova [A]Deus pro[Dm]clama\nHoje, ao [Dm]mundo peca[Gm]dor!\nDo[Gm]ce nova reve[A]lada,\nLá na [Dm]cruz do [A]Salva[Dm]dor;\nCego e [Dm]desviado, o homem,\nDos ca[Dm]minhos do Se[Gm]nhor,\nDesco[Gm]nhece e descon[A]fia\nDeste [Dm]Deus, o [A]Deus de a[Dm]mor.\n\nCoro:\nGrata [F]nova, [C]doce [F]nova,\nVem dos [F]lábios do Se[C]nhor;\nEscutai com alegria:\n“Deus é [F]luz, Deus [C]é a[F]mor”.\n\nCom o[Dm]fertas [A]e obras [Dm]mortas,\nSacri[Dm]fícios sem va[Gm]lor,\nEnga[Gm]nado, pensa o [A]homem,\nPropi[Dm]ciar Seu [A]Cria[Dm]dor,\n[Dm]Meios de salvar-se inventa;\nClama, [Dm]roga em seu fa[Gm]vor,\nA su[Gm]postos mediado[A]res,\nDespre[Dm]zando o [A]Deus de a[Dm]mor.\n\nLuz di[Dm]vina, [A]resplan[Dm]dece!\nMostra ao [Dm]triste peca[Gm]dor,\nQue na [Gm]cruz estão u[A]nidos\nA jus[Dm]tiça [A]e o a[Dm]mor.\nFala aos [Dm]corações feridos,\nMostra-[Dm]te, Deus Salva[Gm]dor;\nE sem [Gm]fim, proclama[A]remos:\n“Deus é [Dm]luz! Deus [A]é a[Dm]mor!”"
     },
     {
         "numero": 19,
@@ -553,7 +553,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 19 - O Convite De Cristo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Eis, a [F]voz de Cristo [Bb]clama,\nSobre o [Eb]revoltoso [D]mar\n[G]Desta [Cm]vida [F]peri[Bb]gosa:\n\"Vinde em [Eb]Mim vos [F]abri[Bb]gar\".\n\n[Bb]Quando outro[F]ra em Gali[Bb]léia,\nEssa [Eb]doce voz [D]soou,\n[G]Logo, o [Cm]cora[F]ção ou[Bb]vinte,\nTudo, [Eb]pronto, a[F]bando[Bb]nou.\n\n[Bb]Sobre as [F]vozes sedu[Bb]toras,\nDe mun[Eb]danas atra[D]ções,\n[G]Clama a [Cm]meiga [F]voz de [Bb]Cristo:\n\"Dai-me [Eb]vossos [F]cora[Bb]ções!”\n\n[Bb]Quer no [F]meio dos pra[Bb]zeres,\nQuer no [Eb]dia da afli[D]ção,\n[G]Inda [Cm]clama, [F]pa[Bb]ciente:\n“Amas-[Eb]Me [F]tu, ó cris[Bb]tão?”\n\n[Bb]Na ve[F]reda estreita e [Bb]santa,\nJá pi[Eb]sada por Je[D]sus,\n[G]A se[Cm]gui-Lo, E[F]le te [Bb]chama:\n“Vem, cris[Eb]tão, an[F]dar na [Bb]luz!”\n\n[Bb]Dessa [F]cruz angus[Bb]tiosa,\nOnde [Eb]brilha Seu a[D]mor,\n[G]Ouve a [Cm]voz que [F]te con[Bb]vida,\nOuve e [Eb]segue, [F]peca[Bb]dor!"
     },
     {
         "numero": 20,
@@ -586,7 +586,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 20 - Olhai o Cordeiro De Deus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Livres de pecado vós quereis ficar?\nO[F]lhai p'ra o Cordeiro de [C]Deus!\n[F]Ele morto foi na cruz, p'ra vos sal[Dm]var;\nO[C]lhai p'ra o Cordeiro de [F]Deus!\n\nCoro:\nO[F]lhai p’ra o Cordeiro de [C]Deus,\nO[C]lhai p’ra o cordeiro de [F]Deus,\n[F]Porque só Ele vos [Bb]pode salvar.\nO[C]lhai p’ra o Cordeiro de [F]Deus!\n\n[F]Se estais tentados, em hesitação,\nO[F]lhai p'ra o Cordeiro de [C]Deus!\n[F]Ele encherá o vosso co[Dm]ração.\nO[C]lhai p'ra o Cordeiro de [F]Deus!\n\n[F]Se estais cansados e sem mais vigor,\nO[F]lhai pra o Cordeiro de [C]Deus!\n[F]Ele vos quer dar Seu divina! a[Dm]mor,\nO[C]lhai p’ra o Cordeiro de [F]Deus!\n\n[F]Se na vossa senda sombras vêm cair,\nO[F]lhai pra o Cordeiro de [C]Deus!\n[F]Ele, com Sua graça, tudo quer su[Dm]prir.\nO[C]lhai p’ra o Cordeiro de [F]Deus!"
     },
     {
         "numero": 21,
@@ -615,7 +615,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 21 - Gloriosa Aurora\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nA [D]glo[Bm]riosa au[G]rora [D]vem,\nDo [G]dia em [D]que [E]lá em Be[A]lém\nNas[G]ceu de [Em]Deus, o [G]Fi[A][D]lho;\nQue be[D]lo [Bm]dia [G]e de [D]luz,\nNo [G]qual p'ra [D]nós des[E]ceu Je[A]sus,\nDo [G]céu mos[Em]trando o [G]tri[A][D]lho.\n[A]Quan[D]tos [F#m]san[D]tos hoje [G]lem[A]bram,\n[D]E re[G]lem[A]bram [D]a his[A]tó[D]ria\n[Bm]De Je[G]sus, o [Em]Rei da [A]Gló[D]ria!\n\nNas[D]ceu Je[Bm]sus [G]lá em Be[D]lém,\nTra[G]zendo-[D]nos o [E]sumo [A]bem\nDo [G]céu - [Em]a li[G]ber[A]da[D]de;\nNos [D]conce[Bm]deu per[G]feita [D]paz,\nCon[G]sola[D]ção que [E]satis[A]faz\nPor [G]toda a e[Em]ter[G]ni[A]da[D]de!\n[A]Co[D]mo [F#m]fo[D]mos desgar[G]ra[A]dos,\n[D]Des[G]via[A]dos [D]e per[A]di[D]dos!\n[Bm]Hoje [G]somos [Em]redi[A]mi[D]dos!\n\nCo[D]nosco [Bm]Cristo ha[G]bita[D]rá\nCom [G]Seu po[D]der nos [E]vela[A]rá,\nNos [G]dando [Em]livra[G][A]men[D]to;\nE [D]sempre [Bm]há de [G]nos [D]guiar\nPois [G]Sua [D]graça [E]vai nos [A]dar\nEm [G]todo o [Em]sofri[G][A]men[D]to,\nS[A]cu[D]ta: Lu[D]ta sempre [G]for[A]te.\n[D]Té a [G]mor[A]te, [D]pois a[A]ju[D]da\n[Bm]Tens em [G]Cris[Em]to, que não [A]mu[D]da!\n\nJe[D]sus des[Bm]ceu p'ra [G]nos sal[D]var,\nO [G]sol da [D]graça [E]vem bri[A]lhar,\nA[G]le[Em]gres ju[G]bi[A]le[D]mos;\nJe[D]sus, [Bm]ó nosso [G]bom Pas[D]tor,\nVem [G]nos [D]guiar com [E]Teu a[A]mor;\nA[G]li nós [Em]per[G]ten[A]ce[D]mos;\n[A]Al[D]mas [F#m]sal[D]vas, per[G]doa[A]das,\n[D]Liber[G]ta[A]das [D]hoje [A]o[D]ram,\n[Bm]Reve[G]ren[Em]tes Te a[A]do[D]ram!"
     },
     {
         "numero": 22,
@@ -648,7 +648,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 22 - Ceia Do Senhor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Em nossa alma nós [Bbm]tomamos.\n[Eb]O Teu corpo, ó Je[Ab]sus!\n[Ab]Como oferta volun[Eb]tária,\n[Bb]Que nos deste lá na [Eb]cruz.\n\nCoro:\nComo pão do céu desceste,\n[Eb]Vamos a Ti rece[Ab]ber;\n[Ab]Pois [Eb/G]unidos [Fm]ao [Ab/C]Teu cor[Db]po,\n[Eb]Nós queremos, sim, vi[Ab]ver.\n\n[Ab]Em figura, o [Bbm]Teu sangue\n[Eb]Nós bebemos, ó Se[Ab]nhor,\n[Ab]Pois só nEle há vir[Eb]tude\n[Bb]P'ra salvar o peca[Eb]dor.\n\n[Ab]Vem, concede à Tua I[Bbm]greja\n[Eb]O perdão do Teu a[Ab]mor,\n[Ab]Para que nos dois em[Eb]blemas,\n[Bb]Contemplemos-Te, Se[Eb]nhor.\n\nÓ Senhor, por Teu [Bbm]Espírito\n[Eb]Em nós vem já resi[Ab]dir,\n[Ab]Pra Teu corpo e Teu [Eb]sangue\n[Bb]Nós podermos discer[Eb]nir."
     },
     {
         "numero": 23,
@@ -686,7 +686,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 23 - Glória a Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\n[D]Cantam os santos [E]com fer[A]vor,\n[D]A quem por [G]mim [A]foi imo[D]lado,\nNa cruz, sofrendo o meu pecado.\n\nCoro:\n[D]Glória a Je[G]sus!\n[E]Glória a Je[A]sus!\n[D]Glória a Je[G]sus, o [A]Salva[D]dor!\n\n[D]Deus é o Justi[E]fica[A]dor\n[D]De quem crer [G]no Seu [A]En[D]viado\nSim, no Seu Filho mui amado.\n\n[D]Do Seu Pai rece[E]beu lou[A]vor,\n[D]E com po[G]der foi [A]exal[D]tado,\nPor isso é glorifica[D]do.\n\nDo \"sangue puri[E]fica[A]dor\",\n[D]Eu quero [G]sempre [A]ter lem[D]brança,\nE nEle ter mais confiança.\n\n[D]Por nós, na cruz, so[E]freu a [A]dor,\n[D]Com sangue [G]fomos [A]nós com[D]prados,\nE do pecado resgatados."
     },
     {
         "numero": 24,
@@ -719,7 +719,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 24 - Poder Pentecostal\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nNo [G]Pentecostes sucedeu\nO [C]que Jesus fa[G]lou,\nPois [D]de repente [G]lá do céu\nUm [A]vento asso[D]prou,\nQue [G]veio a casa [C]toda en[G]cher\nE os [G]corações com [D]mui po[G]der.\n\nCoro:\nPo[G]der, poder, po[C]der pentecos[G]tal.\nÓ [G]vem nos Infla[D]mar,\nTam[G]bém nos renovar;\nÓ [G]vem, sim, vem, ó [C]chama divi[G]nal,\nTeus [G/D]servos [D]bati[G]zar.\n\nEm cada um veio repousar\nA preciosa luz,\nO [D]Preceptor que [G]veio ficar\nCo'os [A]servos de Je[D]sus;\nFoi o [G]fogo santo [C]do Se[G]nhor.\nQue [G]os encheu com [D]Seu vi[G]gor.\n\nE [G]começaram a falar, Repletos de poder,\nEm [D]outras línguas [G]exaltar\nAo [A]que mandou tra[D]zer\nOs [G]ricos dons do [C]Seu a[G]mor\nE [G]o poder con[D]sola[G]dor.\n\nE quem deseja receber\nEsta água salutar.\nQue é [D]prometi[G]da ao que crer\nE hu[A]milde espe[D]rar,\nPer[G]severando em [C]ora[G]ção,\nTe[G]rá poder seu [D]cora[G]ção."
     },
     {
         "numero": 25,
@@ -777,7 +777,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 26 - A Formosa Jerusálem\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nQuão glorio[C]so, cris[G]tão, é pen[C]sares\nNa ci[C]dade que não tem i[G]gual,\nOnde os mu[G]ros são de puro jaspe.\nE as ruas de ouro e cris[C]tal;\nPensa [C]como se[G]rá glo[C]rioso\nVer-se [C]a triunfal multi[F]dão.\nQue cantando, aguarda a chegada\nDos que vencem a tribulação.\n\nPensa [C]como se[G]rá glo[C]rioso\nVer o [C]rio da vida e [G]luz,\nCujas [G]margens juncadas de lírios,\nSão a glória de nosso Je[C]sus;\nHave[C]rá lá per[G]pétua au[C]rora,\nPois [C]Deus mesmo a alumia[F]rá;\nE o Cor[F]deiro, com Sua es[C]posa,\nNoite e [G]dia resplandece[C]rá.\n\nPensa [C]na celes[G]tial melo[C]dia\nQue a [C]terra encherá, de Beu[G]lá;\nE das [G]harpas a doce harmonia\nAo passar o Jordão se ouvi[C]rá.\nMesmo em [C]dores que [G]levam à [C]morte,\nSê cons[C]tante, não voltes a[F]trás,\nTua he[F]rança, tua eterna [C]sorte,\nÉ Je[G]sus, o Fiel, o Ve[C]raz.\n\nSe é glo[C]rioso pen[G]sar nas gran[C]dezas,\nNos [C]prazeres que acodem a[G]qui,\nQual se[G]rá desfrutar as riquezas\nQue esperam os salvos, a[C]li?\nOs en[C]cantos do [G]mundo não [C]podem\nOfus[C]car essa glória da[F]lém;\nNão al[F]mejas viver, ó a[C]migo,\nNessa [G]formosa Jerusa[C]lém?"
     },
     {
         "numero": 27,
@@ -806,7 +806,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 27 - Amor Que Vence\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nA[Ab]mor, que por amor des[Eb]ceste!\nA[Eb]mor, que por amor morreste!\nAh! [Ab]quanta [C]dor não pade[Fm]ceste,\nMeu [Bb]coração p'ra con[Ab/Eb]quistar,\nE [Ab/Eb]meu a[Eb]mor ga[Ab]nhar!\n\nA[Ab]mor, que com amor se[Eb]guias!\nA [Eb]mim, que sem amor Tu vias!\nOh! [Ab]quanto a[C]mor por mim sen[Fm]tias,\nMeu [Bb]Salvador, meu bom [Ab]Jesus,\nSofren[Ab/Eb]do so[Eb]bre a [Ab]cruz!\n\nA[Ab]mor, que tudo me per[Eb]doas!\nA[Eb]mor, que até mesmo abençoas!\nUm [Ab]réu de [C]quem Te afei[Fm]çoas!\nPor [Bb]Ti vencido, ó Salva[Ab/Eb]dor,\nEis-me aos [Ab/Eb]Teus [Eb]pés, Se[Ab]nhor!\n\nA[Ab]mor, que nunca, nunca [Eb]mudas,\nQue [Eb]nos Teus braços me seguras,\nCer[Ab]cando-[C]me de mil ven[Fm]turas!\nA[Bb]ceita agora, Sal[Ab/Eb]vador.\nO meu hu[Ab/Eb]mil[Eb]de a[Ab]mor!"
     },
     {
         "numero": 28,
@@ -834,7 +834,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 28 - Deus Vai Te Guiar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Db\n\n[Db]Andas carregado de tris[Ab]teza e dor,\n[Ab]Sem nenhum auxílio, nem um Salva[Db]dor?\n[Db]Ouve a mensagem de teu bom Je[Gb]sus,\n[Gb]E tem mais co[Db]ra[Ab]gem, leva a tua [Db]cruz.\n\nCoro:\n[Db]Deus vai te guiar [Gb]com Sua [Ab]forte [Db]mão;\n[Ab]Podes descansar na tribula[Db]ção;\n[Db]Seja tua vida livre de pe[Gb]sar;\n[Gb]Em tristeza e [Db]lida [Ab]Deus vai te [Db]guiar.\n\n[Db]Toda carga por ti, Ele [Ab]quer levar; Alma dolorida, ouve o Seu falar;\nSenda espinhosa Ele já andou,\nMorte afrontosa por ti suportou.\n\nSe estás tentado, Deus te ajudará, Sempre [Gb]confiando, te libertará;\nAs pisadas segue do teu Salvador, Crendo em Deus, pros[Db]se[Ab]gue, seja como [Db]for."
     },
     {
         "numero": 29,
@@ -883,7 +883,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 29 - O Precioso Sangue\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Eb]Oh! que [Ab]pre[Eb]cioso [Ab]sangue,\n[Ab]Meu Se[Bb]nhor ver[Eb]teu,\n[Eb]Quando, [Ab]para [Cm]resga[Fm]tar-nos,\n[Eb]Pade[Ab]ceu!\n\n[Eb]Oh! que [Ab]pre[Eb]cioso [Ab]sangue,\n[Ab]Sangue [Bb]de Je[Eb]sus,\n[Eb]Que por [Ab]nós, [Cm]foi der[Fm]ramado\n[Eb]Sobre a [Ab]cruz!\n\n[Eb]Oh! que [Ab]pre[Eb]cioso [Ab]sangue,\n[Ab]San[Bb]gue remi[Eb]dor!\n[Eb]Sim, [Ab]com es[Cm]te nos re[Fm]miste,\n[Eb]Reden[Ab]tor!\n\n[Eb]Oh! que [Ab]pre[Eb]cioso [Ab]sangue,\n[Ab]Sangue ex[Bb]pia[Eb]dor!\n[Eb]Eis o [Ab]que da [Cm]pena ![Fm]ivra\n[Eb]O malfei[Ab]tor!\n\n[Eb]Oh! que [Ab]pre[Eb]cioso [Ab]sangue,\n[Ab]Puri[Bb]fica[Eb]dor!\n[Eb]Que de [Ab]toda a [Cm]man[Fm]cha lava\n[Eb]O peca[Ab]dor!\n\n[Eb]Oh! que [Ab]pre[Eb]cioso [Ab]sangue,\n[Ab]Fala-[Bb]nos de [Eb]paz;\n[Eb]Tudo [Ab]quan[Cm]to a lei e[Fm]xige,\n[Eb]Satis[Ab]faz!\n\n[Eb]Oh! que [Ab]pre[Eb]cioso [Ab]sangue.\n[Ab]Por E[Bb]le entra[Eb]rei\n[Eb]Sem re[Ab][Cm]ceio, na [Fm]presença\n[Eb]Do meu [Ab]Rei!\n\n[Eb]Oh! que [Ab]pre[Eb]cioso [Ab]sangue,\n[Ab]Do bom [Bb]Salva[Eb]dor!\n[Eb]Hoje, a [Ab]todos [Cm]mani[Fm]festa\n[Eb]Seu a[Ab]mor!"
     },
     {
         "numero": 30,
@@ -916,7 +916,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 30 - Não Sou Meu\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nNão sou [G]meu! Por Cristo [D]salvo,\nQue por [D]mim morreu na [G]cruz,\nEu con[G]fesso alegre[D]mente,\nQue per[D]tenço ao bom Je[G]sus.\n\nCoro:\nNão sou [D]meu! Oh! Não sou [G]meu!\nBom Je[A]sus, sou todo [D]Teu!\nHoje [G]mesmo e para [C]sempre,\nBom Je[D]sus, sou todo [G]Teu!\n\nNão sou [G]meu! Por Ele re[D]mido,\nQuando o [D]sangue derra[G]mou;\nNa Sua [G]graça con[D]fiando,\nQue minh’[D]alma resga[G]tou.\n\nJamais [G]meu! A Ti con[D]fio\nTudo [D]quanto chamo [G]meu;\nTudo [G]nas Tuas mãos en[D]trego;\nMeu Se[D]nhor, sou todo [G]Teu!\n\nJamais [G]meu! Ó santi[D]fica\nTudo [D]quanto sou, Se[G]nhor!\nDa vai[G]dade e da so[D]berba,\nVem li[D]vrar-me, Salva[G]dor."
     },
     {
         "numero": 31,
@@ -949,7 +949,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 31 - Glória ao Meu Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nPor [D]mim sofreu o [G]Salva[D]dor,\n[D]Glória! [A]Glória ao meu Je[D]sus!\nLou[D]vai, comigo, ao [G]Reden[D]tor!\n[D]Glória! [A]Glória ao meu Je[D]sus!\n\nCoro:\nJe[D]sus! Je[A]sus! Ó [G]Salva[D]dor;\nÉ do[D]ce o nome [A]do Se[D]nhor;\nAbrasa -me com santo amor;\n[D]Glória! [A]Glória ao meu Se[D]nhor.\n\nC'oa [D]meus pecados [G]carre[D]gou,\n[D]Glória! [A]Glória ao meu Je[D]sus!\nE [D]sobre a cruz me [G]resga[D]tou.\n[D]Glória! [A]Glória ao meu Je[D]sus!\n\nEu [D]sei que per[G]doado es[D]tou,\n[D]Glória! [A]Glória ao meu Je[D]sus!\nE, [D]com certeza, ao [G]céu eu [D]vou!\n[D]Glória! [A]Glória ao meu Je[D]sus!\n\nE, [D]quando a guerra a[G]qui fin[D]dar,\n[D]Glória! [A]Glória ao meu Je[D]sus!\nNo [D]céu, melhor, eu [G]vou can[D]tar,\n[D]Glória! [A]Glória ao meu Je[D]sus!"
     },
     {
         "numero": 32,
@@ -987,7 +987,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 32 - Meu Cristo! Meu Cristo!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Quem do [C]céu por [D]mim des[Em]ceu,\n[C]Tudo em meu lu[G]gar so[D]freu,\n[G]E por [C]mim na [G/B]cruz mor[C]reu?\nFoi [G]Cris[C]to! Foi [D]Cris[G]to!\n\nCoro:\nOs [Bm]meus pecados [D]ex[G]piou:\nDe [D]toda a pena me li[G]vrou!\nDa [G]maldi[C]ção me resga[G]tou,\nMeu [D]Cristo! Meu Cris[G]to!\n\nQuem me trouxe, qual pastor,\nSeu cordeiro com amor?\n[G]Quem quis [C]ser meu [G/B]Salva[C]dor?\nFoi [G]Cris[C]to! Foi [D]Cris[G]to!\n\n[G]Quem com [C]branda [D]compai[Em]xão,\n[C]Derreteu meu [G]cora[D]ção?\n[G]Deu-me [C]plena [G/B]salva[C]ção?\nFoi [G]Cris[C]to! Foi [D]Cris[G]to!\n\n[G]Quem diz: “[C]Não te [D]deixa[Em]rei,\n[C]Nem te desam[G]para[D]rei,\n[G]Sempre [C]te so[G/B]corre[C]rei?”\nÉ [G]Cris[C]to! E [D]Cris[G]to!\n\nQuem é digno de louvor?\nQuem merece o meu amor?\nÉ Je[C]sus, [G/B]meu Salva[C]dor,\nMeu [D]Cristo! Meu Cris[G]to!"
     },
     {
         "numero": 33,
@@ -1021,7 +1021,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 33 - Com Tua Mão Segura\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Com [Db/Ab]Tua mão, se[Ab]gura bem a [Eb]minha,\n[Eb]Pois eu tão fraco [Bb]sou, ó Salva[Eb]dor!\n[Ab]Que não me [Db/Ab]atrevo a [Ab]dar nem um só [Eb]passo\n[Ab/C]Sem Teu am[Db]paro, [Eb]meu Jesus Se[Ab]nhor!\n\n[Ab]Com [Db]Tua [Ab]mão, se[Ab]gura bem a [Eb]minha,\n[Eb]E mais e mais u[Bb]nido a Ti, Je[Eb]sus.\nÓ tra[Db/Ab]ze-me, que [Ab]nunca me des[Eb]vie\n[Ab/C]De Ti, Se[Db]nhor, a [Eb]minha vida e [Ab]luz!\n\n[Ab]Com [Db/Ab]Tua mão, se[Ab]gura bem a [Eb]minha,\n[Eb]E, pelo mundo, a[Bb]legre segui[Eb]rei:\n[Ab]Mesmo onde [Db/Ab]as sombras [Ab]caem mais es[Eb]curas\n[Ab/C]Teu rosto [Db]vendo, [Eb]nada teme[Ab]rei.\n\n[Ab]E, se [Db/Ab]chegar à [Ab]beira desse [Eb]rio,\n[Eb]Que Tu por mim qui[Bb]seste atraves[Eb]sar,\n[Ab]Com [Db/Ab]Tua mão se[Ab]gura bem a [Eb]mi[Ab/C]nha,\nE sobre a [Db]morte eu [Eb]hei de triun[Ab]far.\n\n[Ab]Quando [Db/Ab]voltares [Ab]esses céus rom[Eb]pendo,\n[Eb]segura bem a [Bb]minha mão, Se[Eb]nhor,\n[Ab]E, meu [Db/Ab]Jesus, ó [Ab]leva-me con[Eb]ti[Ab/C]go,\nPara onde eu [Db]goze [Eb]Teu eterno a[Ab]mor.\nAutor: F.C Fanny Crosby"
     },
     {
         "numero": 34,
@@ -1045,7 +1045,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 34 - Milícia De Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nMi[Eb/Bb]lhares de mi[Bb]lhares em [F]refulgente [Bb]luz!\nEis [C]os guerrei[A/C#]ros san[D/F#]tos, mi[F/C]lícia de Je[F]sus!\nComple[F]ta, sim, com[D]pleta sua [Cm]longa [Bb]luta a[F]qui,\nCom [F]Cristo, [Bb]seu Se[Gm]nhora Rei, [Bb/F]vão descansar a[Bb]li;\n\n[Eb/Bb]Que doces sinfo[Bb]nias en[F]cham a terra e o [Bb]céu!\nQue [C]coros [A/C#]d’ale[D/F#]luias rom[F/C]pem além do [F]véu!\nE [F]que chegou o [D]dia, o [Cm]dia [Bb]triun[F]fal,\nE [F]Cristo [Bb]reina[Gm]rá, enfim, [Bb/F]em glória divi[Bb]na!.\n\n[Eb/Bb]Então, não há mais [Bb]choro, nem [F]há mais tenta[Bb]ção;\nAs [C]dores, as [A/C#]triste[D/F#]zas p’[F/C]ra sempre fugi[F]rão,\nE [F]os remidos [D]todos ve[Cm]rão seu [Bb]Salva[F]dor;\nE [F]transfor[Bb]mados, [Gm]todos, [Bb/F]serão como o Se[Bb]nhor."
     },
     {
         "numero": 35,
@@ -1078,7 +1078,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 35 - O Grande Amor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nO [G]grande a[C]mor de meu Je[G]sus\nPor [G]mim morrendo so[A]bre a [D]cruz,\nDa [G]perdição, pra me sal[G][G]var;\nQuem [G/D]pode[D]rá con[G]tar?\n\nCoro:\nQuem [G]pode o Seu amor con[C]tar?\nQuem [G]pode o Seu amor con[D]tar?\nO [G]grande amor do Salva[G/B]dor,\nQuem [G/D]poderá con[G]tar?\n\nO [G]cálice [C]que Jesus be[G]beu,\nA [G]maldição que [A]pade[D]ceu,\nTu[G]do por mim, p'ra me sal[G][G/B]var,\nQuem [G/D]pode[D]rá con[G]tar?\n\nA [G]zombaria [C]tão [G]cruel,\nA [G]cruz sangrenta, o a[A]margo [D]fel,\nQue E[G]le sofreu pra me sal[G][G/B]var;\nQuem [G/D]pode[D]rá con[G]tar?\n\nIn[G]compa[C]rável Salva[G]dor!\nQuão [G]inefável [A]Teu a[D]mor!\nQuão [G]impossível de son[G][G]dar!\nI[G/D]menso [D]e sem [G]par!"
     },
     {
         "numero": 36,
@@ -1107,7 +1107,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 36 - O Exilado\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\n[D]Da linda pátria estou bem [G]longe;\n[D]Cansado es[A]tou;\n[D]Eu tenho de Jesus sau[G]dada,\nOh, quando [A]é que eu [D]vou?\n[A]Passarinhos, be[D]las flores,\n[G]Querem m'encan[D]tar;\n[D]São vãos terrestres esplen[G]dores,\n[D/A]Mas contem[A]plo o meu [D]lar.\n\n[D]Jesus me deu a Sua pro[G]messa;\n[D]Me vem bus[A]car;\n[D]Meu coração está com [G]pressa,\n[D/A]Eu quero [A]já [D]voar.\n[A]Meus pecados [D]foram muitos,\n[G]Mui culpado [D]sou;\n[D]Porém, Seu sangue põe-me [G]limpo;\n[Db]Eu para [A]pátria [D]vou.\n\n[D]Qual filho de seu lar sau[G]doso,\n[D]Eu quero [A]ir;\n[D]Qual passarinho para o [G]ninho,\n[D/A]Pra os braços [A]Seus fu[D]gir;\nÉ fiel - Sua [D]vinda é certa,\n[G]Quando... Eu não [D]sei.\n[D]Mas Ele manda estar a[G]lerta;\n[D/A]Do exílio [A]volta[D]rei.\n\n[D]Sua vinda aguardo eu can[G]tando;\n[D]Meu lar no [A]céu;\n[D]Seus passos hei de ouvir [G]soando\n[D/A]Além do es[A]curo [D]véu.\n[A]Passarinhos, be[D]las flores,\n[G]Querem m'encan[D]tar;\n[D]São vãos terrestres esplen[G]dores,\n[D/A]Mas contem[A]plo o meu [D]lar."
     },
     {
         "numero": 37,
@@ -1136,7 +1136,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 37 - Cristo Pra Mim\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Oh! que descanso em Jesus encontrei!\n[Ab]Cristo p'ra [Eb]mim! Cristo p'ra [Ab]mim!\n[Ab]Oh! que tesouros infindos achei!\n[Ab]Cristo p'ra [Eb]mim! Cristo p'ra [Ab]mim!\n'S[Eb]colham os outros o mundo pra [Ab]si.\n[Eb]Busquem riquezas, delicias a[Ab]qui;\n[Ab]Eu acolherei, ó Jesus, sempre a Ti!\n[Ab]Cristo p'ra [Eb]mim! Cristo p'ra [Ab]mim!\n\n[Ab]Quer na aflição, na doença ou na dor:\n[Ab]Cristo p’ra [Eb]mim! Cristo p'ra [Ab]mim!\n[Ab]Quer na saúde, na força ou vigor;\n[Ab]Cristo p’ra [Eb]mim! Cristo p'ra [Ab]mim!\nSempre ao meu lado pra me socorrer,\nCom Seu amor, sim, e com Seu poder;\n[Ab]Em cada transe pronto a me valer;\n[Ab]Cristo p'ra [Eb]mim! Cristo p'ra [Ab]mim!\n\n[Ab]No dia amargo da perseguição:\n[Ab]Cristo p’ra [Eb]mim! Cristo p’ra [Ab]mim!\n[Ab]Nas duras provas e na tentação:\n[Ab]Cristo p’ra [Eb]mim! Cristo p’ra [Ab]mim!\n[Eb]Ele, o pecado e o mundo ven[Ab]ceu\n[Eb]Quando, por mim, no Calvário mor[Ab]reu;\n[Ab]E da vitória a certeza me deu;\n[Ab]Cristo p'[Eb]ra mim! Cristo p'ra [Ab]mim!\n\n[Ab]Quando no vale da morte eu entrar,\n[Ab]Cristo p'ra [Eb]mim! Cristo p'ra [Ab]mim!\nQuando perante meu Deus m’encontrar:\nCristo p'ra mim! Cristo p’ra mim!\nSó no Teu sangue confio, Senhor,\nSó no Teu sempre imutável amor!\n[Ab]Inda outra vez cantarei, Salvador:\n[Ab]Cristo p'ra [Eb]mim! Cristo p'ra [Ab]mim!"
     },
     {
         "numero": 38,
@@ -1164,7 +1164,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 38 - O Senhor é Rei\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\nProcla[A]mei a todo o mundo que o Senhor é Rei!\nProcla[E]mai! Proclamai!\nProcla[A]mei que suave e doce é Sua santa lei!\nProcla[E]mai! Procla[A]mai!\nProcla[D]mai como Ele se chama Salva[A]dor Jesus,\nCo[D]mo Ele por [E]nós mor[A]reu na ensangüen[D]ta[E]da [A]cruz,\nComo [D]Ele - o Cordeiro - sobre o [E]trono está\nO [D]Deus de toda [G]graça, que de [A]graça tudo [D]dá.\n\nCoro:\nProcla[A]ma! a todo o mundo\nque o Se[A]nhor é Rei!\nProcla[E]mai! Proclamai!\nProcla[A]ma! que suave e doce\né Sua [A]santa lei!\nProcla[E]mai! Procla[A]mai!\n\nProcla[A]mei que reina em graça nosso Salvador!\nProcla[E]mei! Proclamei!\nQue por cetro de Seu reino ele tem o amor!\nProclamei! Proclamei!\nA[D]nunciei aos tristes que Ele [A]vive lá;\nE e [D]todos [E]os can[A]sados que des[D]canso [E]Ele [A]dá;\nCon[D]tei aos pecadores que Ele [E]veio salvar,\nE a [D]todos os ca[G]tivos que Ele os [A]pode liber[D]tar.\n\nProcla[A]mei que Ele, do céu em breve descerá!\nProcla[E]mei! Proclamei!\nE com [A]todos os Seus santos aparecerá!\nProcla[E]mei! Procla[A]mei!\nQue, [D]sem demora, venham todos [A]se render\nE, [D]com a[E]mor, em [A]tudo e Cristo o[D]be[E]de[A]cer\nQue es[D]tejam todos prontos quando E[E]le voltar,\nE a[D]legres, naquele [G]dia, “Rei dos [A]reis”, o acla[D]mar"
     },
     {
         "numero": 39,
@@ -1226,7 +1226,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 40 - A Cidade Do Bom Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Que se diz dos [C]teus encan[F]tos,\nÓ ci[F]dade do [Bb]bom [C]Deus!\n[C]Que soberba te levantas\n[F/A]Entre as [Dm]glórias [G]desses [C]céus,\n[F]Desde o mundo [Bb]pre[C/E]para[F]da\n[C]Para [F/A]Cris[Bb]to [F/C]e pa[C]ra os [F]Seus.\n\n[F]São de jaspe a[C]damanti[F]no\n[Bb]Os teus mu[F][Bb]ros, ó [C]Sião!\n[C]São douradas essas ruas,\nQue os re[Dm]midos [G]pisa[C]rão!\n[F]De celeste [Bb]luz ba[C/E]nha[F]das,\n[C]Reful[F/A]gen[Bb]tes sem[F/C]pre [C]es[F]tão!\n\n[F]Pelo próprio [C]Deus funda[F]da\n[Bb]Sobre a [F]rocha [Bb]secu[C]lar\n[C]Quão seguras tuas portas!\n[F/A]Quem [Dm]as pode a[G]mea[C]çar?\n[F]Igualmente, [Bb]quão [C/E]segu[F]ro\n[C]Quem [F/A]por e[Bb]la [F/C]lá en[C][F]trar!\n\n[F]Quão felizes [C]são teus fi[F]lhos,\n[Bb]Vendo a [F]fa[Bb]ce do Se[C]nhor!\n[C]Nunca mais a fome sentem,\n[F/A]Nunca [Dm]sentem [G]mais a [C]dor,\n[F]Com os anjos [Bb]desfru[C/E]tan[F]do\n[C]Ple[F/A]no go[Bb]zo, [F/C]paz [C]e a[F]mor!\n\nO trono [C]do Cordei[F]ro,\n[Bb]Noite e [F]dia, [Bb]sem ces[C]sar\n[C]Corre o rio de água viva,\n[F/A]Pa[Dm]ra todos [G]sa[C]ciar!\n[F]Lá com Cristo, [Bb]vão [C/E]teus fi[F]lhos,\n[C]Satis[F/A]fei[Bb]tos [F/C]des[C]can[F]sar!\n\n[F]Se, por Teu a[C]mor infin[F]do,\n[Bb]De [F]Sião eu [Bb]filho [C]for,\n[C]Zombe o mundo e escarneça,\n[F/A]Nada im[Dm]porta, [G]Salva[C]dor,\n[F]Pois que do Teu [Bb]gozo e[C/E]ter[F]no\n[C]Mesmo a[F/A]qui [Bb]te[F/C]nho o [C]pe[F]nhor!"
     },
     {
         "numero": 41,
@@ -1255,7 +1255,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 41 - A Cristo Coroai\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nA [C]Cristo co[G]roai! Que [C]por nós encar[G]nou,\nE [C]Deus, [D]o [G]Santo [Am]Deus e [G]Pai, aos homens revelou.\nEis [C]Sua [Am]compai[G]xão! Eis [C]Sua [G]mansi[Dm]dão!\nQuem [C]vê a Cristo, [G]vê ao [C]Pai; [Am]sim, vê Seu [G]cora[C]ção.\n\nA [C]Cristo co[G]roai! De [C]tudo o Cria[G]dor,\nO [C]Fi[D]lho [G][Am]do eterno [G]Deus, do mundo, o Salvador, Je[C]sus E[Am]ma[G]nuel,\no [C]grande [G]Reden[Dm]tor!\nEm [C]busca dos per[G]didos, [C]vem o [Am]nosso [G]bom Pas[C]tor.\n\nA [C]Cristo co[G]roai! Que [C]sobre a cruz, ga[G]nhou\nPor [C][D]nós e[G]ter[Am]na reden[G]ção e para o céu voltou!\nE[C]le é o [Am]Rei dos [G]reis! O [C]Prínci[G]pe da [Dm]paz!\nJe[C]sus, da morte, o [G]vence[C]dor, que a [Am]Salva[G]ção nos [C]traz.\n\nA [C]Cristo co[G]roai! De [C]todos o Se[G]nhor,\nA [C][D]quem a [G]multi[Am]dão dos [G]céus aclama com fervor!\n[C]Eis o Cor[Am]deiro a[G]li, que [C]sobre o [G]trono es[Dm]tá!\nQue [C]vive e reina [G]lá por [C]nós, e [Am]cedo [G]volta[C]rá."
     },
     {
         "numero": 42,
@@ -1284,7 +1284,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 42 - Saudai Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nSau[Ab]dai o no[Db]me [Eb]de Je[Ab]sus!\nAr[Eb]canjos, vos pros[Ab]trai;\nAr[Db]canjos, [Eb]vos pros[Ab]trai;\nAo [Ab]Filho do [Db]e[Eb]terno [Ab]Deus,\nCom [Eb]glória, [Ab]glória,\nGlória, glória,\nCom glória, co[Ab]roai!\n\nÓ [Ab]escolhi[Db]da [Eb]gera[Ab]ção\nDo [Eb]bom eterno [Ab]Pai,\nDo [Db]bom e[Eb]terno [Ab]Pai;\nAo [Ab]grande autor [Db]da [Eb]salva[Ab]ção,\nCom glória, glória,\nGlória, glória,\nCom glória, coroai!\n\nÓ [Ab]perdoa[Db]dos, [Eb]cujo a[Ab]mor\nBem [Eb]triunfante [Ab]vai,\nBem [Db]triun[Eb]fante [Ab]vai,\nAo [Ab]Deus Varão, Con[Db][Eb]quista[Ab]dor,\nCom gló[Ab]ria, glória,\nGlória, glória,\nCom glória, coroai!\n\nÓ raças, tri[Db]bos [Eb]e na[Ab]ções,\nAo [Eb]Rei dos reis hon[Ab]rai!\nAo [Db]Rei dos [Eb]reis hon[Ab]rai!\nA [Ab]quem quebrou vos[Db][Eb]sos gri[Ab]lhões,\nCom glória, glória,\nGlória, glória,\nCom glória, coroai!"
     },
     {
         "numero": 43,
@@ -1317,7 +1317,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 43 - Doce Lar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nNa [Eb]pátria celeste, de [Bb]Deus o doce [Eb]lar,\nPre[Eb]para Jesus, para os [Fm]Seus, [Bb]um lu[Eb]gar,\nPois [Eb]longe do mal, do pe[Bb]cado e da [Eb]dor,\nCon[Eb]sigo p'ra sempre os [Fm]quer ter [Bb]seu Se[Eb]nhor.\n\nCoro:\n[Eb]Oh! [Bb]Doce, [Cm]doce [G]lar!\nA[Eb]li, com Jesus, vou para [Ab]sempre [Bb]descan[Eb]sar\n\nOh! [Eb]lar sacrossanto de [Bb]paz e de a[Eb]mor!\nA[Eb]li sobre o trono, [Fm]verei [Bb]meu Se[Eb]nhor,\nO [Eb]meigo Cordeiro, rei[Bb]nando em [Eb]luz,\nPor [Eb]todos louvado, ben[Fm]di[Bb]to Je[Eb]sus!\n\nQue [Eb]puras delícias se en[Bb]contram [Eb]em ti!\nQue [Eb]gozos supremos es[Fm]pe[Bb]ram a[Eb]li,\nA[Eb]queles a quem jun[Bb]tos Si Deus quer [Eb]ter,\nE [Eb]perpetuamente os [Fm]sa[Bb]tisfa[Eb]zer!\n\nNão [Eb]são seus prazeres que an[Bb]seio go[Eb]zar,\nMas, [Eb]sim, com Jesus para [Fm]sem[Bb]pre mo[Eb]rar!\nJa[Eb]mais desonrá-Lo, ja[Bb]mais ofen[Eb]der\nA [Eb]quem, p'ra ganhar-me, por [Fm]mim [Bb]quis mor[Eb]rer."
     },
     {
         "numero": 44,
@@ -1350,7 +1350,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 44 - Oh! Que Glória!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nMeu Se[G]nhor, que me salvaste,\n[Em]Teu, e [Am]Teu [D]somente, eu [G]sou;\nCom Teu [G]sangue me saraste;\n[Em]Glória, [A]glória a [D]Ti Te [G]dou.\n\nCoro:\nOh! Que [D]glória! Oh! Que [G]glória!\nGozo em [A]meu cora[D]ção!\nEu [G]confio em Jesus,\n[Em]E, crendo, [A]tenho [D]salva[G]ção.\nOh! Que [D]glória! Oh! Que [G]glória!\nGozo em [A]meu cora[D]ção!\nEu [G]confio em Jesus,\n[Em]E em Seu [A]sangue a[D]chei per[G]dão.\n\nPara ob[G]ter tão grande gozo,\n[Em]Muito e [Am]mui[D]to traba[G]lhei;\nMas de[G]balde todo esforço,\n[Em]Crendo [A]só é [D]que o a[G]chei.\n\nCon[G]fiando, confiando,\n[Em]Sempre [Am]e só, [D]Jesus, em [G]Ti,\nTeu po[G]der e Tua graça\n[Em]Podem [A]bem guar[D]dar-me a [G]mim.\n\nConsa[G]grado ao Teu serviço,\n[Em]Que[Am]ro eu [D]pra Ti vi[G]ver;\nDando [G]sempre o testemunho\n[Em]De Tua [A]graça e [D]Teu po[G]der."
     },
     {
         "numero": 45,
@@ -1393,7 +1393,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 45 - Redentor Onipotente\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Redentor onipotente,\n[C]Poderoso Salva[F]dor,\nAdvogado onisciente\nÉ Jesus, meu bom Senhor.\n\nCoro:\nÓ Amante da minh’alma,\n[Bb]Tu és tudo para [C]mim!\n[F]Tudo quanto eu careço\nA[C]cho, Jesus, só em [F]Ti.\n\n[F]Um abrigo sempre perto,\n[C]Para todo o peca[F]dor;\nUm refúgio sempre aberto,\nÉ Jesus. meu Salvador.\n\n[F]Água viva! pão da vida!\n[C]Doce sombra no ca[F]lor,\nQue ao descanso nos convida.\nÉ Jesus, meu Salvador!\n\n[F]Ó Cordeiro imaculado,\n[C]Que Seu sangue derra[F]mou,\n[F]Meus pecados expiando,\n[C]A minh'alma resga[F]tou.\n\n[F]Fundamento inabalável!\n[C]Rocha firme e secu[F]lar!\n[F]Infalível! Imutável!\n[C]Quem mo poderá ti[F]rar?\n\n[F]O caminho que, seguro,\n[C]Sempre para o céu con[F]duz,\n[F]Quem a Cristo pronto segue,\n[C]Quem tomar a sua [F]cruz."
     },
     {
         "numero": 46,
@@ -1426,7 +1426,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 46 - Um Pendão Real\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nUm pen[Bb]dão real vos entregou o Rei\nA [F]vós, soldados [Bb]Seus;\nCora[Bb]josos, pois, em tudo o defendei,\nMar[C]chando para os [F]céus.\n\nCoro:\nCom va[F]lor! Sem te[Bb]mor!\nPor [Eb]Cristo [Bb]prontos a so[F]frer!\nBem [Bb]alto erguei o [Eb]Seu pendão,\n[Bb/F]Firmes sempre, a[F]té mor[Bb]rer!\n\nEis for[Bb]mados já os densos batalhões\nDo [F]grande usurpa[Bb]dor!\nDecla[Bb]rei-vos, hoje, bravos campeões;\nA[C]vante sem te[F]mor.\n\nQuem re[Bb]ceio sente no seu coração,\nE [F]fraco se mos[Bb]trar,\nNão re[Bb]ceberá o eterno galardão,\nQue [C]Cristo tem pra [F]dar.\n\nPois se[Bb]jamos, todos, a Jesus leais,\nE a [F]Seu real pen[Bb]dão;\nOs que [Bb]na batalha sempre são fiéis,\nCom [C]Ele reina[F]rão."
     },
     {
         "numero": 47,
@@ -1455,7 +1455,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 47 - Rocha Eterna\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\n[D]Rocha eterna, [G]meu Je[D]sus,\n[D]Que, por [A]mim, na a[G]mar[A]ga [D]cruz,\n[D]Foste morto eu [G]meu lu[D]gar,\n[D]Morto para [E]me sal[A]var;\n[D]Em Ti quero [G]me escon[D]der,\n[D]Só Tu podes [D/A]me [A]va[D]ler.\n\nMi[D]nhas obras, [G]eu bem [D]sei,\n[D]Nada [A]valem [G]an[A]te [D]a lei;\n[D]Se eu chorasse [G]sem ces[D]sar.\n[D]Trabalhasse [E]sem can[A]sar,\n[D]Tudo inútil, [G]tudo em [D]vão!\n[D]Só em Ti há [D/A]sal[A]va[D]ção.\n\n[D]Nada trago a [G]Ti, Se[D]nhor!\n'S[D]pe[A]ro só em [G][A]Teu a[D]mor!\n[D]Todo indigno e i[G]mundo [D]sou,\n[D]Eis, sem Ti, per[E]dido es[A]tou!\n[D]No Teu sangue, ó [G]Salva[D]dor,\n[D]Lava um po[D/A]bre pe[A]ca[D]dor.\n\n[D]Quando a morte [G]me cha[D]mar,\n[D]E an[A]te Ti me a[G]pre[A]sen[D]tar,\n[D]Rocha eterna, [G]meu Je[D]sus,\n[D]Que por mim, na a[E]marga [A]cruz,\n[D]Foste morto em [G]meu lu[D]gar,\n[D]Quero em Ti só [D]me a[A]bri[D]gar."
     },
     {
         "numero": 48,
@@ -1488,7 +1488,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 48 - O Dia do Triunfo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nQuando [Ab]lá do céu descendo,\npara os [Db]Seus, Jesus vol[Ab]tar,\nE o cla[Ab]rim de Deus a todos procla[Eb]mar,\nQue che[Ab]gou o grande dia do [Db]triunfar do meu [Ab]Rei,\nEu, por [Ab]Sua imensa [Eb]graça, lá esta[Ab]rei.\n\nCoro:\nQuando en[Ab]fim, chegar o dia\nDo [Eb]triunfar do meu Rei,\nQuando en[Ab]fim, chegar o [Db]dia,\nPela [Bb/Eb]graça de [Eb]Jesus eu lá esta[Ab]rei!\n\nNesse [Ab]dia, quando os mortos\nhão de a [Db]voz de Cristo ou[Ab]vir,\nE dos [Ab]seus sepulcros hão de ressur[Eb]gir,\nOs re[Ab]midos reunidos, logo a[Db]clamarão seu [Ab]Rei,\nE, por [Ab]Sua imensa [Eb]graça, lá esta[Ab]rei.\n\nPelo [Ab]mundo, rejeitado foi,\nJe[Db]sus, meu Salva[Ab]dor.\nDespre[Ab]zaram, insultaram meu Se[Eb]nhor,\nMas, faus[Ab]toso, vem o dia\ndo [Db]triunfar do meu [Ab]Rei,\nE, por [Ab]Sua imensa [Eb]graça, lá esta[Ab]rei.\n\nEm mim mes[Ab]mo, nada tenho em que [Db]possa con[Ab]fiar,\nMas Je[Ab]sus morreu na cruz p'ra me sal[Eb]var;\nTão somente nEle espero, sim, e sempre esperarei.\nPois, por [Ab]Sua imensa [Eb]graça, lá esta[Ab]rei."
     },
     {
         "numero": 49,
@@ -1521,7 +1521,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 49 - Aleluia! Já Creio\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nDeus [G]tem prometido a salvação [D]dar.\nA [D]quem em Seu Filho Jesus con[G]fiar.\n\nCoro:\nAle[G]luia! Já creio em Cr!sto Jesus.\nE [Em]salvo já es[C]tou, pe[G/D]lo sangue da [G]cruz!\n\nFoi [G]tal Seu amor, que me substi[D]tuiu,\nE [D]sobre o Calvário, minh’alma re[G]miu!\n\nNão [G]posso jamais desse amor duvi[D]dar;\nNão [D]posso senão aos Seus pés me pros[G]trar.\n\nE, [G]quando, na glória, eu vir meu bom [D]Rei,\nCom [D]todos os santos ali can[G]tarei."
     },
     {
         "numero": 50,
@@ -1549,7 +1549,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 50 - Sempre Fiéis\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Sempre fiéis, sim, a [Eb]Ti, nós se[Ab]remos,\n[Db]Por Tua [Ab]graça, ó [Eb]Cristo, Senhor!\n[Ab]Sempre fiéis, sim, [Db/Ab]por Ti luta[Ab]remos.\n[Db]Sob Teu pen[Ab/Eb]dão, ó Je[Eb]sus, Salva[Ab]dor!\n\nCoro:\n[Bb]Sempre [Eb]fiéis, irmãos! Irmãos sejamos.\n[Db]Sempre [Ab/Eb]fiéis a [Eb]Cristo Je[Ab]sus.\n[Ab]Que até à morte, [Db/Ab]por nós prosse[Ab]guiu,\n[Db]E li[Ab/Eb]bertou-nos, mor[Eb]rendo na [Ab]cruz!\n\n[Ab]Por Ti viver, ó ben[Eb]dito Cor[Ab]deiro,\n[Db]Quem não de[Ab]seja - se [Eb]Te conhecer?\n[Ab]Quem, que se diga [Db/Ab]cristão verda[Ab]deiro,\n[Db]Pronto [Ab/Eb]não 'steja, por [Eb]Ti a so[Ab]frer?\n\n[Ab]Mas, Salvador, quão fra[Eb]quinhos nós [Ab]somos,\n[Db]Como po[Ab]demos dei[Eb]xar de cair,\n[Ab]Se por Ti mesmo [Db/Ab]guardados não [Ab]formos?\n[Db]Quem, té [Ab/Eb]à morte, Te [Eb]pode se[Ab]guir?"
     },
     {
         "numero": 51,
@@ -1578,7 +1578,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 51 - Adoração Reconhecida\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nÓ minh'[C]alma, [Dm]sem de[C/E]mora,\n[F]Ergue-[Bb]te para [C]en[F]toar,\n[F]Os lou[Dm]vores [G]do teu Cris[Am]to,\nE Seu [C]nome [G]cele[C]brar!\nP'[F]ra re[Bb]mir-te, [C]p'ra re[Dm]mir-te,\n[Gm]Sua [F/C]vida E[C]le quis [F]dar!\n\nMi[F]nha [C]condi[Dm]ção tão triste\nCo[F]nhe[Bb]ceu meu [C]Salva[F]dor;\n[F]Que dos [Dm]céus des[G]ceu à terra,\n[Am]Para [C]ser meu Re[G]den[C]tor!\n[F]Oh! Quão [Bb]grande! [C]Oh! Quão [Dm]grande!\nE o a[F/C]mor de [C]meu Se[F]nhor!\n\n[F]Condena[C]do, [Dm]justa[C/E]mente,\n[F]Que po[Bb]dia [C]eu fa[F]zer,\n[F]Dessa [Dm]pena p'[G]ra livrar-me,\n[Am]O per[C]dão p’ra [G]mere[C]cer?\n[F]O Seu [Bb]sangue, [C]o Seu [Dm]sangue,\n[Gm]Quis Je[F/C]sus por [C]mim ver[F]ter!\n\n[F]Com meus [C]crimes [Dm]carre[C/E]gado,\n[F]Lá na [Bb]cruz, em [C]meu lu[F]gar,\n[F]Foi Je[Dm]sus cru[G]cificado,\n[Am]A mi[C]nh'alma [G]pra sal[C]var;\n[F]Vinde [Bb]todos! [C]Vinde [Dm]todos,\n[Gm]Já co[F/C]migo, [C]O ado[F]rar!"
     },
     {
         "numero": 52,
@@ -1612,7 +1612,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 52 - Tudo Está Bem\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\n[D]Pelo a[G]mor de Deus bendi[D]to,\n[A]Vai tudo [D]bem!\n[D]Seu a[G]mor é infi[D]nito:\n[A]Tudo está [D]bem!\n[D]Esse a[A]mor nos [G]tem pro[D]vado.\n[D]Em [G/B]Seu Filho [A]muito [A/C#]amado,\n[G]Que, por nós, [D]foi imolado.\n[A]Sim, sim, ‘stá [D]bem!\n\n[D]Cristo, a[G]gora, o cetro em[D]punha:\n[A]Vai tudo [D]bem!\n[D]Quem mor[G]reu é quem go[D]verna:\n[A]Tudo está [D]bem!\n[D]Seu a[A]mor [G]é imu[D]tável,\n[D]Seu po[G/B]der i[A]naba[A/C#]lável,\n[G]Seu cuidado é [D]incansável,\n[A]Sim, sim, ‘stá [D]bem!\n\n[D]A fé [G]canta na tris[D]teza:\n[A]Vai tudo [D]bem!\n[D]Canta, [G]sim, e com fir[D]meza:\n[A]Tudo está [D]bem!\n[D]Pois se [A]Deus é [G]quem nos [D]guia,\n[D]Terna[G/B]mente [A]nos vi[C#]gia,\n[G]Com bondade, noi[D]te e dia.\n[A]Sim, sim, ‘stá [D]bem!\n\n[D]Por ca[G]minhos esca[D]brosos,\n[A]Vai tudo [D]bem!\n[D]Ou por [G]mares tormen[D]tosos,\n[A]Tudo está [D]bem!\n[D]A Je[A]sus tu[G]do obe[D]dece;\n[D]Sempre o [G/B]mesmo [A]perma[A/C#]nece!\n[G]Nem um só dos [D]Seus esquece!\n[A]Sim, sim, ‘stá [D]bem!\n\n[D]Quer na [G]vida, quer na [D]morte,\n[A]Vai tudo [D]bem!\n[D]Quão fe[G]liz é nossa [D]sorte!\n[A]Tudo está [D]bem!\n[D]Pelo [A]sangue [G]resga[D]tados,\n[D]E do [G/B]mundo [A]sepa[A/C#]rados.\n[G]Sempre por Je[D]sus guardados.\n[A]Sim, sim, ‘stá [D]bem!"
     },
     {
         "numero": 53,
@@ -1646,7 +1646,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 53 - A Esperança da Igreja\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nA[Eb]té que volte o [Ab]Salva[Eb]dor,\nCer[Eb]cando a [Bb]mesa [Eb]do Se[Bb]nhor,\nA [Eb]Ceia vimos [Ab]cele[Eb]brar,\nDe [Eb]Cristo, a [Ab]morte a[Bb]nun[Eb]ciar,\nE [Bb]com hu[Eb]milde devoção,\nRen[Ab]der a [Eb]Deus a[Fm]do[Bb]ra[Eb]ção.\n\nA[Eb]té que volte o [Ab]Salva[Eb]dor,\nA[Eb]qui mos[Bb]tremos [Eb]Seu a[Bb]mor;\nCom [Eb]viva fá e [Ab]grati[Eb]dão,\nPar[Eb]tici[Ab]pemos [Bb]deste [Eb]pão,\nO[Bb]be[Eb]dientes a Jesus,\nLem[Ab]brando as[Eb]sim a [Fm][Bb]Sua [Eb]cruz!\n\nA[Eb]té que volte o [Ab]Salva[Eb]dor,\nBe[Eb]bendo o [Bb]cálice [Eb]do Se[Bb]nhor,\nSeu [Eb]nome que[Ab]remos [Eb]bendizer,\nE [Eb]mais e [Ab]mais en[Bb]grande[Eb]cer,\nO [Bb]sangue [Eb]que Ele derramou,\nO [Ab]sangue [Eb]que nos [Fm]res[Bb]ga[Eb]tou!\n\nSe [Eb]duras são as [Ab]prova[Eb]ções,\nSe [Eb]fortes [Bb]as per[Eb]segui[Bb]ções,\nSe as [Eb]lutas fazem-[Ab]se sen[Eb]tir,\nE [Eb]custa-[Ab]nos as [Bb]resis[Eb]tir,\nNão [Bb]nos dei[Eb]xemos perturbar:\nSão [Ab]só a[Eb]té Je[Fm]sus [Bb]vol[Eb]tar!\n\n[Eb]Bem prontos [Ab]para O [Eb]receber,\nDe[Eb]vemos [Bb]sempre a[Eb]qui vi[Bb]ver;\nO [Eb]tempo foge, o [Ab]dia [Eb]vem,\nA [Eb]glória [Ab]espera[Bb]mos a[Eb]lém,\nPois [Bb]traba[Eb]lhemos, com fervor,\nA[Ab]té que [Eb]volte o [Fm]Sal[Bb]va[Eb]dor."
     },
     {
         "numero": 54,
@@ -1679,7 +1679,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 54 - Louvemos ao Redentor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nMinh’alma, [C]louva ao [F]Redentor\nJesus, teu [F]Rei, teu [C]Salvador,\nQue sobre a [C]cruz, em teu lu[F]gar,\nSeu sangue [C]deu p'ra [F]te [G]sal[C]var!\n\nCoro:\nSim, sobre a [C]cruz, em meu lu[Am]gar,\nJesus mor[D]reu p’ra me sal[G]var!\nSalvo e se[C]guro nEle es[F]tou,\nPois com Seu [C]sangue [F]me [G]li[C]vrou.\n\nOh! quão per[C]dido e [F]longe andei,\nLonge de [F]Deus e [C]Sua lei!\nCom terno e [C]paciente a[F]mor\nSeguiu-me [C]sempre, o [F]Sal[G]va[C]dor!\n\nBendito [C]dia, [F]quando, enfim,\nVi Cristo [F]sobre a [C]cruz, por mim!\nVencido [C]pelo Seu a[F]mor,\nRendi-me [C]logo ao [F]Sal[G]va[C]dor.\n\nVem, alma a[C]flita, [F]descansar;\nEis Cristo [F]pronto a [C]perdoar!\nConfia [C]nEle, de cora[F]ção,\nE teu se[C]rá o [F]gran [G]per[C]dão."
     },
     {
         "numero": 55,
@@ -1707,7 +1707,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 55 - Mais Perto da Tua Cruz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nMeu Se[Eb]nhor, sou Teu - Tua [Ab]voz ouvi\nA cha[Db]mar-me, com a[Ab]mor;\nMais, de [Eb]Ti, mais perto eu [Ab]quero estar,\nÓ ben[Db]dito [Eb]Salva[Ab]dor!\n\nCoro:\nMais [Ab]perto, [Db]perto da Tua [Ab]cruz\nQuero es[Db]tar, ó [Bbm]Salva[Eb]dor!\nMais [Ab]perto, perto, [Db]perto da Tua cruz\nLe[Ab/Eb]va-me, ó [Eb]meu Se[Ab]nhor!\n\nA seguir-Te só, me consagro eu,\nConstrangido pelo amor,\nE, a[Eb]legre, já me de[Ab]claro Teu,\nP’ra ser[Db]vir-Te a [Eb]Ti, Se[Ab]nhor.\n\nOh! Que [Eb]pura e santa de[Ab]licie é,\nAos Teus [Db]santos pés me a[Ab]char,\nE com [Eb]viva e reve[Ab]rente fé,\nCom meu [Db]Salva[Eb]dor fa[Ab]lar."
     },
     {
         "numero": 56,
@@ -1740,7 +1740,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 56 - Tudo em Cristo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Dantes, traba[Gm]lhava [C]sempre com te[F]mor,\n[F]Mas descanso, a[C]gora [G]em meu Salva[C]dor;\n[C]Dantes \"espe[F]rava\"; hoje, “bem o [Bb]sei”\n[Bb]Que estou salvo em Cristo, meu bendito [C]Rei.\n\nCoro:\n[F]Tudo! Tudo em [Gm]Cristo’\n[C]Que por mim mor[F]reu.\n[F]Tudo! Tudo em [F/A]Cristo!\n[Bb]Cristo é [C]todo [F]meu.\n\n[F]Dantes, de[Gm]sejava [C]bênção do Se[F]nhor;\n[F]Hoje, mais de [C]Cristo, [G]mais de Seu a[C]mor!\n[C]Não somente a [F]bênção, que tão pronto [Bb]dá,\n[Bb]Mas Ele mesmo a fonte em quem tudo es[C]tá.\n\n[F]Dantes, duvi[Gm]dava, [C]era sempre \"o [F]eu”:\n[F]Hoje, bem conhe[C]ço [G]Cristo, além do [C]véu,\n[C]Sacerdote e[F]terno, lá por mim en[Bb]trou;\n[Bb]NEle estou completo, nEle aceito [C]sou.\n\n[F]Dantes queria o [Gm]mundo; ho[C]je, é só Je[F]sus!\n[F]Dantes, eram [C]trevas: [G]hoje, é plena [C]luz;\n[C]Dantes, o re[F]ceio, hoje, a doce [Bb]paz,\n[Bb]Tudo a Cristo deixo, Ele me satis[C]faz."
     },
     {
         "numero": 57,
@@ -1768,7 +1768,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 57 - Vivifica-nos Senhor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nDeus pre[Ab]sente está co[Eb]nosco.\nPronto [Eb]todos a sal[Ab]var;\nSobre [Ab]as almas se[Eb]quiosas,\nQuer Sua [Bb]bênção derra[Eb]mar.\n\nCoro:\nManda, ó [Eb]manda as ricas [Ab]chuvas\nDa Tua [Ab]bênção, Salva[Eb]dor!\nImplo[Ab]ramos! Espe[Db]ramos!\nVi[Bbm]viflca-[Eb]nos, Se[Ab]nhor!\n\nEis [Ab]a Ti, Senhor, er[Eb]guemos\nNossos [Eb]pobres cora[Ab]ções;\nNa Tua [Ab]grande e rica [Eb]graça,\nOuve as [Bb]nossas peti[Eb]ções!\n\nTorna a [Ab]nossa fé mais [Eb]viva,\nMais ar[Eb]dente o nosso a[Ab]mor;\nEnche-[Ab]nos de santo [Eb]zelo,\nDe co[Bb]ragem e fer[Eb]vor."
     },
     {
         "numero": 58,
@@ -1796,7 +1796,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 58 - Não Temas\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n“[C]Não temas! Contigo, [F]Eu sempre esta[C]rei!\n[G]Oh! rica promessa do bondoso [C]Rei;\n[C]Qual estrela que brilha, [F]lá na escuri[C]dão,\n[G]Esta linda promessa brilha no meu cora[C]ção.\n\nCoro:\n[C]Comigo estar! [F]Comigo es[C]tar!\n[G]Sim, Jesus me promete,\nSempre comigo estar.\n[C]Comigo estar! [F]Comigo es[C]tar!\n[G]Sim, Jesus me promete,\nSempre comigo estar.\n\n[C]Os lírios mais alvos, [F]ei-los murchos es[C]tão!\n[G]Os dias mais belos, quão depressa [C]vão!\n[C]Cristo, o lírio dos va[F]les, nunca muda[C]rá:\n[G]Cristo, a luz celeste, sempre comigo esta[C]rá!\n\n[C]E, se pelas águas [F]tiver de pas[C]sar,\n[G]Seus braços eternos hão de me guar[C]dar;\n[C]Sim, mesmo no fogo. [F]que vem me pro[C]var,\n[G]Meu Senhor me promete sempre comigo es[C]tar!"
     },
     {
         "numero": 59,
@@ -1829,7 +1829,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 59 - Eu creio, Sim\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nTe [D]conhecer o a[G]mor sem fim,\nUm [D]pecador fui [G]eu;\nEm o [D]meu pensar não hou[G]ve lugar\nPara [D]Cristo e o [G]céu.\n\nCoro:\nEu [D]creio, sim, Já [G]creio, sim,\nJe[D]sus morreu por [G]mim;\nPelo [D]sangue Seu, que E[G]le verteu,\nLiber[D]tado fui por [G]fim.\n\nPois, [D]quando vi Je[G]sus por mim,\nSo[D]frendo sobre a [G]cruz,\nO meu [D]coração, sem he[G]sitação,\nRece[D]beu o amor e a [G]luz.\n\nCom [D]lágrimas, pe[G]di perdão,\nE [D]dor, também sen[G]ti;\nVeio, en[D]tão, Jesus, e a [G]mim falou:\n“Foi por [D]ti que Eu mor[G]ri”.\n\nEu [D]sei que Deus, no [G]Filho Seu,\nMe [D]vê perfeito e [G]são;\nNão há mais temor, só bendito amor,\nGozo no meu coração."
     },
     {
         "numero": 60,
@@ -1857,7 +1857,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 60 - Exultação do Crente\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nVin[F]de, cantai e entoei\nLou[Gm]vores a Jesus,\nQue, [C]para nossa salvação,\nMor[F]reu na amarga cruz,\nSeu [F]sangue derramou, [Gm]de tudo me lavou,\nMais [C]alvo do que a neve me tor[F]nou.\n\nCoro:\nO [F]sangue de Jesus me la[C]vou, me lavou!\nO [C]sangue de Jesus me la[F]vou, me lavou!\nA[F]legre cantarei lou[Gm]vores ao meu Rei,\nA [C]meu Senhor Jesus, que me sal[F]vou.\n\nVin[F]de conosco vos unir\nNa [Gm]guerra contra o mal;\nE [C]com nosso Salvador,\nEm [F]marcha triunfal,\nA [F]todos proclamar, Sua [Gm]graça e Seu poder.\nSeu [C]sangue derramou p’ra nos sal[F]var!\n\nO Ca[F]pitão da salvação\nÉ [Gm]Cristo, o Salvador;\nO [C]Rei dos reis, o Redentor.\nJe[F]sus, nosso Senhor;\nEle [F]tudo vencerá, [Gm]vitória nos dará;\nA [C]glória salvos, nos conduzi[F]rá."
     },
     {
         "numero": 61,
@@ -1890,7 +1890,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 61 - Deus Tomará Conta de Ti\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Em todo o [Eb]tempo, ir[Bb]mão, o Senhor\n[Bb]Tomará [F]conta [Bb]de ti.\n[Bb]Cristo, que [Eb]fala de [Bb]vida e amor,\n[F]Tomará conta de [Bb]ti.\n\nCoro:\n[Bb]Deus tomará conta de ti,\n[F]Deus tomará conta de ti,\n[Bb]NEle descansa, [Eb]sempre aqui,\n[Bb/F]Pois tem cuidado [F]Deus, de [Bb]ti.\n\n[Bb]Em toda [Eb]prova, ir[Bb]mão, o Senhor\n[Bb]Tomará [F]conta [Bb]de ti\n[Bb]Cristo, [Eb]que é teu a[Bb]mado Pastor,\n[F]Tomará conta [Bb]de ti.\n\n[Bb]Em toda [Eb]parte, ir[Bb]mão, o Senhor\n[Bb]Tomará [F]conta [Bb]de ti.\n[Bb]Cristo, que [Eb]nos dá po[Bb]der e valor,\n[F]Tomará conta [Bb]de ti.\n\n[Bb]Chegando a [Eb]morte, ir[Bb]mão, o Senhor\n[Bb]Tomará [F]conta [Bb]de ti.\n[Bb]Cristo se[Eb]rá teu [Bb]fiel condutor:\n[F]Tomará conta de [Bb]ti."
     },
     {
         "numero": 62,
@@ -1919,7 +1919,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 62 - Achei Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\nA[A]chei Jesus, a[E]chei Jesus,\nOh! [E]gozo incompa[A]rável!\nPois [A]salvo estou, já [D]tenho luz\nE [E]paz inexplicá[A]vel!\nOs [E]meus pecados [A]expiou\nO [D]sangue do Cor[E]deiro;\nAs mi[A]nhas trevas [D]dissipou;\nDe [E]Deus eu sou herdei[A]ro!\n\nJe[A]sus mui longe [E]me buscou,\nPer[E]dido me encon[A]trava!\nE [A]do pecado [D]me salvou,\nO [E]qual me atormenta[A]va,\nPer[E]tenço ao meu bom Re[A]dentor,\nAo [D]meu melhor a[E]migo,\nQue [A]me livrou de [D]toda a dor,\nE [E]sempre está comi[A]go.\n\nOh! [A]Que prazer, oh! [E]Que prazer!\nJe[E]sus é meu a[A]mado!\nDo [A]Salvador eu [D]quero ser\nUm [E]servo consagra[A]do;\nPois [E]já me deu a [A]salvação,\nQue [D]nos foi prome[E]tida,\nAo [A]meu cansado [D]coração\nEn[E]cheu de nova vi[A]da.\n\nDe[A]sejo a meu Je[E]sus louvar,\nEm [E]doce harmo[A]nia;\nEm [A]Cristo, tudo [D]fui achar,\nPois [E]tudo care[A]cia;\nE [E]sem cessar, o [A]Salvador,\nMe [D]ama terna[E]mente;\nO [A]que direi a [D]tal amor?\n\"Te [E]amo eterna[A]mente!\""
     },
     {
         "numero": 63,
@@ -1947,7 +1947,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 63 - Acordai, Acordai\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nEis mar[Ab]chamos para a[Bbm]quele bom país,\nOnde o [Eb]crente (sim, é [Ab]Cristo quem o diz),\nCom seu [Ab]Salvador pra [Bbm]sempre ali feliz,\nVai com E[Eb]le descan[Ab]sar.\nTraba[Ab]lhemos, pois, com [Bbm]zelo e com vigor,\nConstran[Eb]gidos pelo [Ab]Seu imenso amor;\nTraba[Ab]lhemos pelo [Bbm]nosso Salvador:\nEis que a [Eb]vida vai fin[Ab]dar!\n\nCoro:\nAcor[Ab]dai! Acordai! Desper[Eb]tai! Desper[Ab]tai!\nE can[Ab]tai! Sim, cantai! O Se[Bb]nhor não tarda[Eb]rá.\nEis mar[Ab]chamos para a[Bbm]quele bom país,\nOnde o [Eb]crente (sim, é [Ab]Cristo quem o diz),\nCom seu [Ab]Salvador, p’ra [Bbm]sempre ali feliz,\nVai com [Eb]Ele descan[Ab]sar.\n\nEis co[Ab]nosco nosso [Bbm]insigne Capitão,\nQue nos [Eb]assegura e[Ab]terna salvação!\nEis da [Ab]santa fé, o [Bbm]invicto pavilhão!\nVamos, [Eb]vamos traba[Ab]lhar!\nEis a[Ab]vante! Na[Bbm]da temos que temer;\nPor Je[Eb]sus, havemos [Ab]sempre de vencer,\nTraba[Ab]lhemos, pois [Bbm]até o amanhecer,\nE o tra[Eb]balho aqui fin[Ab]dar!\n\nReves[Ab]tidos da cou[Bbm]raça de Jesus,\nComo [Eb]servos Seus e [Ab]filhos, sim, da luz,\nGlo[Ab]riando-nos em [Bbm]Cristo e Sua cruz!\nVamos, [Eb]vamos, traba[Ab]lhar!\nOs per[Ab]didos, vamos [Bbm]com amor buscar,\nAos de[Eb]sesperados, [Ab]vamos declarar\nQue Je[Ab]sus ‘stá pron[Bbm]to todos a salvar!\nÓ sim, [Eb]vamos traba[Ab]lhar!"
     },
     {
         "numero": 64,
@@ -1981,7 +1981,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 64 - De Todo o Mundo: Aleluia!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nDe [G]todo o [D]mundo, eis-nos a[G]qui\nEm [G]Ti só con[D]fian[G]do,\nPer[Em]mane[D]cendo em Teu a[G]mor,\nTeu [Em]reino [C]só bus[D]can[G]do,\nAs [D]nossas vidas, nosso amor,\nA [G]Ti trazemos, [D]Salva[G]dor,\nCan[Em]tando: “[C]Ale[D][G]luia!\"\n\nVi[G]ver por [D]Ti, em Ti mor[G]rer,\nOs [G]nossos pais mi[D]ra[G]vam;\nA [Em]Tua von[D]tade só fa[G]zer,\n[Em]Eis o que [C]dese[D]ja[G]vam.\nE nós, que somos Teus, também\nDizemos, firmes: Sim, Amém’\nE: \"[Em]Glória! [C]Ale[D][G]luia!”\n\n[G]Ao Evange[D]lho salva[G]dor,\nTão [G]puro e glo[D]rio[G]so,\n[Em]As leis san[D]tíssimas que [G]Tu\nNos [Em]dás, Se[C]nhor bon[D]do[G]so,\n“A[D]mém! Dizemos com fervor,\nE, [G]pelo Teu i[D]menso a[G]mor,\nCla[Em]mamos: \"[C]Ale[D][G]luia!”\n\nSim, [G]constran[D]gidos pelo a[G]mor,\nPer[G]didos procu[D]ra[G]mos\nSal[Em]var, - ga[D]nhar p'ra Ti, Se[G]nhor:\n[Em]Eis o que am[C]bicio[D]na[G]mos,\nSe[D]guindo sempre a Tua lei,\nA [G]Ti, leais, ben[D]dito [G]Rei,\nCan[Em]tamos: “[C]Ale[D][G]luia!”\n\n[G]Nem o la[D]bor será em [G]vão,\nPois [G]eis, que glo[D]rio[G]so,\nO [Em]dia [D]vem, em que Je[G]sus\nVi[Em]rá vi[C]to[D]rio[G]so;\nE [D]todo mundo cantará,\nE [G]jubiloso O e[D]xalta[G]rá,\n[Em]Com: “Amém\", “[C]Ale[D][G]luia!”"
     },
     {
         "numero": 65,
@@ -2014,7 +2014,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 65 - Quem Irá?\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\n[A][D/A]Eis os mi[A]lhões, que em trevas tão [A/E]medonhas\n[E]Jazem perdidos, [A]sem o [B]Salva[E]dor!\n[A]Quem, quem i[A]rá as novas procla[A/E]mando,\n[E]Que Deus, em [A]Cristo, [D]salva [A/E]o pe[E]ca[A]dor?\n\nCoro:\n“[A]Todo o po[D]der o Pai me deu,\n[B]Na terra, [E]como lá no céu!\n[E]Ide, pois, a[A]nunciar o [E]Evan[A]gelho,\nE [D]eis-me con[A/E]vosco [E]Sem[A]pre!”\n\n[A]Por[D/A]tas a[A]bertas, eis por todo o [A/E]mundo!\n[E]Cristãos, erguei-vos! [A]Já a[B]vante an[E]da!!\n[A]Cren[D/A]tes em [A]Cristo! Uni as vossas [A/E]forças.\n[E]Da escravi[A]dão os [D]povos [A/E]li[E]ber[A]ta!.\n\n\"Ó [D/A]vinde a [A]mim! A voz divina [E]clama,\n\"[E]Vinde!\" Clama! em [A]nome [B]de Je[E]sus:\n[A]Pra [D/A]nos sal[A]var da maldição e[A/E]terna,\n[E]Seu sangue [A]derra[D]mou por [A/E]nós [E]na [A]cruz.\n\nÓ [D]Deus a[A]pressa o dia glo[A/E]rioso,\n[E]Em que os remidos [A]todos se [B]uni[E]rão,\n[A]E, em [D]coro ex[A]celso, santo, jubi[A/E]loso,\n[E]P'ra todo o [A]sempre, [D]glória a [A/E]Ti [E]da[A]rão."
     },
     {
         "numero": 66,
@@ -2037,7 +2037,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 66 - Pronto a Salvar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\nTodo o que [A]crê no Filho de [E]Deus,\nQue, p'ra nos re[E]mir, desceu dos [A]céus;\nTodo o que, con[A]trito, a Deus se che[D]gar,\nJesus está [A/E]pronto, a[E]gora, a sal[A]var.\n\nCoro:\nSim, [A]Jesus te chama, ó meu Ir[E]mão!\nA ti Ele o[E]ferece pleno per[A]dão;\nSeu sangue ver[A]teu para te resga[D]tar,\nE Ele é quem [A/E]quer e [E]pode sal[A]var.\n\nQuem, arrependi[A]do, busca per[E]dão,\nAbrindo a Je[E]sus o seu cora[A]ção,\nA paz hoje [A]mesmo pode go[D]zar,\nPois Ele está [A/E]pronto, a[E]gora, a sal[A]var."
     },
     {
         "numero": 67,
@@ -2065,7 +2065,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 67 - Quem Quer ir Com Cristo?\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\n[D]Quem quer hoje mesmo a Je[A]sus se[D]guir?\n[G]Seu pendão alçando, [D]ao combate [A]ir?\n[A]Quem quer, humilhado, [D]sempre O servir,\n[G]E obede[D]cê-Lo. [A]Seu querer cum[D]prir?\n\nCoro:\nQuem quer ir com Cristo, quem responderá,\n[A]Presto, sem demora, “eu, Senhor, i[D]rei”?\nOnde for o Mestre, tu também irás?\n[D]Quem dirá agora: “[G]eu Te [A]segui[D]rei”?\n\n[D]Quem seguir a Cristo quer, com [A]mui a[D]mor,\n[G]Dando-Lhe tributo, [D]dando-Lhe lou[A]vor;\n[A]De Sua nobre causa, [D]sendo defensor,\n[G]E na santa [D]vinha, [A]ser trabalha[D]dor?\n\n[D]Queres tu segui-Lo, sem va[A]cila[D]ção,\n[G]E fugir dos braços [D]da vil tenta[A]ção?\n[A]Sempre confiando [D]na Sua proteção,\n[G]Por fé desfru[D]tando [A]Sua salva[D]ção."
     },
     {
         "numero": 68,
@@ -2098,7 +2098,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 68 - Gozo de Ter Salvação\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Podes receber a [Db]doce paz de [Ab]Deus,\n[Eb]Crendo em Jesus, que já desceu dos céus:\n[Ab]Toma, hoje, tua [Db]cruz,\n[Bb]Vem das trevas para a [Eb]luz,\n[Bb]E, assim, mui gozo [Eb]te dará Je[Ab]sus!\n\nCoro:\n[Ab]Gozo de ter salvação,\n[Eb]Gozo [Bb]no teu cora[Eb]ção.\n[Ab]Alegria fruirás,\n[Db]Quando desfrutares paz,\n[Eb]Que te trouxa Cristo, na cruenta [Ab]cruz!\n\n[Ab]O amor de Cristo [Db]podes conhe[Ab]cer,\n[Eb]Seu sustento santo podes receber:\nNão mais só combaterás,\nCristo te defenderá,\n[Bb]E, assim, mui gozo [Eb]te dará Je[Ab]sus.\n\n[Ab]Queres tu, de Cristo, [Db]fiel soldado [Ab]ser?\n[Eb]Pelejar por Ele sempre sem temer?\n[Ab]Vem, então, ao Salva[Db]dor;\n[Bb]Far-te-á mui vence[Eb]dor,\n[Bb]E, assim, mui gozo [Eb]te dará Je[Ab]sus.\n\n[Ab]Poderás por Cristo [Db]ser aqui uma [Ab]luz,\n[Eb]Se obedeceres ao Senhor Jesus!\nÓ vem, hoje, sem temor,\nAceitar o Salvador,\n[Bb]E, assim, mui gozo [Eb]te dará Je[Ab]sus."
     },
     {
         "numero": 69,
@@ -2131,7 +2131,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 69 - Jesus Quebrou os Meus Grilhões\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nJe[G]sus quebrou os [C]meus grilhões,\nCom [D]sangue me com[G]prou;\nA [G]minha alma, [C]de prisões,\nE[D]terna resga[G]tou.\n\nCoro:\nAle[G]luia! Cristo [C]salva o per[G]dido peca[D]dor!\nAle[G]luia! Cristo [C]salva o per[D]dido com a[G]mor!\n\nÉ [G]minha paz, e [C]proteção,\nMeu [D]bom Consola[G]dor;\nAu[G]xílio certo [C]na aflição,\nRemé[D]dio para a [G]dor,\n\nNe[G]nhum perigo [C]temerei,\nEs[D]tando em Je[G]sus;\nAs [G]dores não mais [C]sofrerei;\nJe[D]sus é minha [G]luz.\n\nJe[G]sus, Teu nome [C]louvarei,\nCom [D]todo o cora[G]ção;\nA[G]legre ao mundo a[C]nunciarei\nTão [D]grande salva[G]ção."
     },
     {
         "numero": 70,
@@ -2164,7 +2164,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 70 - Cristo Vai Voltar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nNós Aleluia daremos a Cristo,\nQuando O virmos nas nuvens voltar,\n[Eb]De esplendor e de glória vestido,\n[Bb]Seus escolhidos vai arrebatar.\n\nCoro:\n[Eb]Cristo Jesus logo vai voltar,\n[Bb]Vai voltar, [Eb]vai voltar,\n[Eb]Seu povo vem, sim, arreba[Ab]tar;\nJe[Eb]sus breve [Bb]regressa[Eb]rá!\n\n[Eb]Eis que estou no Senhor confiando,\n[Bb]Todo o meu ser a Je[Eb]sus entreguei.\nTodos prazeres eu tenho deixado,\nEm Jesus Cristo meu gozo achei.\n\n[Eb]Como há de ser para ti Sua vinda?\n[Bb]Ela trará gozo ao [Eb]teu coração?\n[Eb]Ou te fará padecer mais ainda?\n[Bb]Temes que só te trará maldição?\n\n[Eb]Cristo a mim a promessa tem dado\n[Bb]Que junto dEle, tam[Eb]bém reinarei;\n[Eb]Breve será meu Jesus proclamado\n[Bb]Sobre a terra, por todos: \"O Rei\"."
     },
     {
         "numero": 71,
@@ -2192,7 +2192,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 71 - Santo és Tu, Senhor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Santo! Santo! [Bb]Grande eterno [F]Deus,\n[F]Com alegria [C]nós Te louvamos.\n[F]Rei dos reis e [Bb]Criador dos [F]céus.\n[Bb]Humilhados [F]Te ado[C]ramos;\n[C]Honra e [F]glória em Ti miramos,\n[C]Pois foi ras[F]gado, [C]na cruz, o véu.\n\nCoro:\n[F]Santo para [Bb]sempre és Tu, Se[F]nhor\n[Bb]Nas batalhas [C]és vence[F]dor!\n\n[F]Adorai-O [Bb]terra, céu e [F]mar;\n[F]Toda a Igreja, [C]seus mensageiros,\n[F]Reunidos, [Bb]vinde supli[F]car\n[Bb]Dons celestes, [F]pois sois her[C]deiros\n[C]De Deus, e [F]com Jesus coherdeiros\n[C]Da glória [F]que ja[C]mais vai findar.\n\n[F]Rei doa séc'los, [Bb]grande eterno [F]Deus!\n[F]Tu és veraz e [C]incompreensível,\n[F]Criador da [Bb]terra e dos [F]céus;\nÉs o An[F]cião invi[C]sível,\n[C]Habitas [F]na luz inacessível,\n[C]Lá mora[F]rão os [C]remidos Teus."
     },
     {
         "numero": 72,
@@ -2216,7 +2216,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 72 - Rasgou-se o Véu\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nRasgou-se o [D]véu, fran[A]ca ficou a entra[D]da:\nConfiança [G]temos, para ali en[D]trar,\nOnde a di[D]vina [A]glória revela[D]da,\nOutrora, [G]não podíamos mi[D]rar;\nPor [A]Cristo, entrando, nada ali te[D]memos;\nA glória [D]brilha, [G]sem nos ofus[A]car;\nNa luz [D]esta[A]mos e permanece[D]mos\nFirmes, tran[G]qüilos, sem mais [A]vaci[D]lar.\n\nContigo a[D]li, Se[A]nhor, nos encontra[D]mos,\nPois nos le[G]vaste já ao [A]santo [D]Pai,\nEm cuja [D]graça a[A]ceitos, sempre esta[D]mos,\nEm cujo a[G]mor tão grande nos a[D]trai\nA [A]Ti, ó Filho - em Ti, ó bem a[D]mado!\nE só em [D]Ti te[G]mos aceita[A]ção;\nE quem, no [D]sangue es[A]tando já lava[D]do,\nIsento es[G]tá da eterna [A]perdi[D]ção.\n\nÓ Deus, a [D]Ti de [A]coração louva[D]mos,\nPois de Ti [G]nos quiseste aproxi[D]mar,\nQuando se[D]para[A]dos de Ti fica[D]mos,\nPor Tua [G]lei divina, vio[D]lar,\nTeus [A]santos seguidores, consagra[D]dos,\nNo sangue [D]do ben[G]dito Salva[A]dor,\nO culto e a[D]dora[A]ção Te apresenta[D]mos,\nPorque nos [G]chamaste, ó [A]bom Se[D]nhor!"
     },
     {
         "numero": 73,
@@ -2249,7 +2249,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 73 - Vem, Vem a Mim\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n[C]Pecador escuta a voz do Senhor:\n\"[G]Se estás cansado, ó vem descan[C]sar;\n[C]Vem, não te detenhas; [F]sem nenhum te[C]mor,\n[C]Deixa o teu [F]far[G]do e vem repou[C]sar”.\n\nCoro:\nVem, vem a Mim e descansarás;\n[F]Toma o Meu [C]Jugo [D]e Te guia[G]rei;\n[C]Sou humilde, manso, [F]dou-Te minha [C]paz;\nÓ vem, hoJe [F]mesmo, [G]e Te salva[C]rei.\n\n[C]Vem a Deus, faminto, pobre mesmo assim;\n[G]Há maná celeste, preparado [C]já;\n[C]Grátis é a festa, [F]p'ra ti e p'ra [C]mim,\n[C]Cristo te con[F]vida, [G]vem e cea[C]rás.\n\n[C]Andas desviado, longe do redil?\n[G]Deixa de vagar e vem ao bom Pas[C]tor;\n[C]Pelos montes, vales, [F]há perigos [C]mil?\n[C]Volta ao re[F]banho [G]do teu Salva[C]dor.\n\n[C]Crendo tu, em Cristo, salvação terás;\n[G]Gozo, paz perfeita, tudo que é mis[C]ter;\n[C]Cristo não despreza, [F]nem rejeita[C]rá\nTo[C]do o que contri[F]to [G]a Ele [C]vier."
     },
     {
         "numero": 74,
@@ -2277,7 +2277,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 74 - Cristo Virá\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nTal[D]vez Cristo venha ao romper da au[A]rora,\nCom [D]santos ar[Bm]canjos, e [E]com voz so[A]nora;\nOs [A]mortos po[D]rá dos se[A]pulcros p'ra [D]fora;\nJe[G]sus, breve, [A]vem nos bus[D]car.\n\nCoro:\n[D]Cristo, que há de [G]vir, virá!\nEle [G]não tarda[D]ra, sim, Jesus vem;\nAle[D]luia! Aleluia! [A]A[D]mém! Ale[A]luia! A[D]mém!\n\nTal[D]vez voltará quando o dia fene[A]ça,\nOu [D]em uma [Bm]noite a [E]luz resplan[A]deça;\nIr[A]mãos, espe[D]rai que Je[A]sus apa[D]reça!\nJe[G]sus, breve, [A]vem nos bus[D]car.\n\nO [D]Seu esplendor e a glória ve[A]remos,\nDo [D]mundo, en[Bm]tão, nós por [E]fim, sai[A]remos,\nAs[A]sim, grande [D]gozo no [A]céu frui[D]remos;\nJe[G]sus, breve, [A]vem nos bus[D]car."
     },
     {
         "numero": 75,
@@ -2305,7 +2305,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 75 - Em Jesus Tens a Palma da Vitória\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Tentado, não [F]cedas, [Gm]ceder é pe[D]car,\n[Eb]Melhor e mais [Bb]nobre, se[F]rá triun[Bb]far,\n[Bb]Coragem, ó [F]cren[Gm]te, domina o teu [D]mal.\n[Eb]Deus pode li[Bb]vrar-te [F]de queda fa[Bb]tal.\n\nCoro:\n[Bb]Em Jesus tens a palma\n[F]Da vitória, mi[Bb]nh’alma;\n[Eb]E também doce [Bb]calma\n[Bb/F]Pelo [F]sangue da [Bb]cruz!\n\n[Bb]Evita o pe[F]cado, [Gm]procura agra[D]dar\n[Eb]A Deus, a quem [Bb]deves [F]no corpo exal[Bb]tar;\n[Bb]Não manches teus [F]lábios [Gm]com impura [D]voz;\n[Eb]Defende [Bb]tua alma [F]do vicio a[Bb]troz.\n\n[Bb]Sê manso e be[F]nigno, [Gm]qual morto a[D]té.\n[Eb]Na rocha e[Bb]terna, [F]firma [Bb]tua fé;\n[Bb]Veraz é teu [F]di[Gm]to: de Deus é teu [D]ser?\n[Eb]T'espera a co[Bb]roa, [F]tu podes ven[Bb]cer."
     },
     {
         "numero": 76,
@@ -2333,7 +2333,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 76 - Vem, ó Pródigo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Vem, ó pródigo, vem sem tardar, te chama Deus,\n[F]Ouve-O chamando, sim, chamando a [Bb]ti;\nTu, que vagas errante escuta a voz dos céus,\nÓ escuta a voz de amor.\n\nCoro:\n[Bb]Deus espera por ti. per[F]dido, pródigo, [Bb]vem;\n[Bb]Deus espera por [Eb]ti, [Bb/F]perdido, [F]pródigo, [Bb]vem\n\n[Bb]Com paciência e ternura te chama o Senhor,\n[F]Ouve-O chamando, sim, chamando a [Bb]ti;\nVem enquanto te chama o meigo Salvador,\nÓ escuta a voz de amor!\n\n[Bb]Lá na casa do Pai, abundância há de pão;\n[F]Ouve-O chamando, sim, chamando a [Bb]ti;\nJá está pronta a mesa com toda a provisão,\nÓ escuta a voz de amor!"
     },
     {
         "numero": 77,
@@ -2366,7 +2366,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 77 - Guarda o Contacto\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n[C]Queres, neste mundo, ser um vence[Dm]dor?\nQue[G]res tu cantar nas lutas e na [C]dor?\n[C]Queres ser alegre, qual bom luta[F]dor?\n[F]Guarda o con[C/G]tacto [G]com teu Salva[C]dor!\n\nCoro:\n[C]Guarda o con[G]tacto com teu Salva[C]dor,\n[F]E a nuvem [C]do mal não te [D]cobri[G]rá;\nPela senda alegre, tu caminharás\n[F]Indo em con[C/G]tacto [G]com teu Salva[C]dor.\n\n[C]Neste mundo, vivem muitos a pe[Dm]nar,\n[G]Cujos corações transbordam de pe[C]sar;\n[C]Dá-lhes a mensagem de amor sem [F]par;\n[F]Com Deus o con[C/G]tacto de[G]ves tu guar[C]dar!\n\n[C]Queres tu, com Deus, a comunhão ob[Dm]ter?\n[G]Sua glória em ti sempre permane[C]cer?\n[C]Que o mundo possa Cristo em ti [F]ver!\n[F]Guarda o con[C/G]tacto [G]co'o supremo [C]Ser.\n\n[C]Deixa que o Espírito implante em teu [Dm]ser,\n[G]O amor de Cristo, divinal pra[C]zer;\n[C]Queres, neste mundo, todo mal ven[F]cer?\n[F]Guarda o con[C/G]tacto [G]e terás po[C]der!"
     },
     {
         "numero": 78,
@@ -2399,7 +2399,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 78 - Meu Forte Redentor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nVa[Eb]gando eu em [Bb]grande escuridão,\nO [Bb]Salvador me encon[Eb]trou,\nPer[Eb]dido, mesmo, [Cm]sem ter salvação;\nA mi[Bb]nh’alma Seu sangue lavou.\n\nCoro:\nJesus é [Eb]o meu forte Reden[Fm]tor;\nE[Bb]le é meu grande Salva[Eb]dor,\nQue me [Eb]libertou na [C]cruz, com mui a[Fm]mor,\nCris[Bb]to é meu Rei e meu Se[Eb]nhor.\n\nNos [Eb]meus pecados [Bb]e vil turbação,\nA [Bb]luz mostrou-me, o Se[Eb]nhor;\nE [Eb]fez-me ver que [Cm]ali na perdição\nMe alcan[Bb]çava Seu grande amor.\n\nEu [Eb]gozo desta [Bb]grande salvação,\nMeu [Bb]nome já no céu es[Eb]tá;\nE [Eb]recebi a [Cm]divina! unção,\nQue aos [Bb]fiéis ainda Deus dá.\n\nNum [Eb]dia alegre, [Bb]Cristo voltará,\nE [Bb]para o céu eu subi[Eb]rei;\nMeu corpo transformado, então será,\nQual o de Cristo Jesus. o meu Rei."
     },
     {
         "numero": 79,
@@ -2427,7 +2427,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 79 - Sua Graça Me Basta\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Quando me sin[Cm]to fraco, [F]não tenho mais vi[Bb]gor,\n[Bb]Não vendo mais o [F]brilho [C]do sol, da clara [F]luz;\n[Bb]Jesus está [Cm]comigo, [F]é meu Consola[Bb]dor;\n[Eb]Ele jamais me [Bb]dei[G]xa, [C]pois sempre [F]me con[Bb]duz.\n\nCoro:\nSua [Bb]graça me basta a mim, a mim,\nSus [Eb]graça me basta a [Bb]mim;\nNa [Eb]vida d’aquém, no [Bb]céu tam[Eb]bém,\nSua [C]graça me [F]basta a [Bb]mim.\n\n[Bb]Quando a tempes[Cm]tade [F]vem contra mim fe[Bb]roz,\n[Bb]Nas trevas nave[F]gando [C]com minha embarca[F]ção,\n[Bb]Cristo Jesus me a[Cm]nima, [F]ouço a Sua [Bb]voz;\n\"[Eb]Eis que estou con[Bb]ti[G]go, [C]por que te[F]mer, en[Bb]tão?\"\n\n[Bb]Quando m’atingem os [Cm]dardos [F]do inimigo au[Bb]daz,\n[Bb]Que busca com as[F]túcia [C]a vida me ti[F]rar,\n[Bb]Eu clamo, então, a [Cm]Cristo, [F]meu Salvador ve[Bb]raz,\n[Eb]O qual me dá vi[Bb]tó[G]ria, [C]se nEle eu [F]con[Bb]fiar."
     },
     {
         "numero": 80,
@@ -2460,7 +2460,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 80 - Cristo Te Chama\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n[C]Cristo te chama, a [F]ti. peca[C]dor,\n[G]Te chama a ti, [C]com voz de amor;\n[C]Deixa os pecados, e [F]vem ao Se[C]nhor.\n[G]Cristo te chama a [C]til\n\nCoro:\n[F]Cristo te chama, te [C]chama a ti!\n[G]Cristo te chama, ó [C]vem pecador!\n[F]Cristo te chama com [C]voz de amor.\n[G]Cristo te chama a [C]ti!\n\n[C]Deixa as sendas [F]do mundo d’hor[C]ror,\n[G]Vem a Jesus, [C]vem com amor;\n[C]Cristo te salva, ó [F]vem, peca[C]dor;\n[G]Cristo te chama a [C]ti!\n\n[C]Cristo glorioso vi[F]rá com po[C]der;\n[G]Pronto estás [C]para ascender?\n[C]Só por Seu sangue tu [F]podes ven[C]cer.\n[G]Cristo te chama a [C]ti!\n\n[C]A compassiva voz [F]do Salva[C]dor,\n[G]Chama-te já [C]com santo amor;\n[C]Vem para a fonte, á [F]vem peca[C]dor,\n[G]Cristo te chama a [C]ti!"
     },
     {
         "numero": 81,
@@ -2493,7 +2493,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 81 - Pode Salvar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\n[D]Somente em Cristo po[G]de[D]mos\n[A]A salvação rece[D]ber;\n[D]Novo concerto nós [G]te[D]mos\n[E]Em quem na cruz quis mor[A]rer.\n\nCoro:\nPode sal[D]var, pode sal[G]var,\nTira os pe[D]cados, e quer vos sal[A]var,\nPode sal[D]var, pode sal[G]var,\nTira os pecados, e quer vos salvar.\n\n[D]Quando perdoa os pe[G]ca[D]dos\n[A]Vida nos quer conce[D]der.\n[D]Fomos por sangue com[G]pra[D]dos\n[E]Do modo vão de vi[A]ver.\n\n[D]Teu coração já en[G]tre[D]ga\n[A]A quem te pode sal[D]var;\n[D]E quem as dores car[G]re[D]ga:\n[E]Cristo te pode li[A]vrar!\n\n[D]Cristo te quer dar a[G]go[D]ra\n[A]Paz e descanso [D]real;\n[D]Quer revelar-te esta [G]ho[D]ra:\n[E]Graça imensa e [A]real."
     },
     {
         "numero": 82,
@@ -2526,7 +2526,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 82 - Um Meigo Salvador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nUm [G]Salvador [D]meigo eu [G]tenho,\nA [G]quem antes [A]não conhe[D]ci;\nA[Am]gora, alegre, eu [B]ve[Em]nho\nCon[A]tando a todos que O [D]vi.\n\nCoro:\n[G]Todos, todos ve[Am]rão,\n[D]Todos, todos ve[G]rão;\nJe[G]sus glorioso e bon[C]doso,\nSim, [D]todos, todos ve[G]rão.\n\nDe [G]todos, [D]é o mais for[G]moso,\nI[G]magem da gló[A]ria de [D]Deus;\nTor[Am]nou-me alegre e di[B]to[Em]so,\nE her[A]deiro da glória dos [D]céus.\n\nSe os [G]ímpios me ar[D]marem ci[G]lada.\nNa [G]senda que [A]hei de tri[D]lhar,\nJe[Am]sus me dará boa es[B]pa[Em]da,\nE os [A]laços eu hei de cor[D]tar.\n\nA [G]vida e o a[D]mor Tu me [G]deste,\nPor[G]que Tu a[A]maste a [D]mim,\nTor[Am]nou, sim, a glória ce[B]les[Em]te,\nMinha [A]sorte bendita, en[D]fim."
     },
     {
         "numero": 83,
@@ -2554,7 +2554,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 83 - Não Posso Explicar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nMais [Bb]perto de Jesus, procuro [Eb]sempre eu che[Bb]gar,\nMais [Bb]belo que o ouro do sol [F]nado é a Ti mirar.\nEm [Bb]pensamento, sonhos, tanta [Eb]glória nunca [Bb]vi;\nPois [Eb]Ele é mais [Bb]belo do que [F]eu jamais pre[Bb]vi!\n\nCoro:\nNão [Bb]posso expli[Eb]car\nQuão [C]meigo é Je[F]sus;\nMas, [Bb]face a face, [Eb]no Teu lar,\nEu [Bb]Te ve[F]rei, Je[Bb]sus!\n\nA es[Bb]trela resplendente da ma[Eb]nhã á minha [Bb]luz;\n[Bb]O lírio dos vales é o [F]bom Senhor Jesus;\n[Bb]Suave e doce é o cheiro [Eb]que só vem de [Bb]Ti;\nPois [Eb]Ele é mais [Bb]belo do que [F]eu jamais pre[Bb]vi!\n\nSe [Bb]mágoas vêm me perturbar, [Eb]o bálsamo Ele [Bb]tem;\nMe [Bb]toma nos Seus braços e, as[F]sim, descanso bem;\nNa [Bb]cruz levou Jesus o meu pe[Eb]cado so[Bb]bre Si;\nPois [Eb]Ele é mais [Bb]belo do que [F]eu jamais pre[Bb]vi!"
     },
     {
         "numero": 84,
@@ -2592,7 +2592,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 84 - O Grande “Eu sou”\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nNão [G]perturbeis o coração,\nPor[D]que Eu sempre sou fie!;\nEu [G]fecho a boca do \"leão\",\nNa [D]cova estou com [G]Daniel.\n\nCoro:\nSou [D]Eu aquele, o [G]grande “EU SOU”\nE, [C]onde estais, tam[G]bém estou;\nNão disse, Eu, há muito já:\n“Pe[G]di, pedi... dar-se-voa-á”?\nPe[C]di com fé e [G]com fervor\nE [D]vos darei o Con[G]solador.\n\nQuem [G]tem a fé de Abraão,\nO [D]mundo sempre há de vencer;\nQuem [G]quer ter firme o coração.\nPre[D]cisa igualmente [G]crer.\n\nUm [G]terremoto e vento, após.\nDo [D]céu, um fogo e mui furor.\nOu[G]viu Elias a minha voz,\nVoz [D]do Eterno, voz de a[G]mor.\n\nUm [G]certo dia, Estêvão viu\nO [D]céu aberto e viu-me a mim;\nA[G]pedrejado, sucumbiu,\nMas [D]foi fiel, até o [G]fim.\n\nFirmado em Mim, Rocha Eternal,\nAssim jamais o crente cai;\nBus[G]cai o dom celestial,\nQue [D]vem da casa de Meu [G]Pai."
     },
     {
         "numero": 85,
@@ -2620,7 +2620,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 85 - Deixai Entrar o Espírito de Deus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Do Santo Espírito, está es[Db]crito,\n[Db]Que sois o [Bbm]templo, sim, [Eb]templo de Deus;\n[Ab]Já recebestes, depois que [Db]crestes,\n[Db]O dom glo[Eb]rioso descido do [Ab]céu?\n\nCoro:\n[Eb]Deixai entrar, [Ab]para morar,\nO Es[Eb]píri[Bb]to de [Eb]Deus;\nDom prome[Ab]tido, já conce[Db]dido,\nBendito [Eb]dom dos altos [Ab]céus.\n\n[Ab]O que vos salva, também vos [Db]lava,\n[Db]P'ra vos[Bbm]sa alma de [Eb]manchas limpar;\n[Ab]Purificados de vis pe[Db]cados,\n[Db]O Santo Es[Eb]pírito já pode en[Ab]trar.\n\nÓ peregrinos, vede o des[Db]tino,\n[Db]Entrai [Bbm]na terra de [Eb]leite e mel,\n[Ab]Santificados, por Deus cha[Db]mados,\n[Db]Sereis [Eb]guiados, por guia [Ab]fiel."
     },
     {
         "numero": 86,
@@ -2648,7 +2648,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 86 - Satisfeito com Cristo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nOh! 's[G]tou satisfeito com [C]Cristo,\nPor[D]que Ele minh’alma sal[G]vou;\nE [G]sobre o madeiro, so[C]frendo,\nO [D]Seu grande amor reve[G]lou.\n\nCoro:\nOh! 's[G]tou satisfeito com [C]Cristo,\nCon[G]fesso-O por meu Salva[D]dor:\nEmbo[G]ra de nada ser [C]digno,\nDes[D]fruto do Seu grande a[G]mor.\n\nOh! 's[G]tou satisfeito com [C]Cristo,\nDe [D]triste, tornei-me fe[G]liz,\nOu[G]vindo o Seu santo Evan[C]gelho,\nE [D]crendo no que Ele me [G]diz.\n\nOh! 's[G]tou satisfeito com [C]Cristo,\nE [D]sei que vai logo vol[G]tar;\nVi[G]rá com poder glo[C]rioso,\nA [D]fim de Seu povo le[G]var."
     },
     {
         "numero": 87,
@@ -2691,7 +2691,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 87 - Meu Testemunho\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Justificado es[C]tou;\n[C]Cristo Jesus me li[F]vrou;\n[F]Ele é meu Media[C]dor,\n[C]Também, meu bom Salva[F]dor.\n\nCoro:\n[Bb]Jesus, sou Teu, [F]e Tu és meu;\n[C]Me guiarás [F]para o céu;\n[Bb]Com graça e paz [F]me satisfaz\n[C]Cristo, meu Mestre ve[F]raz.\n\n[F]Santificado fi[C]quei,\n[C]Quando a Ele ro[F]guei;\n[F]Ele me disse: tomai;\n[C]De minha graça u[F]sai.\n\n[F]Fui redimido, tam[C]bém,\n[C]Obra do meu Sumo [F]Bem;\n[F]Tudo de graça ga[C]nhei;\n[C]Nada por obras da [F]lei.\n\n[F]Ele a promessa me [C]deu,\n[C]Do Guia santo do [F]céu;\n[F]Também me disse: fi[C]cai,\n[C]E o batismo espe[F]rai.\n\n[F]Quando a Ele bus[C]quei,\n[C]E batizado fi[F]quei,\n[F]Línguas estranhas fa[C]lei,\n[C]E meu Senhor exal[F]tei.\n\n[F]Agora, vou traba[C]lhar,\n[C]E muitas almas ga[F]nhar;\n[F]Essas que Ele sal[C]vou\n[C]Quando na cruz expi[F]rou."
     },
     {
         "numero": 88,
@@ -2724,7 +2724,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 88 - Revela a Nós Senhor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nJesus, meu [Eb]Rei, Mestre e Senhor,\nO Teu a[Bb]mor revela a [Eb]mim,\nEnquanto [Eb]eu aqui viver,\nAté eu [Bb]ver da vida o [Eb]fim.\n\nCoro:\nRe[Eb]vela a nós, Senhor Jesus, meu Salva[Bb]dor,\nAs maravilhas [Bb]mil do Teu divino a[Eb]mor;\nE [Eb]com veraz louvor, fervente grati[Ab]dão;\nE[Eb]leva a TI, Je[Bb]sus Senhor, o nosso cora[Eb]ção.\n\nAs bênçãos [Eb]mil do Teu amor,\nQual esplen[Bb]dor me cerca[Eb]rão;\nO Teu o[Eb]lhar será, Jesus,\nA grata [Bb]luz do cora[Eb]ção.\n\nSorrisos [Eb]Teus verei brilhar,\nSe não an[Bb]dar no mundo [Eb]vil:\nDesfruta[Eb]rei prazer veraz,\nTempo de [Bb]paz primave[Eb]ril.\n\nE, quando [Eb]for no céu morar,\nE descan[Bb]sar dos dias [Eb]meus,\nFeliz vi[Eb]ver receberei\nDe Ti, meu [Bb]Rei, meu santo [Eb]Deus!"
     },
     {
         "numero": 89,
@@ -2762,7 +2762,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 89 - Sublime e Grande Amor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Conta-me, sim, de Jesus,\n[Bb]Para na [F]mente, eu gra[Bb]var\n[Bb]Como foi que padeceu\n[Bb]Na cruz, pra [F]me liber[Bb]tar:\n[Eb]A Sua paixão e [Bb]morte,\n[Bb]A começar no jar[F]dim,\n[Bb]Não houve mais quem ti[Eb]vesse\n[F]Um sofrimento as[Bb]sim!\n\nCoro:\n[Bb]Só amor! [Eb/Bb]Só a[Bb]mor!\n[Bb]Só a[Eb]mor! [F]Sublime e grande a[Bb]mor!\n\n[Bb]Conta-me como sentiu\n[Bb]A rude [F]morte na [Bb]cruz,\n[Bb]Suportando a acusação\n[Bb]Dos ini[F]migos da [Bb]luz;\n[Eb]Conta-me como tem [Bb]dado\n[Bb]Ao malfeitor Sua [F]paz,\n[Bb]Dizendo: \"Hoje, co[Eb]migo,\n[F]No Paraíso esta[Bb]rás\".\n\n[Bb]Conta-me como chorou,\n[Bb]Falando a [F]Jerusa[Bb]lém;\n[Bb]Profetas fazes morrer,\n[Bb]Quando a [F]ti eles [Bb]vêm;\n[Eb]Conta-me como inda [Bb]chora,\n[Bb]Por causa do peca[F]dor,\n[Bb]Que não quer Seu Evan[Eb]gelho,\n[F]Proclamado com a[Bb]mor.\n\n[Bb]Conta-me como o Senhor\n[Bb]Um bom tes[F]temunho [Bb]deu.\n[Bb]Satisfazendo a lei,\n[Bb]Quando o cá[F]lice be[Bb]beu;\n[Eb]Também disse estas pa[Bb]lavras,\n[Bb]Com Seu tão profundo a[F]mor;\n[Bb]Pai, lhes perdoa a ce[Eb]gueira,\n[F]Que é própria do peca[Bb]dor.\n\n[Bb]Conta-me como, também,\n[Bb]Veio ao [F]povo ju[Bb]deu,\n[Bb]Povo que tanto amou,\n[Bb]Querendo [F]dar-lhe os [Bb]céus;\n[Eb]Como inda hoje E[Bb]le ama\n[Bb]A todo o peca[F]dor,\n[Bb]Dando-lhe paz e des[Eb]canso,\n[F]Pelo Evangelho de a[Bb]mor."
     },
     {
         "numero": 90,
@@ -2791,7 +2791,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 90 - Há Paz e Alegria\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nHá [Bb]paz e alegria no [Eb]reino da luz;\nÁ pá[F]tria dos remidos, Jesus nos con[Bb]duz,\nNo [Bb]reino dos [Eb]céus há [F]gozo e [Bb]paz;\n[Bb]Os filhos de Deus têm po[F]der ve[Bb]raz.\n\nHá [Bb]paz e alegria no [Eb]reino dos céus;\nOs [F]salvos lá entoam louvores a [Bb]Deus;\nDai [Bb]glória a Je[Eb]sus! Por[F]que nos a[Bb]mou;\nPor [Bb]nós o Seu sangue Ele [F]derra[Bb]mou!\n\nJe[Bb]sus tem prometido o [Eb]Consolador!\nO [F]Espírito Santo, o instrui[Bb]dor;\nTam[Bb]bém prome[Eb]teu, no [F]reino dos [Bb]céus,\nUm [Bb]santo lugar, junto ao [F]nosso [Bb]Deus.\n\nFir[Bb]mado na promessa tão [Eb]grande e eficaz,\nAgo[F]ra neste mundo desfruto a [Bb]paz;\nEs[Bb]pero Je[Eb]sus, nas [F]nuvens des[Bb]cer,\nE [Bb]na Sua glória me [F]rece[Bb]ber."
     },
     {
         "numero": 91,
@@ -2824,7 +2824,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 91 - Nívea Luz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\nJe[A]sus, eu almejo a pu[E]reza do [A]céu,\nTua [A]linda presença no [E]coração [A]meu\n[A]Os ídolos [D]quebro, me toma Je[A]sus;\nÓ [A]dá-me a pu[E]reza da nívea [A]luz.\n\nCoro:\nNí[E]vea luz, a [F#m]nívea [A]luz,\nÓ [D]dá-me a pu[E]reza da nívea [A]luz.\n\nJe[A]sus, me acode en[E]quanto li[A]dar,\nA [A]colocar tudo no [E]santo al[A]tar;\nA [A]Ti me en[D]trego; nas chamas me [A]pus;\n[A]Ó dá-me a pu[E]reza da nívea [A]luz!\n\nJe[A]sus, com instância, hu[E]milde, ro[A]guei\nQue o [A]sangue perfeito pu[E]reza me [A]dê;\nMe [A]lava na [D]fonte aberta na [A]cruz\nÓ [A]dá-me a pu[E]reza da nívea [A]luz!\n\nJe[A]sus, neste instante, es[E]pero a [A]mão\nQue [A]há de criar-me o [E]bom cora[A]ção;\nA[A]queles que o Es[D]pírito pedem de [A]Deus,\nDás [A]sempre a pure[E]za da nívea [A]luz!"
     },
     {
         "numero": 92,
@@ -2857,7 +2857,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 92 - O Bondoso Salvador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nMeu bon[Bb]doso Salvador\nMeus pe[F]cados carregou;\nFoi Je[F]sus, o Redentor,\nQue da [C]morte me li[F]vrou.\n\nCoro:\nOh! Que [Bb]Salvador eu [C]tenho!\nO Seu [F]sangue me re[Bb]miu,\nQuando, [Bb]sobre o rude [C]lenho,\nMeu casti[F]go Ele cum[Bb]priu.\n\nOh! Que amor do meu Jesus,\nQue em homem se encarnou,\nPra so[F]frer por mim, na cruz;\nE meus [C]crimes per[F]doou.\n\nNão há [Bb]outro nome igual\nAo bom no[F]me de Jesus,\nPorque [F]livra-me do mal\nE à [C]glória me con[F]duz.\n\nCom Je[Bb]sus, alegre, vou\nSua [F]graça publicar,\nPorque E[F]le me chamou\nNa Sua [C]vinha a traba[F]lhar."
     },
     {
         "numero": 93,
@@ -2890,7 +2890,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 93 - Há Trabalho Pronto\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Há trabalho [D]pronto [Em]para ti, cris[C]tão;\n[C]Que demanda [G]toda a [A]tua devo[D]ção;\n[G]Vem, alegre[D]mente, a [Em]Cristo obede[C]cer,\n[A/C#]Pois só tu, ó [G]crente, o pode[D]rás fa[G]zer!\n\nCoro:\n[G]Por Jesus a [C]traba[G]lhar,\n[D]Prontamente, [G]fielmente, [D]trabalhar!\n[G]Em Servi-Lo, [C]que pra[G]zer!\n[C]E só tu, ó [G]crente, o pode[D]rás fa[G]zer.\n\n[G]Para cada [D]crente, o [Em]Mestre prepa[C]rou\n[C]Um trabalho [G]certo, [A]quando o resga[D]tou,\n[G]O trabalho a [D]que Je[Em]sus te chama a[C]qui.\n[A/C#]Como será [G]feito, se não [D]for por [G]ti?\n\n[G]Pode ser hu[D]milde, [Em]mas se for p'ra [C]Deus,\n[C]Ele é contempla[G]do [A]lá dos altos [D]céus.\n[G]E o esforço [D]feito [Em]não será em [C][A/C#]vão\nSe tiver de [G]Cristo, plena a[D]prova[G]ção!\n\n[G]Quantos há perdi[D]dos, [Em]sem a salva[C]ção!\n[C]Quantos que pre[G]cisam [A]de consola[D]ção!\n[G]Como Cristo os a[D]ma, [Em]fá-los enten[C]der,\n[A/C#]Pois só tu, á [G]crente, o pode[D]rás fa[G]zer!"
     },
     {
         "numero": 94,
@@ -2923,7 +2923,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 94 - Na Jerusalém de Deus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\nQuando a [A]luta desta [D/A]vida\nTrabalho[A]sa se findar,\nO a[A]deus a este mundo vamos [E]dar;\nPara o [A]céu então iremos,\nCom Je[D]sus nos encon[A]trar\nNa Je[D]rusa[E]lém de [A]Deus.\n\nCoro:\nOh! que gozo e alegria,\nQuando o po[A]vo ali chegar,\nEm Je[E]rusalém! Em Je[A]rusalém!\nSempre ali cantando hosanas,\nPois o [A]Rei no trono esta,\nNa Je[E]rusalém de [A]Deus.\n\nO ca[A]minho é ex[D/A]tenso,\nMas Je[A]sus vai me guiar,\nQuando, pe[A]las provações aqui pas[E]sar;\nPois o[A]lhando nEle, eu sigo.\nPara [D]brevemente es[A]tar,\nNa Je[D]rusa[E]lém de [A]Deus.\n\nAo [A]sairmos deste [D]mundo,\nPara a [A]divina! mansão,\nGoza[A]remos a perfeita salva[E]ção;\nE Je[A]sus contemplaremos\nA esten[D]der-nos Sua [A]mão,\nNa Je[D]rusa[E]lém de [A]Deus.\n\nQuando, u[A]nidos com os [D/A]salvos,\nLá na [A]pátria do Senhor,\nContem[A]plarmos a Jesus, o Salva[E]dor,\nSempre [A]nos alegraremos\nOnde [D]há perfeito a[A]mor;\nNa Je[D]rusa[E]lém de [A]Deus."
     },
     {
         "numero": 95,
@@ -2952,7 +2952,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 95 - Ouve, ó Pecador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nOuve, [Bb]ouve, ó [Eb]peca[Bb]dor!\nOuve [Eb]bem, pres[F]ta aten[Bb]ção\nA Je[F]sus, o Salva[Bb]dor,\nQue do [F]céu trouxe o per[Bb]dão;\nOuve a [Bb]Sua [Eb]meiga [Bb]voz;\nDigna [Eb]é de a[F]ceita[Bb]ção.\n\nOu[Bb]ve o que [Eb]diz o Se[Bb]nhor,\nPor Sua [Eb]mensa[F]gem de a[Bb]mor;\n\"Será [F]livre de te[Bb]mor\nTodo [F]que vier a [Bb]Mim”;\nVem a [Bb]Cristo, [Eb]Salva[Bb]dor,\nE a[Eb]ceita o [F]Seu a[Bb]mor.\n\nOuve, [Bb]ouve, ó [Eb]peca[Bb]dor!\nE me[Eb]dita com a[F]ten[Bb]ção;\nDeixa o [F]mundo engana[Bb]dor;\nDe Je[F]sus, terás per[Bb]dão;\nEle [Bb]diz: “Quem [Eb]crer em [Bb]Mim,\nHá de [Eb]ter a [F]Salva[Bb]ção”.\n\nOuvi [Bb]já, a[Eb]migos [Bb]meus,\nNão te[Eb]nhais he[F]sita[Bb]ção;\nVinde ao [F]Filho, sim, de [Bb]Deus;\nDai-Lhe o [F]vosso cora[Bb]ção;\nEle [Bb]diz: “Quem [Eb]crer em [Bb]Mim,\nNão te[Eb]rá conde[F]na[Bb]ção”."
     },
     {
         "numero": 96,
@@ -2990,7 +2990,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 96 - Deixa Penetrar a Luz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Se ao inimigo temes [Bbm]combater,\n[Eb]Se estás em trevas e não [Ab]tens poder,\n[Ab]Que a formosa luz de Deus ful[Db]gure em ti;\n[Eb]E serás feliz as[Ab]sim.\n\nCoro:\n[Ab]Deixa penetrar a [Eb]luz!\n[Eb]Deixa penetrar a [Ab]luz!\n[Ab]Que a formosa luz de Deus ful[Db]gure em ti;\n[Eb]E serás felIz as[Ab]sim.\n\n[Ab]Se a tua fé é fra[Bbm]ca no Senhor,\n[Eb]E não mostras fruto ou ne[Ab]nhum fervor,\n[Ab]Que a formosa luz de Deus [Db]fulgure em ti\n[Eb]E serás feliz [Ab]assim.\n\n[Ab]Se na luz estamos, que [Bbm]divina luz!\n[Eb]Se nos limpa sempre o sangue [Ab]de Jesus,\n[Ab]Temos claridade em nosso [Db]coração,\n[Eb]E vivemos nós na [Ab]luz.\n\n[Ab]Se de Deus, o Espírito Con[Bbm]solador,\n[Eb]Traz a luz do céu, divino [Ab]resplendor,\n[Ab]Penetrando Ele, no teu [Db]coração.\n[Eb]Viverás então de a[Ab]mor.\n\n[Ab]Se alegre fores à man[Bbm]são sem par,\nÓ enfrenta as trevas, que vão [Ab]se afastar,\n[Ab]Que a formosa luz de Deus ful[Db]gure em ti,\n[Eb]E serás feliz as[Ab]sim."
     },
     {
         "numero": 97,
@@ -3019,7 +3019,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 97 - Há um Caminho Santo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nHá [F]um caminho santo, ao [Bb]céu de plena luz,\nAs [C]vezes espinhoso, à [F]glória nos conduz;\nE [F]o caminho certo pra [Bb]todo pecador;\nJe[C]sus é o Salvador, Jesus é o Salva[F]dor.\n\nHá [F]paz inabalável pra [Bb]quem está na luz;\nPor [C]preço incomparável\ncom[F]prou-me a mim Jesus\nO [F]dom do Pai amado minh'[Bb]alma satisfaz,\nJe[C]sus é minha paz, Jesus é minha [F]paz.\n\nHá [F]um poder que sara o [Bb]triste coração,\nQue [C]dá alívio à alma, paz [F]e consolação,\nE [F]guarda minha veste, tam[Bb]bém, em nívea luz;\nPo[C]der de meu Jesus, poder de meu Je[F]sus!\n\nHá [F]um fim glorioso, a[Bb]lém do escuro véu;\nNo [C]fim do espinhoso cami[F]nho está o céu;\nE [F]quando for tirado o [Bb]véu da escuridão,\nVe[C]rei Jesus, então, verei Jesus, en[F]tão."
     },
     {
         "numero": 98,
@@ -3057,7 +3057,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 98 - Estarás Vigiando?\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: E\n\nEsta[E]rás tu vigiando, quando Jesus Vier?\nAn[E]sioso, esperando, quando [B]Jesus vier?\n\nCoro:\nOh! Que [E]noite! Solene noite!\nBrilha[E]rá a tua luz, quando [B]Je[E]sus vier?\nÓ, sê pronto, ó, sê pronto!\nÓ, sê pronto, quando Jesus vier.\nÓ, sê pronto, ó sê pronto!\nÓ sê pronto, quando Jesus vier!\n\nOuvi[E]rás tu o bem-vindo, quando Jesus vier?\nDarás [E]o brado sorrindo, quando Je[B]sus vier?\n\nSó es[E]peras preparar-te, quando Jesus vier?\nQual se[E]rá a tua parte, quando [B]Jesus vier?\n\nEsta[E]rás tu jubiloso, quando Jesus vier?\nTriste [E]ou esperançoso quando [B]Jesus vier?\n\nOh! Que [E]culto glorioso, quando Jesus vier!\nCheio [E]de sublime gozo, quando Je[B]sus vier!"
     },
     {
         "numero": 99,
@@ -3090,7 +3090,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 99 - Eis o Dia a Declinar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Eis [Db]o [Ab]dia a [Ab]declinar,\n[Ab]Nos [Db/Ab]convida a [Ab]meditar\n[Eb]No Teu grande insigne a[Ab]mor,\nÓ ben[Ab]dito [Bb]Salva[Cm]dor,\nE [Eb]te louvar!\n\nCoro:\n[Ab]Santo! Santo! Santo [Eb]Senhor dos [Ab]céus\n[Eb]Toda terra [Ab]louve a TI;\n[Eb]No céu, tudo a[Ab]dore a TI,\nBon[Eb]doso [Ab]Deus!\n\n[Ab]Glo[Db/Ab]rioso [Ab]no poder!\n[Ab]In[Db/Ab]finito [Ab]no saber!\n[Eb]A mais plena perfei[Ab]ção\n[Db]Na jus[Ab]tiça e [Bb]no per[Cm]dão\nNos [Eb]fazes ver!\n\n[Ab]Na pro[Db/Ab]funda es[Ab]curidão,\n[Ab]Ouve [Db/Ab]a nossa [Ab]petição,\n[Eb]Vem teus filhos prote[Ab]ger,\n[Db]E se[Ab]guros [Bb]sempre os [Cm]ter\nNa [Eb]Tua mão.\n\n[Ab]Quando [Db/Ab]tudo, en[Ab]fim, passar,\n[Ab]Céus, es[Db/Ab]trelas, [Ab]terra e mar,\n[Eb]Pela cruz do Salva[Ab]dor,\n[Db]Faz-nos [Ab]no Teu [Bb]grande a[Cm]mor,\nCon[Eb]tigo estar!"
     },
     {
         "numero": 100,
@@ -3123,7 +3123,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 100 - O Bom Consolador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nQuem [C]quer ir, por Jesus, a [F]nova proclamar\nNos [C]antros de aflição, mi[Am]sérias, [D]mal e [G]dor?\nCris[C]tãos, anunciai que o [F]Pai quer derramar\nO [C/G]bom Conso[G]la[C]dor.\n\nCoro:\nO [C]bom Consolador, o [F]bom Consolador\nQue [C]Deus nos prometeu, ao mundo [D]Já des[G]ceu;\nÓ I[C]de proclamar, que [F]Deus quer derramar\nO bom Consolador.\n\nNo [C]mundo de horror, a [F]luz, enfim, brilhou\nQue [C]veio dissipar as [Am]sombras [D]de ter[G]ror;\nTam[C]bém o nosso Pai, aos [F]Seus fiéis mandou\nO [C/G]bom Conso[G]la[C]dor.\n\n[C]É o Consolador que [F]traz a salvação\nAos [C]que aprisionou o [Am]grande [D]tenta[G]dor:\nDi[C]zei que veio já, com [F]todo o coração,\nO [C/G]bom Conso[G]la[C]dor.\n\nOh! [C]Grande eterno amor! Oh! Go[F]zo divina!!\nQue [C]tenho em proclamar o [Am]dom de [D]meu Se[G]nhor\nPois [C]mora já em mim, po[F]der celestial,\nO bom Conso[G]la[C]dor."
     },
     {
         "numero": 101,
@@ -3151,7 +3151,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 101 - A Unção Real\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nQual [Bb]órfãos [Eb]não nos dei[Bb]xou [Ddim]o Se[Bb]nhor,\nMas [Gm]como [C]nos prome[F]teu,\nMan[Bb]dou-nos o bom Conso[F]lador,\nQue [F]nos encheu do po[Bb]der do [Eb]céu,\n[Bb]Do Seu divi[F]nal a[Bb]mor!\n\nCoro:\nRece[F]bestes já a un[Bb]ção real\nDo Es[C]pírito Consola[F]dor?\nDeus [Bb]quer te usar para outros sal[Eb]var,\nSe re[F]cebes o [C]Conso[F]la[Bb]dor.\n\nO [Bb]crentes, [Eb]Deus vos con[Bb]vi[Ddim]da tam[Bb]bém\nA [Gm]vir bus[C]car Seu po[F]der;\nE [Bb]para todo, que hu[F]milde vem\nO [F]Santo Hóspede [Bb]rece[Eb]ber:\nO[Bb/F]rando se [F]ob[Bb]tém.\n\nUm [Bb]Pente[Eb]coste, Je[Bb]sus [Ddim]prome[Bb]teu,\nA [Gm]cada [C]um cora[F]ção;\nPros[Bb]trados, roguemos, [F]pois a Deus,\nCom [F]fé. em poten[Bb]te ora[Eb]ção,\n[Bb/F]Pra viro po[F]der do [Bb]céu."
     },
     {
         "numero": 102,
@@ -3184,7 +3184,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 102 - Crê na Promessa\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\n[A]Hoje, Jesus pode [D]te sal[A]var;\n[A]Somente crê na promes[E]sa;\n[A]Dos teus pecados pu[D]rifi[A]car;\n[A]Somente crê na pro[E]mes[A]sa.\n\nCoro:\n[A]Crê na pro[C#m]mes[F#m]sa de Je[C#m]sus,\nSo[D]mente crê na pro[A]messa;\n[E]Bênção dos céus, [A]vida à flux!\n[A]Somente crê na pro[E]mes[A]sa.\n\n[A]Do alto, Jesus da[D]rá po[A]der;\n[A]Somente crê na promes[E]sa;\n[A]Na Sua alegria i[D]rás ven[A]cer;\n[A]Somente crê na pro[E]mes[A]sa.\n\n[A]A Sua graça vem [D]rece[A]ber;\n[A]Somente crê na promes[E]sa;\n[A]Tudo Jesus quer te [D]conce[A]der.\n[A]Somente crê na pro[E]mes[A]sa.\n\n[A]Vem recebera paz [D]do Se[A]nhor,\n[A]Somente crê na promes[E]sa;\n[A]Cheio serás do Conso[D]la[A]dor.\n[A]Somente crê na pro[E]mes[A]sa."
     },
     {
         "numero": 103,
@@ -3217,7 +3217,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 103 - Caminhemos na Luz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nHá [Eb]uma [Bb]luz, ben[Eb]dita luz,\nQue [Eb]vem a nós dos [Bb]céus;\nA [Eb]face [Bb]do Se[Eb]nhor Jesus\nRe[Ab]flete o a[Bb]mor de [Eb]Deus.\n\nCoro:\nCami[Eb]nhemos na [Bb]luz\nCami[Bb]nhemos na luz de [Eb]Deus.\nCami[Eb]nhemos na luz\nCami[Eb/Bb]nhemos na [Bb]luz de [Eb]Deus.\n\nHá [Eb]uma [Bb]glo[Eb]riosa luz\n[Eb]Guiando o nosso an[Bb]dar,\nNos santos passos de Jesus,\n‘Tó chegarmos ao lar.\n\nHá [Eb]uma [Bb]luz, a [Eb]santa luz\nNa [Eb]qual podemos [Bb]ver\n[Eb]No lindo [Bb]céu, a [Eb]glória à flux,\nQue [Ab]vamos [Bb]rece[Eb]ber.\n\nEm [Eb]san[Bb]ta e ben[Eb]dita luz.\nCer[Eb]cado de esplen[Bb]dor,\nVi[Eb]rá O [Bb]que mor[Eb]reu na cruz,\nNos[Ab]so ama[Bb]do Se[Eb]nhor."
     },
     {
         "numero": 104,
@@ -3250,7 +3250,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 104 - Jesus Procura a Ovelha\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nEis Je[Eb]sus a procurara ovelha, que a vagar\nDesgar[Eb]rou-se do aprisco do Se[Bb]nhor;\nPelos [Bb]montes a sofrer, faça sol ou a chover,\nCristo [Eb]busca Sua o[Bb]velha, com a[Eb]mor.\n\nCoro:\nCom a[Bb]mor.., o Pas[Eb]tor...\nEis que [Eb]chama Sua ovelha, sem ces[Bb]sar;\nPossa [Eb]hoje, o pecador\nescu[Ab]tar a voz do a[Eb]mor,\nDe Je[Eb]sus, que pro[Bb]cura p’ra sal[Eb]var.\n\nCom Seus [Eb]pés o bom Pastor, já feridos, que horror,\nDe des[Eb]cer nos tenebrosos pedre[Bb]gais,\nE can[Bb]sado de andar, mais, ainda a clamar:\n\"Ó o[Eb]velhas minhas, [Bb]onde vós es[Eb]tais?”\n\nSe es[Eb]cuta o gemer da ovelha, que prazer\nEnche [Eb]logo o coração do bom Pas[Bb]tor!\nE cor[Bb]rendo sem parar, 'té a ovelha abraçar,\nE tra[Eb]zê-la ao Seu [Bb]ombro com a[Eb]mor.\n\nJá em [Eb]casa, o Pastor, Oh! Jubila com dulçor,\nPela o[Eb]velha desgarrada que a[Bb]chou;\nE as[Bb]sim, também Jesus, com os anjos lá na luz,\nSe a[Eb]legra pe[Bb]las almas que sal[Eb]vou!"
     },
     {
         "numero": 105,
@@ -3279,7 +3279,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 105 - A Gloriosa Esperança\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nPossuis em [G]ti, ó pecador,\nA glo[G]riosa espe[D]ran[G]ça?\nE Cristo [D]tua con[G]fiança,\nQue te sus[D]tenta com vi[G]gor?\nA [G]minha é Je[D]sus, á Je[G]sus, é Je[D]sus,\nA [G]minha é Jesus,\nQue me con[G]cede segu[D]ran[G]ça.\n\nSe nada [G]mais te satisfaz,\nAqui no [G]mundo, ó per[D]di[G]do,\nE se te [D]sentes aba[G]tido,\nQual há de [D]ser a tua [G]paz?\nA [G]minha é Je[D]sus, é Je[G]sus, á Je[D]sus,\nA mi[G]nha é Jesus,\nQue não me [G]deixa desva[D]li[G]do.\n\nE quando [G]o teu fim chegar,\nE te co[G]brir o véu da [D]mor[G]te,\nQual há [D]de ser a tua [G]sorte?\nIrás so[D]frer? Irás go[G]zar?\nA [G]minha é Je[D]sus, é Je[G]sus, é Je[D]sus,\nA mi[G]nha é Jesus,\nQue me tor[G]nou, de fraco, [D]for[G]te.\n\nVem a Je[G]sus, vem pecador,\nVem dar o [G]teu primeiro [D]pas[G]so;\nQual é a [D]força do teu [G]braço,\nQue te fa[D]rá um vence[G]dor?\nA [G]minha é Je[D]sus, é Je[G]sus, é Je[D]sus,\nA mi[G]nha é Jesus,\nPor ela quebro todos os laços."
     },
     {
         "numero": 106,
@@ -3313,7 +3313,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 106 - Viva Cristo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nViva [G]Cristo, eternal ri[D]queza,\nMeu es[D]cudo, vida e fir[G]meza,\nSua [C]graça - Oh! me [G]faça\nRelu[D]zir no Seu a[G]mor.\n\nViva [G]Cristo, rocha já e[D]leita,\nA ver[D]dade pura e per[G]feita;\nMeu sus[C]tento - gran con[G]tento,\nQue me [D]faz andar na [G]luz.\n\nViva [G]Cristo, minha eterna [D]sorte;\nMeu te[D]souro é depois da [G]morte;\nMe con[C]forta, me e[G]xorta\nA vi[D]ver em perfei[G]ção.\n\nViva [G]Cristo, o Senhor da [D]glória,\nQue aos [D]crentes sempre dá vi[G]tória,\nE a [C]vida prome[G]tida,\nQue, p'ra [D]nós ganhou na [G]cruz.\n\nViva [G]Cristo, Condutor dos [D]santos!\nViva [D]Cristo, fortemente [G]canto!\nPois me [C]ama e der[G]rama\nNo meu [D]ser, celeste [G]paz."
     },
     {
         "numero": 107,
@@ -3346,7 +3346,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 107 - Firme nas Promessas\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nFirme nas promessas do meu Salvador,\nCantarei louvores ao meu Criador;\n[Bb]Fico na dispensação do Seu amor,\n[Bb]Firme nas pro[Eb]messas [F]de Je[Bb]sus.\n\nCoro:\n[Bb]Firme, [Eb]Firme,\n[F]Firme nas promessas de Je[Bb]sus, o Cristo;\n[Bb]Firme, [Eb]firme,\n[Bb/F]Sim, firme nas pro[F]messas de Je[Bb]sus.\n\n[Bb]Firme nas promessas, hei de não falhar,\n[Eb]Quando as tempestades, vêm [Bb]me assolar;\n[Bb]Pelo Verbo vivo, hei de batalhar.\n[Bb]Firme nas pro[Eb]messas [F]de Je[Bb]sus.\n\n[Bb]Firme nas promessas, sempre vejo assim,\n[Eb]Purificação no sangue, [Bb]para mim;\n[Bb]Plena liberdade em Jesus sem fim.\n[Bb]Firme nas pro[Eb]messas [F]de Je[Bb]sus.\n\n[Bb]Firme nas promessas do Senhor Jesus,\n[Eb]Em amor ligado com a [Bb]Sua cruz.\nCada dia mais alegro-me na luz.\nFirme nas promessas de Jesus."
     },
     {
         "numero": 108,
@@ -3379,7 +3379,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 108 - Pelejar Por Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n[C]Por Jesus vamos pe[F]lejar,\n[G]Prosseguindo o nos[C]so andar;\n[C]E com Ele, en[F]tão, no céu,\n[G]Nós iremos a paz go[C]zar.\n\nCoro:\n[C]Lutemos todos [F]contra o mal,\nE [G]vamos a Je[C]sus seguir;\nEle [C]é o nosso [F]General\nE a [G]glória do por[C]vir!\n\n[C]Em Jesus temos [F]nós poder;\n[G]Avancemos, já [C]sem temer;\n[C]Confiando no [F]Seu amor.\n[G]Vamos lutar, até ven[C]cer.\n\n[C]Crentes, para Je[F]sus olhai,\n[G]Pela fé, sempre, [C]sim, lutai;\n[C]Ao inimigo, ó [F]combatei;\n[G]O Evangelho anun[C]ciei.\n\n[C]A Escritura nos [F]diz assim:\n[G]Que Jesus é p'ra [C]ti e mim,\n[C]O caminho, a [F]luz veraz,\n[G]Que nos leva ao céu, en[C]fim."
     },
     {
         "numero": 109,
@@ -3407,7 +3407,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 109 - Venha a Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\n[D]Se alguém deseja, [G]venha a Je[D]sus,\nÁgua e pão da vida, [A]Ele te conduz.\n[D]A mão Lhe estende, [G]pede-Lhe a [D]luz,\n[A]Se alguém deseja, [D]venha.\n\nCoro:\n[A]Se alguém deseja, [D]se alguém deseja,\n[D]Venha hoje [G]mesmo rece[E]ber per[A]dão,\n[D]Pois Jesus te cha[G]ma, ó, não chama em vão,\n[A]Se alguém deseja, [D]venha!\n\n[D]Se alguém deseja, [G]paz frui[D]rá;\n[D]Cristo que te chama, [A]te libertará;\n[D]Com Seus braços santos [G]te abraça[D]rá\n[A]Se alguém deseja, [D]venha!\n\n[D]Se alguém deseja, [G]não morre[D]rá,\n[D]Pois a vida eterna [A]sempre gozará;\n[D]Esta é a promessa [G]que Jesus te [D]dá.\n[A]Se alguém deseja, [D]venha!"
     },
     {
         "numero": 110,
@@ -3436,7 +3436,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 110 - Clama: Jesus, Jesus!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nÓ [C]clama na tribulação: Jesus, Je[G]sus.\nDe [G]todo o teu coração: Jesus, Je[C]sus,\nPor [C]certo, te socorrerá: Je[F]sus, Je[Dm]sus,\nE [Am]gozo e [F]paz te da[C]rá: Je[G]sus, Je[C]sus.\n\nTu [C]queres um bom Salvador? Jesus, Je[G]sus,\nQue a[G]ma o vil pecador? Jesus, Je[C]sus,\nE [C]que tem poder p’ra salvar? Je[F]sus, Je[Dm]sus,\nE [Am]para o [F]céu te le[C]var? Je[G]sus, Je[C]sus.\n\nHá [C]um que te pode curar: Jesus, Je[G]sus.\nE [G]da corrupção te guardar: Jesus. Je[C]sus.\nSó [C]um nome dá salvação: Je[F]sus, Je[Dm]sus.\nO [Am]gozo, a [F]paz, o per[C]dão: Je[G]sus, Je[C]sus.\n\nA[C]ceita, no teu coração: Jesus, Je[G]sus;\nAs[G]sim, tu terás salvação, Jesus, Je[C]sus;\nA[C]braça, com terno amor: Je[F]sus, Je[Dm]sus;\nQue [Am]chora por [F]ti, peca[C]dor, Je[G]sus, Je[C]sus."
     },
     {
         "numero": 111,
@@ -3469,7 +3469,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 111 - Que Mudança!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\nQue mu[A]dança em mim fez o meu bom Jesus,\nVin[D]do Ele ao meu cora[A]ção\nDeu-me [A]paz divinal, deu-me gozo e luz,\nEn[B]trando Ele no meu cora[E]ção.\n\nCoro:\nEn[A]trando no meu coração!\nEn[D]trando no meu cora[A]ção!\nQue mu[A]dança em mim\nFez o [A]meu bom Jesus,\nVindo [A/E]Ele ao meu cora[A]ção.\n\nEu an[A]dava perdido, Jesus me salvou,\nEn[D]trando no meu cora[A]ção\nMeus pe[A]cados sem conta, Seu sangue lavou,\nVin[B]do Ele ao meu cora[E]ção!\n\nE a[A]gora, do céu, a certeza me deu,\nEn[D]trando no meu cora[A]ção\nSeu Es[A]pírito, o selo e penhor concedeu,\nVin[B]do Ele ao meu cora[E]ção.\n\nPelo [A]vale da morte não temo passar!\nCom [D]Ele no meu cora[A]ção;\nA ci[A]dade celeste me vai transportar,\nO [B]guarda do meu cora[E]ção."
     },
     {
         "numero": 112,
@@ -3507,7 +3507,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 112 - O Nome Soberano\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nNão [G]há na terra e [C]céu também,\nUm [G]nome com do[D]çura,\nComo [G]este a quem lou[C]vor convém,\nDe [G]toda a cria[D]tu[G]ra.\n\nCoro:\nJe[C]sus, a luz és [G]Tu do céu!\nJe[C]sus, o nosso a[D]mado)\nJe[G]sus, o verda[C]deiro Deus,\nPor [G]todos exal[D]ta[G]do!\n\nDes[G]cendo ao mundo, a [C]luz do céu\nVes[G]tiu-se em corpo hu[D]mano;\nAo [G]santo Filho, en[C]tão, se deu\nO [G]nome sobe[D]ra[G]no.\n\nEn[G]tregue à morte [C]sobre a cruz,\nPor [G]cima foi es[D]crito\nO [G]nome amável [C]de Jesus,\nPor [G]nós, ali mal[D]di[G]to.\n\nDa [G]morte o grande [C]vencedor\nA [G]mão do Pai sen[D]tado,\nPor [G]nós Ele é in[C]tercessor,\nE [G]único Advo[D]ga[G]do.\n\nJe[G]sus, meu terno [C]Salvador,\nEs [G]Tu minha espe[D]rança,\nCon[G]fio só no [C]Teu amor;\nE [G]pões-me em segu[D]ran[G]ça."
     },
     {
         "numero": 113,
@@ -3531,7 +3531,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 113 - O Celeste Diretor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nDia a [Ab]dia vem guiar-me\nMeu Je[Eb]sus e meu Se[Ab]nhor!\nNão sou [Db]meu, pois me com[Eb]praste\nCom Teu [Bb]sangue reden[Eb]tor;\nQuero a [Ab]Ti viver unido,\nPe[Ab]la vida até ao [Eb]fim;\nQue se [Ab]torne assim ver[Db]dade,\n“Não mais [Eb]eu, mas Cristo em [Ab]mim”.\nQue se [Ab]torne assim ver[Db]dade.\n“Não mais [Eb]eu, mas Cristo em [Ab]mim”.\n\nCada ins[Ab]tante vem guiar-me.\nO ce[Eb]leste Dire[Ab]tor!\nJá fi[Db]zeste em mim mo[Eb]rada,\nTu és [Bb]meu Domina[Eb]dor;\nó trans[Ab]forma minha vida;\nSeja [Ab]meu o Teu que[Eb]rer;\nQuero an[Ab]dar, passo por [Db]passo,\nCon[Eb]fiando em Teu po[Ab]der.\nQuero an[Ab]dar, passo por [Db]passo,\nCon[Eb]fiando em Teu po[Ab]der.\n\nSe maior intimidade\nPara mim possível for;\nQuero [Db]mais ser a[Eb]traído\nA Ti, [Bb]meigo Salva[Eb]dor!\nAh! Que [Ab]fique em Ti morando\nMeu se[Ab]creto pavi[Eb]lhão,\nEscon[Ab]dido, inteira[Db]mente,\nEm Ti, [Eb]minha salva[Ab]ção,\nEscon[Ab]dido, inteira[Db]mente,\nEm Ti, [Eb]minha salva[Ab]ção."
     },
     {
         "numero": 114,
@@ -3564,7 +3564,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 114 - Aceita o Perdão de Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Se tu cansado já estás de pecar,\nA[Eb]ceita o perdão de Je[Ab]sus.\n[Ab]Se vida nova quiseres achar,\nA[Bb]ceita o perdão de Je[Eb]sus,\n\nCoro:\n[Ab]Vem a Jesus, pecador.\n[Ab]Por ti mor[Bb]reu lá na [Eb]cruz.\nÉ tempo, vem sem temor;\nA[Eb]ceite o perdão de Je[Ab]sus.\n\nSe vida pura desejas obter,\nAceita o perdão de Jesus.\n[Ab]Ele é a fonte que limpa teu ser;\nA[Bb]ceita o perdão de Je[Eb]sus.\n\n[Ab]Se tu não podes tuas lutas calmar,\nA[Eb]ceita o perdão de Je[Ab]sus,\n[Ab]Se teus desejos não podes domar,\nA[Bb]ceita o perdão de Je[Eb]sus.\n\nSe com os santos te queres unir,\nAceita o perdão de Jesus.\n[Ab]Se para os céus tu desejas partir,\nA[Bb]ceita o perdão de Je[Eb]sus."
     },
     {
         "numero": 115,
@@ -3592,7 +3592,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 115 - Trabalhai e Orai\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nEu [Ab]quero trabalhar pra meu Se[Eb]nhor,\nLe[Eb]vando a Palavra com a[Ab]mor;\nQuero [Ab]eu cantar e orar,\nE ocu[Db]pado quero estar,\nSim, na [Eb]vinha do Se[Ab]nhor.\n\nCoro:\nTraba[Ab]lhai e orai.\nNa [Ab]seara e na vinha do Se[Eb]nhor;\nMeu dese[Ab]jo é orar,\nE ocu[Db]pado quero estar\nSim, na [Eb]vinha do Se[Ab]nhor.\n\nEu [Ab]quero, cada dia, traba[Eb]lhar;\nEs[Eb]cravos do pecado liber[Ab]tar;\nCondu[Ab]zi-los a Jesus,\nNosso [Db]guia, nossa luz,\nSim, na [Eb]vinha do Se[Ab]nhor.\n\nEu [Ab]quero ser obreiro de va[Eb]lor,\nCon[Eb]fiando no poder do Salva[Ab]dor;\nSe qui[Ab]seres trabalhar,\nAcha[Db]rás também lugar,\nSim, na [Eb]vinha do Se[Ab]nhor."
     },
     {
         "numero": 116,
@@ -3620,7 +3620,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 116 - Livre Estou\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nEu va[F]gava pela senda de horror,\nOprimi[F]do pelo pecado e te[C]mor.\nQuando o [C]Salvador eu vi,\nSua [F]terna voz ouvi,\nMeu Je[Gm]sus me liber[C]tou por Seu a[F]mor.\n\nCoro:\nLivre es[F]tou! Livre estou!\nPela [C]graça de Je[G]sus livre es[C]tou;\nLivre es[F]tou! Livre estou!\nAle[F]luia! Pela [C]fé, livre es[F]tou!\n\nEu va[F]gava pela senda de horror.\nNão pen[F]sando no amor do Salva[C]dor;\nEu va[C]gava sem ter luz,\nLonge [F]do Senhor Jesus,\nMas li[Gm]berto, hoje [C]canto a Deus lou[F]vor.\n\nEu va[F]gava pela senda de horror,\nMas, a[F]gora, quero andar com meu Se[C]nhor,\nQuero ou[C]vir Sua terna voz,\nE se[F]gui-Lo sempre após,\nGló[Gm]ria seja dada [C]ao nosso bom Pas[F]tor."
     },
     {
         "numero": 117,
@@ -3653,7 +3653,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 117 - O Senhor Salva a Todo o Pecador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nAle[Ab]luia! O Senhor Salva a [Db]todo peca[Ab]dor!\nSalva[Eb]ção! Salva[Ab]ção!\nJesus [Ab]Cristo tem poder para [Db]todo o mal ven[Ab]cer,\nSalva[Eb]ção! Salva[Ab]ção!\n\nCoro:\nSalva[Ab]ção e redenção!\nAle[Eb]luia! Cristo já me a[Ab]mou e me salvou.\nGlória [Ab]dou e aleluia, a Je[Eb]sus que me salvou.\n\nEu con[Ab]fio em Jeová, Ele [Db]santidade [Ab]dá;\nSalva[Eb]ção! Salva[Ab]ção!\nTenho [Ab]paz e vivo já, Sua [Db]graça em mim es[Ab]tá.\nSalva[Eb]ção! Salva[Ab]ção!\n\nFala[Ab]rei sempre o que sei, e[Db]xaltando o meu [Ab]Rei,\nSalva[Eb]ção! Salva[Ab]ção!\nPois Seu [Ab]sangue já verteu, pra tor[Db]nar-me filho [Ab]Seu,\nSalva[Eb]ção! Salva[Ab]ção!\n\nCanta[Ab]remos, sempre ali, ao [Db]sairmos nós da[Ab]qui;\nSalva[Eb]ção! Salva[Ab]ção!\nExal[Ab]tando o Salvador, louva[Db]remos com fer[Ab]vor\nSalva[Eb]ção! Salva[Ab]ção!"
     },
     {
         "numero": 118,
@@ -3686,7 +3686,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 118 - Face a Face\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Na presença estar de [Cm]Cristo,\n[F]Em Sua glória, que se[Bb]rá;\n[Bb]Lá no céu, em pleno [Eb]gozo,\nMinha [F]alma O ve[Bb]rá.\n\nCoro:\nFa[F]ce a face, espero [Bb]vê-Lo;\n[C]No além do céu de [F]luz;\n[Bb]Face a face em plena [Eb]glória,\nHei de [F]ver o meu Je[Bb]sus.\n\n[Bb]Oh! que glória se[Cm]rá vê-Lo;\n[F]Que O possa eu mi[Bb]rar!\n[Bb]Eis, em breve, vem o [Eb]dia;\nQue Sua [F]glória há de mos[Bb]trar.\n\n[Bb]Quanto gozo há em [Cm]Cristo,\n[F]Quando não houver mais [Bb]dor,\n[Bb]Quando cessar o pe[Eb]rigo,\nE go[F]zarmos pleno a[Bb]mor.\n\n[Bb]Face a face, quão glo[Cm]rioso\n[F]Há de ser o exis[Bb]tir,\n[Bb]Vendo o rosto de quem [Eb]veio,\nNossas [F]almas redi[Bb]mir."
     },
     {
         "numero": 119,
@@ -3714,7 +3714,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 119 - Inesgotável é Seu Amor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: E\n\n[E]Seja louvado o bom Salvador\n[B]Livre é Seu amor, [E]livre é Seu amor.\n[E]Há preparado para o pecador,\n[B]Fonte preciosa de a[E]mor;\n[E]E, se em Cristo queres confiar,\n[B]Livre é Seu amor, livre é Seu a[E]mor;\n[E]A vida eterna tu irás gozar,\n[F#]Inesgotável é Seu a[B]mor.\n\nCoro:\n[E]Terno, te chama Jesus: queres ir?\nÓ pecador, ó pecador!\nE[E]le deixou para nós, ao subir,\n[B]Fonte preciosa de a[E]mor.\n\n[E]Por que vivendo em pecado há de estar?\n[B]Livre é Seu amor, [E]livre é Seu amor.\n[E]Cristo te chama, ó vem sem tardar,\n[B]Inesgotável é Seu a[E]mor;\n[E]Deixa as trevas por luz divinal,\n[B]Livre é Seu amor, livre é Seu a[E]mor;\n[E]Hoje Jesus quer livrar-te do mal,\n[F#]Inesgotável é Seu a[B]mor.\n\nÓ! se tu creres, perdão obterás,\nLivre é Seu amor, livre é Seu amor;\nVem o momento que tu bendirás;\nInesgotável é Seu amor;\n[E]Cristo te espera, ó ouve o chamar;\n[B]Livre é Seu amor, livre é Seu a[E]mor;\n[E]Fé em Seu nome te há de salvar.\n[F#]Inesgotável é Seu a[B]mor."
     },
     {
         "numero": 120,
@@ -3738,7 +3738,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 120 - Noite de Paz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n[C]Noite de paz, noite de amor;\n[G]Tudo dorme, em [C]derredor!\n[F]Entre os astros que es[C]pargem a luz\nBe[F]la, indicando o me[C]nino Jesus,\n[G]Brilha a estrela da [C]paz,\n[C]Brilha a es[G]trela da [C]paz.\n\n[C]Noite de paz, noite de amor;\n[G]Ouve o [C]fiel pastor\n[F]Coros celestes que [C]cantam a paz,\n[F]Que nesta noite su[C]blime nos traz,\n[G]O nosso bom Re[C]dentor,\n[C]O nosso [G]bom Reden[C]tor.\n\n[C]Noite de paz, noite de amor;\n[G]Oh! Que belo [C]resplendor.\n[F]Paira no rosto do [C]meigo Jesus!\n[F]E no presépio do [C]mundo, a luz!\n[G]Astro de eterno ful[C]gor,\n[C]Astro de e[G]terno ful[C]gor."
     },
     {
         "numero": 121,
@@ -3771,7 +3771,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 121 - Maravilhoso é Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Maravilho[D]so é Je[G]sus,\n[G]Da minha vida a [D]luz,\n[D]Pois me salvando, [G]me perdoando,\n[G]Para [D]Sião me con[G]duz.\n\nCoro:\n[G]Maravilhoso, sim, [B]maravi[C]lhoso!\nÉ [G]Cristo, pois salvou-me a [D]mim!\n[G]Maravilhoso e [B]mui glo[C]rioso,\nÉ [G/D]Cristo, que [D]vive em [G]mim.\n\n[G]Nunca po[D]dia sa[G]ber,\n[G]Qual é o grande pra[D]zer,\n[D]Dum que perdido, [G]arrependido,\n[G]A graça [D]vem rece[G]ber.\n\n[G]Ele nas [D]trevas me a[G]chou,\n[G]Eternamente me a[D]mou;\n[D]Vida abundante, [G]gozo bastante.\n[G]Tenho por [D]quem me sal[G]vou.\n\n[G]Cristo é [D]tudo pra [G]mim,\n[G]Também será para [D]ti;\n[D]Vou caminhando, [G]sempre O louvando,\n[G]Pois Ele sal[D]vou-me a [G]mim!"
     },
     {
         "numero": 122,
@@ -3799,7 +3799,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 122 - Fogo Divino\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Fogo divino, cla[D]mamos por [G]ti;\n[G]Vem lá do alto, vem, [A]desce a[D]qui;\nÓ vem despertar-nos [D]com teu ful[G]gor;\n[G]Vem inflamar-nos com [D]teu ca[G]lor.\n\nCoro:\n[G]Desce do alto, bendito fogo,\n[D]Desce poder celes[G]tial!\n[G]Desce do alto, bendito fogo,\n[C]Vem, chama [D]pentecos[G]tal!\n\n[G]Desce, Espírito [D]Consola[G]dor,\n[G]Desce e enche-nos [A]de santo a[D]mor,\n[G]Desce ao mundo, nos [D]mostra Je[G]sus;\n[G]Dá-nos poder, vida, [D]graça e [G]luz.\n\n[G]Arde em minh'alma, ó [D]chama de a[G]mor\n[G]Arde em meu peito e [A]dá-me va[D]lor;\n[G]Consome todos os [D]restos do [G]mal;\n[G]Desce já, ó fogo [D]pentecos[G]tal!"
     },
     {
         "numero": 123,
@@ -3832,7 +3832,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 123 - Cristo Voltará\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nUm [Ab]dia, [Db]Cristo volta[Ab]rá;\nAo [Eb]ascender, o prometeu;\nDo modo que subiu virá;\nHá de ver o Rei Jesus, o povo Seu.\n\nCoro:\nMui [Db]breve sim, Je[Ab]sus virá,\nA[Eb]legre O verá Seu [Ab]povo;\nVe[Db]lando, todos [Ab]devem sempre estar,\nA [Eb]fim de vê-Lo vol[Ab]tar.\n\nOs [Ab]mensa[Db]geiros do Se[Ab]nhor,\nA[Eb]firmam que Jesus virá;\n[Ab]E o po[Db]der Consola[Ab]dor\nAs [Db]fiéis promessas [Eb]nos revela[Ab]rá.\n\nOh! [Ab]gozo [Db]sem compara[Ab]ção\nNo [Eb]dia do meu Salvador,\nCom [Ab]a mui [Db]grande multi[Ab]dão,\nSubi[Db]remos ao en[Eb]contro do Se[Ab]nhor.\n\nBem-[Ab]vindo [Db]sejas, meu Se[Ab]nhor,\nEm [Eb]Tua gloriosa luz;\nE [Ab]nos[Db]sa fá terá va[Ab]lor;\nNós di[Db]zemos: “Ora, [Eb]vem Senhor Je[Ab]sus”."
     },
     {
         "numero": 124,
@@ -3875,7 +3875,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 124 - Adoração\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Adorai o Rei do Universo!\n[D]Terra e [G]céus, can[D]tai o Seu louvor!\n[G]Todo o ser no grande mar submerso,\n[C]Louve ao Domi[D]na[G]dor!\n\nCoro:\nTodos [G]juntos O louvemos!\n[D]Grande Salvador e [G]Reden[D]tor!\n[G]Todos O louvemos!\n[C]Régio Do[D]mina[G]dor!\n\n[G]Adorai-O, anjos poderosos,\n[D]Vós que [G]Sua [D]glória contemplais!\n[G]Vós, remidos, já vitoriosos;\n[C]Graças, ren[D]dei-Lhe [G]mais!\n\n[G]Sol e lua, coros estelares,\n[D]Sua [G]majes[D]tade anunciai,\n[G]Hostes grandes, centos de milhares,\n[C]O Seu po[D]der mos[G]trai!\n\n[G]Ventos! Chuvas! Raios! Trovoadas!\n[D]Reve[G]lai o [D]forte Criador!\n[G]Vós dizeis, ó serras elevadas,\n[C]Quão grande é [D]meu Se[G]nhor!\n\n[G]Altos cedros! Grama verdejante!\n[D]Esta [G]sinfo[D]nia aumentei;\n[G]Aves, vermes, todo o ser gigante;\n[C]Gratos a [D]Deus lou[G]vai!\n\n[G]Homens! Jovens! Velhos e meninos!\n[D]Ado[G]rai ao [D]vosso Redentor!\n[G]Reis e sábios, grandes, pequeninos,\n[C]Dai-Lhe ve[D]raz lou[G]vor!"
     },
     {
         "numero": 125,
@@ -3903,7 +3903,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 125 - Quem Dera Hoje Vir!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n[C]Vem, outra vez, nosso Salva[C]dor;\n[C]Quem dera hoje [Dm]vir!\nPara reinar com poder e amor!\nQuem dera hoje vir!\n[C]Já por Sua Esposa, vem esta vez;\n[C]Que O espera em [F]oração;\n[Dm]Fora do [C]mundo de [F]entremez;\n[G]Quem dera hoje [C]vir!\n\nCoro:\n[C]Glória, glória, gozo sem fim, tra[Dm]rá;\n[G]Glória, glória, ao coroar o [C]fiei;\n[C]Gló[G]ria, [Am]gló[E]ria, [F]nos arrebata[C]rá;\n[Dm]Gló[C/E]ria, [F]glória! [C/G]Cristo vem [G]Outra [C]vez!\n\n[C]Terminará o poder do [C]mal;\n[C]Quem dera hoje [Dm]ser!\nComeçará o prazer sem igual;\nQuem dera hoje ser!\n[C]Todos os mortos em Cristo serão\n[C]Arrebatados por [F]seu Senhor;\n[Dm]Quando estas [C]glórias a[F]qui virão?\n[G]Quem dera hoje [C]ser!\n\n[C]Em santidade [Cdim]nos deve a[C]char,\n[C]Eis quEle pode [Dm]vir.\n[G]Todos, velando, com gozo e paz,\n[G]Eis quEle pode [C]vir.\n[C]Multiplicados os sinais estão;\n[C]No oriente se [F]vê o alvor;\n[Dm]Breve, os [C]crentes [F]subirão;\n[G]Quem dera hoje [C]vir!"
     },
     {
         "numero": 126,
@@ -3937,7 +3937,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 126 - Bem-Aventurança do Crente\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nBem-aventurado o que confia\nNo Senhor, como fez Abraão;\nEle [Bb]creu, ainda que [Eb]não via,\nE, as[F]sim, a fé não foi em [Bb]vão.\nÉ fe[Bb]liz quem segue, fiel[F]mente,\nNos ca[Gm]minhos [C]santos do Se[F]nhor,\nNa tri[Bb]bulação é pa[Eb]ciente,\nEspe[F]rando no seu Salva[Bb]dor.\n\nOs he[Bb]róis da Bíblia Sa[Eb]grada,\nNão [F]fruíram logo seus tro[Bb]féus;\nMas le[Bb]varam sempre a cruz pe[Eb]sada,\nPara [F]obter poder dos [Bb]céus,\nE de[Bb]pois, saíram pelo [F]mundo,\nComo [Gm]mensa[C]geiros do Se[F]nhor,\nCom co[Bb]ragem e amor pro[Eb]fundo,\nProcla[F]mando Cristo, o Salva[Bb]dor.\n\nQuem quiser de Deus ter a coroa,\nPassará por mais tribulação;\nÀs al[Bb]turas santas ninguém [Eb]voa,\nSem as [F]asas da humilha[Bb]ção;\nO Se[Bb]nhor tem dado aos Seus que[F]ridos,\nPar[Gm]te do Seu [C]glorioso [F]ser;\nQuem no [Bb]coração for mais fe[Eb]rido,\nMais da[F]quela glória há [Bb]de ter.\n\nQuando aqui as flores já fenecem,\nAs do céu começam a brilhar;\nQuando as [Bb]esperanças desva[Eb]necem,\nO a[F]flito crente vai o[Bb]rar;\nOs mais [Bb]belos hinos e poe[F]sias,\nForam es[Gm]critos [C]em tribula[F]ção,\nE do [Bb]céu, as lindas melo[Eb]dias,\nSe ou[F]viram, na escuri[Bb]dão.\n\nSim, con[Bb]fia tu, inteira[Eb]mente;\nNa i[F]mensa graça do Se[Bb]nhor;\nSe[Bb]ja de ti longe o desa[Eb]lento\nE con[F]fia no Seu santo a[Bb]mor.\nAle[Bb]luia seja a di[F]visa,\nDo he[Gm]rói e [C]todo o vence[F]dor;\nE do [Bb]céu mais forte vem a [Eb]brisa,\nQue te [F]leva ao seio do Se[Bb]nhor."
     },
     {
         "numero": 127,
@@ -3970,7 +3970,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 127 - O Senhor da Ceifa Chama\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]O Senhor da ceifa está cha[C]mando:\n“[D]Quem quer ir por Mim a procu[G]rar\n[G]Almas que no mundo, vão cho[C]rando;\n[D]Sem da salvação partici[G]par?”\n\nCoro:\nFala [G]Deus! Fala [D]Deus!\n[D]Toca-me com brasa do al[G]tar;\nFala [G]Deus! Fala [C]Deus!\n[D]Sim, alegre, atendo ao Teu man[G]dar.\n\n[G]O profeta a Deus se aproxi[C]mando,\n[D]Considera-se um peca[G]dor,\n[G]Mas, o fogo santo o quei[C]mando,\n[D]Torna-o útil para seu Se[G]nhor.\n\n[G]Muitos são os que vão expi[C]rando\n[D]Sem ter esperança de ver [G]Deus:\n[G]Vai depressa lhes anun[C]ciando,\n[D]Que Jesus os leva para os [G]céus.\n\n[G]Breve, os trabalhos serão [C]findos,\n[D]Bênçãos vão os servos desfru[G]tar;\n[G]E Jesus os saudará: “Bem-[C]vindos\",\n[D]Esta glória espero alcan[G]çar."
     },
     {
         "numero": 128,
@@ -4003,7 +4003,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 128 - Entrega o Teu Coração\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Ó alma [Eb]triste, per[Ab]dida,\nQue [Db]vagas [Bb]sem ter dire[Eb]ção!\nA[Ab]ceita [C]de Deus a [Fm]vi[C]da,\nEn[Ab]trega teu cora[Eb][Ab]ção!\n\nCoro:\n[Ab]Dá, [Eb]hoje, a [Ab]Cristo,\n[Ab]Teu cora[Eb]ção, teu cora[Ab]ção.\nPois [Ab]nEle acha[Bbm]rás a [Ab/C]paz, o per[Db]dão,\nEn[Bb]trega teu cora[Eb]ção.\n[Ab]Dá, [Eb]hoje, a [Ab]Cristo,\n[Ab]Teu cora[Eb]ção, teu cora[Ab]ção.\nPois [Ab]nEle acha[Bbm]ria a [Ab/C]paz, o per[Db]dão,\nEn[Ab]trega teu [Eb]cora[Ab]ção.\n\nJe[Ab]sus não [Eb]quer teu di[Ab]nheiro;\nDe [Db]graça te [Bb]dá salva[Eb]ção!\nE [Ab]gozo [C]mui verda[Fm]dei[C]ro:\nEn[Ab]trega teu cora[Eb][Ab]ção!\n\nDe [Ab]Cristo res[Eb]susci[Ab]tado\nA[Db]ceita o [Bb]vero per[Eb]dão,\nSe [Ab]queres [C]ser liber[Fm]ta[C]do,\nEn[Ab]trega teu cora[Eb][Ab]ção.\n\nA[Ab]gora é o [Eb]tempo acei[Ab]tável\nO [Db]dia em que [Bb]há salva[Eb]ção.\nA [Ab]Cristo, [C]meigo, ado[Fm]rá[C]vel\nEn[Ab]trega teu cora[Eb][Ab]ção."
     },
     {
         "numero": 129,
@@ -4036,7 +4036,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 129 - A Fonte Salvadora\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nÓ pecador, vem à fonte,\nCom o teu fardo de dor,\n[F]Vem Sepultá-lo nas águas;\n[F]Paz acha[C]rás no Se[F]nhor.\n\nCoro:\n[Bb]Depressa vem, [F]depressa vem!\n[Bb]Um só ins[F]tante não [C]queiras perder;\nJe[F]sus espera salvar-te;\n[F]Mercê p’ra [C]ti, Ele [F]tem.\n\n[F]Como estás, vem à fonte,\n[F]Jesus es[C]perando está;\n[F]E tua alma manchada\n[F]Alva e [C]pura se[F]rá.\n\n[F]O Salvador não despreza\n[F]Quem, arre[C]pendido, crer.\n[F]A vida eterna esperando\n[F]De Suas [C]mãos rece[F]ber.\n\n[F]Vem ser curado na fonte;\n[F]Jesus a [C]paz te quer dar;\n[F]Vem, humilhado e Contrito,\n[F]Tua alma pu[C]rifi[F]car."
     },
     {
         "numero": 130,
@@ -4064,7 +4064,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 130 - Cristo é Meu!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Manso Pastor já no mundo viveu e [G]Ele [D]é [G]meu,\n[G]Nos dando a vida, por nós padeceu e [A]Ele é [D]meu;\n[G]Graça tão vasta não posso sondar, mas [C]Ele é [B]meu.\n[C]Sou per[A/C#]doado já [G]posso can[E]tar, que [A]E[D]le é [G]meu.\n\nCoro:\n[G]Cris[D/F#]to é [Em]meu! [C]Cristo é [B]meu!\n[C]Maravi[A/C#]lhoso, mas [G]certo é di[E]zer:\nJe[A]sus [D]é [E]meu!\n\n[G]Há um amigo de amor sem igual e [G]E[D]le é [G]meu;\n[G]Sempre o mais forte, o mais firme e leal e [A]Ele é [D]meu.\n[G]Sou tão indigno de ser um dos Seus, mas [C]Ele é [B]meu.\n[C]Vou Seu a[A/C#]mor desfru[G]tar, lá nos [E]céus, pois [A]Ele [D]é [G]meu.\n\nEle mandou-nos o Consolador, também é meu.\n[G]Cheio de graça, de paz e de amor, e [A]tudo é [D]meu.\n[G]Nada me nega dos Seus ricos dons, pois [C]tudo é [B]meu.\n[C]Grandes te[A/C#]souros, tão [G]puros e [E]bons, são [A]to[D]dos [G]meus."
     },
     {
         "numero": 131,
@@ -4092,7 +4092,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 131 - De Valor Em Valor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nSó em [Ab]Ti, meu Senhor eu de[Db]sejo estar,\nE tam[Ab]bém rece[Bb]ber Tua [Eb]luz;\nDe va[Ab]lor em valor só por [Db]Ti avançar,\nÓ me [Ab]traz junto a [Bb]Ti, meu [Eb]Je[Ab]sus.\n\nCoro:\nEu de[Eb]sejo, ó Deus, em Je[Ab]sus habitar;\nPois mi[Bb]nh’alma suspira por [Eb]Ti;\nDe va[Ab]lor em valor, e na [Db]fé aumentar,\nPara [Ab]que vejam [Bb]Cristo [Eb]em [Ab]mim.\n\nO ca[Ab]minho, Senhor, faz-me [Db]mais conhecer,\nQue me [Ab]leva à [Bb]santa [Eb]Sião;\nPor Teu [Ab]grande favor, e com [Db]muito prazer\nEntra[Ab]rei na e[Bb]ternal [Eb]man[Ab]são.\n\nTua [Ab]mão, ó Senhor! Queira [Db]me proteger,\nE dos [Ab]males da[Bb]qui me li[Eb]vrar;\nNa [Ab]manhã d’esplendor, eu tam[Db]bém quero ser\nDos [Ab]fiéis, que vão [Bb]ressus[Eb]ci[Ab]tar."
     },
     {
         "numero": 132,
@@ -4120,7 +4120,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 132 - Obreiros do Senhor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nSomos o[Bb]breiros do Senhor,\nÀ messe [Bb]vamos, com a[F]mor,\nA procla[F]mar a salva[Bb]ção\nDe [C]Cristo e o Seu per[F]dão;\nPois traba[Bb]lhemos por amor\nDe Cristo, [Bb]nosso Sal[Bdim]vador,\nQue por [F/C]nós o [C]sangue [F]derramou,\nE no Cal[C]vário expi[F]rou.\n\nCoro:\nÀ colheita vinde já, pois Jesus vos chama;\n“[F]Todos devem trabalhar”, o Senhor pro[Bb]clama,\nBreve, tudo findará, não se poderá segar;\nVinde [Bb/F]cren[F]tes, vinde traba[Bb]lhar.\n\nO Evan[Bb]gelho, á pregai,\nA todo [Bb]mundo, sim cha[F]mai,\nE, sem te[F]mor, as novas [Bb]dai\nE a ban[C]deira levan[F]tai\nEm nossas mãos Deus confiou,\nA graça que nos enviou.\nAs novas [F/C]dai, não [C]vaci[F]leis,\nQue a vi[C]tória obte[F]reis.\n\nAs horas, [Bb]prestes, passarão,\nE nunca [Bb]mais a vós vi[F]rão,\nSe não fa[F]lardes de Je[Bb]sus,\nAlguns ja[C]mais verão a [F]luz.\nAinda hoje há perdão,\nO mundo jaz na perdição,\nOh! não [F/C]despre[C]zeis o fa[F]vor\nDo amoro[C]so Salva[F]dor."
     },
     {
         "numero": 133,
@@ -4153,7 +4153,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 133 - No Rol do livro\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nTeu nome, por inteiro, escrito está nos céus\nNo [Bb]livro do Cordeiro, no [C]livro do bom [F]Deus,\nTe[Bb]remos a vitória, o[Eb]lhando no Se[Bb]nhor;\n[Bb]Por isso, damos glórias e [F]gran lou[Bb]vor.\n\nCoro:\nTeu [Bb]nome escrito, ir[Eb]mão, está por [Bb]Deus,\nNo [Bb]livro da vida, no [F]rol dos filhos Seus,\nTeu [Bb]nome escrito, ir[Eb]mão, está nos [Bb]céus;\nOh! [Bb]glória, aleluia! A[F][Bb]mém.\n\nA[Bb]legres nós andamos na [Eb]graça do Se[Bb]nhor;\nE [Bb]nela nós achamos po[C]der consola[F]dor!\nDe [Bb]Cristo recebemos, a[Eb]juda e vi[Bb]gor;\nA[Bb]vante, pois marchemos, sem [F]mais te[Bb]mor.\n\nNós [Bb]criaturas, somos re[Eb]midas por Je[Bb]sus,\nNo [Bb]qual eleitos fomos, pra [C]desfrutar a [F]luz,\nNós [Bb]temos, por herança, Je[Eb]sus nos altos [Bb]céus,\nTam[Bb]bém a esperança de [F]ver a [Bb]Deus.\n\nCon[Bb]tentes, levantemos [Eb]os olhos para os [Bb]céus,\nEs[Bb]critos nós já temos, os [C]nomes, lá por [F]Deus;\nSen[Bb]tindo grande gozo, ser[Eb]vindo ao Se[Bb]nhor,\nAo [Bb]Todo-poderoso, ao [F]Reden[Bb]tor."
     },
     {
         "numero": 134,
@@ -4186,7 +4186,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 134 - Jesus à Porta do Coração\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: E\n\nQuem está batendo assim,\nQue enche-me de comoção?\n[E]Quem procura[A]rá por [E]mim?\n[A]Sinto ba[B]ter no cora[E]ção.\n\nCoro:\n[B]Quem bate, diz com [E]mansidão:\n[A]Eu sou Jesus, te [E]vim sal[B]var;\nAbre, duro coração,\n[A]Dentro de [B]ti quero [E]cear.\n\n[E]Quem será? Quem pode ser?\n[E]Sinto ba[B]ter no cora[E]ção!\n[E]Que farei? Que [A]vou fa[E]zer?\n[A]No vale es[B]tou da deci[E]são.\n\n[E]Quem escuto eu bater?\n- [E]Eu sou Je[B]sus, o bom Je[E]sus:\n[E]Abre logo, [A]sem te[E]mer\n[A]Quero te [B]dar a minha [E]luz.\n\nEn[E]tra, entra, Salvador,\n[E]Meu cora[B]ção te quero [E]dar,\n[E]Só em Ti a[A]chei a[E]mor,\n[A]Mesmo em [B]mim queiras mo[E]rar."
     },
     {
         "numero": 135,
@@ -4214,7 +4214,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 135 - O Nome Precioso\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nTeu nome é precioso, amado Salvador,\nE [F]grande, glo[Bb]rioso, nos [C]enche de a[F]mor,\nNós todos Te adoramos com verdadeira fé,\nTam[Eb]bém nos humi[Bb]lhamos, [F]aos Teus santos [Bb]pés.\n\nCoro:\n[Bb]Quantas bênçãos prome[Eb]tidas\n[F]No Teu nome, ó Salva[Bb]dor!\nHoje tenho vida. Graça é concedida,\n[Bb/F]No Teu nome, ó [C]Sal[F]va[Bb]dor!\n\nTeu nome é sagrado, nos dá consolação;\nPor [F]Ele foi-nos [Bb]dado, do [C]céu, real per[F]dão;\nA[Bb]viva a espe[F]rança, aumenta nosso a[Bb]mor,\nDá [Eb]firme con[Bb]fiança e [F]mais do Teu vi[Bb]gor.\n\nTeu nome é nossa vida e paz, ó Salvador!\nA arca oferecida ao pobre pecador;\n[Bb]Por Ele aben[F]çoada é toda a na[Bb]ção,\nQue [Eb]foi predesti[Bb]nada à [F]grande voca[Bb]ção."
     },
     {
         "numero": 136,
@@ -4243,7 +4243,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 136 - Jesus, Nosso Socorro\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Em nosso socorro [C]vem, ó vem, Je[F]sus!\n[F]Pois grande tristeza [G]nos ofusca a [C]luz;\n[C]A Ti recor[F]remos, [C]vem nos dar vi[F]gor,\n[F]Reveste-nos todos do [C]Teu grande a[F]mor!\n\n[F]Em nosso socorro [C]vem, ó vem Je[F]sus!\n[F]Em Ti confiamos, [G]és a nossa [C]luz;\n[C]Protege-nos [F]sempre [C]do vil tenta[F]dor,\nRe[F]veste-nos todos do [C]Teu grande a[F]mor!\n\n[F]Em nosso socorro [C]vem, ó vem, Je[F]sus!\n[F]Combate o inimigo [G]com a Tua [C]luz;\n[C]A Ti nós cla[F]mamos, [C]responde, Se[F]nhor,\n[F]Reveste-nos todos do [C]Teu grande a[F]mor!\n\n[F]Em nosso socorro [C]vem, ó vem, Je[F]sus!\nA plena vitória, [G]hoje nos con[C]duz;\n[C]Dá-nos Tua [F]graça, [C]poder e va[F]lor.\nRe[F]veste-nos todos do [C]Teu grande a[F]mor!"
     },
     {
         "numero": 137,
@@ -4281,7 +4281,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 137 - Liberto da Escravidão\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nEm [F]Babilônia, [Bb]em prisão,\nEs[C]tava Is[F]rael,\nO [F]povo [Dm]san[Gm]to de Sião,\nSo[C]frendo dor [F]cruel.\n\nCoro:\nMas, um [F]dia, se ou[Dm]viu,\nQue do [Bb]rei a voz [Gm]saiu\nP’ra vol[C]tarem da escravi[F]dão.\nTodo po[F]vo a Jubi[Dm]lar,\nCom as [Bb]harpas a can[Gm]tar,\nFoi em [C]busca de [F]Sião.\n\n\"Can[F]tai\" disseram [Bb]os caldeus,\nOs [C]hinos de [F]Sião,\nMas [F]isto [Dm]mais en[Gm]tristeceu,\nOs [C]filhos de A[F]braão.\n\nLi[F]bertos fo[Bb]ram lá por Deus\nDa [C]vil escravi[F]dão.\nE [F]to[Dm]da al[Gm]ma se encheu,\nDe [C]riso e grati[F]dão.\n\nQuão [F]grandes coisas [Bb]nos fez Deus!\nCan[C]tavam, já. en[F]tão;\nE [F]qual um [Dm]sonho [Gm]pareceu\nA [C]volta pra [F]Sião.\n\nE [F]neste mundo, [Bb]qual Babel,\nHá [C]muitos em pri[F]são,\nSo[F]frendo [Dm]uma [Gm]dor cruel,\nSem [C]ter consolação."
     },
     {
         "numero": 138,
@@ -4309,7 +4309,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 138 - Quem Bate é Jesus Cristo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Se da morte [Bb]tens hor[Eb]ror,\n[F]E salva[Eb]ção de[Bb]sejas,\n[Eb]Volta aos braços [Bb]do Se[Cm]nhor,\n[Ab]Para que [Bb]salvo tu se[Eb]jas;\n[Bb]Abre bem teu [Eb]coração,\n[Bb]E recebe [Eb]salvação,\n[Eb]Sem nenhuma [Ab]turbação;\n[Eb]Quem bate é Jesus [Bb]Cris[Eb]to.\n\nCoro:\n[Eb]Deves-Lhe dar abrigo.\n[Bb]Não há nenhum pe[Eb]rigo;\n[Eb]Cristo quer só [Ab]te salvar;\n[Eb]Na mesa, cear con[Bb]ti[Eb]go.\n\n[Eb]Já sofreu por [Bb]ti, na [Eb]cruz,\n[F]Para te [Eb]dar a [Bb]vida;\n[Eb]O divino e [Bb]bom Je[Cm]sus\n[Ab]As marcas [Bb]tem das feri[Eb]das;\n[Bb]Não O vês a [Eb]soluçar,\n[Bb]E Seu sangue a [Eb]gotejar?\n[Eb]Não O vais dei[Ab]xar entrar?\n[Eb]Quem bate é Jesus [Bb]Cris[Eb]to.\n\n[Eb]Se tu andas [Bb]em te[Eb]mor;\n[F]Longe do [Eb]Pai a[Bb]mado,\n[Eb]Quem será teu [Bb]prote[Cm]tor,\n[Ab]Quando o [Bb]mal for chega[Eb]do?\n[Bb]Segue a quem mor[Eb]reu na cruz,\n[Bb]Pois à vida [Eb]te conduz;\n[Eb]Dar-te-á nas [Ab]trevas luz,\n[Eb]Quem bate é Jesus [Bb]Cris[Eb]to."
     },
     {
         "numero": 139,
@@ -4342,7 +4342,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 139 - Jesus, Meu Eterno Redentor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nJá o [C]Filho de Deus é descido do céu;\nA [F]obra perfeita na [C]cruz consumou;\nE a[C]li Sua carne, rasgada qual véu,\n[F]Vivo ca[C]minho para o [G]céu nos consa[C]grou.\n\nCoro:\nJe[C]sus é meu eterno Reden[F]tor!\n[D]Por Seu sangue lá remido es[G]tou;\n[C]Deu-me paz, poder consola[F]dor;\nVi[F]vo con[C]tente, pois E[G]le me a[C]mou.\n\nPor A[C]dão, o pecado no mundo entrou;\nNin[F]guém dessa lei se po[C]dia libertar;\nMas o [C]Filho do homem por nós triunfou,\n[F]NEle po[C]demos do [G]mal ressusci[C]tar.\n\nDo in[C]ferno, que paga aos maus, há de dar,\nDo [F]medo da morte, esse [C]dardo cruel,\nDo a[C]bismo eterno te pode salvar,\n[F]Só Jesus [C]Cristo, o [G]bom Ema[C]nuel.\n\nBem a[C]legres buscamos a pátria de amor,\nA [F]qual Deus no céu para [C]nós preparou,\nOnde [C]sempre veremos o nosso Senhor,\n[F]Cristo Je[C]sus, que do [G]mal nos liber[C]tou."
     },
     {
         "numero": 140,
@@ -4375,7 +4375,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 140 - A Segurança do Crente\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nDe [Ab]mal nenhum eu temerei,\nEm [Eb]mim está Je[Ab]sus:\nJa[Ab]mais perturbação terei,\nPois [Eb]vivo já na [Ab]luz.\n\nCoro:\nSinto [Db]paz mui profunda en[Ab]fim,\nSinto [Eb]paz prove[Bb]niente da [Eb]cruz,\nPela [Ab]fé sinto viver em [Db]mim,\nMeu Je[Eb]sus, meu Je[Ab]sus.\n\nJe[Ab]sus me trouxe salvação;\nTam[Eb]bém, me disse as[Ab]sim:\nMe [Ab]busca na tribulação,\nPra [Eb]teres paz em [Ab]Mim.\n\nNa [Ab]grande festa do perdão,\nNo [Eb]Seu real po[Ab]der,\nMe [Ab]concedeu admissão,\nQuem [Eb]quis por mim mor[Ab]rer.\n\nJá [Ab]tenho uma viva fé,\nQue [Eb]não confundi[Ab]rá;\nO a[Ab]mor de Deus, que puro é,\nDe [Eb]paz me enche[Ab]rá."
     },
     {
         "numero": 141,
@@ -4408,7 +4408,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 141 - Guia-me Sempre, Meu Senhor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nAonde [Eb]guiar-me meu Senhor,\n[Ab]Eu segui[Eb]rei, por [Bb]Seu amor;\nÉ Sua mão que me conduz,\nPor mim fe[Eb]rida [Bb]sobre a [Eb]cruz.\n\nCoro:\nGuia-me [Ab]sempre, meu Se[Eb]nhor,\nGuia meus [Ab]passos, [F]Salva[Bb]dor;\nTu me com[Eb]praste sobre a [Ab]cruz;\nRege-me em [Bb]tudo, meu Je[Eb]sus.\n\nAcho pra[Eb]zer em Te seguir;\n[Ab]Descanso e [Eb]paz me [Bb]faz sentir;\n[Eb]Doce é a mim o Teu querer,\nGozo me [Eb]traz Te o[Bb]bede[Eb]cer.\n\nSigo sem [Eb]medo o meu Senhor\n[Ab]Que me en[Eb]cheu do [Bb]Seu amor;\n[Eb]Sentindo perto a Sua mão,\nPosso can[Eb]tar na es[Bb]curi[Eb]dão.\n\nPara Seu [Eb]reino me conduz,\n[Ab]Pelo jar[Eb]dim e pela [Bb]cruz;\n[Eb]Lá ficou morto o velho \"eu\",\nLá meu es[Eb]pírito [Bb]revi[Eb]veu."
     },
     {
         "numero": 142,
@@ -4437,7 +4437,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 142 - A Cidade Celeste\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nÓ [C]Sião ce[F]leste, re[G]pouso dos [C]santos,\nO [F]teu arqui[D]teto se chama o SE[G]NHOR;\nEm [C]ti entra[G]remos, com [C]gozo e canto,\nCom [F]os que a[C]doram o [G]bom Salva[C]dor,\nEm [C]bela pla[F]nície estás si[C]tuada,\nE [Am]que majes[D]tosa rainha és [G]tu!\nDe [C]pedras preciosas estás ador[G]na[C]da;\nDe[Am]monstras a [G]glória de Cristo Je[C]sus.\nDe [G]Cristo Je[C]sus. de Cristo Jesus.\nDe[Am]monstras a [G]glória de Cristo Je[C]sus.\n\nTeus [C]belos ca[F]minhos tra[G]tados com [C]zelo,\nE [F]as tuas [D]torres, que vistas fa[G]rão!\nDe [C]todos os pa[G]lácios, gran[C]dioso é o modelo;\nEm [F]ti nós te[C]remos a [G]consola[C]ção;\nAs portas do muro são todas formosas;\nA praça é calçada de ouro que luz;\nEm [C]ti essas coisas são mui glo[G]rio[C]sas,\n[Am]E és toda [G]cheia da paz de Je[C]sus!\nDa [G]paz de Je[C]sus, da paz de Jesus.\n[Am]E és toda [G]cheia da paz de Je[C]sus.\n\nJa[C]mais have[F]rá em ti [G]noite al[C]guma,\nTeu [F]grande lu[D]zeiro perpétuo se[G]rá;\n[C]Sem a luz do [G]sol, nem d’es[C]trelas ou lua.\nA [F]glória de [C]Cristo te a[G]lumia[C]rá.\nE [C]neste es[F]plendor, de um sol verda[C]deiro,\nOs [Am]santos e [D]anjos do céu entra[G]rão,\nE [C]virá na frente Jesus, o Cor[G]dei[C]ro;\n[Am]Com Ele pra [G]sempre ali reina[C]rão.\nA[G]li reina[C]rão, ali reinarão,\n[Am]Com Ele pra [G]sempre ali reina[C]rão.\n\nOh! [C]que grande [F]festa [G]nos é conce[C]dida,\nCom [F]a mesa [D]posta, espera o Se[G]nhor,\nA [C]todos ins[G]critos no [C]livro da vida,\nE [F]que já da [C]morte não [G]têm mais te[C]mor;\nDe [C]todos os que [F]foram por Cristo com[C]prados,\nO [Am]lindo cor[D]tejo composto se[G]rá;\nE [C]Deus, que há dado o Seu filho a[G]ma[C]do,\nCom [Am]Cristo na [G]glória, os consola[C]rá,\nOs [G]consola[C]rá, os consolará,\nCom [Am]Cristo na [G]glória, os consola[C]rá."
     },
     {
         "numero": 143,
@@ -4465,7 +4465,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 143 - O Verdadeiro Amigo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\nTu [A]és pra mim o verdadeiro amigo,\nSó em [D]Ti, meu Reden[B]tor, vou con[E]fiar,\nDe[A]fende-me do mundo, do perigo;\nAnsio[E]so, eu Te quero encon[A]trar.\n\nCoro:\nVem le[Bm]var me para [A]perto\nDo Teu [B]grande e bondoso cora[E]ção;\nSempre a[A]vante e bem [D]cer[Bm]to,\nCom Je[E]sus, eu vou andando p'ra [A]Sião.\n\nVem [A]já, Senhor, com Tua graça imensa\nAju[D]dar-me a le[B]var a minha [E]cruz,\nFa[A]zendo-me sentir real presença,\nDo Conso[E]lador divino, ó Je[A]sus!\n\nJe[A]sus, Tu és a minha esperança,\nE con[D]tente eu de[B]sejo Te se[E]guir;\nA [A]Ti orando, com perseverança,\nPara [E]que me guardes sempre de [A]cair."
     },
     {
         "numero": 144,
@@ -4498,7 +4498,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 144 - Vem à Assembléia de Deus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nÀ Assem[Bb]bléia de Deus, vem comi[Eb]go,\nOu[F]vir a Palavra de [Bb]Deus;\nE te[Eb]rás a certeza, con[Bb]tigo,\nQue Je[F]sus é o caminho dos [Bb]céus.\n\nCoro:\nÓ vem, [Bb]vem, vem, vem!\n[Bb]Vem à Assembléia e louve[Eb]mos\nAo [F]nosso bom Deus Reden[Bb]tor,\nPois [Eb]maior alegria [Bb]não temos,\nQue [Bb/F]fruir Seu i[F]menso a[Bb]mor.\n\nVem, ir[Bb]mão, à Assembléia dos San[Eb]tos,\nSen[F]tir o poder do Se[Bb]nhor\nE [Eb]ali entoar lindos [Bb]cantos\nExul[F]tando no Consola[Bb]dor.\n\nNa Assem[Bb]bléia de Deus tu este[Eb]jas\nHu[F]milde aos pés do Se[Bb]nhor:\nSanti[Eb]dade convém à I[Bb]greja,\nP'ra go[F]zarmos celeste a[Bb]mor.\n\nNós sen[Bb]timos a santa presen[Eb]ça\nDo [F]nosso querido Je[Bb]sus;\nAnu[Eb]lada foi tua sen[Bb]tença:\nDeixa as [F]trevas e vem para a [Bb]luz."
     },
     {
         "numero": 145,
@@ -4531,7 +4531,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 145 - União do Crente Com Seu Senhor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Db\n\n[Db]A [Gb/Db]minha [Db]alma Te ama, ó Se[Ab]nhor!\n[Ab]E desfalece sedenta de a[Db]mor;\n[Db]meu consolo na aflição,\nE [Db]luz perfeIta na escuridão;\nMeu [Db]verda[Ab]deiro [Db]pão.\n\nCoro:\n[Db]A mi[Gb]nha alma [Ab]ama-Te; Se[Db]nhor,\n[Db]De Ti só re[Gb]cebe [Ab]vida e a[Db]mor!\n\n[Db]A mi[Db]nha alma Te ama, ó Se[Ab]nhor!\n[Ab]Almeja sempre andar no Teu te[Db]mor:\n[Db]Tu vives já no meu coração\nE [Db]guias-me pela Tua mão;\nÉs [Db]minha [Ab]salva[Db]ção.\n\n[Db]A [Gb]mi[Db]nha [Db]alma Te ama, ó Se[Ab]nhor!\n[Ab]A Tua face procura com fer[Db]vor:\nDe[Db]sejo ter a celeste paz,\nO [Db]gozo santo, que satisfaz,\nE [Db]salva[Ab]ção ve[Db]raz.\n\n[Db]A minha [Db]alma Te ama, ó Se[Ab]nhor!\n[Ab]Por mim sofreste incomparável [Db]dor;\nTeu [Db]nome quero, aqui louvar;\nOs [Db]Teus preceitos e leis honrar,\nE [Db]sempre em [Ab]Ti pen[Db]sar."
     },
     {
         "numero": 146,
@@ -4559,7 +4559,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 146 - Caminho brilhante\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nPor um caminho brilhante vou,\nDe majestosa luz;\n[C]Pelo ca[Am]minho que [D]já trilhou,\n[D]Nossa Senhor Je[G]sus;\n[G]Sem me lembrar do que se passou,\n[G]Bem feliz canto, [C]sim,\n[C]Pois filho do Rei do~ [G]reis eu sou:\n[Em]Cristo é [D]meu, por [G]fim;\n\nCoro:\n[G]Meu, por fim; [D]meu, por fim!\n[Em]Cristo da [A]morte li[D]vrou-me, sim!\n[G]Me ouviu, [G]me re[C]miu,\n[Em]Cristo é [D]meu, por [G]fim!\n\n[G]No mundo não tenho mais prazer,\n[G]Purificado es[C]tou,\n[C]Nunca ja[Am]mais hei de [D]perecer,\n[D]Pois Jesus me li[G]vrou;\n[G]Ele me ama e me quer bem,\n[G]Tudo é para [C]mim;\nNE[C]le encontro lou[G]vor, também.\n[Em]Cristo é [D]meu, por [G]fim.\n\n[G]Quem de Jesus me separará?\n[G]Tenho-O no cora[C]ção;\n[C]Ele nas [Am]trevas me [D]guiará\n[D]Para a feliz [G]Sião.\n[G]Sempre contente, sem vacilar,\n[G]Venço o mal, as[C]sim;\n[C]Tenho prazer se na [G]luz andar.\n[Em]Cristo é [D]meu, por [G]fim."
     },
     {
         "numero": 147,
@@ -4592,7 +4592,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 147 - Servir a Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n[C]Quero eu servir-Te, ó meu Rei Jesus,\n[F]E contigo sempre cami[C]nhar na [G]luz,\n[C]Tendo com o povo de Deus comunhão\nE dos [G]meus pecados purifica[C]ção.\n\nCoro:\n[C]Sim, ó meu Se[F]nhor;\nQuero se[C]guir-Te, ó Deus de a[G]mor.\n[C]Sempre Te ser[F]vindo,\nE também [G]dando a Ti lou[C]vor.\n\n[C]No Teu bom serviço tenho eu prazer.\n[F]Nele muita graça eu vou [C]rece[G]ber;\n[C]Sempre falarei assim do Teu amor.\nE Te [G]glorificarei, meu Salva[C]dor.\n\n[C]Desça Tua graça sobre mim, Senhor,\n[F]Para trabalhar com mais e [C]mais fer[G]vor,\n[C]Dá-me entendimento e veraz saber,\nPara a[G]legre, eu fazer o Teu que[C]rer.\n\n[C]Só em Ti confio, meu Senhor e Rei;\n[F]Só em Ti vitória eu al[C]cança[G]rei.\n[C]E contigo quero sempre aqui viver,\n'Té que [G]p'ra Sião, me venhas rece[C]ber."
     },
     {
         "numero": 148,
@@ -4630,7 +4630,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 148 - Bendirei a Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Louvarei meu Guia sábio,\n[Bb]Louvarei, louva[Eb]rei;\n[Eb]Bendirei, com alma e lábios,\n[Bb]Bendirei Je[Eb]sus.\n\nCoro:\n[Eb]Ale[Ab]luia! Louvo a Je[Eb]sus!\n[Eb]Deu-me salva[Bb]ção na cruz!\n[Eb]Ale[Ab]luia a quem me con[Eb]duz!\n[Bb]Glória a meu Je[Eb]sus!\n\n[Eb]Louvarei a quem me ampara,\n[Bb]Louvarei, louva[Eb]rei;\n[Eb]Nada dEle me separa;\n[Bb]Bendirei Je[Eb]sus.\n\n[Eb]A quem leva os meus cuidados,\n[Bb]Louvarei, louva[Eb]rei;\n[Eb]Me sustenta os pés cansados,\n[Bb]Bendirei Je[Eb]sus.\n\n[Eb]A quem dá-me aqui vitória,\n[Bb]Louvarei, louva[Eb]rei;\n[Eb]Dar-me-à coroa e glória;\n[Bb]Bendirei Je[Eb]sus.\n\n[Eb]Meu sublime Rei glorioso,\n[Bb]Louvarei, louva[Eb]rei;\n[Eb]Em celeste coro e gozo.\n[Bb]Bendirei Je[Eb]sus."
     },
     {
         "numero": 149,
@@ -4673,7 +4673,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 149 - Canto do Pescador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nNo meu [G]barco a remar.\nSobre [Am]as ondas, pelo [C]mar,\nMesmo [D]na bonança ou no fura[G]cão\nNão de[G]sejo mais parar;\nCom [Am]a rede vou pes[C]car,\nMuitos [D]peixes para o reino de [G]Sião,\n\nCoro:\nVou pes[G]car os pecadores para Crlsto,\nNeste [G]mundo cheio de [A]hor[D]ror;\nNão mais [G]desanimarei;\nMinha [Am]rede lança[C]rei;\nMuitos [D]peixes apanhando p’ra o Se[G]nhor.\n\nO meu [G]barco não é bom,\nDe pes[Am]car não tenho [C]dom.\nE me [D]dizem que não devo conti[G]nuar;\nMas Je[G]sus me quis mandar,\nE [Am]por isso vou pes[C]car,\nTé que [D]Ele se apraze em me cha[G]mar.\n\nTem um [G]modo o Senhor.\nQue é [Am]próprio do a[C]mor,\nEle [D]usa dos remidos o me[G]nor,\nTodo o [G]mundo me deixou,\nE de [Am]mim se envergo[C]nhou,\nMas alegre, vou pescar, pois é me[G]lhor.\n\nSe há [G]coisa de valor,\nE [Am]a rede de a[C]mor,\nCujo [D]tio é a obra de Je[G]sus,\nQue pu[G]xada sempre traz\nOs per[Am]didos e sem [C]paz,\nPara [D]receberem do Senhor, a [G]luz.\n\nQuando [G]há um temporal,\nE a [Am]pesca corre [C]mal,\nNova[D]mente no meu barco vou pes[G]car!\nPode [G]ser que desta vez,\nEu não [Am]tenha mais re[C]vés\nPois Je[D]sus eu levo para m'ensi[G]nar.\n\nAca[G]bando de pescar,\nE [Am]deitado a pen[C]sar,\nTenho [D]gozo pelo tempo que gas[G]tei;\nPois te[G]rei um galardão\nPe[Am]la pesca, em [C]Sião,\nPelas [D]almas que no mundo eu ga[G]nhei."
     },
     {
         "numero": 150,
@@ -4701,7 +4701,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 150 - Para Casamentos\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Cheios de contenta[Ab]men[Eb]to\n[Eb]Estamos, Senhor a[Bb]mado,\n[Eb]Porque é o casa[Ab]mento\n[F]Um Teu bom man[Bb]dado.\n\nCoro:\n[Bb]Aos noivos dá prote[Eb]ção,\n[Bb]Concedendo o Teu a[Eb]mor,\n[Ab]Para eles em união,\nVive[Eb]rem p’ra [Bb]Teu lou[Eb]vor.\n\n[Eb]Faze viverem guar[Ab]da[Eb]dos\n[Eb]Na Tua santa dou[Bb]trina\n[Eb]E só andarem [Ab]guiados\n[F]Por Tua mão di[Bb]vina.\n\n[Eb]Confirma esta a[Ab]lian[Eb]ça,\n[Eb]Nós Te pedimos [Bb]ainda,\n[Eb]Enchendo-os da espe[Ab]rança\n[F]Da Tua santa [Bb]vinda."
     },
     {
         "numero": 151,
@@ -4729,7 +4729,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 151 - Fala Jesus Querido\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Fala, Jesus que[Fm]rido; [Bb]fala-me, hoje [Eb]sim!\n[Eb]Fala com Tua bon[Ab]dade; [Bb]fica ao pé de [Eb]mim;\n[Eb]Meu coração a[Fm]berto '[Bb]stá p'ra Tua voz ou[Eb]vir;\n[Eb]Enche-me de louvo[Ab]res [Bb]e gozo p’ra Te ser[Eb]vir.\n\nCoro:\n[Eb]Fala-me suave[Fm]mente! [Bb]Fala, com muito a[Eb]mor!\n[Eb]Vencedor [C]para [Fm]sempre, [Bb]livre te hei de [Eb]por,\n[Eb]Fala-me cada [Fm]dia, [Bb]sempre em terno [Eb]tom;\n[Eb]Ouvir Tua [C]voz eu [Fm]que[Bb]ro e neste mesmo [Eb]som.\n\n[Eb]Para teus filhos [Fm]fa[Bb]la, e, no caminho [Eb]bom,\n[Eb]Pela bondade os [Ab]guia a [Bb]pedir o santo [Eb]dom;\n[Eb]Quererão consa[Fm]grar-se [Bb]para suas vidas [Eb]dar.\n[Eb]Obedecendo a [Ab]Cris[Bb]to e com fervor O a[Eb]mar.\n\n[Eb]Como no tempo an[Fm]tigo, [Bb]Tu revelaste [Eb]a lei,\n[Eb]Mostra-me Tua von[Ab]ta[Bb]de, e à Tua santa [Eb]grei;\nDeixa-me gloriar-Te, quero a Ti louvar,\nCantar alegremente e sempre Te honrar."
     },
     {
         "numero": 152,
@@ -4757,7 +4757,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 152 - Pela Cruz ao Céu Irei\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nAo Cal[Ab]vário, só Jesus se transportou\nLe[Db]vando pesada [Ab]cruz,\nE mor[Eb]rendo, lá p'ra o mor[Ab]tal deixou,\nUm fa[Eb]nal de gloriosa luz.\n\nCoro:\nPela [Ab]cruz ao céu irei;\nPela [Ab]cruz eu seguirei\nPare o [Eb]lar de paz e e[Ab]terno amor\nPe[Db]la cruz ao [Eb]céu i[Ab]rei.\n\nSó na [Ab]cruz, a alma sedenta achará\nA [Db]fonte de Inspira[Ab]ção;\nE a[Eb]li o fardo de [Ab]dor cairá;\nNo Cal[Eb]vário, há salvação.\n\nPela [Ab]cruz irei à mansão celestial.\nO [Db]rumo marcado es[Ab]tá,\nEm minha vida obscura será o fanal;\nEm sua luz minha alma irá."
     },
     {
         "numero": 153,
@@ -4785,7 +4785,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 153 - Soldados de Cristo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nSol[F]dados de Cristo que entrastes na lida.\nLu[Bb]tai sem desmaio, lu[G]tai com va[C]lor;\nE o [F]inimigo levai de vencida,\nDi[Bb]zendo que Cristo é [C]nosso Se[F]nhor.\n\nCoro:\n[F]Soldados de Cristo, marchei sempre avante,\n[Bb]Levando à [F]destra as [G]armas da [C]luz;\n[F]As almas perdidas buscai triunfantes\n[Bb]E prestes, le[F]vai-as a [C]Cristo Je[F]sus.\n\nPe[F]leja, ó crente, a santa peleja,\n[Bb]Prossegue avante por [G]Cristo Je[C]sus;\nE [F]sê mui valente; na frente estejas,\nDi[Bb]zendo que Cristo mor[C]reu numa [F]cruz.\n\nA auro[F]ra se acerca do dia faustoso,\nEm [Bb]que prêmio terão a [G]fé e o va[C]lor;\nE [F]nele, Jesus, galardão grandioso,\nDa[Bb]rá a qualquer que [C]sair vence[F]dor."
     },
     {
         "numero": 154,
@@ -4818,7 +4818,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 154 - Doce Nome de Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nOh! [C]doce nome [G]de Jesus!\nQue [G]belo é a [C]Ti cantar,\nCo'a [C]alma cheia [F]proclamar\nO nome [D]bom de [G]Jesus!\n\nCoro:\n[C]Jesus, ó meu [G]doce Rei!\n[G]Jesus, verda[C]deiro Deus!\n[C]Jesus, sempre [F]louvarei\nDe cora[G]ção, Teu no[C]me.\n\nA[C]doro o nome [G]de Jesus;\nJa[G]mais me falta [C]Seu amor,\nE [C]põe, à parte, [F]minha dor,\nO nome [D]bom de [G]Jesus.\n\nTão [C]puro o nome [G]de Jesus!\nQue [G]meu pesar pô[C]de tirar.\nA [C]grata paz tam[F]bém me dá\nO nome [D]bom de [G]Jesus.\n\nNo [C]doce nome [G]de Jesus,\nA [G]minha alma [C]salva está,\nE [C]nEle tu te [F]salvarás;\nNo nome [D]bom de [G]Jesus."
     },
     {
         "numero": 155,
@@ -4847,7 +4847,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 155 - Imploramos Teu Poder\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nImplo[F]ramos, nosso Salvador,\nTeu po[C]der; Teu poder, Teu po[F]der,\nDivi[F]nal, poder renovador,\nTeu po[C]der, Teu poder, Teu po[F]der.\nBen[Bb]dita promessa pater[F]nal!\nVem en[C]cher-nos de real va[F]lor,\nDo [Bb]pleno poder celes[F]tial,\nTeu po[C]der, Teu poder, Teu po[F]der.\n\nCom o [F]óleo, sim, vem nos ungir,\nTeu po[C]der, Teu poder, Teu po[F]der.\nPai ce[F]leste, faze-nos fruir\nTeu po[C]der, Teu poder, Teu po[F]der.\nTu [Bb]já prometeste derra[F]mar\nTuas [C]bênçãos e nos reves[F]tir.\nPra [Bb]Tua Palavra procla[F]mar,\nCom po[C]der, com poder, com po[F]der.\n\nCom o [F]fogo vem nos inflamar,\nTeu po[C]der, Teu poder, Teu po[F]der.\nE de [F]toda a mancha nos limpar,\nTeu po[C]der, Teu poder, Teu po[F]der.\nA[Bb]quece os frios, ó Se[F]nhor;\nFaze [C]os que dormem desper[F]tar.\nNós [Bb]te suplicamos com fer[F]vor,\nTeu po[C]der, Teu poder, Teu po[F]der.\n\nComo a [F]brisa, queiras assoprar\nTeu po[C]der, Teu poder. Teu po[F]der.\nDeus bendito, vem nos outorgar\nTeu poder, Teu poder, Teu poder.\nPe[Bb]rene e doce comu[F]nhão,\nQuero a[C]qui contigo, ó Pai, go[F]zar;\nDe[Bb]pressa nos enche o cora[F]ção\nCom po[C]der, com poder, com po[F]der."
     },
     {
         "numero": 156,
@@ -4880,7 +4880,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 156 - A Ovelha Perdida\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nO [G]bom Pastor bus[D]cou-me\nJá [D]longe do re[G]dil,\nE [G]com ternura a[C]chou-me,\n[D]Caído, [A]triste, [D]vil!\nAs [D]chagas [G]com a[D]mor pen[G]sou,\nE ao [A]lar nos braços [D][A]me le[D]vou.\n\nCoro:\n[G]Sim, Jesus a[D]mou-me,\n[D]Com amor bus[G]cou-me,\n[G]Ele mesmo [D]restau[G]rou-me a [D]Deus;\n[G]Por Seu [C]sangue, [D]restaurou-me a [G]Deus.\n\nSe[G]guiu-me, bem dis[D]tante\nDo [D]Seu lugar, no [G]céu,\nE [G]disse, em voz a[C]mante:\n“A[D]chei-te, [A]tu és [D]Meu”.\nJa[D]mais sen[G]ti tão [D]grande a[G]mor\nComo [A]este do meu [D]bom [A]Pas[D]tor.\n\nPor [G]Ele sou que[D]rido,\nQue [D]graça singu[G]lar!\nPois [G]Ele foi fe[C]rido,\nA [D]fim de [A]me sal[D]var;\nAs[D]sim, o[G]velha [D]dEle [G]sou,\nE [A]com o Seu re[D]ba[A]nho [D]vou.\n\nPros[G]sigo alegre a[D]gora;\nDeus [D]dá poder ca[G]bal\nE [G]graça salva[C]dora;\nPro[D]tege-[A]me do [D]mal,\nO bom Pastor comigo está,\nMeus passos Ele guiará."
     },
     {
         "numero": 157,
@@ -4908,7 +4908,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 157 - Cristo, em Breve, Vem!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nO [G]dia vem, a [C]clarear,\n[D]Já fugiu a noite, brilha a luz dalém;\nUm [G]grito [C]soa: aprontar!\n[D]Cristo, em breve, [G]vem!\n\nCoro:\nQual [G]forte vendaval, ru[C]gindo Sobre o mar,\nEs[D]cuta-se a mensagem, que do céu pro[G]vém;\nOu[G]vi a grande nova, [C]que alegria traz;\n“[G]Cristo, em [D]breve, [G]vem!”\n\nÓ [G]povos, tri[C]bos e nações\n[D]Que escravizados no pecado estais,\nÓ [G]preparei os [C]corações!\n[D]Oh! Por que demo[G]rais?\n\nDa [G]morte queiram [C]acordar;\n[D]Trevas e pecados. é luz, hão de fugir;\nEm [G]breve iremos [C]encontrar\n[D]Crista, que há de [G]vir."
     },
     {
         "numero": 158,
@@ -4936,7 +4936,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 158 - Que Farás de Jesus Cristo?\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\n[D]Diante de Pilatos 's[G]tá [D]Jesus,\n[Bm]Por todos deixado em aflição,\n[D]O qual pergunta à multidão...\n-\"[D]Que farei [A]de Jesus Cris[D]to?\"\n\nCoro:\nQue farás de Jesus Cristo?\nRespon[Bm]de, hoje, sim;\nDiria um [F#]dia ao [G]vê-[D]Lo:\n“[A]Que fará Ele de [D]mim?\n\n[D]Em julgamento [G]ain[D]da es[Bm]tá\nO Nazareno em aflição,\n[D]E se repete a pergunta, então:\n-\"[D]Que farei [A]de Jesus Crls[D]to?\"\n\n[D]Será julgado Je[G]sus [D]por ti,\n[Bm]Ou recebido com gratidão?\n[D]E, mui alegre, dirás, então:\n-\"[D]Aceito [A]a Jesus Cris[D]to!\""
     },
     {
         "numero": 159,
@@ -4964,7 +4964,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 159 - Cantai, ó Peregrinos\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nCan[F]tai, ó peregri[C]nos, na [F]lida [Dm]não can[C]seis\nA [Bb]vossa fé cres[F]cendo, as [G]harpas já to[C]cai\nEu [C]sobre o monte [F]santo e glorioso es[A]tou,\nE [F]para a minha pátria ce[C]lestial já [F]vou.\n\nCoro:\n[F]Can[C]tai, continua[F]mente,\n[F]lou[C]vai p’ra todo o [F]sempre;\n[C]Meu coração trans[F][Dm]borda com [C]divinal louvor.\n[F]Can[C]tai, continua[F]mente,\n[F]Lou[C]vai p’ra todo o [F]sempre;\n[C]Meu coração trans[F][Dm]borda com [C]divinal lou[F]vor.\n\nCan[F]tai, ó peregri[C]nos, en[F]quanto a[Dm]qui es[C]tais;\nCan[Bb]tai, a Jesus [F]Cristo, en[G]quanto assim pas[C]sais;\nCan[C]tei a velha his[F]tória de Deus e Seu a[A]mor;\nO [F]coro sempiterno res[C]ponde, com fer[F]vor.\n\nCan[F]tai, ó peregri[C]nos, em [F]bre[Dm]ve esta[C]reis,\nCan[Bb]tando melhor hi[F]no, jun[G]to ao Rei dos [C]reis,\nCom [C]os que foram [F]antes, e nos esperam [A]lá,\nEn[F]contraremos todos, e [C]nada turba[F]rá."
     },
     {
         "numero": 160,
@@ -4997,7 +4997,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 160 - Deus Nos Quis Salvar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nIr[Ab]mãos, unidos, [Db]vamos publi[Ab]car\nQue [Eb]Deus nos quis salvar,\nQue [Ab]Deus nos quis salvar,\nCom [Ab]o precioso [Db]sangue de Je[Ab]sus,\nVer[Db]tido [Eb]lá na [Ab]cruz.\n\nCoro:\nQue [Eb]Deus nos quis salvar,\nQue [Ab]Deus nos quis salvar,\nCo’o [Bb]sangue do Senhor Je[Eb]sus;\nÓ irmãos, devemos avançar,\nO[Db]lhando [Eb]para a [Ab]cruz\n\nIr[Ab]mãos, ao mundo [Db]vamos procla[Ab]mar\nQue [Eb]Deus nos quis salvar.\nQue [Ab]Deus nos quis salvar.\nE [Ab]que, mui breve, [Db]há de vir Je[Ab]sus,\nEm [Db]glo[Eb]riosa [Ab]luz.\n\nNa [Ab]sã Palavra [Db]fomos encon[Ab]trar\nQue [Eb]Deus nos quis salvar,\nQue [Ab]Deus nos quis salvar,\nE [Ab]que no céu ve[Db]remos o Se[Ab]nhor,\nRe[Db]pletos [Eb]de a[Ab]mor!\n\nA[Ab]legres, sempre [Db]temos que can[Ab]tar:\nQue [Eb]Deus nos quis salvar,\nQue [Ab]Deus nos quis salvar.\nPor [Ab]Sua graça, [Db]pelo Seu a[Ab]mor,\nLou[Db]vemos [Eb]ao Se[Ab]nhor!"
     },
     {
         "numero": 161,
@@ -5030,7 +5030,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 161 - Navegando Pra Terra Celeste\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nPra [F]terra celeste meu [C]barco andará,\nA[C]li, onde os santos já es[F]tão;\nFin[F]dando a noite, ma[C]nhã romperá;\nEn[C]tão, os remidos entra[F]rão.\n\nCoro:\nSim, [F]vou pelas terras, pelos [C]mares também,\nA[C]lerta, Jesus me guia[F]rá; Ele prometeu a mim,\n[F]Nunca deixar-me no [C]mundo, porém,\nSim, [C]levar-me ao porto, co’ale[F]gria sem fim.\n\nSe[F]rá jubiloso esse [C]dia pra mim,\nEm [C]que eu chegar ao céu de [F]luz;\nQue [F]paz e descanso, com [C]Deus, lá sem fim!\n[C]Saúdo-Te já, ó meu Je[F]sus!\n\nÓ [F]mundo que jazes no [C]vil tentador\nNão [C]quero jamais em ti mo[F]rar,\nP'ra [F]festa celeste eu [C]vou com fervor,\nLouva[C]res a Cristo irei can[F]tar!\n\nAmi[F]gos, lembrai-vos que [C]o naufragar\nÉ [C]fácil p’ra qualquer um de [F]vós;\nConvi[F]te, p’ras bodas, Je[C]sus vos quer dar;\nLu[C]gar há bastante para [F]nós."
     },
     {
         "numero": 162,
@@ -5058,7 +5058,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 162 - O Estandarte da Verdade\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nDa ver[F]dade, levan[Bb]temos o estan[F]darte,\nArvore[F]mos o estandarte de Je[C]sus.\nProcla[F]memos, com va[Bb]lor, por toda [F]parte,\nA men[C]sagem soleníssima da cruz.\n\nCoro:\nO mundo es[F]tá sem luz, sem [C]paz;\nLevemos [C]paz, consola[F]ção,\nA quem, na [F]dor, no luto [Bb]faz,\nSem luz, sem [F]paz, sem [C]salva[F]ção.\n\nDa ver[F]dade, levan[Bb]temos o estan[F]darte;\nProcla[F]maremos o Senhor, que é luz e [C]paz;\nPeca[F]dor, ouve! Je[Bb]sus tem para [F]dar-te\nSalva[C]ção que nEle só, encontrarás.\n\nDo Evange[F]lho, levan[Bb]temos o estan[F]darte,\nVem, des[F]perta do teu sono, peca[C]dor;\nQue o teu [F]Deus, que o teu Se[Bb]nhor tem para [F]dar-te\nCo[C]piosas bênçãos do Seu grande amor."
     },
     {
         "numero": 163,
@@ -5091,7 +5091,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 163 - Cristo Morreu Por Mim\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nDo Calvário, pela senda,\nO Senhor Jesus subiu,\n[F]E na cruz, em [Bb]dor hor[F]renda,\n[C]O[Am]bra de a[E/G#]mor cum[Am]priu!\n\nCoro:\n[C]Sobre a [F]cruz, [Dm]sobre a cruz,\n[C]Cristo Je[F]sus mor[C]reu por [F]mim;\n[C]Sobre a [F]cruz, [Dm]sobre a cruz,\n[C]Cristo Je[F]sus mor[C]reu por [F][Bb]ti.\n\n[F]Oh! Que obra [Bb]glo[F]riosa\n[C]Foi pra [Dm]Deus a [C]de Je[F]sus!\n[F]Sua morte [Bb]tão pe[F]nosa\n[C]Fez [Am]raiar, do [E/G#]céu, a [Am]luz!\n\n[F]Nesta obra [Bb]hoje [F]crendo,\n[C]Te[Dm]nho vida [C]e pra[F]zer;\n[F]Pela fé, es[Bb]tou re[F]vendo\n[C]O Se[Am]nhor, por [E/G#]mim so[Am]frer.\n\n[F]Pecador na [Bb]cruz re[F]mirá,\n[C]De Je[Dm]sus a [C]morte a[F]troz.\n[F]Pois o teu pe[Bb]cado [F]tira,\n[C]Se ou[Am]vi[E/G#]res Sua [Am]voz."
     },
     {
         "numero": 164,
@@ -5115,7 +5115,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 164 - Paz Luz e Amor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Recebi de graça, abundante [D]paz\n[D]Por Deus concedida, que me satis[G]faz;\n[G]Queres recebê-la no teu cora[C]ção?\n[C]Busca o Se[D]nhor e a Sua salva[G]ção,\n[G]Mais de Sua paz, mais de Sua paz,\nQue[C]ro rece[G]ber de [Em]Deus, que é ve[D]raz.\n[G]Maia de Sua paz, [B]mais de Sua paz,\n[C]Quero rece[G]ber de Deus, que [D]é ve[G]raz.\n\n[G]Recebi de graça, abundante [D]luz,\n[D]Luz maravilhosa, que me deu Je[G]sus;\n[G]Queres recebê-la, pobre peca[C]dor?\n[C]Deixa, hoje [D]mesmo, o mundo de hor[G]ror.\n[G]Mais de Sua luz, mais de Sua luz,\n[C]Quero rece[G]ber do [Em]Salvador Je[D]sus,\n[G]Mais de Sus luz, [B]mais de Sua luz,\n[C]Quero rece[G]ber do Salva[D]dor Je[G]sus.\n\n[G]Recebi de graça abundante a[D]mor,\n[D]O amor divino do Consola[G]dor;\n[G]Queres recebê-lo? Abre o cora[C]ção,\n[C]E terás mais [D]gozo e veraz per[G]dão.\n[G]Mais de Seu amor, mais de Seu amor,\n[C]Quero rece[G]ber do [Em]bom Consola[D]dor,\n[G]Mais de Seu amor, [B]mais de Seu amor,\n[C]Quero rece[G]ber do bom Con[D]sola[G]dor."
     },
     {
         "numero": 165,
@@ -5143,7 +5143,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 165 - A Armadura Cristã\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nAo [F]bom Combate va[C]mos, repletos de a[F]mor,\nVes[F]tidos de jus[C]tiça, ferventes no Se[F]nhor;\nCo’os [C]lombos bem cin[F]gidos de [G]verdadeira [C]luz,\nCal[F]çados do Evan[Bb]gelho do [C]Salvador Je[F]sus.\n\nCoro:\n[F]De Deus, a arma[C]dura - de Cristo, o [F]valor,\n[Bb]irmão meu, se[F]gura - p’ra [C]seres vence[F]dor.\n\nDa [F]fé, o es[C]cudo, que pode vos sal[F]var\nDos [F]dardos infla[C]mados, que vem vos ati[F]rar\nO [C]grande inimi[F]go, o as[G]tuto tenta[C]dor\nQue [F]sempre vos procu[Bb]ra tra[C]gar, Com seu fu[F]ror.\n\nEn[F]trai no bom com[C]bate, em nome do Se[F]nhor\nCom ze[F]lo, com co[C]ragem, unidos em a[F]mor;\n[C]O inimigo, [F]breve, as[G]sim, se vence[C]rá,\nE [F]sob os pés [Bb]nossos .Je[C]sus nô-lo po[F]rá."
     },
     {
         "numero": 166,
@@ -5176,7 +5176,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 166 - Deixa Entrar o Rei da Glória\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Ouves tu? Jesus [Eb]te cha[Bb]ma\n[F]Sim, te chama, ó peca[Bb]dor!\n[Bb]A Jesus, que salva [Eb]e a[Bb]ma,\n[F]Vem agora, sem te[Bb]mor.\n\nCoro:\nDeixa entrar o Rei da glória\n[Eb]Em ti mesmo, ó peca[F]dor;\n[Bb]Quem é este Rei da glória?\nÉ Je[F]sus o teu Se[Bb][Eb/Bb]nhor\n\n[Bb]Para o mundo e o [Eb]peca[Bb]do\n[F]Tens no coração lu[Bb]gar,\n[Bb]Mas Jesus ressusci[Eb]ta[Bb]do,\n[F]Tu não podes abrI[Bb]gar?\n\n[Bb]Do prazer, a vista [Eb]lin[Bb]da,\n[F]Deste mundo sedu[Bb]tor,\n[Bb]Sim, um dia aqui se [Eb]fin[Bb]da,\n[F]Com a morte, ó peca[Bb]dor!\n\n[Bb]Hoje é dia acei[Eb]tá[Bb]vel\nPa[F]ra vires t’entre[Bb]gar\n[Bb]A Jesus, que mui a[Eb]má[Bb]vel,\n[F]Quer, e pode te sal[Bb]var"
     },
     {
         "numero": 167,
@@ -5205,7 +5205,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 167 - As Testemunhas de Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nÓ companhei[F]ros desta causa [C]santa\nAnun[C]ciai que Cristo é Salva[F]dor,\nE boa [F]nova que o perdido [C]salva\nE do es[G]cravo faz um vence[C]dor;\nDo Amazo[Dm]nas, até ao Rio [A]Grande,\nO Evan[C]gelho, ousados, procla[F]mai,\nE a men[F]sagem, que da paz nos [C]fala;\nEterna [Gm]glória [C]vos dará do [F]Pai.\n\nA salva[F]ção perfeita e glo[C]riosa,\nQue, em Je[C]sus, o Pai quis reve[F]lar,\nNós publi[F]camos, sim, por toda a [C]parta.\nAos que Je[G]sus já veio pra sal[C]var.\nE mui[Dm]tos já a Cristo se entre[A]garam,\nE a estes [C]outros vão se reu[F]nir,\nSim, a Pa[F]lavra, em vão, não se se[C]meia,\nPois quem a [Gm]deu, tam[C]bém a faz [F]fruir.\n\nPoder do [F]alto pra ser teste[C]munha,\nFoi a pro[C]messa qu’Ele nos dei[F]xou,\nBem poucos [F]crentes, 'stão à Sua es[C]pera,\nDesconhe[G]cendo o que Deus nos le[C]gou,\nMas, glória a [Dm]Deus! Há outros que acor[A]daram\nE cheios [C]de poder pentecos[F]tal,\nVão desper[F]tar os crentes o[C]ciosos,\nP'ra acharem [Gm]este [C]dom celes[F]tial.\n\nNo nome [F]de Jesus nós procla[C]mamos,\nA salva[C]ção pra todo o peca[F]dor,\nE este [F]nome cura os en[C]fermos,\nQue buscam nE[G]le aliviar a [C]dor;\nE os de[Dm]mônios serão ex[A]pulsos,\nPorque Je[C]sus poder nos prome[F]teu,\nE já um [F]povo está se prepa[C]rando\nPra encon[Gm]trar Je[C]sus, o Rei do [F]céu."
     },
     {
         "numero": 168,
@@ -5233,7 +5233,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 168 - Meus Irmãos, Nos Jubilemos\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Meus irmãos, nos jubi[D]lemos\n[D]Em Jesus, o Rei da [G]glória,\n[Em]Nesta fé que rece[C]be[G]mos,\n[D]Nesta paz, que dá vitória,\n[G]No Consolador di[D]vino,\n[D]Que aviva a me[G]mória,\n[Em]E em nós entoa [C]hinos [D]a Je[G]sus.\n\nCoro:\nMeus Irmãos, nos jubilemos\n[D]Em Jesus, por Sua [G]bênção;\n[G]Pois, as[C]sim, nós sem[G]pre [E]temos\nSalvação.\n\nMeus irmãos, nós congregados,\nEntoemos nosso canto\n[Em]Ao Senhor, o nosso a[C]ma[G]do,\n[D]Ao bom Deus, perfeito e santo;\n[G]No seu gozo jubi[D]lemos,\n[D]E secar-se-á o [G]pranto;\n[Em]Em espírito ado[C]remos [D]a Je[G]sus.\n\n[G]Meus irmãos, em Cristo [D]somos\n[D]Pelo Espírito ge[G]rados,\n[Em]E pra sermos santos, [C]fo[G]mos\n[D]Por Jesus já resgatados;\n[G]Pela fé, nós desfru[D]tamos\n[D]Liberdade do pe[G]cado,\n[Em]E também, nos ale[C]gramos [D]em Je[G]sus."
     },
     {
         "numero": 169,
@@ -5294,7 +5294,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 170 - Ao Calvário de Horror\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Como havia trevas [C]no meu cora[G]ção,\n[G]Quando Jesus Cristo [D]me sal[G]vou;\n[C]Pela luz di[G]vina, [D]com a Sua [G]mão,\n[C]Todas as minhas [G]trevas [D]dissi[G]pou!\n\nCoro:\nAo Calvário de horror, subiu Jesus,\nLe[D]vando a cruz, le[G]vando a [D]cruz;\n[G]Ao Calvário de horror, subiu Jesus,\nLevando a minha cruz!\n\n[G]Vindo um perdido [C]ao Senhor Je[G]sus,\n[G]Achará o gozo [D]divi[G]na!,\n[C]E na sua [G]alma [D]raiará á [G]luz,\n[C]Luz que vem do [G]céu, luz e[D]ter[G]nal!\n\nÉ maravilhoso o amor de Deus,\nQue mandou Seu Filho p'ra salvar\n[C]Todo o per[G]dido [D]pecador ou [G]réu,\n[C]Que a Sua [G]graça a[D]cei[G]tar!"
     },
     {
         "numero": 171,
@@ -5327,7 +5327,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 171 - Um Pecador Remido\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Era um pecador, andava sem Je[Cm]sus,\n[F]Não tinha esperança, nem divina [Bb]luz;\n[Bb]Hoje sou remido, Cristo me sal[Eb]vou,\n[F]Co’o Seu sangue me la[Bb]vou!\n\nCoro:\nQue amor me concedeu Jesus,\nGo[F]zo santo e celeste [Bb]luz;\n[Bb]Cristo, breve, do céu desce[Eb]rá,\n[Cm]E consigo, en[F]tão, me leva[Bb]rá.\n\n[Bb]O Consolador já veio em mim mo[Cm]rar,\n[F]A Palavra santa veio ilumi[Bb]nar;\n[Bb]Quero ser guiado por tão clara [Eb]luz,\n[F]Que a Cristo me con[Bb]duz.\n\n[Bb]Vem, Jesus amado, vem sem demo[Cm]rar,\n[F]Eu estou ansioso pra no céu en[Bb]trar;\n[Bb]Vem sem mais tardança, faz raiar a [Eb]luz,\n\"[F]Ora vem, Senhor Je[Bb]sus\"\n\n[Bb]Queres, pecador, gozar a salva[Cm]ção?\n[F]Vem a Cristo, hoje, receber per[Bb]dão,\n[Bb]Cristo te aceita, pobre peca[Eb]dor,\n[F]Nos Seus braços de a[Bb]mor!"
     },
     {
         "numero": 172,
@@ -5360,7 +5360,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 172 - Ó Vem Te Entregar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nÓ peca[G]dor, cansado e abatido,\nque neste [D]mundo vagas, sem con[G]solação!\nSe queres [G]ser, de graça, reves[C]tido,\nAceita [D]Cristo, e Sua salva[G]ção.\n\nCoro:\nÓ [G]vem te entre[C]gar\nAo [D]grande Salva[G]dor,\nQue [G]veio te sal[C]var,\nE te es[D]pera, cheio de a[G]mor.\n\nÓ peca[G]dor, se estás desanimado,\nPorque o [D]mal domina todo [G]o teu ser,\nÓ crê em [G]Cristo, o crucifi[C]cado,\nE contra o [D]vício tu terás po[G]der.\n\nÓ peca[G]dor, por que não te entregas\nA Jesus [D]Cristo, o bondoso [G]Salvador?\nQue, vindo a [G]morte, grato te car[C]rega\nAo Pa[D]raíso, ao país de a[G]mor!\n\nSe como[G]ção tu sentes em tu’alma,\nE queres [D]hoje receber a [G]salvação,\nAceita [G]Cristo, com fá e com [C]calma,\nVem te entre[D]gar, de todo o cora[G]ção."
     },
     {
         "numero": 173,
@@ -5388,7 +5388,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 173 - Os Santos Louvam Ao Senhor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nPronto 's[Eb]tamos p’ra louvar Jesus, o [Ab]Salva[Eb]dor,\n[Eb]Glória a Jesus e ale[Bb]luia!\nE ha[Eb]vemos de cantar ao nosso [Ab]Reden[Eb]tor,\n[Eb]Glória a Jesus e ale[Bb][Eb]luia!\n\nCoro:\nTêm os [Eb]santos do Senhor\nO di[Ab]reito de can[Eb]tar\nQue Je[Eb]sus, com grande amor,\nVeio à [Eb]terra p ‘ra sal[Bb]var;\nNos[Eb]sa alma resgatou,\nCom Seu [Ab]sangue nos la[Eb]vou;\n[Eb]Glória a Jesus e ale[Bb][Eb]luia!\n\nA cer[Eb]teza temos já da nossa [Ab]reden[Eb]ção,\n[Eb]Glória a Jesus e ale[Bb]luia!\nE, can[Eb]tando, vamos indo p’ra fe[Ab]liz [Eb]Sião;\n[Eb]Glória a Jesus e ale[Bb][Eb]luia!\n\nTemos [Eb]firmes as promessas que Deus [Ab]nos quis [Eb]dar,\n[Eb]Glória a Jesus e ale[Bb]luia!\nPor Je[Eb]sus, aqui, podemos sempre [Ab]triun[Eb]far,\n[Eb]Glória a Jesus e ale[Bb][Eb]luia!"
     },
     {
         "numero": 174,
@@ -5421,7 +5421,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 174 - Glória, Aleluia, Gloria\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Tenho gozo em dar louvor,\n[C]Glória, ale[F]luia, glória!\n[F]A Jesus, meu Salvador,\n[C]Glória, ale[F]luia, [C]gló[F]ria!\n\nCoro:\n[Bb]Glória a Deus, Jesus [F]me salvou!\n[C]Glória a Deus, Jesus [F]me livrou!\n[Bb]Glória a Deus, que eu [F]salvo estou!\n[F]Glória, aleluia, [C]gló[F]ria!\n\n[F]Só Jesus pode salvar,\n[C]Glória, ale[F]luia, glória!\n[F]E de todo o mal livrar,\n[C]Glória, ale[F]luia, [C]gló[F]ria!\n\n[F]Enquanto no mundo andar,\n[C]Glória, ale[F]luia, glória!\n[F]A Jesus hei de louvar,\n[C]Glória, ale[F]luia, [C]gló[F]ria!\n\n[F]Quando eu no céu chegar,\n[C]Glória, ale[F]luia, glória!\n[F]Para sempre irei cantar,\n[C]Glória, ale[F]luia, [C]gló[F]ria!"
     },
     {
         "numero": 175,
@@ -5449,7 +5449,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 175 - Irmãos Amados\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nIrmãos amados - E resgatados,\nSegui avante - E triunfantes,\nCombate[Eb]remos - E venceremos,\nNo nome [Ab]santo [Bb]de Je[Eb]sus!\n\nCoro:\nNo nome [Ab]santo - alegre [Eb]canto:\nEu fui la[Bb]vado - Santifi[Eb]cado;\nVivi per[Ab]dido - Mas sou re[Eb]mido.\nNo nome [Bb]santo de Je[Eb]sus!\n\nIrmãos a[Eb]mados - Santificados,\nVivei u[Bb]nidos - Pois sois re[Eb]midos,\nNão mais te[Eb]mendo - O bem fazendo,\nNo nome [Ab]santo [Bb]de Je[Eb]sus!\n\nIrmãos a[Eb]mados - Purificados,\nSede va[Bb]lentes - E mui pru[Eb]dentes,\nEstais la[Eb]vados - E libertados,\nNo nome [Ab]santo [Bb]de Je[Eb]sus!"
     },
     {
         "numero": 176,
@@ -5477,7 +5477,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 176 - Sacerdotes do Senhor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nAo Se[C]nhor que nos tem feito\nSacerdo[F]tes verdadeiros,\nDemos-[G]Lhe louvor e glória, [C]sem cessar;\nPois Seu [C]sangue é perfeito,\nRegene[F]ra por in[E]teiro,\nToda a [G]alma, que quer se sal[C]var.\n\nCoro:\nTodos, [G]tendo a mesma mente,\nJubilosos e contentes,\nDemos gló[F]ria, suma [D]honra ao Reden[G]tor:\nSobre a cruz foi traspassado;\nCom Seu [F]sangue derra[E]mado,\nResga[G]tou-nos o bom Salva[C]dor.\n\nEle é o alfa e o Ômega.\nO primeiro e o Ultimo,\nE o [G]Rei dos reis, de todos [C]o Senhor;\nEle [C]é quem nos achega\nSua [F]graça, Seu ar[E]rimo,\nPelo [G]divinal Consola[C]dor.\n\nCom Je[C]sus, o nosso Esposo.\nLá no [F]céu, nós entraremos.\nTodos [G]juntos, sim, no Reino [C]Seu, de amor;\nVê-Lo-e[C]mos glorioso,\nE com [F]Ele canta[E]remos\nNovos [G]hinos, cheios de fer[C]vor."
     },
     {
         "numero": 177,
@@ -5510,7 +5510,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 177 - Salvo Estou\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Salvo estou, Je[C]sus comprou-me\n[G]Do pecado e [D]perdição;\n[G]Com Seu 'spírito [C]já selou-me\n[D]Deu-me paz no cora[G]ção.\n\nCoro:\n[G]Glória, glória, [D]aleluia,\n[G]Já acheis [D]salvação;\n[G]Glória, glória, [D]aleluia,\n[G]Cristo deu-me [D]reden[G]ção.\n\n[G]Cantarei com [C]alegria,\n[G]Jubiloso [D]som do céu.\n[G]Louvarei com [C]harmonia\n[D]A Jesus. o amado [G]meu.\n\n[G]A mensagem [C]gloriosa\n[G]Duma eterna [D]salvação,\n[G]Forte, sim, e [C]poderosa,\n[D]Digna é de aceita[G]ção.\n\nAo chegar o fim da lida,\nMe recebes, Salvador;\n[G]Me concede e[C]terna vida,\n[D]No Teu reino de a[G]mor."
     },
     {
         "numero": 178,
@@ -5543,7 +5543,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 178 - Gloriosa Paz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Crendo em Cristo Je[Eb]sus vim ob[Bb]ter\n[Bb]Gloriosa [F]paz, perfeita [Bb]paz:\n[Bb]Inda que dores a[Eb]çoitem meu [Bb]ser,\nTenho [F]doce paz!\n\nCoro:\n[Bb]Paz, paz, [C]gloriosa paz;\nPaz, paz, perfeita paz;\n[Eb]Desde que [C/E]Cristo mi[Bb/F]nh’alma salvou,\nTenho [C]do[F]ce [Bb]paz!\n\n[Bb]Paz insondável, qual [Eb]um grande [Bb]mar,\n[Bb]Gloriosa [F]paz, perfeita [Bb]paz;\nPosso nos braços de Deus repousar,\nTenho doce paz!\n\n[Bb]Paz inefável de [Eb]Deus, que faz [Bb]bem,\n[Bb]Gloriosa [F]paz, perfeita [Bb]paz;\n[Bb]Que dá alento à [Eb]alma tam[Bb]bém,\nTenho [F]doce paz!\n\n[Bb]E, nos conflitos [Eb]com o tenta[Bb]dor,\n[Bb]Gloriosa [F]paz. perfeita [Bb]paz,\n[Bb]Cristo Jesus [Eb]me fará vence[Bb]dor,\nTenho [F]doce paz!"
     },
     {
         "numero": 179,
@@ -5576,7 +5576,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 179 - Redentor Formoso\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n[C]Redentor formoso e belo,\n[C]Que ha[G]bitas em al[C]vor;\n[C]Na minh'alma eu anelo\n[F]De ser [G]como és Tu, Se[C]nhor\n\nCoro:\n[G]Té que um dia [C]vá, remido,\n[F]No céu eu [Dm]ver o [D]Reden[G]tor!\n[C]Depois que eu ti[F]ver cum[C]prido\n[F]O Seu que[G]rer, por Seu a[C]mor.\n\n[C]Os meus olhos, ó retira,\n[C]Deste [G]mundo de hor[C]ror,\n[C]Pois minh’alma em Ti remira\n[F]Tua [G]graça e Teu fa[C]vor.\n\n[C]Já a noite se avança;\n[C]Bela es[G]trela vai nas[C]cer,\n[C]Temos nós a esperança\n[F]Dum e[G]terno e gran pra[C]zer.\n\n[C]Tua mão, ó me sustente,\n[C]Humi[G]lhado aos Teus [C]pés,\n[C]Com a alma e com a mente,\n[F]Pela [G]verdadeira [C]fé."
     },
     {
         "numero": 180,
@@ -5609,7 +5609,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 180 - Em Cristo Fruímos a Paz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Aonde [Em]fruirmos a [C]paz, o a[G]mor?\nEm [G]Cristo, somente em [D]Cristo;\n[G]Aonde nós temos po[C]der e vi[G]gor?\nEm [G]Cristo, [D]somente em Cris[G]to.\n\nCoro:\nEm [G]Cristo, em [D]Cristo,\nEu [G]sinto em [Em]mim um [C]gozo, sem [G]fim;\n[G]É Inexplicável [C]mas é agradável\nEs[D]tar no amor de Cris[G]to.\n\n[G]Aonde águas [Em]vivas nós [C]vamos bus[G]car?\nEm [G]Cristo, somente em [D]Cristo:\nÉ inexplicável mas [G]é agradável\nEstar no amor de Cris[G]to.\n\n[G]Aonde ha[Em]vemos nós [C]de repou[G]sar?\nEm [G]Cristo, somente em [D]Cristo;\nAs [G]forças podemos tam[C]bém reno[G]var?\nEm [G]Cristo, [D]somente em Cris[G]to.\n\n[G]Aonde a[Em]chamos i[C]menso po[G]der?\nEm [G]Cristo, somente em [D]Cristo;\nE [G]um povo cheio de [C]santo pra[G]zer?\nEm [G]Cristo, [D]somente em Cris[G]to."
     },
     {
         "numero": 181,
@@ -5633,7 +5633,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 181 - Vem, Celeste Redentor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: E\n\n[E]Vem, Senhor, do [B]bem a fonte,\n[B]Vem, celeste Reden[E]tor.\n[E]Ajudar-me a [B]entoar-te\n[B]Dignos hinos de lou[E]vor;\n[A]Tu, Jesus, por [E]mim morreste,\n[B]Quero só pra Ti vi[E]ver;\n[A]Quero em todos [E]os momentos\n[B]Tua bênção rece[E]ber.\n\n[E]Era pobre [B]desgarrado\n[B]Quando Cristo me bus[E]cou;\n[E]Para me sal[B]var do inferno\n[B]O Seu sangue derra[E]mou;\n[A]Em Sua morte [E]tão penosa,\n[B]Paz, perdão e vida a[E]chei.\nE com Ele eternamente\nSua glória fruirei.\n\n[E]De tua graça, ó [B]meu amado.\n[B]Sou contínuo deve[E]dor;\n[E]Mais e mais a [B]Ti me atrai\n[B]Pelo Teu divino a[E]mor;\n[A]Sou ingrato, e [E]bem conheço.\n[B]Peço, meu Senhor, per[E]dão;\n[A]Tira-me do [E]vil pecado,\n[B]Rege Tu meu cora[E]ção."
     },
     {
         "numero": 182,
@@ -5657,7 +5657,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 182 - Jesus no Getsêmane\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Gm\n\nJesus no [Gm]Getsêmane foi li[D]gado,\nE pe[D]los ímpios foi ar[Gm]rastado\nA cor[Gm]te, onde foi muito insul[D]tado,\nE atin[D]gido, por meu [Gm]pecado;\nE a sen[F]tença da turba foi o [Bb]brado:\n\"Que seja [F]Cristo crucifi[Bb]cado.\"\nVitupe[Gm]rado e flage[Bb]lado\nJesus so[D]freu o meu pe[Gm]cado.\nVitupe[Cm]rado e fla[Gm]gelado\nJesus so[D]freu o meu pe[Gm]cado.\n\nEntão, na [Gm]cruz, foi o Cristo pendu[D]rado\nE duma [D]lança foi traspas[Gm]sado;\nAli [Gm]estava Jesus ensangüen[D]tado,\nPor meus pe[D]cados atormen[Gm]tado!\n“Deus meu, Deus [F]meu, por que tens m’abando[Bb]nado?\"\nClamava [F]Cristo crucifi[Bb]cado;\n“Perdoa [Gm]o povo tão enga[Bb]nado,\nQue come[D]teu um tal pe[Gm]cado”.\n“Perdoa [Cm]o povo tão enga[Gm]nado,\nQue come[D]teu um tal pe[Gm]cado\".\n\nDepois Je[Gm]sus Cristo foi da cruz ti[D]rado,\nE ao se[D]pulcro foi carre[Gm]gado;\nPor santos, [Gm]Seu corpo foi embalsa[D]mado,\nE entre [D]ricos foi sepul[Gm]tado;\nEstando [F]Cristo Jesus já enter[Bb]rado;\nO Seu se[F]pulcro foi bem guar[Bb]dado;\nApós [Gm]três dias, Jesus a[Bb]mado,\nDa morte [D]foi ressusci[Gm]tado.\nApós [Cm]três dias Jesus a[Gm]mado,\nDa morte [D]foi ressusci[Gm]tado."
     },
     {
         "numero": 183,
@@ -5690,7 +5690,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 183 - Ressuscitou!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nDa se[F]pultura, para o céu, Je[C]sus voltou,\nDe[C]pois que o pecado aniqui[F]lou;\nCom gran po[F]der foi que ressusci[C]tou,\nE liber[C]dade aos presos procla[F]mou;\nTremendo, a [F]terra O sau[Bb]dou,\nPois que da [F/C]morte [C]se levan[F]tou.\n\nCoro:\nRessusci[F]tou! Ressuscitou!\nE para o [F]céu Jesus tor[C]nou;\nMas voltará, também de lá,\nE neste [C]mundo, então reina[F]rá.\n\nEm [F]riso, o pranto dos discípulos [C]se tornou,\nPois [C]vivo, Cristo se apresen[F]tou;\n- “Parti p’ra [F]Galiléia, orde[C]nou,\nE a pro[C]messa santa reve[F]lou:\n“Poder do [F]alto, eu vos [Bb]dou\nPois ao meu [F/C]Pai, pe[C]di-lo [F]vou\".\n\nJe[F]sus a Sua mão divina [C]levantou,\nA[C]bençoando seres que sal[F]vou,\nE, triun[F]fante, para o céu tor[C]nou.\nE uma [C]nuvem logo O ocul[F]tou;\nMas a pro[F]messa lhes dei[Bb]xou:\n“Eis que con[F/C]vosco pra [C]sempre es[F]tou”\n\nSen[F]tado à destra de Deus Pai, Je[C]sus está,\nPor [C]Sua Esposa suplicando [F]já;\nO mundo dis[F]to não cogita [C]cá,\nPorque não [C]vê a luz que brilha [F]lá;\nMui breve, [F]Cristo volta[Bb]rá,\nMas, só os [F/C]Seus, ao [C]céu leva[F]rá."
     },
     {
         "numero": 184,
@@ -5723,7 +5723,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 184 - Meu Jesus! Meu Jesus!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nDe meu [Eb]terno Salvador,\nCanta[Eb]rei o imenso amor,\nDando [Ab]glória e louvor a Je[Bb]sus,\nPois das [Eb]trevas me chamou,\nDe ca[Ab]deias me livrou,\nE da [Eb]morte me sal[Bb]vou meu Je[Eb]sus!\n\nCoro:\nMeu Je[Bb]sus! Meu Je[Eb]sus!\nQue pre[Eb]cioso é o nome de Je[Bb]sus!\nCom Seu [Eb]sangue me limpou;\nDe Seu [Ab]gozo me fartou;\nOh! que [Eb]graça me man[Bb]dou, meu Je[Eb]sus.\n\nOh! que [Eb]triste condição\nA do [Eb]ímpio coração;\nMe sal[Ab]vou da perdição; meu Je[Bb]sus;\nDo pe[Eb]cado, o perdão;\nDa [Ab]ruína, salvação;\nPor [Eb]tristeza, galar[Bb]dão, meu Je[Eb]sus!\n\nPelo [Eb]mundo a vagar.\nSoli[Eb]tário sem parar,\nSem a [Ab]doce paz gozar de Je[Bb]sus;\nTodo [Eb]pranto a sofrer,\nHão pas[Ab]sados, e prazer\nJá co[Eb]meço a rece[Bb]ber de Je[Eb]sus.\n\nOh! que [Eb]sangue remidor,\nEncon[Eb]trei no Salvador,\nSangue pu[Ab]rificador, de Je[Bb]sus!\nDai lou[Eb]vores em ação\nDa ben[Ab]dita salvação!\nHinos [Eb]dai por grati[Bb]dão a Je[Eb]sus!"
     },
     {
         "numero": 185,
@@ -5752,7 +5752,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 185 - Invocação e Louvor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Vem [Dm][Bb]Tu, ó [C]Rei dos reis.\n[F]Guiar os [C]teus [Dm]fiéis [Bb]p’ra [C]Te lou[F]var.\n[F]Grande e glorioso Ser, [C]Pai de todo o poder,\n[F]Vem sobre nós reger, [Bb]oh! [C]Deus sem [F]par!\n\n[F]Vem [Dm]Tu, [Bb]Ver[C]bo de Deus,\n[F]Fazer che[C]gar aos [Dm]céus [Bb]nos[C]sa ora[F]ção.\n[F]Vem, sim, abençoar [C]teu povo e prosperar\n[F]Mensagem que fa[Bb]lar da [C]salva[F]ção.\n\n[F][Dm]Vem. Tu. [Bb]Con[C]solador,\n[F]Inspira e [C]dá fer[Dm]vor [Bb]às [C]ora[F]ções;\n[F]Espírito de paz, [C]afasta Satanás,\n[F]E plena graça traz [Bb]aos [C]cora[F]ções.\n\n[F]Ao [Dm]gran[Bb]de [C]trino Deus\n[F]Louvem os [C]anjos [Dm][Bb]Seus e [C]nós tam[F]bém,\n[F]A Deus nosso Senhor: [C]Pai, Filho e Condutor\n[F]Louvemos com fervor, [Bb]pra [C]sempre. A[F]mém."
     },
     {
         "numero": 186,
@@ -5785,7 +5785,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 186 - De Valor em Valor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nPela [F]fé que uma vez me foi [C]dada,\nPra se[C]guir o Cordeiro de [F]Deus,\nPela [F]graça de Deus en[Bb]viada,\nAnda[C]rei, com valor, para os [F]céus.\n\nCoro:\nQuero an[F]dar de va[D]lor em va[Gm]lor\nE se[C]guir a Jesus, meu Se[F]nhor;\nTé que um [F]dia receba no [Bb]céu\nA co[C]roa, que me dará [F]Deus.\n\nDe Deus, [F]quero vestir a arma[C]dura,\nPra lu[C]tar com coragem e va[F]lor.\nPois a[F]qui a peleja é [Bb]dura,\nContra as [C]hostes do vil tenta[F]dor.\n\nEm Je[F]sus eu farei mil [C]proezas\nNo com[C]bate da fé e do a[F]mor;\nNEle [F]tenho vigor e des[Bb]treza,\nP’ra lu[C]tar e pra ser vence[F]dor!\n\nEu di[F]rei, ao findar esta [C]liça:\nComba[C]ti o combate de a[F]mor\nE co[F]roa terei de jus[Bb]tiça.\nQue no [C]céu me dará o Se[F]nhor."
     },
     {
         "numero": 187,
@@ -5814,7 +5814,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 187 - Mais Perto Meu Deus de Ti!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Mais perto [Bb]quero estar\n[F]Meu Deus, de [C]Ti!\n[F]Inda [Bb]que seja a dor\n[C]Que me una a [F]Ti,\n[F]Sempre hei de suplicar\n[F]Mais perto quero es[C]tar\n[F]Mais perto [Bb]quero estar\n[C]Meu Deus, de [F]Ti!\n\n[F]Andando [Bb]triste, aqui\n[F]Na soli[C]dão,\n[F]Paz e des[Bb]canso a mim\n[C]Teus braços [F]dão;\n[F]Nas trevas vou sonhar,\n[F]Mais perto quero es[C]tar,\n[F]Mais perto [Bb]quero estar,\n[C]Meu Deus, de [F]Ti!\n\nMi[F]nh'alma [Bb]cantará\n[F]A Ti, Se[C]nhor!\n[F]E em Betel [Bb]alçará\n[C]Padrão de a[F]mor,\n[F]Eu sempre hei de rogar\n[F]Mais perto quero es[C]tar,\n[F]Mais perto [Bb]quero estar,\n[C]Meu Deus, de [F]Ti!\n\n[F]E, quando [Bb]Cristo, enfim,\n[F]Me vier cha[C]mar,\n[F]Nos céus com [Bb]serafins,\n[C]Irei mo[F]rar.\n[F]Então me alegrarei\n[F]Perto de Ti, meu [C]Rei.\n[F]Perto de TI, [Bb]meu Rei,\n[C]Meus Deus, de [F]Ti!"
     },
     {
         "numero": 188,
@@ -5843,7 +5843,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 188 - O Gozo do Céu\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nBem [G]sei, muitos não podem [D]compreender\nPor[D]que feliz é o meu vi[G]ver;\nEn[G]trar na Canaã de [C]santo prazer,\nÉ [D]gozo do céu para [G]mim.\nÉ [G]gozo do céu para [D]mim;\nSim, [D]gozo do céu para [G]mim;\nEn[G]trar na Canaã de [C]santo prazer,\nÉ [D]gozo do céu para [G]mim.\n\nOs [G]lindos acordes ce[D]lestes ouvir,\nNo E[D]vangelho que rece[G]bi;\nCon[G]fiar em Jesus e se[C]gui-Lo aqui,\nÉ [D]gozo do céu para [G]mim.\nÉ [G]gozo do céu para [D]mim;\nSim, [D]gozo do céu para [G]mim;\nCon[G]fiar em Jesus e se[C]gui-Lo aqui,\nÉ [D]gozo do céu para [G]mim.\n\nPos[G]suir o meu ser transfor[D]mado em luz\nTer [D]o ‘spírito de Je[G]sus,\nNe[G]gar a mim mesmo e to[C]mar minha cruz,\nÉ [D]gozo do céu para [G]mim.\nÉ [G]gozo do céu para [D]mim;\nSim, [D]gozo do céu para [G]mim;\nNe[G]gar a mim mesmo e to[C]mar minha cruz,\nÉ [D]gozo do céu para [G]mim.\n\nA [G]vida eterna, em [D]Cristo, gozar,\nO [D]que é “lá de cima” bus[G]car,\nDei[G]xar meu Jesus em minha [C]alma reinar,\nÉ [D]gozo do céu para [G]mim.\nÉ [G]gozo do céu para [D]mim;\nSim, [D]gozo do céu para [G]mim;\nDei[G]xar meu Jesus em mi[C]nh'alma reinar,\nÉ [D]gozo do céu para [G]mim."
     },
     {
         "numero": 189,
@@ -5871,7 +5871,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 189 - Glória ao Salvador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Chegado à cruz do meu [Db]bom Se[Ab]nhor,\n[Ab]Prostrado aos pés do Reden[Eb]tor,\n[Ab]Ele ouviu todo [Db]meu cla[Ab]mor\n[Eb]Glória ao Salva[Ab]dor.\n\nCoro:\n[Db]Glória ao Salva[Ab]dor!\n[Ab]Glória ao Salva[Eb]dor\n[Ab]Agora sei que Ele [Db]me sal[Ab]vou\n[Eb]Glória ao Salva[Ab]dor!\n\n[Ab]Que maravilha! Je[Db]sus me a[Ab]mou,\n[Ab]Tudo de graça me per[Eb]doou;\n[Ab]Quebrou meus laços e [Db]me li[Ab]vrou;\n[Eb]Glória ao Salva[Ab]dor!\n\n[Ab]Junto à cruz, inda [Db]há lu[Ab]gar,\n[Ab]Vem, ó aflito, sem demo[Eb]rar,\n[Ab]Cristo está pronto [Db]pra te sal[Ab]var,\n[Eb]Vinde ao Salva[Ab]dor!"
     },
     {
         "numero": 190,
@@ -5894,7 +5894,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 190 - Cristo! Meu Cristo!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nOh! [G]quanto [D]fez Je[G]sus por mim!\nSal[G]vou-me [D]do pe[G]cado!\nA[G]té à [D]morte ([G]triste fim),\nA[G]mou-me o [D]bem a[G]mado.\nCom [G]Deus, o Pai, a[D]gora está\nJe[G]sus, meu Advo[D]gado;\nMo[G]rada [D]me con[G]cederá\nNa [G]glória, [D]com o a[G]mado.\n\nCoro:\n[G]Cristo! meu [D]Cristo!\nTeu [G]nome é doce, a[D]mado!\nDesejo ver-te, face a face\nmeu [G]Cristo [D]bem a[G]mado.\n\nDe[G]fende [D]como [G]protetor,\nSe[G]gura o [D]pé can[G]sado;\nE [G]sobre [D]mim, com [G]terno amor.\nVi[G]gia o [D]bem a[G]mado.\nA mi[G]nha humilde pe[D]tição\nEs[G]cuta com a[D]grado;\nTran[G]qüilo e [D]débil [G]coração,\nRe[G]pousa em [D]Ti, A[G]mado."
     },
     {
         "numero": 191,
@@ -5923,7 +5923,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 191 - O Meu Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nO [C]meu Jesus, por [F]mim, mor[C]reu\nNa [F]cruz, com [C]dor hor[G]renda;\nA[C]li em meu lu[F]gar so[C]freu,\nAn[C]gustia [G]mui tremen[C]da!\nQuem [G]poderei no [Am]mundo achar.\nQue a [C]meu Jesus vá compa[G]rar?\nJe[C]sus. Je[F]sus, so[C]mente [G]vou a[C]mar!\n\nO [C]meu Jesus es[F]tá no [C]céu,\nin[F]terces[C]sor po[G]tente,\nPor [C]mim, pedindo [F]sempre a [C]Deus.\nA [C]graça, a[G]mor ferven[C]te.\nNin[G]guém jamais ao [Am]Pai conduz\nO [C]pecador, senão Je[G]sus;\nJe[C]sus, Je[F]sus, a [C]Deus, ó [G]me intro[C]duz!\n\nO [C]meu Jesus res[F]susci[C]tou,\nEm [F]corpo [C]glo[G]rioso,\nTam[C]bém, por mim, a [F]Deus pa[C]gou\nUm [C]preço fa[G]bulo[C]so!\nQual [G]dos mortais [Am]vou encontrar\nQue a [C]meu Jesus vou igua[G]lar?\nJe[C]sus, Je[F]sus, não [C]posso [G]compa[C]rar!\n\nJe[C]sus do céu há [F]de vol[C]tar,\nEm ma[F]jes[C]tade e [G]glória,\nEn[C]tão Seus anjos i[F]rão can[C]tar\nO [C]hino [G]da vitó[C]ria,\nJe[G]sus, enfim, vai [Am]suplantar\nO [C]Anticristo, e rei[G]nar.\nJe[C]sus, Je[F]sus, ó [C]vem me ar[G]reba[C]tar!"
     },
     {
         "numero": 192,
@@ -5951,7 +5951,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 192 - Pelo Sangue\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nPelo [Eb]mundo brilha a luz,\n[Bb]Desde [Cm]que morreu Je[Ab]sus.\nPendu[Eb]rado lá na cruz do Cal[Bb]vário!\nOs pe[Eb]cados carregou\nE de [Ab]culpa nos livrou,\nCom o [Eb]sangue que manou, no Cal[Bb]vá[Eb]rio!\n\nCoro:\nPelo [Ab]sangue, pelo [Eb]sangue,\nSomos [Bb]redimidos, sim\nPelo [Eb]sangue carmesim;\nPelo [Ab]sangue, pelo [Eb]sangue.\nPelo [Eb]sangue de Jesus, no Cal[Bb]vá[Eb]rio!\n\nAntes, [Eb]tinha mui temor,\n[Bb]Mas, a[Cm]gora, tenho a[Ab]mor,\nPois com[Eb]preendo o valor do Cal[Bb]vário;\nEu vi[Eb]vi na perdição\nMas a[Ab]chei a salvação\nPela [Eb]grande redenção: o Cal[Bb]vá[Eb]rio!\n\nÉs um [Eb]grande pecador?\n[Bb]Eis a[Cm]qui Teu Salva[Ab]dor!\nTema [Eb]do bom pregador: o Cal[Bb]vário.\nO Cor[Eb]deiro divinal\nPade[Ab]ceu na cruz teu mal,\nE ofe[Eb]rece graça tal, no Cal[Bb]vá[Eb]rio."
     },
     {
         "numero": 193,
@@ -5979,7 +5979,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 193 - A Alma Abatida\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nSe tu, minh'[F]alma, a Deus suplicas,\nE não re[C]cebes, confiando [F]fica\nEm Suas promes[F]sas, que são mui ricas,\nE infa[C]líveis pra te va[F]ler.\n\nCoro:\nPor que te a[C]bates, ó minha [F]alma?\nE te co[C]moves, perdendo a [F]calma?\nNão tenhas [Bb]medo, em Deus es[F]pera,\nPorque bem ce[C]do, Jesus vi[F]rá.\n\nEle inter[F]cede por ti, minh'alma;\nEspera [C]nEle, com fé e [F]calma;\nJesus de [F]todos teus males salva,\nE te aben[C]çoa, dos altos [F]céus.\n\nTerás em bre[F]ve, as dores findas,\nNo dia a[C]legre da Sua [F]vinda;\nSe Cristo [F]tarda, espera ainda\nMais um pou[C]quinho, e O ve[F]rás."
     },
     {
         "numero": 194,
@@ -6007,7 +6007,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 194 - Jesus Me Guiará\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Há quem vele as pisadas\n[C]Que eu dou na sombra ou [F]luz,\n[F]Pelas sendas escarpadas,\n[G]Velará por mim Je[C]sus;\n[C]Pelos vales, pelos mon[F]tes,\n[Dm]Me conduz a Sua [A]mão;\n[F]Vejo já os hori[Bb]zon[Bbm]tes\n[F/C]Duma pe[C]rene man[F]são.\n\nCoro:\n[F]Há quem vele as pi[C]sadas,\nMi[C]nha senda traça[F]rá;\n[F]Para as célicas mo[Bb]ra[Bbm]das,\n[F/C]Sim, Je[C]sus me guia[F]rá\n\n[F]Há contacto que m’explica\n[C]A presença do Se[F]nhor,\n[F]Que as manchas purifica\n[G]E me livra de te[C]mor;\n[C]Cristo com a mão feri[F]da,\n[Dm]Proteção me pode [A]dar,\n[F]Quando vejo des[Bb]ta vi[Bbm]da\n[F/C]O in[C]quieto e forte [F]mar.\n\n[F]Há um coração amante,\n[C]De infinita compai[F]xão,\n[F]Que concede paz constante\n[G]Ao contrito cora[C]ção;\n[C]Há favor e liberda[F]de\n[Dm]Em Jesus, o Salva[A]dor,\n[F]Muita graça e [Bb]verda[Bbm]de\n[F/C]E po[C]der consola[F]dor."
     },
     {
         "numero": 195,
@@ -6036,7 +6036,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 195 - Benigno Salvador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nBe[D]nigno [Bm]Sal[A]va[D]dor! Com [G]Tua aprova[A]ção,\nCon[Bm]sa[E]gra em [A]doce amor es[G]ta fe[E]liz u[A]nião,\nE [D]sobre os noivos faz descer\nA [G]graça [D]que lhes [D]é [A]mis[D]ter.\n\nFá-[D]los em [Bm]paz [A]an[D]dar u[G]nidos no Se[A]nhor,\nE a [Bm]vi[E]da a[A]qui passar em [G]terno e [E]santo a[A]mor\nLi[D]gados no amor de Deus;\nCa[G]minhem [D]juntos [D/A]pa[A]ra os [D]céus.\n\nÓ [D]digna-[Bm]Te [A]re[D]ger sua [G]casa como [A]Rei;\nSeus [Bm]co[E]ra[A]ções manter dó[G]ceis,\nà [E]Tua [A]lei; Li[D]vra-os de toda a tentação,\nCon[G]sola-os [D]na [D/A]tribu[A]la[D]ção.\n\nSe o [D]Salva[Bm]dor [A]cum[D]prir a [G]nossa peti[A]ção,\nPo[Bm]de[E]mos [A]descobrir nes[G]ta ben[E]dita u[A]nião\nA [D]sombra do celeste amor\nDos [G]sal[D]vos e seu [D/A]Sal[A]va[D]dor."
     },
     {
         "numero": 196,
@@ -6064,7 +6064,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 196 - Uma Flor Gloriosa\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nJá a[C]chei uma flor glo[G]riosa,\nE quem [G]deseja a mesma te[C]rá;\nA ro[C]sa de Saron pre[G]ciosa\nEntre [G]mil mais beleza te[C]rá;\nNo va[C]le de sombra e [F]morte,\nNas al[G]turas de glória e [C]luz,\nEsta [C]rosa será a minha [F]sorte,\nPre[G]cioso p’ra mim é Je[C]sus!\n\nCoro:\nPre[C]cioso p’ra mim é Je[G]sus!\nPre[G]cioso p?a mim é Je[C]sus!\nEu con[C]fesso na vida e na [F]morte\nQue [G]tudo p’ra mim é Je[C]sus!\n\nJá de [C]muitos foi achada a [G]rosa\nE pro[G]vado o excelente o[C]dor\nE o po[C]der desta flor glo[G]riosa\nQue dá [G]vida ao vil peca[C]dor.\nMui ze[C]loso pela lei foi [F]Saulo,\nPerse[G]guia o povo de [C]Deus,\nMas trans[C]formado foi em um [F]Paulo.\nPois a[G]chou ele a rosa dos [C]céus.\n\nVai bus[C]car a Jesus pre[G]cioso,\nVai de[G]pressa, a noite já [C]vem,\nE, se [C]perdes o amor glo[G]rioso,\nSerá [G]triste pra ti o a[C]lém;\nEsta [C]flor hoje é ofer[F]tada\nA quem [G]humildemente a bus[C]car;\nSerá [C]logo da terra ti[F]rada,\nPara [G]brilhar em outro lu[C]gar."
     },
     {
         "numero": 197,
@@ -6102,7 +6102,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 197 - O Lar da Glória\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: E\n\nNo [E]céu foi Je[B]sus preparar-nos lu[E]gar.\nNa [E]glória.\nE [A]breve, mui [E]breve E[B]le há de vol[E]tar,\nEm [B]gló[E]ria.\n\nCoro:\nEu sal, eu sei, eu tenho um lar na glória!\n[C#m]Oh! eu [B]sei, eu [E]sei, um [B]lar no [E]céu!\n\nLe[E]vanta os [B]olhos e conta o que [E]há.\nNa [E]glória.\nDe [A]pedras precio[E]sas o [B]lar brilha [E]lá,\nEm [B]gló[E]ria.\n\n[E]Ainda não [B]vi, mas os anjos es[E]tão,\nNa [E]glória.\nE [A]ruas co[E]bertas de [B]ouro se[E]rão,\nNa [B]gló[E]ria.\n\nUm [E]dia, fe[B]liz para o céu segui[E]rei,\nP’ra.[E]glória,\nCom [A]Cristo a rei[E]nar, eu de[B]pois volta[E]rei,\nEm [B]gló[E]ria.\n\nA[E]migos es[B]pero no céu encon[E]trar,\nNa [E]glória.\nE [A]juntos ha[E]vemos de [B]sempre fi[E]car,\nNa [B]gló[E]ria."
     },
     {
         "numero": 198,
@@ -6130,7 +6130,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 198 - Jesus o Bom Amigo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nA[F]chei um bom amigo,\nJe[Bb]sus, o Salva[F]dor,\nO esco[F]lhido dos milhares para [C]mim;\nDos va[F]les é o lírio; é o [Bb]forte Media[F]dor,\nQue me pu[F]rifica e [Bb]guarde [C]para [F]Si,\nCon[Bb]solador amado, meu pro[F]tetor do mal,\nSo[F]licitude minha toma a [C]Si.\n\nCoro:\nDos [F]vales é o lírio, a [Bb]estrela da ma[F]nhã,\nO esco[F]lhido dos mi[Bb]lhares [C]para [F]mim.\nCon[Bb]solador amado, meu [F]protetor do mal,\nSo[F]licitude minha toma a [C]Si,\nDos [F]vales é o lírio, a [Bb]estrela da ma[F]nhã,\nO esco[F]lhido dos mi[Bb]lhares [C]para [F]mim.\n\nLe[F]vou-me as dores todas,\nAs [Bb]mágoas lhe entre[F]guei;\nMinha [F]fortaleza é, na tenta[C]ção.\nDei[F]xei, por Ele tudo; [Bb]os ídolos quei[F]mei;\nEle [F]me conserva [Bb]santo o [C]cora[F]ção,\nQue o [Bb]mundo me abandona; persi[F]ga o tentador;\nJe[F]sus me guarda até da vida o [C]fim.\n\nNão [F]desampara nunca,\nNem [Bb]me abandona[F]rá,\nSe [F]fiel e obediente eu vi[C]ver;\nUm mu[F]ro é de fogo, que [Bb]me protege[F]rá,\nTé que [F]venha a mim o [Bb]tempo [C]de mor[F]rer,\nAo [Bb]céu então voando, Sua [F]glória eu verei\nOnde [F]a dor e a morte nunca [C]vêm."
     },
     {
         "numero": 199,
@@ -6154,7 +6154,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 199 - A Ceia do Senhor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nSe[F]nhor, reu[C]nidos a[F]qui\nA [Bb]fim da Tua [F]morte lem[C]brar;\nPar[C]tindo este [F]pão nos lem[C]bramos de [F]Ti,\nA[F]té que nos [C]venhas bus[F]car.\n\nO [F]cálice que [C]vamos be[F]ber,\nÉ [Bb]símbolo [F]do sangue [C]Teu,\nDo [C]qual nunca [F]devemos [C]nos esque[F]cer;\nPor [F]ele nós [C]temos o [F]céu.\n\nFaz-[F]nos sempre [C]dignos, Se[F]nhor,\nDa [Bb]Tua divi[F]nal comu[C]nhão;\nDo [C]Teu corpo e [F]sangue pu[C]rifica[F]dor\nQue [F]nos dá ve[C]raz salva[F]ção."
     },
     {
         "numero": 200,
@@ -6211,7 +6211,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 201 - A Decisão\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nOh! [G]Dia alegre! Eu abracei\nJe[D]sus, e [C]nEle [D]salva[G]ção!\nO [G]gozo deste coração\nEu [D]mais e [C]mais pu[D]blica[G]rei.\n\nCoro:\n[G]Dia feliz! Dia feliz!\nQuan[D]do em Je[C]sus me [D]satis[G]fiz!\nJe[G]sus me ensina a [C]vi[G]giar.\nE [G]confiante nE[C]le, o[G]rar,\n[G]Dia feliz! Dia feliz!\nQuan[D]do em Je[C]sus me [D]satis[G]fiz!\n\nComple[G]ta a grande transação,\nJe[D]sus é [C]meu, eu [D]do Se[G]nhor!\nCha[G]mou-me a voz do Seu amor;\nCe[D]di à i[C]mensa [D]atra[G]ção.\n\nDes[G]cansa, ó alma! O Salvador\nE [D]teu sus[C]tento, o [D]pão dos [G]céus;\nE [G]quem possui o eterno Deus,\nRe[D]siste a [C]todo o [D]tenta[G]dor.\n\nMeu [G]sacro voto, excelso Deus,\nDe [D]dia em [C]dia a[D]firma[G]rei!\nE a[G]lém da morte exultarei,\nTeu [D]filho e [C]súdi[D]to dos [G]céus."
     },
     {
         "numero": 202,
@@ -6240,7 +6240,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 202 - Lugar de Delícias\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nJunto [C]ao trono de [F]Deus prepa[C]rado\nHá, cris[G]tão, um lugar para [C]ti;\nHá per[C]fumes, há [F]gozo exal[C]tado.\nHá de[D]licias profusas a[G]li;\nSim, a[G]li; sim, a[C]li,\nDe Seus [F]anjos [D]fiéis ro[G]deado,\nNuma es[C]fera de glória e de [F]luz,\nJunto a [G]Deus nos espera Je[C]sus.\n\nOs en[C]cantos da [F]terra não [C]podem\nDar i[G]déia do gozo da[C]li;\nSe na [C]terra os pra[F]zeres a[C]codem,\nSão pra[D]zeres que acabam-se a[G]qui;\nMas a[G]li, mal a[C]li\nAs ven[F]turas e[D]ternas con[G]correm\nCo'a exis[C]tência perpétua da [F]luz,\nA tor[G]nar-nos felizes com Je[C]sus.\n\nConser[C]vemos em [F]nossa lem[C]brança,\nAs ri[G]quezas do lindo [C]país,\nE guar[C]demos co[F]nosco a espe[C]rança,\nDe uma [D]vida melhor, mais fe[G]liz;\nPois da[G]li, pois da[C]li\nUma [F]voz verda[D]deira não [G]cansa\nDe ofere[C]cer-nos do reino da [F]luz,\nO a[G]mor protetor de Je[C]sus.\n\nSe qui[C]sermos go[F]zar da ven[C]tura\nQue no [G]belo país have[C]rá,\nÉ so[C]mente pe[F]dir da alma [C]pura,\nQue de [D]graça Jesus nos da[G]rá.\nPois da[G]li, pois da[C]li\nTodo [F]cheio de a[D]mor, da ter[G]nura,\nDesse a[C]mor que mostrou-nos na [F]cruz,\nNos es[G]cuta, nos ouve Je[C]sus."
     },
     {
         "numero": 203,
@@ -6268,7 +6268,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 203 - Deixai as Ilusões\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nO [G]mundo de ilusão dei[C]xei,\nA [G]senda de pecado e [C]dor,\n[G]Pra ir ao meu glorioso [C]lar;\nA[D]li há [G]gozo, paz e a[C]mor.\n\nCoro:\nNo [G]mundo não está meu [C]lar,\nA[G]qui não posso descan[C]sar;\nMas [G]quero sempre avan[C]çar:\nNo [D]céu em [G]breve hei de en[C]trar.\n\nAl[G]guns procuram m'impe[C]dir,\nNa [G]senda gloriosa an[C]dar,\nMas [G]quero sempre avan[C]çar,\nA[D]té no [G]lar poder en[C]trar.\n\nAmi[G]go que no mundo es[C]tás,\nNão [G]queres me acompa[C]nhar,\nÀ [G]terra do eterno a[C]mor?\nJe[D]sus de[G]seja te li[C]vrar."
     },
     {
         "numero": 204,
@@ -6296,7 +6296,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 204 - O Peregrino da Terra\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Sou peregrino na [Ab]terra\n[Bb]E longe estou do meu [Eb]lar,\n[Eb]Mlnh'alma anelante es[Ab]pera\n[Bb]Que Cristo a venha bus[Eb]car;\n[Bb]Aqui só há des[Eb]crença,\n[Bb]As lutas não têm [Eb]fim,\n[Eb]Mas de Jesus, a pre[Ab]sença,\n[Bb]Glória será pa[Eb]ra mim!\n\nCoro:\n[Eb]No céu de [Bb]luz vou descan[Eb]sar,\n[Eb]Com meu Je[Bb]sus hei de mo[Eb]rar.\n\n[Eb]Em Cristo tendo já [Ab]crido,\n[Bb]Só pela fé vive[Eb]rei,\n[Eb]Pois Deus me tem prome[Ab]tido,\n[Bb]Que no céu descansa[Eb]rei!\n[Bb]Eu tenho perma[Eb]nente\n[Bb]O bom Consola[Eb]dor,\n[Eb]Guiando-me branda[Ab]mente\nÀ fonte viva de a[Eb]mor.\n\n[Eb]Embora às vezes o [Ab]crente\n[Bb]As dores sofra da [Eb]cruz,\n[Eb]Gozo terá perma[Ab]nente,\n[Bb]Quando no céu vir Je[Eb]sus\nDe glória coroado\nNo trono divina!,\n[Eb]Por anjos sempre lou[Ab]vado,\n[Bb]Num coro celes[Eb]tial."
     },
     {
         "numero": 205,
@@ -6329,7 +6329,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 205 - Graça, Graça\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nA [Bb]graça de [Eb]Deus reve[Bb]lada\nEm [Bb]Cristo Je[C]sus, meu Se[F]nhor,\nAo [Bb]mundo per[Eb]dido [Bb]é dada\nPor [Eb]Deus d’infi[F]nito fa[Bb]vor.\n\nCoro:\n[Bb]Graça, [Eb]graça,\nA [F]mim basta a graça de [Bb]Deus: Jesus;\n[Bb]Graça, [Eb]gra[C]ça,\nA [F]graça eu achei em Je[Bb]sus.\n\nA [Bb]graça de [Eb]Deus é mais [Bb]doce,\nDo [Bb]que bens ter[C]restres da[F]qui;\nEm [Bb]gozo meu [Eb]choro tor[Bb]nou-se\nCor[Eb]rendo Sua [F]graça pra [Bb]mim.\n\nMais [Bb]alta que [Eb]nuvens ce[Bb]lestes,\nMais [Bb]funda que [C]profundo [F]mar,\nA [Bb]fonte da [Eb]vida fi[Bb]zeste,\nNa [Eb]qual nos pode[F]mos far[Bb]tar.\n\nA [Bb]graça de [Eb]Deus hoje [Bb]prova\nTu [Bb]que vives [C]na perdi[F]ção,\n[Bb]Pois Ele te [Eb]salva, re[Bb]nova,\nTam[Eb]bém limpa [F]teu cora[Bb]ção."
     },
     {
         "numero": 206,
@@ -6357,7 +6357,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 206 - O Clarim nos Alerta\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nO cla[F]rim já nos alerta,\nNosso [Bb]coração des[F]perta,\nPois a [F]vinda é bem certa de Je[C]sus;\nDe mil an[C]jos ro[F]deado,\nPara o [Bb]crente prepa[F]rado,\nCristo [F]volta [Bb]co[F]roa[C]do. Ale[F]luia!\n\nCoro:\nÓ ir[Bb]mão por Deus liberto,\nPelo [F]sangue estás coberto;\nTens o [F]teu perdão bem certo, salvo es[C]tás;\nVoz de [F]júbilo ouviremos\nE no [Bb]céu nós canta[F]remos,\nCristo [F]breve [Bb]nós ve[F]remos. [C]Ale[F]luia!\n\nLá nas [F]bodas do Cordeiro,\nSenta[Bb]remos prazen[F]teiros;\nOh! Que [F]gozo verdadeiro com Je[C]sus!\nPois no [C]céu não há mais [F]pranto,\nEis que [Bb]tudo será [F]canto;\nCristo [F]vem bus[Bb]car os [F]santos.Aleluia!\n\nSim à mesa sentaremos,\nE com Cristo cearemos;\nQuão fe[C]lizes nós seremos com Jesus!\nPara sempre gozaremos,\nE com Cristo reinaremos,\nSua [F]glória fruiremos. Aleluia!"
     },
     {
         "numero": 207,
@@ -6386,7 +6386,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 207 - Jerusalém Divina\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nJe[D]rusalém di[G]vina\nVi[D]são de [E]paz di[A]tosa,\nDe [D]Cristo, santa es[G]posa,\nRa[A]diante de esplen[D]dor;\nTens [D]fontes [G/D]crista[D]linas,\nSão [D]vivos teus al[A]tares\nE os [D]anjos, aos mi[G]lhares,\nTe [A]cingem ao re[D]dor.\n\nMan[D]são do Rei ben[G]dito,\nSão [D]doze [E]tuas [A]portas\nQue [D]sempre são trans[G]postas\nPor [A]seres imor[D]tais;\nTeus [D]li[G/D]vros têm es[D]critos\nOs [D]nomes dos re[A]midos;\nEm [D]ti, serão ou[G]vidos\nOs [A]hinos celes[D]tiais.\n\nTeus [D]Santos mora[G]dores,\nUm [D]glo[E]rioso [A]canto\nPro[D]ferem ao Deus [G]santo\nQue [A]já lhes per[D]doou;\nEn[D]toam [Gm]mil lou[D]vores\nA [D]Cristo, qual cor[A]deiro,\nQue [D]manso, num ma[G]deiro\n[A]Por eles se imo[D]lou!\n\nAo [D]mesmo Cristo a[G]memos,\nAo [D]mesmo [E]Deus te[A]mamos,\nNós [D]que por fé an[G]damos,\nLe[A]vando a Sua [D]cruz;\nE [D]prontos [G/D]frui[D]remos,\nOs [D]teus umbrais pas[A]sados,\nMil [D]gozos prepa[G]rados,\nNa [A]glória, com Je[D]sus!"
     },
     {
         "numero": 208,
@@ -6419,7 +6419,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 208 - Vem a Cristo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nHoje [Eb]queres te entre[Bb]gar p'ra Jesus [Eb]Cristo,\nÓ can[Ab]sado e triste peca[Eb]dor?\nPara a[Eb]quele, que, no [Bb]Gólgota. foi [Eb]visto\nPade[F]cendo nossa culpa, nossa [Bb]dor?\n\nCoro:\nVem a [Eb]Cristo, vem a [Ab]Cristo,\nQue te [Bb]chama com amor celes[Eb]tial;\nVem a [Eb]Cristo, vem a [Ab]Cristo,\nPois Je[Eb]sus é o ro[Ab]chedo [Bb]divi[Eb]nal.\n\nHoje [Eb]queres ob[Bb]ter a liber[Eb]dade,\nQue se en[Ab]contra no Senhor Je[Eb]sus\nRece[Eb]ber no cora[Bb]ção a santi[Eb]dade,\nPelo [F]sangue derramado lá na [Bb]cruz?\n\nHoje [Eb]queres desfru[Bb]tar a paz di[Eb]vina,\nQue no [Ab]mundo não se pode a[Eb]char?\nVem a [Eb]Cristo, que te [Bb]salva, que te en[Eb]sina,\nOnde [F]podes esta paz do céu go[Bb]zar!\n\nHoje [Eb]queres renun[Bb]ciar o bem ter[Eb]reno\nCrendo em [Ab]Cristo, o grande Salva[Eb]dor?\nQueres [Eb]vir após o [Bb]meigo Naza[Eb]reno,\nVê-Lo um [F]dia lá no céu de resplen[Bb]dor?"
     },
     {
         "numero": 209,
@@ -6452,7 +6452,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 209 - A Voz do Bom Pastor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Escuta a voz do [Eb]bom Pastor\n[Eb]Em esplendorosa [Ab]solidão,\n[Ab]Chama ao cordeiro [Db]que em te[Bbm]mor\n[Bbm]Vaga na [Eb]densa escuri[Ab]dão.\n\nCoro:\n[Ab]Hoje vem [Db]a Jesus,\n[Ab]Ao bondoso [Eb]Salvador,\n[Ab]Receber [Db]Sua luz.\n[Ab]Vem a Cristo, o bom [Eb]Pas[Ab]tor.\n\nQuem ajudar quer a Jesus,\nOs pecadores procurar,\n[Ab]Vá espalhar a [Db]Sua [Bbm][Bbm]luz,\nO Evan[Eb]gelho procla[Ab]mar.\n\n[Ab]Triste deserto o [Eb]mundo é,\n[Eb]Cercado de pe[Ab]rigos mil;\n[Ab]Vem, chama Cristo, [Db]vem com [Bbm]fé,\n[Bbm]Vem para [Eb]dentro do re[Ab]dil.\n\n[Ab]Escuta hoje, o [Eb]bom Pastor,\n[Eb]Vem no aprisco [Ab]te abrigar,\n[Ab]Foge do lobo en[Db]gana[Bbm]dor,\n[Bbm]Pois ele [Eb]quer te devo[Ab]rar."
     },
     {
         "numero": 210,
@@ -6480,7 +6480,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 210 - Fala, fala, Senhor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nFala, [G]fala, Senhor, nesta [D]hora,\nQue ansio[D]so te quero ou[G]vir;\nTeu fa[C]lar dá valor e res[G]taura,\nE mais [D]sábio me faz no por[G]vir.\n\nCoro:\nOh! Ben[G]dito o Teu nome em e[D]terno,\nQue Tu [D]falas a quem escu[G]tar,\nDe [C]saúde e repouso su[G]perno,\nDe ale[D]gria e paz eter[G]nal.\n\nFala, [G]fala, Senhor, que con[D]servo\nTuas pa[D]lavras de vida e vi[G]gor;\nEstou [C]pronto a seguir-Te com [G]zelo,\nPelas [D]Tuas veredas de a[G]mor.\n\nFala, [G]fala, Senhor, que eu [D]ouço\nTuas pa[D]lavras com todo [G]fervor,\nPois con[C]duzem ao eterno re[G]pouso,\nSão con[D]selhos mui ricos de a[G]mor."
     },
     {
         "numero": 211,
@@ -6513,7 +6513,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 211 - Vem a Deus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\n[D]Vem, en[A]quanto Deus te [D]chama\nE tu [A]sentes Seu a[D]mor,\nPois do [A]céu poder [D]derrama\nPra sal[A]var o peca[D]dor!\n\nCoro:\nVem a [G]Deus, a Je[D]sus,\nentre[A]gar teu cora[D]ção;\nE te[G]rás Sua [D]luz...\nA per[A]feita salva[D]ção!\n\n[D]Se da [A]vida tens o [D]fardo\nE tu’[A]alma triste es[D]tá,\nCrê em [A]Deus, não sejas [D]tardo,\nQue Je[A]sus te salva[D]rá!\n\n[D]Neste [A]mundo vais an[D]dando,\nSem tran[A]qüilidade e [D]paz;\n- Volta a [A]Deus, mas con[D]fiando,\nE fe[A]liz então se[D]rás.\n\n[D]Vem a [A]Cristo, que te es[D]pera,\nNão demo[A]res, peca[D]dor!\nNos Seus [A]braços Deus qui[D]sera\nRece[A]ber-te com a[D]mor!"
     },
     {
         "numero": 212,
@@ -6546,7 +6546,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 212 - Os Guerreiros Se Preparam\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Os guerreiros se preparam [F]para a grande [Bb]luta\nÉ Jesus, o [Bb]Capitão, que a[C]vante os leva[F]rá.\n[Bb]A mílicia dos remidos [F]marcha impo[Bb]luta;\n[Eb]Certa que vi[Bb]tória al[F]cança[Bb]rá!\n\nCoro:\n[Bb]Eu quero estar com Cristo,\nOnde a [Bb]luta se tra[F]var,\nNo [F]lance impre[Bb]visto\nNa [C]frente m’encon[F]trar.\nAté que O [Bb]possa ver na glória,\nSe ale[Eb]grando da vi[Bb]tória,\nOnde [Bb]Deus vai me [F]co[Bb]roar!\n\n[Bb]Eis os batalhões de Cristo [F]prosseguindo a[Bb]vante,\n[Eb]Não os vês com [Bb]que valor com[C]batem contra o [F]mal?\n[Bb]Podes tu ficar dormindo, [F]mesmo vaci[Bb]lante,\n[Eb]Quando atacam ou[Bb]tros a Be[F][Bb]lial?\n\nDá-te pressa, não vaciles, hoje Deus te chama\n[Eb]Para vires [Bb]pelejar ao [C]lado do Se[F]nhor;\n[Bb]Entra na batalha onde [F]mais o fogo in[Bb]flama,\n[Eb]E peleja [Bb]contra o [F]vil tenta[Bb]dor!\n\n[Bb]A peleja é tremenda, [F]torna-se re[Bb]nhida,\n[Eb]Mas são poucos [Bb]os soldados [C]para bata[F]lhar;\nÓ vem libertar as pobres almas oprimidas\n[Eb]De quem furio[Bb]so, as [F]quer tra[Bb]gar!"
     },
     {
         "numero": 213,
@@ -6575,7 +6575,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 213 - Sobre a Terra Vou Andando\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nSobre a [C]terra [G]vou an[C]dando,\nBem ale[C]gre para o [G]céu,\nSatis[C]feito [G]e salmo[Am]diando\nAo bon[G]doso [C]Deus;\nCom fe[G]rozes inimigos\nPele[G]jando [D]sempre es[G]tou,\nMas con[C]servo paz co[Am]migo,\n[F]Pois a[G]mado [C]sou.\n\nMeu Pas[C]tor é [G]Pai ce[C]leste,\nQue me [C]guia pra [G]Sião\nPelos [C]vales [G]e mui [Am]prestes,\nCom se[G]gura [C]mão;\nNos pe[G]rigos da viagem,\nNas an[G]gústias [D]e na [G]dor,\nSua [C]voz me diz: Co[Am]ragem,\n[F]Sou teu [G]Salva[C]dor.\n\nCom Je[C]sus eu [G]traba[C]lhando,\nPerse[C]vero em ora[G]ção;\nSeu sa[C]ber com [G]fé bus[Am]cando\nPra tor[G]nar-me [C]são.\nQue pra[G]zer incomparável\nSer [G]guiado [D]por Je[G]sus.\nSim, por [C]Cristo tão a[Am]mável,\n[F]Na pe[G]rene [C]luz.\n\nAo che[C]gar-se [G]nessa [C]pátria\nTodos [C]prantos cessa[G]rão.\nJá o [C]sol di[G]vino [Am]raia,\nNa fe[G]liz man[C]são.\nMales, [G]lutas e agonias,\nAca[G]baram-[D]se a[G]qui;\nCristo [C]vem, oh! Que ale[Am]gria\n[F]Vamos [G]ter a[C]li!"
     },
     {
         "numero": 214,
@@ -6603,7 +6603,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 214 - Desejamos ir Lá\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nNosso [F]Redentor [C]foi prepa[F]rar\nUm lu[F]gar de repouso e esplendor;\nBreve[F]mente chamará para a [C]casa a descan[F]sar,\nNós, os [F]salvos, do [C]mundo engana[F]dor.\n\nCoro:\nDese[F]jamos [Dm]Ir lá,\nDese[C]jamos Ir [F]lá;\nQue ale[F]gria será,\nQuando [F]nós nos [C]encontrarmos [F]lá.\n\nNesta [F]terra te[C]souros não [F]há,\nQue nos [F]possam aqui segurar;\nDese[F]jamos ir ao céu onde [C]Cristo já es[F]tá,\nAo lu[F]gar onde i[C]remos descan[F]sar.\n\nNeste [F]lar com Je[C]sus, o Se[F]nhor,\nNós ha[F]vemos de sempre reinar.\nVamos [F]nós ali cantar, novos [C]hinos de lou[F]vor\nAo Cor[F]deiro que [C]veio nos sal[F]var."
     },
     {
         "numero": 215,
@@ -6636,7 +6636,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 215 - Ver-nos-emos\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Neste mundo a vera Igreja,\n[Db]Peregrina vai an[Ab]dar,\n[Ab]Anelando que es[Db]teja\n[Eb]No seu verdadeiro [Ab]lar.\n\nCoro:\nVer-nos-[Ab]emos, ver-nos-emos,\nVer-nos-[Ab]emos na terra divi[Eb]nal;\nVer-nos-[Ab]emos, ver-nos-emos,\nVer-[Ab]nos-emos junto ao [Eb]rio sem i[Ab]gual.\n\n[Ab]Nada aqui é permanente,\n[Db]Tudo tem que termi[Ab]nar,\n[Ab]Mas olhamos para a [Db]frente,\n[Eb]Para o nosso eterno [Ab]lar.\n\n[Ab]Os remidos cá enterram\n[Db]Seus amados ao mor[Ab]rer,\n[Ab]Mas um dia, sim, [Db]esperam\n[Eb]Que no céu os hão de [Ab]ver.\n\n[Ab]Com Jesus, o Rei, nos ares,\n[Db]Breve havemos nós de es[Ab]tar,\nE com anjos, aos milhares,\nSua glória contemplar."
     },
     {
         "numero": 216,
@@ -6664,7 +6664,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 216 - Louvai a Deus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Lou[C]vai a [F]Deus, com júbilo, cantando,\n[Bb]E Seu a[F]mor ao [C]mundo anunciai!\n[F]De [C]Cristo. as [F]glórias, juntos celebrando;\n[Bb]Do Salva[C]dor, a fama publi[F]cai.\n\nCoro:\n[F]Os prodígios cantaremos\n[C]De Jesus, o [F]Reden[A]tor;\n[F]For[C]ça, [F]vida, bens daremos\nP’[Bb]ra fa[C]lar do Seu a[F]mor!\n\n[F]Lou[C]vei a [F]Deus. Senhor onipotente,\n[Bb]A quem de[F]vemos [C]nossa salvação,\n[F]Que ha[C]bita os [F]céus, porém, aqui presente.\n[Bb]Seguros, [C]guia os Seus por Sua [F]mão!\n\n[F]Lou[C]vai a [F]Deus e alegres, adorai-O;\n[Bb]Mil graças [F]demos [C]por Seu grande amor;\n[F][C]Com a ce[F]leste multidão louvai-O,\n[Bb]Deus, sempi[C]terno e nosso Reden[F]tor."
     },
     {
         "numero": 217,
@@ -6697,7 +6697,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 217 - Ouve Sua Voz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\n[A]Cristo com voz amo[D]ro[A]sa\n[E]Chama-te pra Sua [A]luz,\n[A]Torna tua alma di[D]to[A]sa\n[E]Se carregares a [A]cruz.\n\nCoro:\n[A]Ouve Sua voz a cha[E]mar!\n[E]Cristo te quer liber[A]tar;\n[A]Fala com voz amo[D]ro[A]sa:\n“[E]Paz hoje quero te [A]dar”.\n\n[A]Por que voltar não pro[D]cu[A]ras,\n[E]Do mau caminho em que es[A]tás?\n[A]No fim do qual amar[D]gu[A]ras,\n[E]E eterna dor sofre[A]rás.\n\n[A]Mui breve irás encon[D]trar-[A]te\n[E]Perante a morte, que a[A]troz\n[A]Vai, sem piedade, le[D]var-[A]te\n[E]Onde não ouças Sua [A]voz!\n\n[A]Ouve Sua voz amo[D]ro[A]sa\nCo[E]mo persiste. a cha[A]mar;\n[A]Com Sua mão pode[D]ro[A]sa\n[E]Cristo te quer liber[A]tar."
     },
     {
         "numero": 218,
@@ -6735,7 +6735,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 218 - Dá Teu Fardo a Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Só em Jesus, queres [C]tu descansar?\n[C]Dá teu fardo a Je[F]sus.\n[F]Paz e socorro não [C]podes achar?\n[C]Dá teu fardo a Je[F]sus.\n\nCoro:\n[F]Dá teu fardo a Jesus,\nAs [Bb]trevas fará em [F]luz.\nEm [C]Cristo um abrigo, te[F]rás no perigo,\nÓ, [C]dá teu fardo a Je[F]sus.\n\n[F]Paz redentora tu’[C]alma terá,\n[C]Dá teu fardo a Je[F]sus.\n[F]E de inquietudes te [C]libertará.\n[C]Dá teu fardo a Je[F]sus.\n\n[F]Das grandes lutas não [C]queiras fugir,\n[C]Dá teu fardo a Je[F]sus.\n[F]Se santo gozo não [C]podes fruir,\n[C]Dá teu fardo a Je[F]sus.\n\nMa[F]les te assaltam aos [C]mil, pecador?\n[C]Dá teu fardo a Je[F]sus.\n[F]Vais já cansado de [C]penas e de dor?\n[C]Dá teu fardo a Je[F]sus.\n\n[F]Cristo virá dissi[C]par teu temor,\n[C]Dá teu fardo a Je[F]sus.\n[F]Pois, aos Seus santos, dá [C]sempre vigor,\n[C]Dá teu fardo a Je[F]sus."
     },
     {
         "numero": 219,
@@ -6763,7 +6763,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 219 - O Amor do Criador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nOs [Eb]raios do amor de Deus,\nBri[Ab]lharam na mi[Bb]nh’alma,\nE o [Eb]fim eu vi dos dias meus,\nTam[F]bém Um que me [Bb]salva;\nEu [Eb]tenho já do [Ab]céu a [Eb]luz.\nDas [Bb]trevas fui liberto,\nA[Eb]gora Cristo [Ab]me con[Eb]duz\n[Fm]Nas plagas [Bb]do deser[Eb]to!\n\nCoro:\nO Teu a[Eb]mor, ó Criador,\nSe reve[Bb]lou ali na [Eb]cruz.\nQuando expi[Eb]rou em meu lu[Ab]gar\nQuem me sal[Bb]vou: - o meu Je[Eb]sus.\n\nAo [Eb]meu Jesus darei louvor,\n[Ab]Pois hoje com[Bb]preendo,\nQue o a[Eb]mor do grande Redentor,\nVai [F]tudo me pro[Bb]vendo;\nJá [Eb]dantes desta [Ab]cria[Eb]ção\nJe[Bb]sus me preparava\nA [Eb]mais perfeita [Ab]salva[Eb]ção;\nOh! [Fm]Quan[Bb]to a mim ama[Eb]va!\n\nO [Eb]dom precioso de Jesus,\nOh! [Ab]Deus, me reve[Bb]laste!\nE [Eb]Teu amor, celeste luz,\nEm [F]mim Tu derra[Bb]maste!\nQuem [Eb]medirá o a[Ab]mor de [Eb]Deus,\nTão [Bb]santo, insondável,\nO [Eb]qual enche os [Ab]mais altos [Eb]céus;\nA[Fm]mor i[Bb]nesgotá[Eb]vel!"
     },
     {
         "numero": 220,
@@ -6791,7 +6791,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 220 - Ide Segar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nPara os [Bb]campos a segar,\nEis o [Eb]trigo a loure[Bb]jar,\nIde cei[Gm]far, ide se[F]gar;\nTodo [Bb]dia trabalhai\nE só [Eb]de Jesus fa[Bb]lai;\nIde cei[F]far, ide pre[Bb]gar!\n\nCoro:\nIde se[Eb]gar, ide cei[Bb]far!\nSim, traba[F]lhai, e procla[Bb]mai!\nEis que o a[Bb]mor do Salvador\nVos im[Eb]pele ao Seu la[Bb]bor\nSem demo[F]rar, ide se[Bb]gar.\n\nPara o [Bb]vale, monte ou mar,\nO Se[Eb]nhor vos quer man[Bb]dar\nA procla[Gm]mar, anun[F]ciar;\nOs per[Bb]didos procurar,\nPois Jesus os quer salvar;\nIde falar, e proclamar!\n\nFala[Bb]remos com fervor,\nDo po[Eb]der do Salva[Bb]dor,\nAo peca[Gm]dor, ao sofre[F]dor;\nPronto [Bb]chegará o fim,\nSoa[Eb]rá do céu o cla[Bb]rim,\nTereis, en[F]tão, o galar[Bb]dão."
     },
     {
         "numero": 221,
@@ -6820,7 +6820,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 221 - Opera em Mim\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Eis-me a Teus pés, Se[Bb]nhor, opera em [Eb]mim!\n[Eb]Espero mais vi[Cm][Bb]gor, opera em [Eb]mim!\n[Bb]Eu gozo [Eb]vou [Ab]fruir, se Tua [Eb]lei cum[Bb]prir:\nO dá-me Teu a[Cm][Bb]mor: opera em [Eb]mim!\n\n[Eb]Sedento, com ar[Bb]dor, opera em [Eb]mim!\n[Eb]Te peço mais a[Cm][Bb]mor, opera em [Eb]mim!\n[Bb]Tu só me [Eb]podes dar [Ab]a perfei[Eb]ção sem [Bb]par,\nO bom Consola[Cm][Bb]dor: opera em [Eb]mim!\n\nÓ meu Senhor Jesus, [Bb]opera em [Eb]mim!\n[Eb]Por Tua san[Cm]ta [Bb]luz, opera em [Eb]mim!\n[Bb]Revela-[Eb]me o valor [Ab]da morte [Eb]do Se[Bb]nhor,\n[Eb]Por mim, na dura [Cm][Bb]cruz; opera em [Eb]mim!\n\n[Eb]Não tardes mais. Se[Bb]nhor, opera em [Eb]mim!\n[Eb]Escuta o meu cla[Cm][Bb]mor, opera em [Eb]mim!\n[Bb]No sangue [Eb]de Jesus, [Ab]vertido [Eb]lá na [Bb]cruz,\n[Eb]Me guarda por [Cm]fa[Bb]vor, opera em [Eb]mim!"
     },
     {
         "numero": 222,
@@ -6858,7 +6858,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 222 - Vem a Jesus, ó Perdido\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Vem a Jesus; ó perdido,\n[Bb]Vem a Jesus como es[Eb]tás;\n[Eb]O sangue na cruz vertido,.\n[F]Dar-te-á graça e [Bb]paz.\n\nCoro:\n[Eb]Vem a Jesus, sem demora;\nó crê no Filho de Deus!\n[Ab]Ele te salva a[Eb]gora,\n[Bb]Quer te guiar para o [Eb]céu.\n\n[Eb]Por que demoras ainda,\n[Bb]Dar tua vida a Je[Eb]sus?\n[Eb]Eis quando tudo aqui finda,\n[F]Qual há de ser tua [Bb]luz?\n\nO mundo quer enganar-te,\nPara a tua alma perder,\n[Eb]Triste será a tua parte;\n[F]Além t'espera o so[Bb]frer.\n\n[Eb]As horas passam depressa,\n[Bb]Nunca jamais as te[Eb]rás\n[Eb]Quando a tua vida aqui cessa,\n[F]Onde tua alma esta[Bb]rá?\n\n[Eb]Portas abertas aos libertos\n[Bb]No céu de luz sempre es[Eb]tão;\n[Eb]Eis que os anjos assertos\n[F]A ver tua entrada esta[Bb]rão!"
     },
     {
         "numero": 223,
@@ -6886,7 +6886,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 223 - Na Minh’Alma Reina a Paz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nEm es[Ab]curidão, sem Je[Db]sus, me vi,\nCom mil [Ab]penas e grande [Eb]dor;\nMas Je[Ab]sus chamou: \"Vem, sim, [Db]vem a Mim,\nQuero [Eb]ser teu Salva[Ab]dor\".\n\nCoro:\nNa mi[Db]nh ‘alma reina [Ab]paz;\nDesde [Bb]que vim a Je[Eb]sus;\nTenho [Ab]sempre paz\nE gozo [Db]mui veraz.\nPois avis[Eb]tei de Deus, a [Ab]luz!\n\nPelas [Ab]grandes ondas da [Db]perdição,\nFui cer[Ab]cado no alto [Eb]mar,\nSem ter [Ab]um piloto no [Db]furacão,\nQue pu[Eb]desse me [Ab]guiar.\n\nE se [Ab]te encontrares a [Db]pelejar,\nSem au[Ab]xilio ter efi[Eb]caz,\nClama [Ab]ao Salvador, clama [Db]sem tardar,\nSua [Eb]graça é mui ve[Ab]raz."
     },
     {
         "numero": 224,
@@ -6914,7 +6914,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 224 - É o Tempo de Segar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nÉ o tempo de segar e tu sem vacilar,\nDe[A]claraste sem temor: “Não [D]posso [E]traba[A]lhar?”\n[D]Vem, enquanto Cristo, o Mestre, está a te chamar:\n\"[A]Jovem, jovem, ó vem trabalhar!\"\n\nCoro:\n[D]Vem e vê os campos brancos já estão\nA[D]guardando braços [A]que os segarão;\n[A]Jovem, desperta, faz-te [D]pronto e alerta!\nQueiras [E]logo responder: “Eis-me a[A]qui, Senhor”\n[D]Olha que a seara bem madura está;\n[D]Que colheita glo[A]riosa não será!\n[A]Jovem, desperta. Faz-te [D]pronto e alerta!\nPoucos [G]dias são que restam para o [A]sega[D]dor!\n\n[D]As gavelas que recolhes: jóias de esplendor\n[A]Brilharão na tua coroa, [D]e da[E]rão ful[A]gor;\n[D]Busca logo essas jóias; Deus é premiador;\n[A]Jovem. jovem, entra no labor!\n\n[D]A manhã já vai passando, não mais voltará;\n[A]Da colheita o tempo breve[D]mente [E]finda[A]rá;\n[D]E perante o teu Senhor vazio t’acharás;\n[A]Jovem, jovem, obedece já!"
     },
     {
         "numero": 225,
@@ -6947,7 +6947,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 225 - Sê Valente\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nNa [Ab]batalha contra o mal, sê valente!\nSegue em mar[Eb]cha triunfal, sê valente!\nOlha o [Ab]alvo que á Jesus,\nQue à vi[Db]tória te conduz;\nÓ não [Ab]deixes tua cruz,\nSê va[Eb]len[Ab]te!\n\nCoro:\nSê va[Ab]lente! Pelejando por Je[Eb]sus,\nSê va[Eb]lente! Nunca rejeitando a [Ab]cruz!\nFirme [Ab]sempre no amor,\nCom in[Db]dômito valor,\nCheio [Ab]do Consola[Fm]dor,\nSê va[Eb]len[Ab]te!\n\nSe o ma[Ab]ligno t’enfrentar, sê valente!\nLuta[Eb]rás sem recuar, [A]sÊ valente!\nSeja a[Ab]qui, ou onde for,\nEscu[Db]dado no Senhor.\nMostra[Ab]rás o teu valor;\nSê va[Eb]len[Ab]te!\n\nCo'al[Ab]truísmo, com poder,sê valente!\nFranco, [Eb]sem o mal temer, sê valente!\nAos [Ab]caídos em redor.\nMani[Db]festa-lhes o amor;\nE se[Ab]rás um vencedor;\nSê va[Eb]len[Ab]te!\n\nO Evan[Ab]gelho a proclamar, sê valente!\nNo Bra[Eb]sil, em terra ou mar, sê valente!\nTua [Ab]vida enobrecer!\nSempre [Db]com Jesus viver,\nE [Ab]a ti também vencer;\nSê va[Eb]len[Ab]te!"
     },
     {
         "numero": 226,
@@ -6976,7 +6976,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 226 - Cristo, Teu Santo Amor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Cristo, Teu [C]Santo amor [D]deste para [G]mim\n[G]Nada pra [C]Ti, Senhor, [D]negarei a[G]qui;\n[D]Me prostro em gratidão,\n[G]Cumpro com prontidão,\n[G]Me guia [C]Tua mão, [D]oh! me rendo a [G]Ti.\n\n[G]Perante o [C]trono estou, [D]pede Tu, por [G]mim,\n[G]Ao nosso [C]Pai eu vou, [D]só Jesus, por [G]Ti;\n[D]A cruz hei de levar,\n[G]Teu nome proclamar,\n[G]Um hino a [C]Deus cantar, [D]sim, Jesus, por [G]Ti.\n\n[G]Um cora[C]ção de amor, [D]quero, ó meu Je[G]sus,\n[G]Ao Teu i[C]gual, Senhor, [D]espalhando a [G]luz;\n[D]A Ti eu vou servir,\n[G]O tempo redimir,\n[G]As almas [C]conduzir, [D]quero eu a [G]Ti.\n\n[G]Tudo que [C]tenho ou [D]sou, é por Teu fa[G]vor;\n[G]Alegre [C]sempre vou, [D]junto ali, Se[G]nhor;\n[D]Teu rosto, sim, verei,\n[G]Contigo eu estarei,\n[G]E sempre [C]viverei, [D]ia no céu por [G]Ti!"
     },
     {
         "numero": 227,
@@ -7004,7 +7004,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 227 - Deus Amou de Tal Maneira\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nDeus a[Eb]mou de tal ma[Ab]neira\nEste [Bb]mundo sofre[Eb]dor.\nQue à hu[Eb]manidade in[Ab]teira,\nDeus Seu [Bb]Filho para Salva[Eb]dor.\n\nCoro:\nE a[Eb]gora nunca mais perece\nO que [Eb]crê, mais vida eterna tem;\nQuem em [Bb]Cristo perma[Eb]nece.\nVai ser [F]coroado a[Bb]lém.\nO pe[Eb]cado na cruz foi vencido,\nPodes, [Eb]pele fé, vencer também;\nDe jus[Bb]tiça, ó sê ves[Eb]tido,\n[Ab]E re[Bb]ceberás coroe a[Eb]lém.\n\nPrisio[Eb]neiro do pe[Ab]cado,\nVagas [Bb]sem esperança [Eb]ter;\nMas Je[Eb]sus foi en[Ab]viado,\nPa[Bb]ra liberdade te tra[Eb]zer.\n\nTu que [Eb]vives des[Ab]viado\nSem a [Bb]paz de Deus go[Eb]zar,\nOuve a [Eb]voz do Pai a[Ab]mado,\nQue te es[Bb]pera para te abra[Eb]çar."
     },
     {
         "numero": 228,
@@ -7032,7 +7032,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 228 - Este Mundo Não Compreende\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Este mundo não com[C]preende.\n[D]Quão alegre é o meu vi[G]ver,\n[G]Mas a Cristo quem a[D]tende,\n[E]Do céu pode o go[A]zo [D]ter.\n\nCoro:\n[G]Mesmo quando em aflição,\n[C]Gozo a paz de [G]Deus;\n[D]Cristo ao meu [G]coração,\n[A]Gozo traz dos [D]céus,\n[G]Se com Cristo aqui viver,\n[C]Tão glorioso [B]é,\n[E]Maior glória hei de [Am]ter,\nSe eu [D]guardar sempre a [G]fé.\n\n[G]O que me faz mui di[C]toso,\n[D]Oh, provém do amor de [G]Deus!\n[G]Mas será maior meu [D]gozo,\n[E]Quando for mo[A]rar nos [D]céus.\n\n[G]Sinto meu ser transfor[C]mado,\n[D]Pela graça do Se[G]nhor;\n[G]Cada dia mais che[D]gado.\n[E]Eu à pátria, es[A]tou, de a[D]mor."
     },
     {
         "numero": 229,
@@ -7061,7 +7061,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 229 - Jesus, ó Meigo Salvador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: E\n\nJe[E]sus, á meigo Salvador,\nDo [B]céu, à terra és [E]vindo,\nE [E]nos Teus braços com dulçor,\nOh! [B]vai-me condu[E]zindo;\nAs[E]sim eu vou seguindo\nNa [B]Tua luz per[E]feita,\nQue [E]sempre me deleita;\n[B]Tua Palavra, oh, Se[E]nhor!\n\nQue [E]grande gozo foi pra mim,\nOh, [B]quando me encon[E]traste!\nDo [E]coração, abriu enfim\nA [B]porta e logo en[E]traste;\nEn[E]tão Tu me levaste,\nPor [B]Tua luz per[E]feita,\nQue [E]sempre me deleita;\n[B]Tua Palavra, que amor, [E]sim!\n\nTu [E]me livraste, Salvador,\nDe mi[B]serável [E]sorte,\nMe [E]guardarás por Teu amor,\n[B]Fiel até à [E]morte;\nDe[E]sejo que me exortes\nPor [B]Tua luz per[E]feita,\nQue [E]sempre me deleita;\n[B]Tua Palavra, meu Se[E]nhor!\n\nÓ [E]Salvador, e bom Jesus,\nMeus [B]pés na rocha [E]fundas;\nPois [E]Tua mão, a mim conduz,\nAs [B]águas mui pro[E]fundas,\nDo [E]trono oriundas,\nA [B]Tua luz per[E]feita,\nQue [E]sempre me deleita;\n[B]Tua Palavra, ó Je[E]sus!"
     },
     {
         "numero": 230,
@@ -7094,7 +7094,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 230 - Nós Vogamos Nesta Nau\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\n[D]Nós vogamos, o mar vencemos,\nNesta [A]nau que [E]nos con[A]duz,\nUm nau[D]frágio não tememos,\nPois ao [A]leme [E]vai Je[A]sus.\n\nCoro:\nVem ami[A]go, [D]pois te a[G]mamos,\n[A]Sem tardar, que [D]nós Já [G]vamos;\n[D]A tormenta não o[G]lhamos\n[A]E rumamos para o [D]céu.\n[D]A tormenta não o[G]lhamos\nE ru[G]mamos pa[A]ra o [D]céu.\n\n[D]Para nossa feliz morada,\nEis a [A]hora [E]de par[A]tir;\nHoje [D]mesmo se faz chamada;\n“Quem com [A]Cristo [E]quer se[A]guir?”\n\n[D]Ao findar da travessia,\nNo céu [A]vamos [E]anco[A]rar;\nCom preste[D]za, com alegria,\nNós have[A]mos [E]de sal[A]tar.\n\n[D]Ante nós, vemos a cidade,\nCujo [A]porto se [E]abri[A]rá.\nE Je[D]sus cheio de bondade\nAos che[A]gados [E]sorri[A]rá."
     },
     {
         "numero": 231,
@@ -7127,7 +7127,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 231 - Não Foi Com Ouro\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n[C]Nós, os salvos [G]do Senhor,\n[G]Caminhemos com va[C]lor;\n[C]Ele guarda o [F]coração,\n[G]Cristo é a nossa salva[C]ção.\n\nCoro:\n[C]Não foi com ouro que [G]nos comprou Jesus,\n[G]Mas com Seu sangue ver[C]tido lá na cruz;\n[C]Nós, que somos salvos, [F]vamos sem temer,\n[D]Sempre por Seu [C/G]sangue o [G]mal ven[C]cer.\n\n[C]Pela morte [G]de Jesus,\n[G]Recebemos vida e [C]luz;\n[C]Do abismo [F]de horror,\n[G]Não temos mais nenhum te[C]mor.\n\n[C]Seguiremos [G]o Senhor,\n[G]Pois nos guia ao Cria[C]dor;\n[C]Nos concede [F]paz real,\n[G]Nos dá repouso eter[C]nal!\n\n[C]Tu que não tens [G]salvação,\n[G]Abre já teu cora[C]ção.\n[C]Deixa Cristo [F]te salvar,\n[G]E para o céu te prepa[C]rar."
     },
     {
         "numero": 232,
@@ -7160,7 +7160,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 232 - Os Bem Aventurados\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nBem-a[Bb]venturados são\nOs de [Eb]limpo cora[Bb]ção,\nQue não [Bb]buscam as riquezas para [F]si;\nA tran[Bb]qüilidade e paz,\nQue [Eb]desfrutam, oh, ja[Bb]mais,\nPode[Eb]rão discrimi[F]nadas ser por [Bb]mim!\n\nCoro:\n[Bb]Oh, Cantemos aleluia!\n[F]Jubi[Bb]losos, com po[F]der!\nBem A[Bb]legres, com fervor,\nDemos [Eb]a Jesus lou[Bb]vor,\nE mais [Eb]gozo vamos dE[F]le rece[Bb]ber!\n\nGrande [Bb]dita e mui, favor\nMe con[Eb]cede meu Se[Bb]nhor,\nPelo [Bb]sangue que por mim verteu na [F]cruz;\nTorna[Bb]rá também meu ser,\nCheio [Eb]de veraz pra[Bb]zer,\nSe vi[Eb]ver e cami[F]nhar na Sua [Bb]Luz!\n\nAo Se[Bb]nhor obedecer,\nDEle [Eb]mesmo me en[Bb]cher,\nPara [Bb]mim isto é o verdadeiro [F]céu;\nE por [Bb]Seu imenso amor,\nPara o [Eb]pobre peca[Bb]dor,\nQuero a[Eb]qui, louvá-Lo, [F]e além do [Bb]véu!\n\nQuão perfeita, é minha paz!\nNão anelo nada mais,\nQuero [Bb]sempre aqui fazer o Seu que[F]rer;\nTenho o a[Bb]mado Salvador,\nE pos[Eb]suo Seu a[Bb]mor;\nGoza[Eb]rei eterna[F]mente mui pra[Bb]zer!"
     },
     {
         "numero": 233,
@@ -7189,7 +7189,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 233 - A Ceia Do Senhor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\nÓ [E]Jesus [A]Cristo, a[E]qui [F#m]estamos\nU[D]nidos [E]todos em um lu[A]gar,\nPra Tua [A]morte nós relem[D]brarmos,\nQue Tu qui[A]seste por [E]nós pro[A]var.\n\nA[E]legra-[A]nos, é Je[E]sus a[F#m]mado,\nEn[D]chendo-[E]nos do Consolador;\nÓ grande [A]graça Tu nos tens [D]dado,\nPois somos [A]salvos p'lo [E]Teu a[A]mor.\n\nQue [E]nós se[A]jamos a[E]ben[F#m]çoados;\nTam[D]bém o [E]pão e o vinho a[A]qui,\nP'lo Teu po[A]der sejam consa[D]grados\nP'ra nos a[A]limentar[E]mos de [A]Ti.\n\nE [E]quando [A]todos nos [E]reu[F#m]nirmos,\nUm [D]dia, [E]lá no Teu lar, nos céus,\nNós ale[A]luias, sim, canta[D]remos,\nEterno [A]hino ao [E]nosso [A]Deus."
     },
     {
         "numero": 234,
@@ -7222,7 +7222,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 234 - O Gozo Dos Santos\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nO [C]gozo dos santos é o a[G]mor de Je[C]sus.\nGrande [F]é este a[C]mor que [G]paz nos pro[C]duz!\nA [C]fonte da vida, que [G]nos dá vi[C]gor,\nÉ o [F]sangue de [C]Cristo ver[G]tido em [C]dor!\n\nCoro:\nOh! [C]Vê ali na cruz [G]a graça [C]de Jesus,\n[F]Amor po[C]tente, que [G]gozo pro[C]duz!\n\n[C]Ó vê, \"eis o Homem\" que pa[G]dece a[C]li,\nCo[F]berto de [C]sangue, fe[G]rido por [C]ti.\nEs[C]tampa na face [G]tão enorme [C]dor\nDe ‘s[F]pinhos co[C]roa pos[G]sui meu Se[C]nhor!\n\nCom [C]cravos, furados tem os [G]pés e as [C]mãos;\nPre[F]gado no [C]lenho, em [G]grande afli[C]ção;\nA[C]berto Seu lado co'a [G]lança [C]Cruel\nSai á[F]gua e [C]sangue do [G]Ema[C]nuel!\n\nPor [C]Cristo Cumprida foi a [G]obra de a[C]mor,\nMor[F]reu qual Cor[C]deiro, por [G]ti peca[C]dor;\nCon[C]fiando agora na [G]obra da [C]Cruz,\nA [F]vida nós [C]temos por [G]Cristo Je[C]sus."
     },
     {
         "numero": 235,
@@ -7260,7 +7260,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 235 - Já Sei, Já Sei\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nCom[Ab]prado com sangue de Cristo,\nA[Eb]legre ao céu, sim eu [Ab]vou;\nLi[Ab]berto do vício maldito,\nJá [Eb]sei que de Deus, filho [Ab]sou.\n\nCoro:\nJá [Db]sei, já [Ab]sei,\nCom[Eb]prado com sangue eu [Ab]sou;\nJá [Db]sei, já [Ab]sei,\nCom [Eb]Cristo ao céu, sim eu [Ab]vou.\n\nEs[Ab]tou livre da lei severa,\nPois [Eb]Cristo me quis redi[Ab]mir,\nEn[Ab]chendo minh’alma, deveras,\nDo [Eb]gozo, que vem do por[Ab]vir.\n\nEm [Ab]Cristo Jesus sempre espero,\nE [Eb]nunca O posso dei[Ab]xar;\nCalar Seus favores não quero,\nVou sempre de Cristo falar!\n\nEu sei que, um dia, a beleza\nDo grande Rei vou contemplar;\nA[Ab]gora me dá fortaleza,\nE [Eb]sempre me quer conso[Ab]lar!\n\nEu [Ab]sei que me espera a coroa,\nA [Eb]qual, a Seus servos da[Ab]rá,\nJe[Ab]sus, a divina pessoa,\nNo [Eb]céu onde Ele es[Ab]tá!"
     },
     {
         "numero": 236,
@@ -7288,7 +7288,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 236 - Já Nos Lavou\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nSobre a [D]cruz o bom Cordeiro,\nDura [G]morte já provou,\nPor nós [D]todos no madeiro,\nPara [A]Deus Pai nos comprou;\nCom Seu [D]sangue tem lavado\nNossa [G]alma imortal,\nE tam[D]bém nos [G]resga[D]tado\n[Bm]Do po[A]der do [D]mal.\n\nCoro:\nJá [D]nos lavou, Já [G]nos la[D]vou,\nCom [D]Seu precioso [G]sangue, Jesus, [A]Salvador.\nNos [D]libertou, nos [G]liber[D]tou,\nCom [D]Seu precioso [G]sangue do vil [A]tenta[D]dor.\n\nPelo [D]sangue derramado\nLivre en[G]trada se nos dá\nNo lu[D]gar santificado\nOnde o [A]Pai celeste está;\nEste [D]sangue nos indica\nO infi[G]nito, imenso amor\nDe Je[D]sus, pois [G]puri[D]fica\n[Bm]Todo [A]peca[D]dor!\n\nFomos [D]nós predestinados\nPara [G]crermos em Jesus,\nCom Es[D]pírito selados,\nPara [A]desfrutar na luz;\nSe vós [D]hoje mesmo crerdes,\nPor Deus, [G]feitos vós sereis,\nPara [D]dons Lhe o[G]fere[D]cerdes,\n[Bm]Sacer[A]dotes, [D]reis."
     },
     {
         "numero": 237,
@@ -7316,7 +7316,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 237 - O Gozo de Estar Preparado\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nO [G]Noivo estamos prontos [C]pra encon[G]trar,\nEis [G]que do céu vi[D]rá.\nCom [G]nossas luzes vamos [C]espe[G]rar,\nJe[G/D]sus não [D]tarda[G]rá!\n\nCoro:\n[G]Oh! que gozo prepa[C]rado es[G]tá,\n[G]Para os servos do Se[C]nhor Je[D]sus;\n[G]Breve Cristo do céu [C]volta[G]rá\n[G/D]Em glo[D]riosa [G]luz!\n\nCo[G]roa nós teremos [C]lá no [G]céu,\nSe [G]Cristo em nós vi[D]ver;\nEm [G]breve Ele vem rom[C]pendo o [G]véu,\nO [G/D]mal vem [D]desfa[G]zer!\n\nLá [G]em Sião nós vamos [C]encon[G]trar\nCom [G]nosso Reden[D]tor;\nNa [G]glória eterna vamos [C]desfru[G]tar\n[G/D]Do divi[D]nal a[G]mor!"
     },
     {
         "numero": 238,
@@ -7345,7 +7345,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 238 - Ó Pecador Desalentado\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[Em]Ó pe[D]ca[G]dor de[D]salen[G]tado\n[G][D]Vem a Je[G]sus, teu [A]Salva[D]dor;\n[G]Por [Em]que [D]vi[G]ver a[D]tribu[G]lado?\n[G]Vem [D]a Je[G]sus, teu [A]Salva[D]dor;\n[D][A/C#]Eis o [D]Cristo te cha[G]mando,\n[G]Pois [D]quer te [Em]dar Seu [A]grande a[D]mor,\n[Em]Vem [D]nos Seus [G]braços [D]te lan[G]çando\n[G]Vem [D]a Jesus, o teu Salva[G]dor.\n\nÓ [Em]não [D]re[G]jeites [D]a liber[G]dade,\n[G][D]Vem a Je[G]sus, teu [A]Salva[D]dor;\n[G]Re[Em]ce[D]be [G]hoje a [D]santi[G]dade;\n[G][D]Vem a Je[G]sus, teu [A]Salva[D]dor;\n[D]Tu[A/C#]do a[D]qui no mundo [G]passa;\n[G]Tu [D]morre[Em]rás, ó [A]peca[D]dor,\n[Em]Vem [D]acei[G]tar a [D]vera [G]graça,\n[G]Vem [D]a Jesus, o teu Salva[G]dor.\n\n[G]Se [Em]que[D]res [G]paz, tam[D]bém o [G]gozo,\n[G]Vem [D]a Je[G]sus, teu [A]Salva[D]dor.\n[G]Pois [Em]nE[D]le [G]tu te[D]rás re[G]pouso,\n[G][D]Vem a Je[G]sus, teu [A]Salva[D]dor;\n[D][A/C#]Não te[D]rás senão tris[G]teza,\n[G]Cá [D]neste [Em]mundo [A]de hor[D]ror,\n[Em]Mas [D]em Je[G]sus há [D]forta[G]leza,\n[G]Vem [D]a Jesus, o teu Salva[G]dor.\n\n[G]Ho[Em]je é [D]o [G]dia [D]apra[G]zível,\n[G]Vem [D]a Je[G]sus, teu [A]Salva[D]dor.\nÓ [Em]Seu a[D][G]mor é ir[D]resis[G]tível,\n[G]Vem [D]a Je[G]sus, teu [A]Salva[D]dor.\n[D][C#]Tuas [D]horas vão pas[G]sando,\nÓ [D]não des[Em]prezes, [A]peca[D]dor;\n[Em]A [D]voz de [G]Deus te [D]convi[G]dando.\n[G]Vem [D]a Jesus, o teu Salva[G]dor."
     },
     {
         "numero": 239,
@@ -7378,7 +7378,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 239 - Imploramos o Consolador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Vem á Senhor, e com[Am]pleta\nA [D]obra Tua em [G]mim:\n[G]Torna a minha alma dileta,\nEn[D]chendo-me de [G]Ti.\n\nCoro:\nÓ [G]manda a[D]gora,\n[D]O bom Consola[G]dor;\nMi[G]nh’alma Te im[D]plora,\n[D]O meu amado Se[G]nhor!\n\n[G]Há tanto tempo Te [Am]espero.\nÓ [D]caro Salva[G]dor,\n[G]Mas hoje mesmo eu [Am]quero\nO [D]bom Consola[G]dor.\n\n[G]Tens me tirado [Am]pra fora\nDo [D]mundo sedu[G]tor;\nÓ vem selar-me a[Am]gora\nGlo[D]rioso Reden[G]tor.\n\n[G]A Ti pertence a [Am]glória,\nBe[D]nigno Salva[G]dor;\n[G]Sempre me dás a vi[Am]tória,\nPor [D]Teu imenso a[G]mor."
     },
     {
         "numero": 240,
@@ -7411,7 +7411,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 240 - Oh Dia Alegre\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Db\n\n[Db]Cristo pode hoje vir,\n[Ab]Oh dia a[Db]le[Gb]gre! Irei a[Ab]migos [Db]ver;\n[Gb]O mal terá o seu [Db]fim.\nSe [Eb]Cristo do céu des[Ab]cer!\n\nCoro:\n[Db]Oh dia a[Ab]legre, da vinda de Je[Db]sus!\nJe[Db]sus vem buscar-me [Ab]para os céus;\n[Ab]Ele vem breve [Db]para os Seus;\n[Db]Oh dia [Gb]alegre! [Ab]Da vinda de Je[Db]sus!\n\n[Db]Se hoje for pra meu lar,\n[Ab]Oh dia a[Db]le[Gb]gre! Parece-[Ab]me ou[Db]vir\n[Gb]Os salvos cantando: “[Db]Vem!’\nQuem de[Eb]ra pra o céu par[Ab]tir!\n\n[Db]Por que ansioso estar?\n[Ab]Oh dia a[Db]le[Gb]greI Há luz [Ab]na margem a[Db]lém;\n[Gb]Temporal nunca have[Db]rá;\nDo [Eb]céu breve Cristo [Ab]vem!\n\n[Db]Fiel a Jesus estou,\n[Ab]Oh dia a[Db]legre! [Gb]Livre es[Ab]tou pra di[Db]zer:\n\"[Gb]Cristo é tudo p’ra [Db]mim”;\nDo [Eb]céu virá com po[Ab]der!"
     },
     {
         "numero": 241,
@@ -7439,7 +7439,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 241 - Marchemos Sem Temor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nP'[C]ra Sião marchamos sem algum te[G]mor,\n[G]Por fé nos chamamos [C]filhos do Senhor;\n[C]Presto cami[F]nhamos, [D]sem pra trás o[G]lhar,\n[C]Com Jesus nós [F]vamos, não po[G]demos er[C]rar.\n\nCoro:\nMar[C]chemos sem temor, re[F]pletos de valor,\nMar[G]chemos nas pisadas do bom [C]Redentor;\nDe[C]pressa, sem tardar, a[F]té no céu entrar;\n[G]Por Jesus po[C]demos sempre [F][G]triun[C]far.\n\n[C]P'ra Sião marchamos sem desani[G]mar,\n[G]A verdade, vamos [C]todos proclamar;\n[C]Presto cami[F]nhamos, [D]carregando a [G]cruz,\n[C]Pois nós dese[F]jamos ver no [G]céu a Je[C]sus.\n\n[C]P'ra Sião marchamos em celeste [G]luz,\n[G]Dirigidos vamos [C]p'Io Senhor Jesus;\n[C]Presto cami[F]nhamos, [D]rasga-se o [G]véu;\n[C]Já daqui es[F]tamos, pela [G]fé, vendo o [C]céu."
     },
     {
         "numero": 242,
@@ -7472,7 +7472,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 242 - Eu Confio Firmemente\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nEu con[D]fio firmemente,\nQue no [G]céu vou descansar\nCom Je[A]sus alegremente, ale[D]luia!\nQue pra[D]zer celeste sente\nA mi[G]nh’alma em pensar,\nNa [A]glória que no céu eu vou go[D]zar!\n\nCoro:\nQue e[D]terna glória vou no céu gozar!\nCom Je[G]sus, que do pecado me sal[A]vou;\nSanta [D]paz e alegria lá no [G]céu vou desfrutar;\nE[A]terna glória Cristo me com[D]prou!\n\nNo céu [D]vou ver o Cordeiro,\nQue por [G]mim quis expirar,\nPendu[A]rado no madeiro, ale[D]luia!\nQue me [D]fez também herdeiro\nDo que [G]nunca vai murchar,\nDa [A]glória que no céu eu vou go[D]zar!\n\nDe Je[D]sus, o rosto santo,\nNo céu [G]hei de contemplar,\nOnde [A]não há dor ou pranto, ale[D]luia!\nMas sim [D]um sublime canto\nQue pra [G]sempre vai soar\nNa [A]glória, que no céu eu vou go[D]zar!\n\nQuando [D]for ao céu chegado\nE a [G]glória alcançar\nPor ter [A]Cristo ao meu lado, ale[D]luia!\nNo Seu [D]trono assentado,\nA Je[G]sus vou adorar;\nE[A]terna glória vou no céu go[D]zar!"
     },
     {
         "numero": 243,
@@ -7496,7 +7496,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 243 - Ao Abrir o Culto\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nNós a[Bb]brimos este culto\nEm Teu [F]nome, ó Jesus [Bb]Cristo!\nAo pe[Bb]queno e ao adulto,\nLuz di[Eb]vina vem [F]dar por [Bb]isso;\nGoza[Gm]remos em Tua [D]face,\nÓ Cor[Gm]deiro ressusci[D]tadol\nCom do[Bb]çura, sim, nos enlaces,\nPra ou[Eb]vir o que [F]nos for [Bb]dado.\n\nÓ nos [Bb]manda Tua Palavra\nPelo [F]Teu Espírito [Bb]Santo,\nQue no [Bb]peito um fogo lavra,\nQue en[Eb]xuga tam[F]bém o [Bb]pranto;\nNosso [Gm]Pai, nós Te supli[D]camos\nNo[Gm]va vida pra Tua I[D]greja;\nÓ não [Bb]tardes, pois desejamos\nQue pu[Eb]reza em [F]nós Tu [Bb]vejas.\n\nAben[Bb]çoa, ó Deus Santo,\nOs Teus [F]servos em todo o [Bb]mundo;\nAben[Bb]çoa o nosso canto\nE dá [Eb]vida aos [F]mori[Bb]bundos;\nAben[Gm]çoa aos cordei[D]rinhos,\nA fa[Gm]mília dos Teus a[D]mados,\nCo[Bb]mo ave, que no seu ninho.\nTem [Eb]seus filhos bem [F]abri[Bb]gados."
     },
     {
         "numero": 244,
@@ -7529,7 +7529,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 244 - Louvai a Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nLou[Bb]vai a Jesus, amoroso;\nNa [F]cruz os pecados le[Bb]vou,\nQue [Bb]nos enche de Santo gozo;\nCom [F]sangue o céu nos ga[Bb]nhou.\n\nCoro:\nAo [Eb]meu Se[Bb]nhor,\nQue [F]tenho no meu cora[Bb]ção,\nEu [Eb]dou lou[Bb]vor,\nPois E[F]le me deu salva[Bb]ção.\n\nLou[Bb]vai a Jesus poderoso,\nQue [F]veio livrar da pri[Bb]são\nUm [Bb]povo cativo, medroso,\nQue [F]não tinha consola[Bb]ção.\n\nLou[Bb]vai a Jesus, vosso guia\nNo [F]mundo de tribula[Bb]ção;\nE [Bb]não tem temor, quem confia\nEm [F]Deus, mas real prote[Bb]ção.\n\nLou[Bb]vai a Jesus, dai-Lhe glória,\nPois [F]Rei e Senhor E[Bb]le é;\nNa cruz nos ganhou a vitória;\nVencei com Jesus pela fé."
     },
     {
         "numero": 245,
@@ -7557,7 +7557,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 245 - Paz de Deus em Jesus Encontrei\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]A paz e gozo Je[Am]sus já me deu,\n[D]Ele pra isso ao mundo bai[G]xou;\n[G]Para salvar-me, Seu sangue ver[C]teu,\n[C]Quando por [D]mim na cruz expi[G]rou.\n\nCoro:\n[G]Paz de Deus em [C]Jesus encon[D]trei,\n[D]Pois tenho gozo no cora[G]ção;\n[G]Honra e glória tributa[C]rei\n[C]Ao que me [D]trouxe a salva[G]ção.\n\n[G]A paz e gozo des[Am]fruto enfim,\n[D]Por Jesus Cristo, o meu Reden[G]tor;\n[G]Um amor santo, oh, tenho em [C]mim,\n[C]Que alcan[D]cei do Consola[G]dor!\n\n[G]A paz e gozo tem [Am]meu coração,\n[D]Vida celeste, repleta de a[G]mor;\n[G]Cristo me deu a real salva[C]ção,\n[C]Também o [D]dom do Consola[G]dor."
     },
     {
         "numero": 246,
@@ -7585,7 +7585,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 246 - O Descanso em Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nTens des[G]canso encontrado em Jesus Cristo?\nPerma[G]neces pela graça que Ele [D]deu?\nTens tu [G]paz com teu Salvador ben[C]dito?\nPleni[D]tude do Espírito de [G]Deus?\n\nCoro:\nTens des[C]canso encontrado em Jesus [G]Cristo?\nPermane[D]ces pela [A]graça que Ele [D]deu?\nPlena [G]paz, consolação, acha[C]rás na oração:\nDeus [D]aí vitória aos santos conce[G]deu.\n\nEsta[G]rás bem seguro e corajoso,\nQuando a [G]tentação chegar-se para [D]ti?\nTens a [G]graça pra ser Vito[C]rioso\nNas ter[D]ríveis provações da vida a[G]qui.\n\nSó em [G]Cristo encontrarás descanso,\nQue nin[G]guém aqui, jamais irá ti[D]rar;\nCom Je[G]sus tu hás de aprender ser [C]manso,\nE Sua [D]glória em ti o mundo há de mi[G]rar."
     },
     {
         "numero": 247,
@@ -7613,7 +7613,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 247 - Deus Nos Guarde No Seu Amor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Db\n\n[Db]Deus nos guarde bem no [Ab]Seu a[Db]mor;\n[Gb]Onde quer que nos a[Db]chemos,\n[Ab]O Seu nome louva[Db]remos;\n[Db]Deus nos guarde bem no [Ab]Seu a[Db]mor!\n\nCoro:\nAo vol[Db]tar Jesus vamos [Gb]nós estar\nLi[Db]vres de qualquer separa[Ab]ção;\nU’a co[Db]roa, então vamos, [Gb]sim, formar,\nLá no [Db]céu, na eter[Ab]nal man[Db]são.\n\n[Db]Deus nos guarde em santi[Ab]fica[Db]ção\n[Gb]Nas agruras da jor[Db]nada,\n[Ab]Que é mui breve termi[Db]nada!\n[Db]Deus nos guarde em Santi[Ab]fica[Db]ção!\n\n[Db]Deus nos guarde e nos con[Ab]ceda [Db]paz,\n[Gb]De que tanto care[Db]cemos;\n[Ab]Ó, enquanto aqui vi[Db]vemos,\n[Db]Deus nos guarde e nos con[Ab]ceda [Db]paz."
     },
     {
         "numero": 248,
@@ -7641,7 +7641,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 248 - Hosana e Glória\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nJá [Eb]perto de Betfagé, o Mestre orde[Bb]nou:\n“[Bb]Ó ide à aldeia, que avistando es[Eb]tou,\nTra[Eb]zei-Me um jumentinho, no [C]qual ninguém mon[Fm]tou\nDi[F]zei aos que per[Bb]guntem: \"Jesus requisi[Eb]tou\".\n\nCoro:\nHo[Eb]sana e glória davam [C]ao Senhor Je[Fm]sus,\nO [Bb]Rei que vem trazendo amor, poder e [Eb]luz;\nTam[Eb]bém vem concedendo e[C]ficaz per[Fm]dão;\nPor [Bb]isso O louvam de todo o cora[Eb]ção.\n\nTrou[Eb]xeram o jumentinho, no qual Jesus mon[Bb]tou,\nCom [Bb]ramos o caminho o povo enfei[Eb]tou;\nA [Eb]que de Sião é filha, á [C]logo lhe di[Fm]zei:\nNão [F]temas mas e[Bb]xulta, aí vem o Rei.\n\nNo [Eb]monte das Oliveiras, ouviu-se um cla[Bb]mor:\n“Ben[Bb]dito o Rei que é vindo em nome do Se[Eb]nhor”;\nJesus diz aos que o mandam calar a multidão:\n“Se [F]estes se ca[Bb]larem, as pedras clama[Eb]rão”."
     },
     {
         "numero": 249,
@@ -7674,7 +7674,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 249 - Ó vem, Senhor, e Habita\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nÓ vem, Senhor, e ha[Am]bita [D]no meu cora[G]ção;\n[G]Dá-me a graça ben[Am]dita por [D]Tua compai[G]xão.\n\nCoro:\n[D]Ó meu Deus vem dar-me\nO dom do Consola[G]dor;\nVem ho[G]je se[C]lar-me,\nEn[D]chendo-me do Teu a[G]mor!\n\n[G]Dia de paz e de [Am]gozo [D]eu vou desfru[G]tar,\n[G]Quando Jesus glo[Am]rioso minh’[D]alma bati[G]zar.\n\n[G]Do Teu amor puro e [Am]santo [D]sempre fala[G]rei;\n[G]Mesmo com dor e com [Am]pranto a [D]Cristo louva[G]rei.\n\nÓ Deus, Te peço a[Am]go[D]ra, ouve-me Se[G]nhor\n[G]Batiza-me nesta [Am]hora, no [D]Teu Consola[G]dor!"
     },
     {
         "numero": 250,
@@ -7702,7 +7702,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 250 - Noiva de Jesus, Apronta-te\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nA Cristo u[G]nida está a mi[D]nh'alma,\nPois nEle eu [D]tenho meu vero sus[G]tento;\nMe enche de [E]gozo do céu, e de [Am]cal[C]ma;\nTambém me en[D]sina os seus mandamen[G]tos.\n\nCoro:\nÓ [C]Noiva de Jesus, a[G]pronta-te para ir\nPara o e[D]terno e santo rei[G]nado;\nQue di[C]vinal amor i[G]rás lá, então, fruir\nCom Jesus [D]Cristo, o teu ama[G]do!\n\nNa santa I[G]greja, com sangue re[D]mida,\nJá é mani[D]festa em mim Sua [G]glória,\nQue por Sua [E]graça me foi concedi[Am][C]da,\nNa qual abriga[D]do, terei a vitó[G]ria.\n\nAssim eu de[G]sejo a Cristo u[D]nido,\nSeguir o ca[D]minho pra bela ci[G]dade,\nPois nEle, dos [E]males, sou bem protegi[Am][C]do,\nTambém ro[D]deado de Vera bonda[G]de."
     },
     {
         "numero": 251,
@@ -7726,7 +7726,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 251 - Ao Culto Não Faltar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nAo outro [Eb]culto; não fal[Bb]tar,\nÓ vinde [Bb]todos p'ra lou[Eb]var\nO nome [Eb]santo do Se[Ab]nhor,\nQue nos dá [Bb]vida e fer[Eb]vor.\n\nNós sepa[Eb]ramos em a[Bb]mor,\nLevando a [Bb]paz do Salva[Eb]dor,\nMas breve [Eb]vinde, não fal[Ab]teis,\nOs peca[Bb]dores sim, tra[Eb]zei.\n\nSe não pu[Eb]dermos reu[Bb]nir\nVeremos [Bb]santos no por[Eb]vir,\nNo culto [Eb]do Senhor Je[Ab]sus\nQue vai ha[Bb]ver no Céu de [Eb]luz."
     },
     {
         "numero": 252,
@@ -7754,7 +7754,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 252 - Santo, Santo és Tu Senhor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\nSanto, [A]santo és Tu, Senhor,\nEm Teu louvor eu vou can[Bm]tar\nCom espe[E]rança, ó Deus de amor;\nTu me queres conso[A]lar;\nEu te [A]peço, ó meu Jesus,\nSó Tu és meu Salva[D]dor,\nQue me [D]faças andar na [A]luz;\nSanto [D]és, meu [E]Reden[A]tor!\n\nCoro:\nAo meu Je[A]sus eu cantarei\nEntrando [A]na feliz [Bm]Sião;\nOh! Santo, [E]santo, proclamarei\nNa minha [E]eternal man[A]são,\nCom os an[A]jos e serafins,\nSanto! [A]Sempre vou can[D]tar\nCom Arcanjos e querubins;\nA Je[E]sus eu vou ado[A]rar.\n\nSanto, [A]santo, eu cantarei,\nao meu Jesus, que me sal[Bm]vou,\nE só [E]nEle confiarei,\nPois minh'alma resga[A]tou;\nDá-me o [A]pão do Céu p'ra comer.\nO maná celes[D]tial,\nP'ra Teu [D]povo fortale[A]cer,\nCom o [D]Teu po[E]der vi[A]tal.\n\nEm Je[A]sus, só, hei de buscar,\nA Sua força divi[Bm]nal,\nQue a[E]vante me vai levar,\nPara o reino eter[A]nal;\nOh! quão [A]doce é Teu pão,\nQue nos dá real vi[D]gor\nNo de[D]serto; consola[A]ção,\nQue nos [D]enche [E]de fer[A]vor."
     },
     {
         "numero": 253,
@@ -7787,7 +7787,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 253 - Avante, ó Crentes\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nAvante, ó [Ab]crentes, o [Eb]mal desfa[Ab]zendo,\nO ini[Ab]migo com a luz combate[Db]remos;\nA pe[Bb]leja pois, todos, [Eb]não temendo,\nA vi[Eb]tória por Jesus recebe[Ab]remos.\n\nCoro:\nCom a [C]graça de Je[Fm]sus nos firmaremos,\nCom a [Bb]graça de Jesus, combatere[Eb]mos,\nCom a [Ab]graça de Je[F]sus nos ven[Bbm]ceremos,\n[Db]Com a [Eb]graça [F]de Je[Bb]sus vi[Eb]tória [Ab]temos.\n\nAvante, ó [Ab]crentes, mar[Eb]chai sem tar[Ab]dança,\nJamais do [Ab]bom Jesus nós nos afasta[Db]remos,\nPorque [Bb]nEle nós temos es[Eb]perança\nE vi[Eb]tória nós assim alcança[Ab]remos.\n\nAvante, ó [Ab]crentes, [Eb]fiéis cora[Ab]josos,\nVitória [Ab]por Jesus, a nós é conce[Db]dida;\nNo com[Bb]bate, ó sede va[Eb]lorosos,\nPa[Eb]ra alcançar o galardão da [Ab]vida.\n\nAvante, ó [Ab]crentes, [Eb]dum só pensa[Ab]mento;\n\"O vil pe[Ab]cado sempre nós combate[Db]remos\".\nPois Je[Bb]sus vem, não tarda um [Eb]momento,\nCrendo [Eb]em Jesus, vitória nós já [Ab]temos."
     },
     {
         "numero": 254,
@@ -7820,7 +7820,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 254 - Mais Perto de Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Mais profundo no amor de [Db]Cristo\n[Ab]Eu desejo es[Eb]tar!\n[Ab]Mais humilde no meu ser, eu [Db]quero\n[Eb]Sempre aqui an[Ab]dar.\n\nCoro:\nMais [Ab]perto de Jesus,\nEu [Eb]quero aqui vi[Ab]ver;\nMais [Ab]santo, meu Jesus,\nEu de[Db]sejo [Eb]sempre [Ab]ser.\n\n[Ab]Mais profunda a Tua von[Db]tade,\n[Ab]Quero conhe[Eb]cer;\n[Ab]Té que minha vida, por in[Db]teiro,\n[Eb]Mostre o Teu [Ab]ser.\n\n[Ab]Mais profundo, com dor, não im[Db]porta,\n[Ab]Pois eu quero es[Eb]tar,\n[Ab]No Teu divinal amor fir[Db]mado,\n[Eb]Para fruto [Ab]dar.\n\n[Ab]Mais profundo, dia após [Db]dia,\n[Ab]Quero eu es[Eb]tar,\n[Ab]Té que o alvo, o Mestre, aqui, [Db]me faça,\n[Eb]Breve alcan[Ab]çar."
     },
     {
         "numero": 255,
@@ -7853,7 +7853,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 255 - Meu Redentor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n[C]Na cruz morrendo [F]meu reden[C]tor;\nMi[G]nhas maldades todas le[C]vou;\n[C]Se O recebes, [F]tens Seu amor,\n[F]Pois teus pe[G]cados, Jesus per[C]doou.\n\nCoro:\nQuando Deus, o Sangue vir,\nQue Je[G]sus já ver[C]teu,\nPassa[C]rá sem te fe[F]rir,\nNo Egi[G]to assim suce[C]deu.\n\n[C]Deus quer salvar ao [F]vil malfei[C]tor,\n[G]como promete, sempre fa[C]rá\n[C]NEle confia, [F]ó pecador,\n[F]E pela [G]fé vida nova te[C]rás.\n\n[C]Breve se finda [F]a tua [C]luz,\n[G]E no juízo tu vais en[C]trar;\n[C]Não te detenhas, [F]vem a Jesus,\n[F]Que teus pe[G]cados deseja apa[C]gar.\n\n[C]Que maravilha, [F]que grande a[C]mor!\n[G]Se hoje creres, salvo se[C]rás!\nCristo te chama, vem pecador,\nE gozo eterno no Céu fruirás."
     },
     {
         "numero": 256,
@@ -7886,7 +7886,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 256 - Abandona Este Mundo de Horror\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nAban[Ab]dona este mar,\nOnde [Ab]podes naufragar;\nAban[Eb]dona este mundo de hor[Ab]ror,\nA ma[Ab]ré te levará,\nO teu [Db]barco quebrará,\nÓ a[Eb]ceita a Jesus, o Salva[Ab]dor!\n\nCoro:\nAban[Db]dona já [Ab]duma vez,\nEste [Bb]proceloso mar.\nHoje [Eb]sem tardar;\ndo cas[Ab]tigo eternal,\nE de [Db]morte tão falta,\nFoge [Eb]logo pecador com rapi[Ab]dez,\n\nEis fa[Ab]róis a clarear\nE pe[Ab]rigos a marcar;\nAban[Eb]dona este mundo de hor[Ab]ror,\nJá na [Ab]barra mais além,\nO teu [Db]barco se sustém,\nÓ A[Eb]ceite a Jesus, o Salva[Ab]dor!\n\nEis que [Ab]vozes sem cessar,\nNão se [Ab]cansam de clamar;\nAban[Eb]dona este mundo de hor[Ab]ror,\nÓ a[Ab]migo, ouve já,\nEssa [Db]voz te salvará.\nÓ a[Eb]ceite a Jesus, o Salva[Ab]dor!\n\nNão es[Ab]cutas a Jesus,\nQue te [Ab]chama para luz?\nAban[Eb]dona este mundo de hor[Ab]ror,\nSe per[Ab]sistes em vagar,\nNão te [Db]poderás salvar.\nÓ A[Eb]ceite a Jesus, o Salva[Ab]dor!"
     },
     {
         "numero": 257,
@@ -7915,7 +7915,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 257 - O Perdão Sem Igual\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Amoroso [F]Salva[Bb]dor,\n[Gm]Sem i[Bb]gual é [C]teu per[F]dão;\n[Bb]Só Tu és meu [D]reden[Gm]tor\nE per[Bb]feita [F]salva[Bb]ção.\n\n[Bb]Meu contrito [F]cora[Bb]ção\n[Gm]Te con[Bb]fessa [C]seu pe[F]car,\n[Bb]Pede ao Pai [D]real per[Gm][Dbdim]dão,\nPelo [Bb]Teu a[F]mor sem [Bb]par.\n\n[Bb]Te contemplo, [F]sem ces[Bb]sar,\n[Gm]No teu [Bb]trono [C]desde a[F]qui;\n[Bb]Oh quão grato é me[D]di[Gm]tar,\nQue inter[Bb]cedes [F]Tu por [Bb]mim.\n\n[Bb]A fonte és da [F]compai[Bb]xão,\n[Gm]Sempre a [Bb]Ti da[C]rei lou[F]vor!\n[Bb]Faz-me bem ao [D]cora[Gm][Dbdim]ção,\nExal[Bb]tar-Te, [F]meu Se[Bb]nhor!"
     },
     {
         "numero": 258,
@@ -7948,7 +7948,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 258 - Na Rocha Eterna Firmado\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nUma [D]Salvador meigo é [G]Cristo Je[D]sus,\n[D]Pois ele minh'alma sal[A]vou;\nTam[D]bém meus pecados [G]tomou sobre si,\nNa [A]cruz quando me resga[D]tou.\n\nCoro:\nNa [A]rocha eterna fir[D]mado estou eu,\nE [A]tenho a salva[D]ção;\nMe es[D]conde Jesus Cristo [G]no manto Seus,\nVe[A]lando-me com Sua [D]mão.\nVe[A]lando-me com sua [D]mão.\n\nAs [D]bênçãos do Céu desfru[G]tando eu es[D]tou,\nEm [D]Cristo, o Filho de [A]Deus;\nA[D]legre eu vivo e [G]ando na luz,\nPros[A]sigo na senda do [D]Céu.\n\nAs [D]cargas que eu tive Je[G]sus as to[D]mou,\nA[D]gora liberto es[A]tou;\nA [D]graça me basta que [G]Cristo me deu,\nAs[A]sim para o céu presto eu [D]vou.\n\nFin[D]dando a lida e[G]tão O ve[D]rei,\ncom [D]anjos e santos no [A]Céu;\nE [D]hinos de glória eu [G]entoarei,\nA[A]quele que por mim mor[D]reu."
     },
     {
         "numero": 259,
@@ -7981,7 +7981,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 259 - Creio eu na Bíblia\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\n[D]Creio eu na Bíblia, o Livro do Senhor,\n[D]Pois de Jesus Cristo mostra o doce a[A]mor;\n[D]todos meus pecados apagados estão,\n[D]Paz e gozo tenho em meu [A]cora[D]ção.\n\nCoro:\n[D]Creio eu na Bíblia, livro de meu Deus;\n[D]Para mim a Bíblia é o maná dos [A]céus!\n[D]Mostra-me o caminho para o [G]lar celes[D]tial;\nA[D]cho eu na bíblia, graça [A]divi[D]nal!\n\n[D]Creio eu na Bíblia, ensina-me a cantar\n[D]Cantos de vitória, e de amor sem [A]par;\n[D]Lindas melodias, eu cantando vou,\n[D]Porque redimido pelo [A]Sangue es[D]tou!\n\n[D]Só a santa Bíblia a santidade dá,\n[D]Este dom de Cristo, prometido [A]já;\n[D]Todos os que buscam plena salvação,\n[D]Estas bênçãos, só em Cristo, [A]acha[D]rão.\n\n[D]Lemos hoje a bíblia p'ra todo pecador,\n[D]Para que encontre Cristo, o Salva[A]dor;\n[D]Sendo sua vida, livre de pecar,\n[D]O divino Livro, ele [A]vai hon[D]rar!"
     },
     {
         "numero": 260,
@@ -8009,7 +8009,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 260 - Avante com o Nosso Capitão\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nIr[G]mãos avante, avante com nosso Capi[D]tão,\nSe[D]remos triunfantes, não lutareis em [G]vão!\nVi[G]tória [E]espe[Am]ramos, vi[D]tória Deus da[G]rá,\nSe [B]firmes pelejarmos, sim, contra Go[D]liá.\n\nCoro:\nA[G]vante, a[D]vante, as trevas dissi[G]pai\ncom [E]o supremo Ca[D]pi[G]tão, a[C]vante! Vitó[D]ria alcan[G]çai!\n\nLu[G]gares deleitosos, a sorte nos to[D]cou;\nDe [D]jugos tão penosos Jesus nos liber[G]tou;\nHe[G]rança [E]foi-nos [Am]dada, he[D]rança de va[G]lor;\nNo [B]Céu é conservada por Deus, meu Salva[D]dor.\n\nCom [G]nosso Comandante, avante, pele[D]jai;\nA[D]legres, exultantes, por Cristo avan[G]çai,\nJá [G]temos [E]a [Am]Espada, não [D]temos que te[G]mer,\nA [B]Bíblia Sagrada p'ra todo mal ven[D]cer"
     },
     {
         "numero": 261,
@@ -8038,7 +8038,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 261 - Alma Triste, Abatida\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Alma triste, [C]abatida,\n[F]Que tens medo [Bb]de [C]mor[F]rer;\n[F]Por um triz, a[C]tua vida,\n[F]Pode hoje [Bb]pe[C]re[F]cer;\n[F]Vê nos mares [Bb]e nas [F]dores,\n[F]Um farol jor[Bb]rando [F]luz,\n[F]Que te enche [C]de louvores:\n[F]É Jesus, [Bb]sim, é [C]Je[F]sus!\n\n[F]Tu que andas [C]vacilante\n[F]E que o mundo [Bb]se[C]du[F]ziu,\n[F]Vem e segue, [C]confiante,\n[F]Quem na cruz [Bb]já te [C]re[F]miu,\n[F]Pois a graça [Bb]não é [F]finda\n[F]De quem expi[Bb]rou na [F]cruz;\nO[F]lha, com a[C]mor, ainda,\n[F]Pra Jesus, sim, [Bb]pra [C]Je[F]sus!\n\n[F]Lá na cruz Je[C]sus morrendo,\n[F]Teus pecados [Bb]ex[C][F]piou;\n[F]Santo Espírito [C]concedendo,\n[F]A Sua Igre[Bb]ja a[C]dor[F]nou,\n[F]Todo o mal e [Bb]sofri[F]mento,\n[F]Já pregados es[Bb]tão na [F]cruz,\n[F]Oh, sublime [C]livramento,\n[F]De Jesus, sim, [Bb]de [C]Je[F]sus!\n\n[F]A Teus pés, Je[C]sus bondoso,\n[F]Acho paz, con[Bb]so[C]la[F]ção!\n[F]Enches-me de [C]santo gozo\n[F]E de imensa [Bb]gra[C]ti[F]dão;\n[F]Quero eu cons[Bb]tante[F]mente\nRe[F]ceber a [Bb]pura [F]luz,\n[F]Que dimana [C]fortemente\n[F]De Jesus, sim, [Bb]de [C]Je[F]sus!"
     },
     {
         "numero": 262,
@@ -8066,7 +8066,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 262 - Senhor, Estás Comigo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nSe[Bb]nhor, estás comigo em todo tempo,\nFa[Bb]zendo-me feliz no sofri[F]mento,\nO [F]dá-me cada dia o Teu sustento\nE [Bb]graça p’ra cumprir Teu mandamento.\n\nCoro:\n[Bb]Sim, estás comigo em todo [F]tempo,\nTu [F]es o meu maná, meu ali[Bb]mento;\nJe[Bb]sus, estás comigo em todo [F]tempo,\nO [F]dá-me Tua vida; Teu Sus[Bb]tento.\n\nCon[Bb]tigo, ó Senhor, vou caminhando,\nO [Bb]Evangelho santo procla[F]mando:\nA [F]face do Senhor Jesus buscando,\nE [Bb]sempre do pecado me guardando.\n\nPor [Bb]Deus estamos nós santificados\nEm [Bb]Ti, Jesus, que nos tens resga[F]tado\nDo [F]mundo e de todo o vil pecado,\nTam[Bb]bém o nosso ser vivificado."
     },
     {
         "numero": 263,
@@ -8090,7 +8090,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 263 - Ao Fim do Culto\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nO culto [Bb]tendo já termi[F]nado,\nTe supli[F]camos, ó Salva[Bb]dor,\nSe em qualquer [Bb]coisa foi pertur[Eb]bado,\nQue nos per[F]does, por Teu a[Bb]mor.\n\nGravar Tu [Bb]queiras a sã dou[F]trina,\nPor Teu Es[F]pírito Consola[Bb]dor,\nQue nos sus[Bb]tenta, que nos en[Eb]sina,\nE que nos [F]enche do Teu a[Bb]mor.\n\nSe nós a[Bb]qui não mais regres[F]sarmos,\nCerteza [F]temos de ver [Bb]na luz\nOs santos [Bb]juntos e contem[Eb]plarmos\nNo céu, um [F]dia, o bom Je[Bb]sus!"
     },
     {
         "numero": 264,
@@ -8119,7 +8119,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 264 - Ó Pai Celeste\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nÓ Pai celeste [Eb]no nome [Ab]santo\n[Ab]Do Teu ama[Fm]do [Bb]Filho Je[Eb]sus,\n[Ab]Grato Te sela o nosso can[Db]to,\n[Eb]Que reve[Bb]rente Tua [Eb]grei pro[Ab]duz;\nÓ Deus, preside Teu povo u[Ab]nido,\n[Fm]Com Tua [Db]gra[Ab]ça e [Bb]com Teu po[Eb]der,\n[Ab]No Santo Espírito [Db]já recebido,\n[Bb]Nós dese[Eb]jamos aqui vi[Ab]ver.\n\n[Ab]Rocha divina, [Eb]nossa fir[Ab]meza,\n[Ab]Dá-nos a gra[Fm][Bb]ça, dá-nos po[Eb]der;\nÉs dos Teus servos a fortale[Db]za,\n[Eb]Onde, abri[Bb]gados, não [Eb]têm pa[Ab]vor;\n[Eb]Chuvas de bênçãos sempre [Ab]derrama\n[Fm]Em abun[Db]dân[Ab]cia [Bb]dos altos [Eb]céus;\n[Ab]A nossa alma, [Db]qual cervo brama\n[Bb]Em grande [Eb]seca por Ti, bom [Ab]Deus!\n\n[Ab]Rebanho santo, [Eb]por Deus se[Ab]lado,\n[Ab]Duma só men[Fm]te, [Bb]dum cora[Eb]ção,\n[Ab]E que assim seja realiza[Db]do,\n[Eb]Ver, espe[Bb]ramos, com [Eb]pronti[Ab]dão;\nÓ nos defende com o Teu [Ab]braço,\n[Fm]Do ini[Db]mi[Ab]go, [Bb]do tenta[Eb]dor;\n[Ab]Sempre dirige [Db]os nossos passos,\nAs vivas [Eb]fontes que dão vi[Ab]gor!\n\n[Ab]Manda, Se[Eb]nhor, a Tua men[Ab]sagem\n[Ab]Pela divi[Fm]na e [Bb]sacra un[Eb]ção,\n[Ab]Qual o maná, que trouxe, em via[Db]gem,\n[Eb]Para [Bb]Teu povo, a [Eb]consola[Ab]ção;\n[Eb]Tua Palavra, água da [Ab]vida,\n[Fm]Do nosso [Db]cáli[Ab]ce, [Bb]faz transbor[Eb]dar,\n[Ab]Cheia de graça, [Db]bem dirigida,\n[Bb]Para os se[Eb]dentos poder sa[Ab]ciar."
     },
     {
         "numero": 265,
@@ -8152,7 +8152,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 265 - Doce é Crer em Cristo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Oh! quão doce é [Db]crer em Cristo.\n[Ab]E entregar-se [Eb]a Jesus,\n[Ab]Esperar em [Db]Suas promessas\n[Ab]E an[Db]dar na [Eb]Sua [Ab]luz!\n\nCoro:\n[Ab]Jesus Cristo, [Eb]Jesus Cristo,\n[Ab]Teu amor me [Eb]deste a mim!\n[Ab]Jesus Cristo, [Db]Jesus [Ab]Cristo,\n[Ab]Sempre [Db]quero [Eb]crer em [Ab]Ti.\n\nE mui doce [Db]crer em Cristo,\n[Ab]E cumprir o [Eb]Seu querer,\n[Ab]Não descrendo em [Db]Sua Palavra,\n[Ab]Que é [Db]luz pra [Eb]nosso [Ab]ser.\n\nE mui grato [Db]crer em Cristo;\n[Ab]Quando busca o [Eb]coração\n[Ab]Os tesouros [Db]infinitos\n[Ab]De a[Db]mor, [Eb]paz e per[Ab]dão.\n\n[Ab]Sempre em Ti con[Db]fiar eu quero,\n[Ab]Meu precioso [Eb]Salvador;\n[Ab]Na bonança [Db]e na luta,\n[Ab]Me pro[Db]teja a[Eb]Teu a[Ab]mor."
     },
     {
         "numero": 266,
@@ -8185,7 +8185,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 266 - Resgatados Fomos\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nNós [Ab]resga[Db]tados [Ab]fomos,\nPor [Eb]quem nos quis sal[Ab]var;\nEm [Ab]Cris[Db]to li[Ab]vres somos,\nPra [Bb]nunca mais pe[Eb]car!\nEm [Eb]Cristo livres [Ab]somos,\nPra [Db]nunca [Ab]mais pe[Eb][Ab]car!\n\nCoro:\n[Ab]Resgatados fomos,\n[Eb]Resgatados fomos,\n[Ab]Resgatados [Db]fomos,\nP’ra [Eb]nunca mais pe[Ab]car!\n\nNós [Ab]fomos [Db]já e[Ab]leitos,\nO [Eb]céu, p’ra desfru[Ab]tar;\nTam[Ab]bém por [Db]Deus a[Ab]ceitos\nP’ra [Bb]nunca mais pe[Eb]car!\nTam[Eb]bém por Deus a[Ab]ceitos\nPra [Db]nunca [Ab]mais pe[Eb][Ab]car!\n\n[Ab]A imor[Db]tali[Ab]dade\nHa[Eb]vemos de go[Ab]zar,\nPois [Ab]temos [Db]liber[Ab]dade\nPra [Bb]nunca mais pe[Eb]car!\nPois [Eb]temos liber[Ab]dade\nPra [Db]nunca [Ab]mais pe[Eb][Ab]car!\n\nNo [Ab]meio [Db]dos re[Ab]midos\nA [Eb]Cristo vou lou[Ab]var,\n[Ab]Por tê-Lo [Db]rece[Ab]bido\nPra nunca mais pecar!\nPor tê-Lo recebido\nPra [Bb]nunca mais pe[Eb]car!"
     },
     {
         "numero": 267,
@@ -8208,7 +8208,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 267 - Jesus Minha Força\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nVai che[G]gando mais [D]perto e causando ter[G]ror,\nA pre[G]dita enchente de pecados e [D]dor;\nMas eu [G]sei que po[D]tente é a mão do Se[G]nhor,\n[C]Por isso, tran[G]quilo, não [D]tenho te[G]mor.\n\nCoro:\nÉ Je[G]sus mi[D]nha for[G]ça, meu a[C]mado Se[G]nhor,\nSe E[C]le é o [G]guarda, não [A]tenho te[D]mor;\nEu de[G]sejo en[D]cher-[G]me do [C]Seu grande a[G]mor,\nVi[C]vendo na [G]graça do [D]meu Salva[G]dor.\n\nMais chega[G]do a [D]Cristo eu desejo fi[G]car;\nMais a[G]legre e contente quero sempre an[D]dar,\nNos Seus [G]passos se[D]guindo para nunca er[G]rar,\nA[C]té que um [G]dia eu [D]vá descan[G]sar."
     },
     {
         "numero": 268,
@@ -8231,7 +8231,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 268 - Confiante em Deus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Sê tu, em Deus confiante;\nOra [Eb]muito a Je[Bb]sus,\n[Eb]E alegre, triunfante,\nLeva [F]sempre tua [Bb]cruz.\nNo Se[Eb]nhor tem espe[Ab]rança;\nPois te [Bb]guia Sua [Eb]mão;\nVem a E[Eb]le, sem tar[Ab]dança,\nE te[Bb]rás consola[Eb]ção.\n\nCoro:\nGlória, [Eb]glória. Aleluia, aleluia a Jesus!\nAle[Eb]luia! Glória a Je[Bb]sus!\nGlória, [Eb]glória. Aleluia, aleluia a Jesus!\nAle[Eb]luia ao [Bb]Reden[Eb][Ab]tor! A[Eb]mém.\n\n[Eb]Se aqui és perseguido,\nTens a [Eb]glória do por[Bb]vir;\n[Eb]Se estás enfraquecido,\nNovas [F]forças hão de [Bb]vir;\nMesmo [Eb]que o sol se [Ab]turve,\nHaja [Bb]forte fura[Eb]cão,\nSê [Eb]fiel, não te per[Ab]turbes,\nCrê em [Bb]Deus, de cora[Eb]ção."
     },
     {
         "numero": 269,
@@ -8265,7 +8265,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 269 - Louvarei ao Meu Amado\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\nLouva[A]rei ao meu a[E]mado;\nSobre [A]todos e[B]xal[E]tado;\nPor Seu [A]sangue fui com[D]prado;\nTodo [E]dEle [A]sou.\n\nNo Seu [A]nome há melo[E]dia;\nQuão [A]suave em [B]harmo[E]nia!\nEnche as [A]almas de ale[D]gria\nEsse [E]som - Je[A]sus!\n\nDigno [A]é de con[E]fiança,\nMui [A]fiel e [B]sem mu[E]dança;\nNEle es[A]tá minha espe[D]rança;\nBem se[E]guro es[A]tou!\n\nSeu ca[A]minho vou se[E]guindo,\nSua [A]força [B]me cin[E]gindo,\nNa car[A]reira prosse[D]guindo,\nTé no [E]céu en[A]trar.\n\nLá ve[A]rei meu Rei glo[E]rioso,\nCo[A]roado, ma[B]jes[E]toso,\nMais que [A]todos amo[D]roso,\nMeu Se[E]nhor Je[A]sus."
     },
     {
         "numero": 270,
@@ -8293,7 +8293,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 270 - Louvando ao Nosso Salvador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Sinto prazer louvando\n[G]Ao nosso Cria[D]dor,\n[G]E gozo celebrando\n[A]Os feitos do Se[D]nhor;\n[G]Saber que sou lavado\n[G]No sangue de Je[Am]sus.\n[C]Também que sou [G]guiado,\n[A]Pela divi[D]na [G]luz!\n\nCoro:\nA[G]legre irei avante,\nU[D]nido ao Salva[G]dor;\n[G]Cantando triun[C]fan[G]te,\nAo [D]nosso [A][D]Cria[G]dor!\n\n[G]Em Cristo, tenho gozo,\n[G]E paz, celeste [D]luz;\n[G]Na obra, eu repouso,\n[A]Cumprida lá na [D]cruz;\n[G]De graça revestido,\n[G]Nada me fal[Am]tará;\n[C]Cristo tem prome[G]tido,\n[A]Que tudo su[D]pri[G]rá!\n\n[G]Alegre sigo avante,\n[G]Na senda que con[D]duz\n[G]A porta fulgurante\n[A]Da mansão de Je[D]sus;\n[G]Com Deus aqui eu ando,\n[G]Ele me guia[Am]rá,\n[C]E por fim me to[G]mando,\n[A]Ao céu me le[D]va[G]rá!"
     },
     {
         "numero": 271,
@@ -8326,7 +8326,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 271 - Na Mansão do Salvador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nLá na man[Ab]são do Salva[Db]dor,\nNão há, ja[Ab]mais, tribula[Eb]ção;\nNenhum pe[Ab]sar, nenhuma [Db]dor,\nQue me que[Eb]brante o cora[Ab]ção.\n\nCoro:\nAli não [Ab]há tristeza e [Eb]dor,\nNenhum pe[Eb]sar, nem afli[Ab]ção;\nQuando eu es[Ab]tiver morando [Db]lá\nDirei: Não [Eb]há tribula[Ab]ção.\n\nPra mim é [Ab]triste estar a[Db]qui,\nMui longe, [Ab]sim, do Salva[Eb]dor,\nPois mo[Ab]ram já com Ele a[Db]li,\nOs salvos [Eb]pelo Seu a[Ab]mor.\n\nPerfeito a[Ab]mor encontra[Db]rei,\nLá na man[Ab]são do meu Se[Eb]nhor,\nCompleta [Ab]paz, ai te[Db]rei,\nPois me da[Eb]rá o Salva[Ab]dor.\n\nEstando [Ab]lá. eu goza[Db]rei\nDe toda a [Ab]bênção divi[Eb]nal;\nTambém, com [Ab]Cristo reina[Db]rei,\nNa Sua [Eb]glória eter[Ab]nal."
     },
     {
         "numero": 272,
@@ -8350,7 +8350,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 272 - Quando Jesus Aparecer\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nQuando Je[Bb]sus apare[F]cer,\nQue festa [F]para nós há de [Bb]ser,\nAo céu de [Bb]luz iremos [F]ter,\nP’ra desfru[F]tar eterno pra[Bb]zer,\n[F]Quando ao Seu Pai nos apresen[Bb]tar,\n[Bb]Que ale[F]gria no céu have[Bb]rá;\n[G]No trono Seu teremos lu[Cm]gar,\nEm nossa [Bb]fronte co[C]roa [F]po[Bb]rá.\n\nMarchai com [Bb]Deus, sem vos de[F]ter,\nEm santi[F]dade e sem te[Bb]mer;\nSe nada [Bb]mais podeis fa[F]zer -\nPor crer em [F]Cristo - tendes po[Bb]der,\n[F]Se hoje crerdes... Deus vos da[Bb]rá;\n[Bb]Se fé ti[F]verdes, vós recebe[Bb]reis,\n[G]Vida de paz no céu go[Cm]za[Edim]rá\nTodo que [Bb]crer em Je[C]sus, nos[F]so [Bb]Rei.\n\nIremos [Bb]nós, no céu [F]cear\nE Jesus [F]Cristo nos servi[Bb]rá;\nA Sua [Bb]grei que quis sal[F]var,\nNo céu, en[F]tão, se reuni[Bb]rá.\n[F]Qual forte sol, dará resplen[Bb]dor\n[Bb]Ante Je[F]sus, o Senhor eter[Bb]nal!\n[G]Oh, que prazer, que sublime a[Cm][Edim]mor,\nExisti[Bb]rá no lar [C]celes[F][Bb]tial!"
     },
     {
         "numero": 273,
@@ -8383,7 +8383,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 273 - Só a Ti Recorrerei\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nQuer nas [C]trevas quer na luz,\nSó a [C]Ti recorre[G]rei,\nSó a[C]li meu bom Jesus,\nE so[F]corro [G]acha[C]rei.\n\nCoro:\nSó a Ti, meu Senhor,\nSó a [F]Ti recorre[C]rei;\nSó em Ti, Salvador,\nUm re[F]fúgio en[G]contra[C]rei!\n\nQuando lu[C]tas, penas, dor,\nNeste [C]mundo encon[G]trar,\nEu Te [C]buscarei, Senhor,\nE vi[F]rás me [G]conso[C]lar!\n\nQuando o [C]grande tentador\nA minh'[C]alma comba[G]ter,\nPela [C]graça do Senhor,\nTodo o [F]mal hei [G]de ven[C]cer.\n\nPortes [C]lutas eu terei,\nNeste [C]mundo engana[G]dor,\nMas so[C]corro eu acharei,\nEm Ti, [F]sempre, [G]oh, Se[C]nhor!"
     },
     {
         "numero": 274,
@@ -8416,7 +8416,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 274 - Jesus é a Luz do Mundo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nO [F]mundo perdido em pe[C]cado se a[F]chou,\nJe[F]sus é a luz do [C]mundo;\nMas [F]nas densas trevas a [C]glória bri[F]lhou,\nJe[F]sus é a luz do [C]mun[F]do!\n\nCoro:\n[C]Vem para a luz, não [G]queiras per[C]der\n[C]Perfeita paz, dum [G]novo vi[C]ver:\n[F]Eu cego fui, mas [Bb]Já posso ver,\nJe[F]sus é a luz do [C]mun[F]do!\n\nNas [F]trevas do mundo já [C]temos Be[F]tel,\nJe[F]sus é a luz do [C]mundo,\nI[F]rás pela luz se tu [C]fores [F]fiel,\nJe[F]sus é a luz do [C]mun[F]do!\n\nÓ [F]cegos e presos no [C]vale de hor[F]ror,\nJe[F]sus é a luz do [C]mundo,\nE [F]manda chamar-vos a [C]ver Seu ful[F]gor,\nJe[F]sus é a luz do [C]mun[F]do!\n\nNem [F]sol, nem luzeiros no [C]mundo have[F]rá\nJe[F]sus é a luz do [C]mundo,\nA [F]luz do Seu rosto a[C]li brilha[F]rá,\nJe[F]sus é a luz do [C]mun[F]do!"
     },
     {
         "numero": 275,
@@ -8440,7 +8440,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 275 - Ó Acorda, Desperta!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nÓ acorda, desperta dormente,\nTu que jazes no sono da morte,\nE que [Bb]tens uma [Eb]tão triste sorte.\nÓ des[F]perta por Cristo, o Se[Bb]nhor!\nPois te [F]chama o fiel Salva[Bb]dor,\nO Seu [Bb]sangue na [C]cruz já derra[F]mou,\nTeus pe[Bb]cados a[Eb]li aniqui[Bb]lou,\nE res[F]pondes: \"Não quero, Se[Bb]nhor?”\n\nO não sabes que teu próprio alento\nVem de Deus, vem a cada momento?\nQue[Bb]res tu desper[Eb]tar num tormento\nQue ja[F]mais poderá se fin[Bb]dar?\nCristo hoje te quer libertar,\nÓ desperta-te à voz do Salvador,\nFoge [Bb]logo do a[Eb]bismo de hor[Bb]ror,\nQue tu’[F]alma procura tra[Bb]gar.\n\nNão te im[Bb]portas por teres agora,\nA tua [F]alma em [Bb]negra mas[C]mor[F]ra?\nEm Je[Bb]sus hoje [Eb]crê, busca-O e adora,\nPois as[F]sim tu terás salva[Bb]ção;\nCrendo em [F]Cristo no teu cora[Bb]ção,\nPaz e [Bb]gozo por [C]Ele obte[F]rás;\nE tam[Bb]bém no [Eb]céu tu habita[Bb]rás,\nSe re[F]cebes agora o per[Bb]dão."
     },
     {
         "numero": 276,
@@ -8468,7 +8468,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 276 - Em Canaã Eu Entrarei\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\nEm [A]Canaã eu entrarei, no [E]meu país di[A]toso,\nE [A]em Sião habitarei; que [E]paz ali te[A]rei\nCom [E]meu Jesus! Que gozo! Pois [A]me dará repouso,\nI[A]rei cantar, então, nos [F#m]céus, um [D]hino [E]ao meu [A]Deus!\n\nCoro:\n[A]Oh! Glória a Jesus, [E]a Jesus, [A]a Jesus!\n[A]Oh! Glória a [F#m]Jesus, ó [D]meu po[E]der e [A]luz!\nOs [E]santos reunidos, no [A]reino dos remidos,\nEn[A]toarão, enfim, nos [F#m]céus,\num [D]hino [E]ao bom [A]Deus!\n\nJá [A]muitas provas eu passei e [E]lutas bem no[A]tórias;\nMas [A]de andar não cansarei, a[E]té eu ver o [A]Rei.\nJe[E]sus, que dá vitória, me le[A]vará em glória,\nE [A]entrarei no esplen[F#m]dor do [D]reino [E]do Se[A]nhor.\n\nMui [A]breve Cristo voltará;\nnas [E]nuvens, vê-Lo-[A]emos;\nE [A]o Seu povo levará, e [E]festa have[A]rá;\nAo [E]céu nós subiremos, e [A]lá encontraremos\nO [A]nosso caro e bom Je[F#m]sus, ver[D]dade, [E]vida e [A]luz."
     },
     {
         "numero": 277,
@@ -8501,7 +8501,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 277 - Salvo Estás? Limpo Estás?\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nTens a[Ab]chado em Cristo plena salvação,\nPelo [Ab]sangue vertido na [Eb]cruz?\nToda [Ab]mancha lava de teu [Db]coração,\nEste [Ab]sangue efi[Eb]caz de Je[Ab]sus.\n\nCoro:\nSalvo es[Ab]tás, limpo es[Db]tás,\nPelo [Ab]sangue de Cristo Je[Eb]sus?\nTens teu [Ab]coração mais alvo [Db]que a luz,\nFoste [Eb]limpo no sangue efi[Ab]caz?\n\nVives [Ab]sempre ao lado do teu Salvador,\nPelo [Ab]sangue que mana da [Eb]cruz?\nDo pe[Ab]cado foste sempre [Db]vencedor,\nComo [Ab]foi teu ben[Eb]dito Je[Ab]sus?\n\nTerás [Ab]roupa branca quando vier Jesus,\nFoste [Ab]limpo na fonte de a[Eb]mor?\nEstás [Ab]pronto pra seguir ao [Db]céu de luz,\nPelo [Ab]sangue pu[Eb]rifica[Ab]dor?\n\nCristo [Ab]hoje dá pureza e mui poder:\nFita [Ab]os olhos na cruz do Se[Eb]nhor,\nDela, [Ab]fonte sai que te enche [Db]de prazer,\nQue te [Ab]farta de [Eb]vida e vi[Ab]gor."
     },
     {
         "numero": 278,
@@ -8529,7 +8529,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 278 - Levar a Cruz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nVais [Ab]levando só, e mui can[Db]sado,\nTua [Eb]cruz, tua [Ab]cruz?\nNão sa[Ab]bendo que tens ao teu [Db]lado\nO au[Bb]xilio do Senhor Je[Eb]sus?\n\nCoro:\nSe tenho [Eb]cargas, que só não [Ab]posso levar\nEu [Db]peço au[Ab]xílio ao [Bb]meu bom Salva[Eb]dor!\nSe de can[Eb]sado não posso [Ab]mais caminhar,\nEu [Db]clamo a meu Je[Ab]sus, que vem me [Eb]dar o Seu vi[Ab]gor.\n\nNão te es[Ab]queças, que só, ao Cal[Db]vário,\nFoi Je[Eb]sus, foi Je[Ab]sus,\nOnde [Ab]derrotou o adver[Db]sário,\nQuando [Bb]por ti sucumbiu na [Eb]cruz.\n\nSó em [Ab]Cristo, o fiel a[Db]migo,\nAcha[Eb]rás, acha[Ab]rás,\nEscon[Ab]dido, neste bom a[Db]brigo,\nA paz [Bb]de Deus, então frui[Eb]rás."
     },
     {
         "numero": 279,
@@ -8557,7 +8557,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 279 - Ali Quero ir, e Tu?\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\nJe[A]sus me falou dum for[D]moso lu[A]gar;\nA[A]li quero [E]ir, e [A]tu?\n[A]Aonde os salvos i[D]rão desfru[A]tar;\nA[E]li quero ir; e [A]tu?\nPois Je[A]sus as mansões nos [D]foi prepa[A]rar;\nA[A]li quero [E]ir; e [A]tu?\n[A]Aonde a morte não [D]pode che[A]gar;\nA[A]li quero [E]ir; e [A]tu?\n\nCoro:\nAo [A]céu quero Ir\nAo [D]céu quero [A]Ir,\nAo [A]céu quero [E]ir; [B]e [E]tu?\nAo [A]céu quero ir;\nNão [D]queres tu [A]ir?\nNo [E]céu quero ver Je[A]sus!\n\nAs [A]portas são jóias, o [D]mar de cris[A]tal;\nA[A]li quero [E]ir; e [A]tu?\nÉ [A]Cristo a luz do [D]país celes[A]tial;\nA[E]li quero ir; e [A]tu?\nOs que [A]lá vão entrar, ja[D]mais morre[A]rão;\nA[A]li quero [E]ir; e [A]tu?\n[A]Aonde termina a [D]tribula[A]ção.\nA[A]li quero [E]ir; e [A]tu?\n\nE [A]quando navegue a [D]nau de [A]Sião,\nA[A]li quero [E]ir; e [A]tu?\nAo [A]dar-se à vela, [D]pra essa man[A]são,\nA[E]li quero ir; e [A]tu?\nQuando [A]vão coroar a [D]Cristo, tam[A]bém,\nA[A]li quero [E]ir; e [A]tu?\nE [A]quando os coros dis[D]serem: \"A[A]mém\".\nA[A]li quero [E]ir; e [A]tu?"
     },
     {
         "numero": 280,
@@ -8586,7 +8586,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 280 - Ó Jesus, Te Suplico\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nÓ Je[C]sus, no Teu caminho,\nTe su[G]plico com fer[C]vor,\nTem-me [C]mais a Ti vizinho\nP'ra go[F]zar do [G]Teu a[C]mor.\n\nÓ Se[C]nhor, ó vem guardar-me\nSob [G]Tua prote[C]ção;\nPara o [C]céu, ó vem guiar-me\nPela [F]Tua [G]forte [C]mão.\n\nDá-me [C]Teu celeste gozo,\nE vi[G]tória sobre o [C]mal;\nDá-me a [C]graça, Teu repouso,\nTua [F]paz ce[G]les[C]tial!\n\nÓ Se[C]nhor, vem consolar-me,\nNo Teu [G]divinal a[C]mor!\nTua [C]vida queiras dar-me,\nMeu a[F]mado [G]Reden[C][G]tor!"
     },
     {
         "numero": 281,
@@ -8619,7 +8619,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 281 - Vem Sem Tardar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nVem a [Ab]Cristo, [Eb]sem tar[Fm]dar,\nNão te [Fm]quei[Ab]ras recu[Db]sar,\nÓ a[Bb]migo, vem depressa a Je[Eb]sus!\nVem das [Ab]trevas [Eb]para a [Fm]luz,\nCristo [Fm]quer [Ab]te conso[Db]lar,\nVem a [Eb]Ele, ó perdido, sem tar[Ab]dar!\n\nCoro:\nSem tar[Eb]dar, vem sem tar[Ab]dar;\nSem tar[Bb]dar, vem sem tar[Eb]dar.\nO a[Ab]ceita a [Eb]salva[Fm]ção,\nNo teu [Fm]po[Ab/C]bre cora[Db]ção,\nJesus [Eb]Cristo te convida: “Sem tar[Ab]dar”.\n\nVem a [Ab]Cristo, [Eb]sem tar[Fm]dar,\nUm te[Fm]sou[Ab/C]ro te quer [Db]dar;\nEle [Bb]quer te conceder real per[Eb]dão;\nCristo [Ab]vê teu [Eb]cora[Fm]ção,\n[Fm]Tua alma [Ab/C]a solu[Db]çar;\nVem a [Eb]Ele, á perdido, sem tar[Ab]dar!\n\nVem a [Ab]Cristo, [Eb]sem tar[Fm]dar,\nCom Seus [Fm]dons te [Ab/C]quer far[Db]tar,\nCom ri[Bb]quezas que jamais se perde[Eb]rão.\nVem, [Ab]estende a [Eb]tua [Fm]mão,\nCristo [Fm]quer [Ab]te per[Db]doar!\nVem a [Eb]Ele, ó perdido, sem tar[Ab]dar!\n\nVem a [Ab]Cristo [Eb]sem tar[Fm]dar,\nTua [Fm]tenda [Ab/C]vem fir[Db]mar\nSobre a [Bb]rocha que do mal te guarda[Eb]rá;\nO re[Ab]ceio [Eb]larga [Fm]já,\nVem pra [Fm]Cris[Ab/C]to te sal[Db]var;\nEle [Eb]mesmo te avisa: “Sem tar[Ab]dar”!"
     },
     {
         "numero": 282,
@@ -8652,7 +8652,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 282 - Que Sangue Precioso\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nQue [G]sangue precioso\n[G]Saiu do Salva[D]dor!\nOh [G]sangue glorioso,\nQue [D]lava o peca[G]dor!\n\nCoro:\nSim, o [G]sangue [C]que Je[G]sus\nNa [D]cruz der[G]ramou;\nSim, o [G]sangue de Jesus,\nMeu co[D]ração la[G]vou!\n\nIr[G]mãos, nos recordemos\nQue o [G]sangue nos la[D]vou\nA[G]legres, jubilemos\nSeu [D]sangue nos com[G]prou!\n\nNa [G]glória está sentado,\nJe[G]sus, meu Reden[D]tor!\nNo [G]trono coroado,\nO [D]meu interces[G]sor!\n\nPor [G]que assim resistes\nAo [G]meigo Salva[D]dor?\nA[G]ceita o Seu convite\nPras [D]bodas de a[G]mor."
     },
     {
         "numero": 283,
@@ -8685,7 +8685,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 283 - O Pastor e as Ovelhas\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Ama o Pastor as ovelhas,\n[Db]Com um amor pater[Ab]nal,\n[Ab]Ama o Pastor seu rebanho,\n[Bb]Com um amor sem i[Eb]gual;\n[Eb]Ama o Pastor inda ou[Ab]tras,\n[Ab]Que desgarradas es[Eb]tão,\n[Ab]E comovido as pro[Db]cura,\n[Eb]Por onde quer qu’elas [Ab]vão.\n\nCoro:\n[Fm]Pelos desertos er[C]rantes,\n[Fm]Vêem-se a so[Db]frer penas [C]mil,\n[Ab]Ele ao achá-las, nos [Db]ombros\n[Eb]Leva-as ditoso, ao re[Ab]dil.\n\nAma o Pastor seus cordeiros,\nCom inefável amor,\n[Ab]Aos que, às vezes, perdidos,\n[Bb]Gemendo se ouvem de [Eb]dor.\n[Eb]Vede o Pastor como[Ab]vido\n[Ab]Pelas colinas va[Eb]gar,\n[Ab]E os cordeiros nos [Db]ombros,\n[Eb]Vede-O, levando ao lu[Ab]gar.\n\n[Ab]Ama as noventa e nove,\n[Db]Que no redil abri[Ab]gou;\n[Ab]Ama a que, desgarrada.\n[Bb]No campo se des[Eb]viou;\n\"Ó minha ovelha perdi[Ab]da!\"\n[Ab]Clama o dolente Pas[Eb]tor;\n[Ab]Quem irá em sua a[Db]juda,\n[Eb]Para salvá-la, Se[Ab]nhor?\n\n[Ab]São delicados teus pastos,\n[Db]Mui quietas tuas águas [Ab]são;\n[Ab]Eis-nos aqui. ó bom Mestre,\n[Bb]Dá-nos veraz dire[Eb]ção,\n[Eb]Faz-nos obreiros zelo[Ab]sos,\n[Ab]Enche-nos de santo a[Eb]mor,\n[Ab]Pelas ovelhas per[Db]didas\n[Eb]Do Teu redil, bom Se[Ab]nhor."
     },
     {
         "numero": 284,
@@ -8714,7 +8714,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 284 - Bendito Cristo, Eis-me Aqui\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nTal [Eb]como sou, vou [Bb]deci[Eb]dir,\nQue a [Bb]outro eu não posso [Eb]ir;\nPois [Eb]me convidas [Ab]para vir,\nBen[Eb]dito Cristo, [Bb]eis-me a[Eb]qui.\n\nTal [Eb]como sou, sem [Bb]demo[Eb]rar,\nDo [Bb]mal, querendo me li[Eb]vrar;\nSó [Eb]podes Tu me [Ab]perdoar:\nBen[Eb]dito Cristo, [Bb]eis-me a[Eb]qui.\n\nTal [Eb]como sou, [Bb]em afli[Eb]ção,\nEx[Bb]posto à morte, e perdi[Eb]ção,\nBus[Eb]cando vida [Ab]e perdão,\nBen[Eb]dito Cris[Bb]to, eis-me a[Eb]qui.\n\nTal [Eb]como sou, Teu [Bb]grande a[Eb]mor\nMe [Bb]vence, e busco Teu fa[Eb]vor,\nSer[Eb]vir-Te quero [Ab]com valor,\nBen[Eb]dito Cristo, [Bb]eis-me a[Eb]qui."
     },
     {
         "numero": 285,
@@ -8742,7 +8742,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 285 - Tu És o Meu Gozo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nSe[D]nhor, pela fé me sus[A]tento\nNa [A]graça, nos Teus manda[D]mentos,\nQue o[D]peram a cada mo[G]mento,\nNo [G]meu cora[D]ção, [A]salva[D]ção!\n\nCoro:\nTu és o meu gozo,\nSenhor, o [A]meu manancial de a[D]mor;\nI[D]rei Te louvar para [G]sempre nos [D]céus,\nBem [G]perto do [A]trono de [D]Deus!\n\nA [D]graça de Deus rece[A]bida,\nEn[A]cheu-me de gozo, de [D]vida,\nE [D]sempre a mim é conce[G]dida\nPor [G]nosso Se[D]nhor, [A]Reden[D]tor!\n\nDe [D]bênçãos oh! vem me inun[A]dando,\nO [A]meu coração infla[D]mando,\nTam[D]bém meus pecados quei[G]mando,\nDe [G]todo meu [D]ser, [A]com po[D]der."
     },
     {
         "numero": 286,
@@ -8775,7 +8775,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 286 - Não Tarda Vir Jesus!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nÓ Jesus, [Db]nesta [Ab]terra,\n[Eb]Há só tristeza e [Fdim][Ab]dor;\n[Ab]Os Ímpios [Db]fazem [Ab]guerra\n[Fm]Aos santos [Bb]do Se[Eb]nhor.\n\nCoro:\n[Eb]Cristo [Ab]volta\n[Ab]Em fulgurante [Eb]luz;\n[Ab]O mar já [Db]se re[Ab]volta,\nNão tarda [Bb]vir [Eb]Je[Ab]sus!\n\n[Ab]Do mundo [Db]nós não [Ab]somos,\n[Eb]Mas do Senhor Je[Fdim][Ab]sus;\n[Ab]Remidos [Db]todos [Ab]fomos\n[Fm]Com sangue, [Bb]lá na [Eb]cruz!\n\n[Ab]No mundo [Db]tene[Ab]broso\n[Eb]Não vamos descan[Ab]sar,\n[Ab]Mas para o [Db]céu, de [Ab]gozo,\n[Fm]Queremos [Bb]já [Eb]voar!\n\n[Ab]Olhamos [Db]para [Ab]cima\n[Eb]Donde virá Je[Ab]sus;\n[Ab]Pois isto [Db]nos a[Ab]nima\n[Fm]Para vi[Bb]ver na [Eb]luz."
     },
     {
         "numero": 287,
@@ -8808,7 +8808,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 287 - Oh, Foi o Sangue\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nOh, [G]foi o sangue [C]do Senhor\nQue me sal[G]vou, sim, me sal[C]vou;\nSim, [C]este sangue tem poder,\nDe [D]toda a mancha me la[G]vou.\n\nCoro:\nJesus pra todos tem poder e salvação,\nMeu ami[G]go, a Ele vem, acei[C]tando a remissão;\nGlória ao [C]Salvador! Glória ao [F]meu Je[C]sus!\nO Seu [C]sangue [G]me sal[C]vou!\n\nOh! [G]maravilha [C]de amor\nA mim mos[G]trou, sim, me mos[C]trou;\nJe[C]sus sofreu tão grande dor.\nE [D]tua vida resga[G]tou.\n\nEm [G]mim não há po[C]der algum\nMui débil 's[G]tou, mereço [C]dó.\nMas [C]por Jesus eu vencerei,\n[D]Ainda que eu seja [G]pó.\n\nMeu [G]Pai me deu o Con[C]solador,\nPra me [G]guiar, me ilumi[C]nar,\nJa[C]mais temerei o tentador,\nJe[D]sus sempre há de me guar[G]dar."
     },
     {
         "numero": 288,
@@ -8836,7 +8836,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 288 - A Palavra da Cruz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nDa [Bb]cruz, a palavra é fiel,\nAle[F]luia! Ale[Bb]luia!\nCha[Cm]mando aquele que é infiel,\nAle[F]luia! Aleluia!\nQualquer [F]temporal pode vir,\nA mensa[F]gem mui firme ‘stá:\nQue Je[F]sus veio nos re[Bb]mir,\n[Eb]Pela [F]morte sobre a [Bb]cruz.\n\nCoro:\nAle[Bb]luia! Ale[F]luia! A palavra da cruz é po[Bb]der.\nAle[Bb]luia! Ale[Eb]luia! Para [F]quem em Cristo [Bb]crer.\nAle[Bb]luia! Ale[F]luia! A palavra da cruz é po[Bb]der.\nAle[Bb]luia! Ale[Eb]luia! Para [F]quem em Cristo [Bb]crer.\n\nMor[Bb]rendo por nós lá na cruz,\nAle[F]luia! Ale[Bb]luia!\nVi[Cm]tória nos ganhou Jesus,\nAle[F]luia! Aleluia!\nAli [F]o Cordeiro de Deus\nVeio a [F]graça do céu raiar!\nNos sal[F]vou quem veio dos [Bb]céus,\n[Eb]Pela [F]morte, sobre a [Bb]cruz.\n\nNão [Bb]me envergonho da cruz,\nAle[F]luia! Ale[Bb]luia!\nPois [Cm]deu-me vida, deu-me luz,\nAle[F]luia! Aleluia!\nO ca[F]minho pra o céu se abriu,\nPara [F]todo o vil pecador,\nQuando [F]Cristo nos redi[Bb]miu,\n[Eb]Pela [F]morte sobre a [Bb]cruz."
     },
     {
         "numero": 289,
@@ -8874,7 +8874,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 289 - Sob o Sangue Teu\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nAs[F]perge hoje meu coração,\n[Dm]Com sangue [C]Teu, á Reden[F]tor!\nLi[F]berta-me da vil tentação,\n[Dm]Com sangue [C]Teu, Se[F]nhor!\n\nCoro:\n[F]Sob o sangue [C]Teu, Senhor,\n[C]Guarda-me da [F]corrupção!\n[F]Sob o sangue ex[Bb]piador,\n[C]Eu tenho prote[F]ção!\n\nDe [F]todas dúvidas, do temor,\n[Dm]No sangue [C]Teu, vem me la[F]var,\nDos [F]males do grande tentador,\nO queiras [C]me li[F]vrar!\n\nRe[F]fúgio acha o pecador,\n[Dm]No sangue [C]Teu, ó meu Je[F]sus;\nAs[F]perge-me sempre, ó Senhor,\n[Dm]No sangue, [C]lá da [F]cruz!\n\nO [F]vem me enchendo do Teu vigor,\n[Dm]Pelo ma[C]nar do sangue [F]Teu;\nFa[F]zendo-me mais que vencedor,\n[Dm]Pelo po[C]der de [F]Deus.\n\nCon[F]cede-me a perfeita paz,\n[Dm]Por Tua [C]cruz e sangue [F]Teu;\nCom [F]ricos dons, ó me satisfaz,\n[Dm]E faz-me [C]ver o [F]céu."
     },
     {
         "numero": 290,
@@ -8912,7 +8912,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 290 - Teu Espírito Vem Derramar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nÓ Se[F]nhor, nós espe[C]ramos\nQue es[F]cutes [C]a ora[F]ção;\nNós, Teus [F]servos, já cla[C]mamos,\nCom hu[F]milde [C]cora[F]ção.\n\nCoro:\nTeu Es[F]pírito, vem, [Gm]derrama,\nSobre [F]cada cora[C]ção!\nE no [F]crente, que a Ti [C]clama,\nVem, con[F]firma a [C]peti[F]ção.\n\nDeixa o [F]fogo do Espí[C]rito,\nSim, nos co[F]ra[C]ções ar[F]der,\nP’ra que [F]tudo que é fi[C]nito,\nJamais [F]possa [C]se re[F]ter.\n\nÓ Se[F]nhor, me puri[C]fica,\nTira o [F]mal que es[C]tá em [F]mim,\nA mi[F]nh’alma santi[C]fica,\nE me [F]guarda a[C]té o [F]fim.\n\nDá-nos [F]mais da Tua [C]graça,\nE enche-[F]nos do [C]Teu po[F]der,\nDo Teu [F]templo, ó Deus, se [C]faça\nA Tua [F]voz se [C]perce[F]ber.\n\nDá-nos [F]dons do Teu Es[C]pírito;\nFaz mi[F]lagres, [C]ó Se[F]nhor,\nPra que [F]tudo, que tens [C]dito,\nCumpra-[F]se, meu [C]Redentor."
     },
     {
         "numero": 291,
@@ -8945,7 +8945,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 291 - A Mensagem da Cruz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nRude [Bb]cruz se erigiu,\nDela o [Eb]dia fugiu,\nComo em[F]blema de vergonha e [Bb]dor;\nMas con[Bb]templo esta cruz.\nPorque [Eb]nela Jesus\nDeu a [F]vida por mim, peca[Bb]dor.\n\nCoro:\nSim, eu [F]amo a mensagem da [Bb]cruz\nTé mor[Eb]rer eu a vou procla[Bb]mar;\nLeva[Bb]rei eu também minha [Eb]cruz\nTé por [F]uma coroa tro[Bb]car.\n\nDesde a [Bb]glória dos céus,\nO Cor[Eb]deiro de Deus,\nAo Cal[F]vário humilhante bai[Bb]xou;\nEssa [Bb]cruz tem pra mim\nAtra[Eb]tivos sem fim,\nPorque [F]nela Jesus me sal[Bb]vou.\n\nNesta [Bb]cruz padeceu\nE por [Eb]mim já morreu,\nMeu Je[F]sus, para dar-me o per[Bb]dão\nE eu me a[Bb]legro na cruz,\nDela [Eb]vem graça e luz,\nPara [F]minha santifica[Bb]ção.\n\nEu a[Bb]qui com Jesus,\nA ver[Eb]gonha da cruz\nQuero [F]sempre levar e so[Bb]frer;\nCristo [Bb]vem me buscar,\nE com Ele, no lar,\nUma parte da glória hei de ter."
     },
     {
         "numero": 292,
@@ -8978,7 +8978,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 292 - Qual o Preço do Perdão\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Qual o preço do perdão?\n[G]Só o sangue de Jesus [D]Cris[G]to.\n[G]O que limpa o coração?\n[G]Só o sangue de Jesus [D]Cris[G]to.\n\nCoro:\n[G]Qual o poder real\n[D]Que limpa todo o [G]mal,\n[G]E dá paz divinal?\n[G]Só o sangue de Jesus [D]Cris[G]to.\n\n[G]Fez resgate eficaz\n[G]Só o sangue de Jesus [D]Cris[G]to.\n[G]Deu-nos santidade e paz.\n[G]Só o sangue de Jesus [D]Cris[G]to.\n\n[G]Sempre pode me curar,\n[G]Só o sangue de Jesus [D]Cris[G]to.\n[G]E do mal me libertar.\n[G]Só o sangue de Jesus [D]Cris[G]to.\n\n[G]Lá no céu, eu vou cantar:\n[G]Só o sangue de Jesus [D][G]Cristo.\n[G]Deu-me graça para entrar.\n[G]Só o sangue de Jesus [D][G]Cristo."
     },
     {
         "numero": 293,
@@ -9002,7 +9002,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 293 - Jesus no Calvário\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: E\n\nJe[E]sus no Calvário, [B]por mim so[E]freu\nA [E]morte da maldi[B]ção;\nMinh’[A]alma ga[E]nhou, com o [A]sangue [E]Seu\nO [B]preço da reden[E]ção.\nDo alto da [E]cruz, Jesus excla[B]mou:\n“Consumado es[B]tá”, ao espírito ren[E]deu;\nO sangue ver[E]teu, a me ex[A]piou,\nU[B]nindo-me ao povo [E]Seu.\n\nNa [E]cruz do Calvário, a [B]cédula [E]foi\nCra[E]vada que Ele ris[B]cou.\nO [A]véu se ras[E]gou, a [A]porta se a[E]briu,\nA[B]berta p’ra Deus fi[E]cou.\nSobre a cruz eu mor[E]ri, com Cristo Je[B]sus;\nO meu “ego” fa[B]laz sobre o lenho le[E]vou.\nA noite fu[E]giu, e raiou a [A]luz!\nPor [B]Cristo eu salvo es[E]tou.\n\nNa [E]cruz do Calvário, ao [B]mundo mor[E]ri;\nA[E]qui um estranho fi[B]quei;\nNão [A]vivo mais [E]eu, com [A]Cristo me u[E]ni;\nQue vi[B]da excelsa a[E]chei!\nO Cordeiro de [E]Deus minh’alma ne[B]vou;\nO sangue pas[B]coal a culpa ti[E]rou,\nO destrui[E]dor minh’alma pas[A]sou, S.N.\nEm [B]Cristo liberto es[E]tou."
     },
     {
         "numero": 294,
@@ -9030,7 +9030,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 294 - Eu Vou Com Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nMui [G]triste em pe[C]cado, va[D]gava sem [G]luz,\nMas [G]já vivo alegre, pois [A]a Cristo a[D]chei,\nEm [D]todos os [G]dias, eu [D]canto a Je[G]sus,\nEu [G]sigo com Cristo, meu [D]Mestre, meu Rei.\n\nCoro:\nEu [D]vou com Jesus; Ale[G]luia!\nEu [D]sigo com Cristo, o [G]Rei;\nNão [G]vago Ja[C]mais, eu [G]quero se[C]guir\nA [D]Cristo Jesus, o meu [G]Rei.\n\nPor [G]anos e [C]anos, sem [D]Cristo, a [G]sós,\nEu [G]nunca, no mundo fe[A]liz me a[D]chei;\nMas [D]já com [G]as aves e[D]levo a [G]voz,\nE [G]canto feliz, pois eu [D]vou como Rei.\n\n[G]Ó alma que [C]vivas no [D]vala sem [G]luz,\nSe [G]olhas pra cima, ve[A]rás um fa[D]rol;\n[D]Ó sobe de[G]pressa, vem [D]já pra Je[G]sus;\nDe [G]Cristo, a luz brilha [D]mais que o sol."
     },
     {
         "numero": 295,
@@ -9068,7 +9068,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 295 - Novo Canto de Louvor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nNovo [G]canto [D]de lou[G]vor,\nCanta [C]já meu cora[G]ção;\nHino [G]de paz [D]a de a[Em]mor,\nQue me [A]traz consola[D]ção.\n\nCoro:\n[G]Ouve quão doce e o lou[D]vor,\n[D]Ao Cordeiro divi[G]nal!\n[G]Jesus, canto inspira[C]dor,\nHarmo[D]nia angeli[G]cal\n\nCanto [G]hinos [D]de lou[G]vor,\nPorque [C]Cristo me sal[G]vou\nDeste [G]mundo en[D]gana[Em]dor;\nSobre a [A]rocha me fir[D]mou\n.\n\nEste [G]canto [D]novo [G]é\nCada [C]noite que pas[G]sar;\nSombras [G]dão lu[D]gar [Em]à fé,\nSe a [A]Deus louvor can[D]tar.\n\nQuando o [G]cora[D]ção vi[G]brar,\nOs a[C]cordes lá do [G]céu,\nE da [G]rola a [D]voz [Em]soar,\nNo jar[A]dim do nosso [D]Deus.\n\nQuando [G]meu Je[D]sus vol[G]tar,\nE le[C]var-me com os [G]Seus,\nInda [G]eu i[D]rei can[Em]tar,\nEste [A]hino lá nos céus."
     },
     {
         "numero": 296,
@@ -9101,7 +9101,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 296 - No Jardim\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nNo jar[D]dim. Jesus [G]Cristo cla[D]mava,\nQuando [D]os ímpios O [A]foram pren[D]der;\nE fa[D]lando co'o [G]Pai supli[D]cava,\nPelo [E]cálice que ia be[A]ber.\n\nCoro:\nCom Je[A]sus a min'alma de[D]seja estar\nNo jar[A]dim, em constante ora[D]ção;\nQuando a [D]noite chegar, e o [G]mal me cercar,\nQuero es[A]tar em constante ora[D]ção.\n\nQual or[D]valho que [G]dá vida às [D]flores,\nAssim [D]é para o [A]crente a ora[D]ção;\nMeus cui[D]dados, tris[G]tezas e [D]dores,\nCristo as [E]sabe por minha ora[A]ção.\n\nJesus [D]teve comple[G]ta vi[D]tória,\nPorque [D]sempre vi[A]veu em ora[D]ção,\nMuitos [D]santos che[G]garam à [D]glória,\nSob o [E]manto da doce ora[A]ção.\n\nReno[D]vados em [G]forças se[D]remos,\nNós te[D]remos u'a [A]nova un[D]ção;\nE com [D]Deus, no jar[G]dim fala[D]remos,\nSe vi[E]vermos sempre em ora[A]ção."
     },
     {
         "numero": 297,
@@ -9134,7 +9134,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 297 - Abundância de Cristo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nDesde [G]que Jesus deu-me [C]Sua luz,\nPosso [D]jubilar, can[G]tar;\nAo meu [G]coração trouxe [E]salva[Am]ção\nQue eu não [D]posso te expli[G]car.\n\nCoro:\n[G]Abundantemente [D]Cristo dá,\n[D]Graça, que não há i[G]gual, não há;\n[E]Aleluia, glória ao [Am]nome [A]Seu!\nQue ale[D]gria Sinto [G]eu!\n\nDesde [G]que na cruz contem[C]plei Jesus,\nMeus pe[D]cados dissi[G]pou;\nTenho [G]grande paz e per[E]dão ve[Am]raz,\nQuando [D]a Seus pés es[G]tou.\n\nLá da [G]cruz provém, um cau[C]dal também,\nQue ao can[D]sado forças [G]dá;\nE das [G]chagas vem o per[E]dão, pra [Am]quem\nMui se[D]dento e fraco es[G]tá!\n\nGrato, en[G]tão, darei glória a [C]Cristo,o Rei,\nPelo [D]gozo que é sem [G]par;\nEm con[G]tinuação, o meu [E]cora[Am]ção,\nInda [D]mais vai se ale[G]grar."
     },
     {
         "numero": 298,
@@ -9172,7 +9172,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 298 - Avante, Servos de Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nA[Bb]vante, servos [Eb]de Je[Bb]sus, [F]por nosso [Bb]Deus;\nNas [Bb]trevas brilhe [Eb]vossa [Bb]luz, a [F]luz lá dos [Bb]céus.\n\nCoro:\nGlória a [Bb]Deus, pois vencerei,\nGlória a [Eb]Deus, pois vencerei,\nTriun[F]fante sigo, le[Bb]vando a cruz!\nGlória a [Bb]Deus, pois vencerei,\nGlória a [Eb]Deus, pois vencerei,\nEm [F]nome de Je[Bb]sus!\n\nLe[Bb]vanta ,Jo[Eb]sué pen[Bb]dão. [F]com mui va[Bb]lor;\nE [Bb]o inimigo [Eb]foge, en[Bb]tão, com [F]grande pa[Bb]vor.\n\nSai [Bb]com trezentos [Eb]Gi[Bb]deão, [F]a comba[Bb]ter;\nOs [Bb]midiani[Eb]tas logo [Bb]vão a [F]guerra per[Bb]der.\n\nGo[Bb]lias mui so[Eb]berbo [Bb]está, [F]zomba de [Bb]Deus.\nMas [Bb]vem Davi, e [Eb]nele [Bb]dá, com a[F]juda do [Bb]céu.\n\nCer[Bb]rai filei[Eb]ras, ó [Bb]fiéis, [F]sempre avan[Bb]çai;\nNo [Bb]céu coroas [Eb]e lau[Bb]réis, Je[F]sus vai nos [Bb]dar."
     },
     {
         "numero": 299,
@@ -9210,7 +9210,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 299 - Há um Canto Novo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nHá um canto novo no meu ser,\nÉ a voz de meu Jesus,\n[Ab]Que me chama: ‘Vem em [Bb]mim obter\n[Eb]A paz, que eu ganhei na [Ab]cruz”.\n\nCoro:\nCristo, Cristo, Cristo, nome sem igual;\n[Ab]Enches o con[Db]trito, [Eb]de prazer celes[Ab]tial.\n\n[Ab]Preso no peca[Bb]do eu me achei,\n[Eb]Sem paz no meu cora[Ab]ção;\n[Ab]Mas em Cristo eu [Bb]já encontrei\n[Eb]Doce paz e prote[Ab]ção.\n\n[Ab]Tenho Sua graça [Bb]divinal,\n[Eb]Sob as asas de a[Ab]mor,\n[Ab]E riquezas que fluem [Bb]em caudal,\n[Eb]Lá do trono do Se[Ab]nhor.\n\n[Ab]Pelas águas fundas [Bb]me levou,\n[Eb]Provas muitas encon[Ab]trei;\n[Ab]Mas Jesus bendito [Bb]me guiou\n[Eb]Por Seu sangue vence[Ab]rei.\n\n[Ab]Cristo, numa nuvem [Bb]voltará,\n[Eb]Baixará do céu em [Ab]luz;\n[Ab]Pelo Seu poder me [Bb]levará,\n[Eb]Pra Seu lar, o bom Je[Ab]sus."
     },
     {
         "numero": 300,
@@ -9248,7 +9248,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 300 - Nossa Esperança\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nJe[C]sus, sim, vem do céu, em glória Ele vem!\nE[G]coa a nova pelo mundo além;\nOh [C]esperança [F]que a Sua Igreja tem!\nDai [C]glória a Deus, Je[G]sus em breve [C]vem!\n\nCoro:\nNossa esperança é Sua vinda\nO Rei dos [C]reis vem nos [G]buscar;\nNós aguar[G]damos, Jesus, ainda,\nTé a luz [G]da manhã [C]raiar.\nNossa esperança é Sua vinda\nO Rei dos [C]reis vem nos bus[F]car;\nNós aguardamos, Jesus, ainda,\nTé a luz [F]da ma[G]nhã [C]raiar.\n\nJe[C]sus, sim, vem, os mortos esperando estão;\nO [G]gran momento da ressurreição\nE [C]do sepulcro em [F]breve se levantarão!\nDai [C]glória a Deus, Je[G]sus em breve [C]vem!\n\nJe[C]sus, sim, vem do céu cercado de esplendor,\nA[G]niquilando a corrupção e a dor,\nQue[C]brando os laços [F]do astuto usurpador,\nDai [C]glória a Deus, Je[G]sus em breve [C]vem!\n\nJe[C]sus, sim, vem, completamente restaurar\nO [G]mundo que se arruína sem parar;\nSim, [C]todas as coisas [F]vem depressa transformar\nDai [C]glória a Deus, Je[G]sus em breve [C]vem!\n\nJe[C]sus, sim, vem, e sempiterna adoração\nDa[G]remos nós ao Rei de coração;\nAo [C]grande autor da [F]nossa eterna salvação,\nDai [C]glória a Deus, Je[G]sus em breve [C]vem!"
     },
     {
         "numero": 301,
@@ -9281,7 +9281,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 301 - Vem Cear\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nCristo [C]já nos preparou\nUm man[F]jar que nos comprou,\nE, agora, nos convida a cear:\nCom celestial maná\nQue de [F]graça Deus te dá,\nVem, fa[G]minto, tua alma sa[C]ciar.\n\nCoro:\n“Vem [G]cear”, o Mestre chama - “vem [C]cear”.\nMesmo ho[F]je tu te [D]podes sa[G]ciar;\nPoucos pães multiplicou,\nÁgua em [C]vinho transfor[F]mou,\nVem, fa[G]minto, a Jesus, “vem [C]cear”.\n\nEis dis[C]cípulos a voltar,\nSem os [F]peixes apanhar,\nMas Je[G]sus os manda outra vez par[C]tir,\nAo tor[C]nar à praia, então,\nVêem no [F]fogo peixe e pão,\nE Je[G]sus, que os convida à ceia [C]vir.\n\nQuem se[C]dento se achar,\nVenha a [F]Cristo sem tardar,\nPois o [G]vinho sem mistura Ele [C]dá;\nE tam[C]bém da vida, o pão,\nQue nos [F]traz consolação;\nEis que [G]tudo preparado já es[C]tá.\n\nBreve [C]Cristo vai descer,\nE a [F]Noiva receber\nSeu lu[G]gar ao lado do Senhor Je[C]sus;\nQuem a [C]fome suportou.\nE a [F]sede já passou,\nLá no [G]céu irá cear em santa [C]luz."
     },
     {
         "numero": 302,
@@ -9314,7 +9314,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 302 - Não Murmures; Canta\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nNo [Eb]mundo murmura-se [Fm]tanto,\nEn[Bb]tre os que cristãos dizem [Eb]ser;\nEm [Eb]vez de Iouvores há [Fm]pranto,\nFra[Bb]queza em lugar de po[Eb]der.\nMurmuram - assim no deserto,\nEm Mara, Israel murmurou;\nOh! [Eb]Não vêem que Deus está [Fm]perto;\nJa[Bb]mais Seu auxilio ne[Eb]gou.\n\nCoro:\nEm [Ab]vez de murmurares, [Eb]canta\nUm [Bb]hino de louvor a [Eb]Deus;\nJe[Ab]sus quer te dar vida [Eb]santa,\nQual [Bb]noiva levar-te p’ra os [Eb]céus.\n\n[Eb]Tu vives, irmão, murmu[Fm]rando,\nTal [Bb]como um escravo do [Eb]mal;\nSe [Eb]Deus a tua fé stá [Fm]provando,\nTu [Bb]não tens razão para [Eb]tal.\nDeus [Cm]castiga aquele a [G]quem ama,\n[Fm]De ti. também não se esque[G]ceu;\nQual [Eb]pai amoroso te [Fm]chama,\nE [Bb]cuida, sim, do que é [Eb]Seu.\n\nE [Eb]mesmo se as ondas ru[Fm]girem.\nNo [Bb]revolto e bravio [Eb]mar,\nOs [Eb]céus poderás ver se a[Fm]brirem,\nSe um [Bb]hino tua alma can[Eb]tar,\nNão [Cm]temas ciladas, nem [G]morte,\n[Fm]Pra cima tu deves o[G]lhar;\nO [Eb]leme segura bem [Fm]forte,\nA[Bb]té do céu a luz [Eb]raiar.\n\nSe [Eb]um hino cantar tu pu[Fm]deres,\nNas [Bb]horas de grande afli[Eb]ção.\nEn[Eb]tão voarás, se qui[Fm]seres,\nA[Bb]té a celeste man[Eb]são;\n[Cm]Nas asas da águia le[G]vado.\nBem [Fm]perto do mar de cris[G]tal\nE [Eb]por fim então liber[Fm]tado,\nA [Bb]terra, chegar, celes[Eb]tial."
     },
     {
         "numero": 303,
@@ -9347,7 +9347,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 303 - Precisamos de Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nQuando o [G]sol brilhar em qualquer lugar,\n[G]Tu precisas [Em]de Je[D]sus;\nQuando escu[G]recer, tudo fenecer.\n[G]Tu precisas [D]de Je[G]sus!\n\nCoro:\n[G]Eu preciso de Je[D]sus,\n[D]Tu precisas de Je[G]sus;\n[G]Pecador, vem para a luz\nQue resplandeceu na cruz;\n[G]Tu precisas [D]de Je[G]sus!\n\nPra ob[G]ter perdão, plena salvação,\n[G]Tu preci[Em]sas de Je[D]sus;\nPara [G]caminhar firme, sem errar;\n[G]Tu precisas [D]de Je[G]sus!\n\nMesmo ha[G]vendo paz, calma mui veraz,\n[G]Tu preci[Em]sas de Je[D]sus;\nNa per[G]seguição, na tribulação,\n[G]Tu precisas [D]de Je[G]sus!\n\nQuando a [G]morte entrar em teu próprio lar,\n[G]Tu precisas [Em]de Je[D]sus;.\nAnte o [G]tribunal, decisão final,\n[G]Tu precisas [D]de Je[G]sus!"
     },
     {
         "numero": 304,
@@ -9380,7 +9380,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 304 - A Face Adorada de Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Desprezando toda a dor eu [Db]vou a can[Ab]tar,\n[Ab]E o Calvário, ao pecador, sempre [Bb]apon[Eb]tar;\n[Ab]Flechas traspassaram-me, pade[Db]ci gran [Ab]dor;\n[Fm]Mas Jesus, [Eb]minha luz, fez-me vence[Ab]dor.\n\nCoro:\n[Ab]A face adorada [Db]de Jesus ve[Ab]rei,\n[Ab]Com a grei amada, [Bb]no céu esta[Eb]rei,\n[Ab]Na mansão dourada, [Db]hinos vou can[Ab]tar\n[Fm]A Jesus, [Eb]minha luz, [Ab]que me [Eb]quis sal[Ab]var!\n\n[Ab]Pode a noite escura ser ao ser[Db]vir Je[Ab]sus,\n[Ab]Mas clamando, com poder brilha[Bb]rá a [Eb]luz;\n[Ab]Podem os laços de Satan, todos, [Db]me cer[Ab]car,\n[Fm]Mas Jesus, [Eb]pela cruz, faz-me triun[Ab]far!\n\n[Ab]Quando estou a contemplar a mon[Db]tanha a[Ab]lém,\n[Ab]Onde a luta a governar, está Je[Bb]sus tam[Eb]bém,\n[Ab]Que estende a Sua mão sobre [Db]nós da[Ab]li;\n[Fm]Sei assim, [Eb]que por mim, Cristo vela a[Ab]qui.\n\n[Ab]Se entre as ondas estou sem luz, quase a [Db]pere[Ab]cer,\n[Ab]Meu Piloto é Jesus, pode [Bb]me va[Eb]ler;\n[Ab]O meu barco guia bem pelo [Db]bravo [Ab]mar,\nSim, Jesus [Eb]me conduz, posso sosse[Ab]gar!"
     },
     {
         "numero": 305,
@@ -9408,7 +9408,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 305 - Campeões da luz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nSoldados [G]somos de Jesus\nE cam[G]peões do bem, da [D]luz;\nNos e[D]xércitos de Deus,\nBata[D]lhamos pelos [G]céus,\nCantando, [G]vamos combater.\nO vil pe[G]cado e seu po[C]der;\nA ba[C]talha ganha es[G]tá;\nA vi[C]tória [D]Deus nos [G]dá.\n\nCoro:\n[G]Breve vamos terminar a batalha a[D]qui,\n[D]E p ‘ra sempre descansar com Jesus a[G]li;\n[G]Todos os que são fiéis ao bom Capi[C]tão,\n[C]Hão de rece[G]ber lauréis [D]como galar[G]dão.\n\nLevai o es[G]cudo, sim, da fé,\nPois a pe[G]leja du[D]ra é,\nMas pro[D]messa temos nós\nDe ja[D]mais lutarmos [G]sós.\n- As flechas [G]do mal não temer,\nMas comba[G]ter até ven[C]cer,\nOlham os [C]campeões p’ros [G]céus,\nA vi[C]tória [D]vem de [G]Deus.\n\nSe alguém can[G]sado se encontrar,\nSem forças [G]para pele[D]jar,\nO Se[D]nhor quer te ajudar\nA vi[D]tória alcan[G]çar;\nO mal ven[G]cendo avançai,\nE hinos [G]a Jesus can[C]tai,\nE da [C]salvação fa[G]lai;\nAlmas [C]ao Se[D]nhor le[G]vai."
     },
     {
         "numero": 306,
@@ -9436,7 +9436,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 306 - A Palavra de Deus é um Tesouro\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]A Palavra de Deus é para [Cm]mim\n[F]Um tesouro sem igual em va[Bb]lor!\n[Bb]Fala do a[Cm]mor de Deus, [F]do amor que [Bb]não tem fim;\n[Bb]Mais precioso do que ouro [F]é este a[Bb]mor!\n\nCoro:\n[Bb]A Palavra de Deus é doce, mais que o [Cm]mel,\n[F]O que a toma pela fé há de ser [Bb]fiel,\n[Bb]Porque Deus nos concedeu o Ema[Eb]nuel,\n[Eb]Rocha vi[Bb]va donde mana [F]leite e [Bb]mel.\n\n[Bb]Luz que guia pela senda da [Cm]paz,\n[F]E alumia os que em trevas es[Bb]tão;\n[Bb]Lâmpada que [Cm]nos faz ver [F]os ardis de [Bb]Satanás,\n[Bb]E que brilha mesmo na es[F]curi[Bb]dão.\n\nÉ um farol que sempre resplande[Cm]ceu.\n[F]E que mostra o porto da salva[Bb]ção;\n[Bb]Quem na ar[Cm]ca já entrou\n[F]e do mundo [Bb]se esqueceu,\n[Bb]Chegará por certo à eter[F]nal man[Bb]são."
     },
     {
         "numero": 307,
@@ -9450,7 +9450,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 307 - Louvor ao Deus Trino\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Ao Pai, ao Filho, o [Eb]Redentor,\n[Ab]Ao divi[Db]nal Consola[Eb]dor;\n[Ab]Ao trino [Fm]Deus, [Bbm]sim, adorai,\n[Eb]Louvor e[Ab]terno [Eb]tri[Ab]bu[Db]tai. A[Ab]mém."
     },
     {
         "numero": 308,
@@ -9478,7 +9478,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 308 - Só o Sangue de Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nSó o [Ab]Sangue de Jesus tem po[Db]der pra nos la[Ab]var,\nE de [Ab]toda mancha nos lim[Eb]par;\nTodo o [Ab]que lavado for nesse [Db]sangue expiador.\nNão mais [Eb]teme a morte nem a [Ab]dor!\n\nCoro:\nSó o [Ab]sangue [Db]pode liber[Ab]tar,\nE [Eb]também nos [Ab]lavar;\nPelo [Ab]sangue [Db]vamos nós al[Ab]cançar,\nA mo[Eb]rada de Je[Ab]sus.\n\nSó o [Ab]sangue de Jesus, guarda-[Db]nos da corrup[Ab]ção.\nE nos [Ab]livra da vil tenta[Eb]ção;\nEsse [Ab]sangue tem valor, pois é [Db]preço do amor\nCom que [Eb]resgatou-nos o Se[Ab]nhor.\n\nSó o [Ab]sangue de Jesus tem po[Db]der de preser[Ab]var\nO [Ab]fiel que a Deus quer agra[Eb]dar;\nTodo o [Ab]ouro é sem valor pra pa[Db]gar o gran favor,\nDo e[Eb]terno e divino a[Ab]mor!"
     },
     {
         "numero": 309,
@@ -9502,7 +9502,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 309 - Ao Findar do Dia\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: E\n\n[E]Finda a lida [A]deste [E][A]dia, ó ben[E]dito [F#]Salva[B]dor;\n[B]Eis-nos [E]todos [C#m]reu[F#]nidos [B]a can[E]tar o [B]Teu louvor;\n[E]Vem en[A]cher-[E]nos [B]do Teu [E]santo e [B]doce a[E]mor!\n\n[E]A leitura [A]da Pa[E]lavra, [A]vem, Se[E]nhor, a[F#]ben[B]çoar,\n[B]E no [E]cora[C#m]ção dos [F#]crentes [B]Teus en[E]sinos [B]vem gravar.\n[E]Tuas [A]bên[E]çãos [B]conti[E]nua [B]a der[E]ramar!\n\n[E]Congregados [A]nos a[E]chamos [A]constran[E]gidos [F#]pelo a[B]mor\n[B]Que e[E]mana [C#m]do Teu [F#]nome, [B]ó a[E]mado [B]Salvador;\n[E]Apren[A]den[E]do [B]no Teu li[E]vro, [B]ó Se[E][A/E]nhor! A[E]mém."
     },
     {
         "numero": 310,
@@ -9535,7 +9535,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 310 - Avante Eu Vou\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\nJe[A]sus é o Redentor, que veio nos salvar,\nDo [D]mundo de hor[A]ror, das [E]ondas deste mar;\nA [A]todo o que crer vitória lhe, dará,\nTam[D]bém real po[A]der, que go[E]zo lhe tra[A]rá.\n\nCoro:\nAvante eu [E]vou, avante eu [A]vou,\nPara en[A]trar no céu, na divinal man[E]são;\nTenho [A]gozo mui profundo; Je[D]sus no cora[A]ção,\nNão o[A]lhando para o [E]mundo, avante eu [A]vou.\n\nJe[A]sus meu Salvador, ao Céu me levará,\nE [D]do destrui[A]dor, o [E]corpo esmagará,\nAo [A]caro Redentor, fiel aqui serei,\nA E[D]le, com fer[A]vor, so[E]mente segui[A]rei.\n\nTrombe[A]ta soará do nosso Criador;\nA [D]grei se eleva[A]rá dos [E]santos do Senhor;\nEm [A]glória e poder Jesus regressará,\nSeus [D]servos hão de O [A]ver, pois [E]breve volta[A]rá.\n\nEis [A]que virá Jesus, afim de me levar,\nA [D]desfrutar em [A]luz, o [E]Seu amor sem par;\nA[A]braão, Isaque e Jó ali no céu verei,\nAo [D]lado de Ja[A]có, com e[E]les cea[A]rei."
     },
     {
         "numero": 311,
@@ -9563,7 +9563,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 311 - Jesus, Meu Salvador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Jesus salvou-me do mundo,\n[Bb]Ele é tão doce pra [Cm]mim;\n[F]Amor, Lhe tenho, profundo,\n[F]Por Sua graça sem [Bb]fim;\n[Bb]Quando ia [F]eu no de[Bb]serto,\n[Bb]Sem gozo, paz e sem [Eb]luz,\nEle buscou-me, por [Bb]certo,\n[C]Té que achou-me - Je[F]sus!\n\nCoro:\n[Bb]Jesus, Jesus, Tu és meu Salva[Cm]dor,\n[F]Jesus, Jesus, só Teu serei, Se[Bb]nhor.\n[Bb]Na senda [F]mui verda[Bb]deira,\n[Bb]Guia-me Tua [Eb]mão,\nE ao findar minha carreira,\n[Bb]Recebe[F]rei galar[Bb]dão.\n\n[Bb]Jesus de Saron é a rosa,\n[Bb]Lírio suave é p’ra [Cm]mim;\n[F]Ele é a rocha preciosa,\n[F]Onde há gozo sem [Bb]fim;\nÉ da ma[F]nhã a es[Bb]trela,\n[Bb]Na noite escura e sem [Eb]luz,\nTenho doçura em [Bb]vê-la,\n[C]Pois ela é meu Je[F]sus!\n\n[Bb]Na manjedoura nascendo,\n[Bb]No mundo, só bata[Cm]lhou;\n[F]Em meu lugar padecendo,\n[F]Sangue por mim derra[Bb]mou,\n[Bb]Ressurgiu [F]da sepul[Bb]tura,\n[Bb]Subindo à dextra de [Eb]Deus;\n[Edim]Breve virá das al[Bb]turas,\n[C]Descendo em nuvens dos [F]céus."
     },
     {
         "numero": 312,
@@ -9601,7 +9601,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 312 - A Vinda de Cristo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nSu[D]biu triunfante p'ra o [A]céu, o Se[D]nhor:\nAs[G]sim mesmo há de vol[A]tar;\n\"Eis [D]que venho [G]breve”, [D]diz o Salvador,\nQuando [A]o alarido e[D]coar.\n\nCoro:\nCom [D]muita prudência eu [G]quero es[D]tar\nEs[A]perando por meu Se[D]nhor,\nE [D]sempre alerta a[G]qui vi[D]giar.\nTé [A]que venha o meu Salva[D]dor.\n\nCom [D]Cristo encontrar-me, gozo[A]so i[D]rei.\nQuando [G]Ele nas nuvens des[A]cer,\nCor[D]po igual ao [G]Seu, nesse [D]dia terei;\nQue [A]dia de glória há de [D]ser.\n\nBen[D]dizendo a Cristo, no [A]céu entra[D]rei;\nI[G]rei no milênio ingres[A]sar;\nSó [D]com meu Je[G]sus, eu a[D]qui voltarei.\nPois [A]todas nações vem jul[D]gar.\n\nVem [D]sobre o Teu povo rei[A]nar, ó Se[D]nhor!\nTeu [G]reinado aqui gozo [A]traz,\nÓ [D]vem, pro[G]teção nos tra[D]zer, Salvador!\nVem, [A]Jesus, com justiça e [D]paz!\n\nVem, [D]Cristo, meu Rei, Tua Es[A]posa bus[D]car;\nEu [G]quero contigo su[A]bir;\nUm [D]canto pe[G]rene Te [D]quero entoar,\nE a [A]glória eternal [D]fruir."
     },
     {
         "numero": 313,
@@ -9615,7 +9615,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 313 - Louvor a Trindade\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nAo [C]Pai [G]E[C]ter[F]no [C/G]dai [G]lou[C]vor,\nAo [F]Filho [D]Seu tam[G]bém,\nE ao [C]celestial Con[G]sola[Am]dor,\nLou[C/G]vai p’ra [G]sempre. a[C]mém!"
     },
     {
         "numero": 314,
@@ -9644,7 +9644,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 314 - O pai bondoso\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nUm Pai bondoso tenho lá no céu.\nUm Pai bondoso tenho lá no céu,\n[Eb]A Ele [Ab]breve eu i[Eb]rei,\n[Bb]E a meu Pai, no céu ve[Eb]rei;\nEu i[Eb]rei, eu irei, eu irei ao [Bb]céu;\nEu i[Bb]rei, eu irei, eu irei ao [Eb]céu;\nMeu [Eb]Pai me [Ab]chama, vou an[Eb]dar\nPra [Bb]Sua face contem[Eb]plar.\n\n[Eb]Um Salvador eu tenho lá no [Bb]céu;\n[Bb]Um Salvador eu tenho lá no [Eb]céu;\n[Eb]A Ele [Ab]presto eu i[Eb]rei,\n[Bb]Seu esplendor no céu ve[Eb]rei,\nEu ve[Eb]rei, eu verei, eu verei no [Bb]céu,\nEu ve[Bb]rei, eu verei, eu verei no [Eb]céu.\nJe[Eb]sus ao [Ab]céu me le[Eb]vará\nE [Bb]grande gozo me da[Eb]rá.\n\n[Eb]Uma coroa tenho lá no [Bb]céu:\n[Bb]Uma coroa tenho lá no [Eb]céu;\nDe es[Eb]pinhos [Ab]a teve o Salva[Eb]dor,\n[Bb]Mas eu terei de esplen[Eb]dor,\nEu te[Eb]rei, eu terei, eu terei no [Bb]céu;\nEu te[Bb]rei, eu terei, eu terei no [Eb]céu;\nJe[Eb]sus co[Ab]roa me da[Eb]rá,\nQue [Bb]minha fronte cingi[Eb]rá.\n\n[Eb]Nós nos encontraremos lá no [Bb]céu;\n[Bb]Nós nos encontraremos lá no [Eb]céu;\nU[Eb]nidos [Ab]todos ao Se[Eb]nhor,\nE [Bb]cheios sempre de a[Eb]mor;\nAnda[Eb]rei, andarei, andarei pro [Bb]céu,\nAnda[Bb]rei, andarei, andarei p’ro [Eb]céu,\nA [Eb]paz e[Ab]terna lá te[Eb]rei.\n[Bb]A face de Jesus ve[Eb]rei."
     },
     {
         "numero": 315,
@@ -9672,7 +9672,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 315 - Oh! Amor Bendito\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Oh! A[D]mor bendi[G]to, Tu pos[C]sues a [D]mim!\n[C]Enches [G]o infi[C]nito, [D]oh! amor sem [G]fim!\n[G]Vivo [C]hoje em [E]Cris[Am]to, vivo [C]no [D]Fiel;\n[Am]Por Deus [D]sou ben[G]quisto [C]no E[D]ma[G]nuel.\n\nCoro:\n[G]Oh! A[D]mor ben[G]dito: Tu pos[C]sues a [D]mim!\n[C]Enches o [G]infi[C]nito, [D]oh! amor sem [G]fim!\n\n[G]Paz e [D]glória e[G]terna, há pra [C]mim no [D]céu,\n[C]Vi[G]da sem[C]piterna [D]com o nosso [G]Deus.\n[G]Em [C]verdade sin[E]to vi[Am]da no [C]Se[D]nhor,\n[Am]E do céu [D]pressinto [G]gozo [C]e es[D]plen[G]dor!\n\n[G]Cora[D]ção, des[G]fruta deste [C]grande a[D]mor;\n[C]Na [G]paz ou [C]na luta, [D]faz-te vence[G]dor;\n[G]Que este a[C]mor é [E]for[Am]te, viu-se a[C]li na [D]cruz;\n[Am]Forte [D]mais que a [G]morte: [C]O amor [D]de Je[G]sus!"
     },
     {
         "numero": 316,
@@ -9705,7 +9705,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 316 - Em Busca de Sião\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n[C]Saindo do E[G]gito em [C]busca de Sião,\nMeu [F]Salvador [C]guiou-me com Sua forte [G]mão;\nLe[C]vou-me em vi[G]tórias [C]pelo fogo e o mar;\nAgo[F]ra, canto a [C]Deus, pela [G]salvação sem [C]par.\n\nCoro:\nNão [C]busquem [F]mais a [C]Mim na escravidão,\nEr[F]gui a tenda, en[C]fim, [Am]na terra [D]de [G]Sião.\nNão [C]busquem [F]mais a [C]Mim na escravidão,\nEr[F]gui a tenda, en[C]fim, na terra [G]de [C]Sião.\n\nMui [C]perto de Je[G]sus e [C]vendo o galardão,\nPra Ca[F]naã eu [C]sigo, lá está meu cora[G]ção;\nJe[C]sus pra grande he[G]rança, [C]há de me levar,\nA [F]quem deu-me espe[C]rança, eu [G]hei de aqui lou[C]var.\n\nAndei eu pelos campos, onde fruto achei;\nEm He[F]bron, uvas [C]vivas também eu apa[G]nhei,\nA[C]qui melhor mel, [G]vi[C]nho e leite eu encontrei,\nPra es[F]cravidão do E[C]gito ja[G]mais eu volta[C]rei.\n\nAs [C]lutas desta [G]vida [C]eu não sinto mais,\nPois [F]sempre vou can[C]tando Sua graça, amor e [G]paz;\nEu [C]vou marchando pa[G]ra [C]o eterno lar,\nE breve, lá no céu - minha pátria - hei de estar."
     },
     {
         "numero": 317,
@@ -9738,7 +9738,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 317 - Jesus Vem Triunfante\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nComo [G]brilha do oriente\nO re[G]lâmpago ao ocidente,\nDeste [D]mundo voltará do céu, Je[G]sus;\nLeva[G]rá Sua Noiva em gozo\n[G]Ao Seu lado mui ditoso,\n[A]Para o lar eterno de celeste [D]luz.\n\nCoro:\nEm [D]breve, do céu, Jesus vi[G]rá nos buscar;\nCom gran po[D]der, virá Je[G]sus.\nE [G]nós devemos todos [Em]prepara[C]dos estar,\nCom vestes [D]brancas, e brilhando como a [G]luz.\n\nEis que a [G]porta está aberta\nPara a [G]alma que desperta,\nAcei[D]tando a Jesus, o Salva[G]dor,\nPois Seu [G]sangue derramado\n[G]Tem vencido o vil pecado,\n[A]Carregando, no madeiro nossa [D]dor!\n\nJesus [G]vem, vem triunfante,\nCom Seus [G]olhos chamejantes,\nPois Sua [D]face brilhará qual luz do [G]sol!\nMui fe[G]lizes os que clamam.\n[G]Sua vinda, pois O amam,\n[A]E no céu, os nomes escritos têm no [D]rol.\n\nJesus [G]vem, qual sol raiando,\nEste [G]mundo iluminando,\nA I[D]greja subirá ao encontro [G]Seu;\nNa Sua [G]mão traz luz brilhante,\n[G]Qual estrela cintilante,\n[A]E os louvores se ouvirão nos altos [D]céus!"
     },
     {
         "numero": 318,
@@ -9771,7 +9771,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 318 - Ao Lar Paternal\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nQuero [F]vos contar a história dum varão,\nQue Je[F]sus outrora rela[C]tou.\nO qual [C]tinha dois filhos [F]em feliz mansão,\nTé [Bb]que o mais jovem [C]o dei[F]xou.\n\nCoro:\nFilho [C]desleal ao lar [F]paternal,\nQueiras [F]hoje regres[C]sar!\nPois o [F]Pai está por ti [Bb]esperando lá;\nPeca[C]dor, á volta p’ra teu [F]lar!\n\nO mais [F]moço disse ao seu bondoso pai:\n\"A he[F]rança minha queiras [C]dar\";\nE a [C]sua fazenda, a[F]legremente vai\nNum [Bb]pais distante [C]desfru[F]tar.\n\nO in[F]cauto jovem os seus bens esbanjou\nCom seus [F]camaradas, no pra[C]zer;\nEis que [C]vindo a fome, do [F]seu pai se lembrou\nQue pu[Bb]dera sempre [C]o sus[F]tar.\n\nO perdi[F]do filho, ao lar por fim, voltou,\nMui ar[F]rependido do que [C]fez;\nE o [C]pai contente, amo[F]roso o beijou,\nPois seu [Bb]filho via [C]outra [F]vez!"
     },
     {
         "numero": 319,
@@ -9815,7 +9815,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 319 - Ainda Há Lugar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: E\n\n[E]Inda há lugar, p’ra ti, ó [B]pecador!\n[B]Ouve o con[E]vite [F#]do teu Salva[B]dor.\n[E]Entra, [B]en[C#m]tra, ‘in[B]da há pra ti lu[E]gar.\n\n[E]A tua vida breve [B]vai findar,\n[B]As sombras [E]crescem, [F#]onde vais mo[B]rar?\n[E]Entra, [B]en[C#m]tra, ‘in[B]da há pra ti lu[E]gar.\n\n[E]Eis lá no céu, Jesus nos [B]preparou\n[B]Bodas fes[E]tivas, [F#]e nos convi[B]dou,\n[E]Entra, [B]en[C#m]tra, ‘in[B]da há pra ti lu[E]gar.\n\n[E]A multidão que salva lá [B]já está,\n[B]Vem, pois t’espe[E]ra a e[F#]la te ajun[B]tar.\n[E]Entra, [B]en[C#m]tra, ‘in[B]da há pra ti lu[E]gar.\n\n[E]Vês tu a porta aberta [B]por Jesus?\n[B]Ele te [E]chama, [F#]vem pra Sua [B]luz;\n[E]Entra, [B]en[C#m]tra, ‘in[B]da há pra ti lu[E]gar.\n\n[E]Enche-se a sala, vem sem [B]demorar;\n[B]Quem se des[E]cuida, [F#]perde o seu lu[B]gar;\n[E]Entra, [B]entra, ‘in[B]da há pra ti lu[E]gar.\n\n[E]Ali se encontra gozo, [B]paz sem fim,\n[B]Glória te es[E]pera; a [F#]luta terá [B]fim.\n[E]Entra, [B]en[C#m]tra, ‘in[B]da há pra ti lu[E]gar."
     },
     {
         "numero": 320,
@@ -9859,7 +9859,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 320 - Seguir a Cristo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Queres tu seguir a [C]Cristo,\n[C]E andar na Sua [F]luz?\n[F]Pelo mundo sempre [Bb]visto,\n[C]Por levar a sua [F]cruz?\n\nQue[F]res hoje dar o [C]passo,\n[C]Para seres um cris[F]tão?\n[F]Vem, quebranta triste [Bb]laço\n[C]Do pecado e sedu[F]ção.\n\n[F]A cidade na mon[C]tanha,\n[C]Não se pode escon[F]der,\n[F]E também, até ta[Bb]manha\n[C]Que à vida deu po[F]der.\n\n[F]Amas tu a Jesus [C]Cristo,\n[C]Que por ti Sua vida [F]deu?\n[F]Vem, então, declara [Bb]isto -\n[C]Júbilo terás no [F]céu.\n\nÓ vê bem o teu in[C]tento,\n[C]Custa tua vida, [F]sim!\n[F]Não resistas! Com a[Bb]lento,\n[C]Vem a Cristo, a luz sem [F]fim.\n\n[F]Vem, confessa teus pe[C]cados\n[C]Junto à cruz do Salva[F]dor;\n[F]Pede graça de se[Bb]gui-Lo,\n[C]Com coragem e a[F]mor.\n\n[F]Considera o grande [C]gozo\n[C]Que no céu espera, [F]sim;\nAqui lutas, lá repouso,\nGalardão terás enfim."
     },
     {
         "numero": 321,
@@ -9893,7 +9893,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 321 - Só em Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Db\n\n[Db]Só em Jesus [Ebm]fruirás paz [Ab]e go[Db]zo,\n[Bbm]Tu, peca[Ab]dor, que [Bbm]tens sede de a[Ab]mor;\n[Db]Só em Je[Gb]sus pode[Ebm]rás ser di[Db]toso;\n[Bbm]NEle a [Gb]graça ob[Ab]téns do Se[Db]nhor.\n\n[Db]Só em Jesus acha[Ebm]rás forte [Ab]escu[Db]do\n[Bbm]Para abri[Ab]gar-te [Bbm]dos dardos do [Ab]mal;\n[Db]NEle, o[Gb]culto das [Ebm]dores, de [Db]tudo,\n[Bbm]Recebe[Gb]rás uma [Ab]paz divi[Db]nal.\n\n[Db]Só em Jesus, sobre [Ebm]a divina [Ab]ro[Db]cha,\n[Bbm]Salvar-te-[Ab]ás deste [Bbm]mundo, qual [Ab]mar;\n[Db]Só em Je[Gb]sus, sim [Ebm]na luz desta [Db]tocha,\n[Bbm]Podes o [Gb]santo ca[Ab]minho tri[Db]lhar.\n\n[Db]Só em Jesus, nes[Ebm]te porto [Ab]segu[Db]ro,\n[Bbm]Podes [Ab]tua alma qual [Bbm]nau anco[Ab]rar,\n[Db]Só em Je[Gb]sus, um bri[Ebm]lhante fu[Db]turo,\nO peca[Gb]dor, pode[Ab]rás encon[Db]trar.\n\n[Db]Só em Jesus, dei[Ebm]xa tudo por[Ab]tan[Db]to,\n[Bbm]Quer seja o [Ab]mundo, [Bbm]o mal ou pe[Ab]car;\n[Db]Vem pra Je[Gb]sus, que por [Ebm]Deus te ga[Db]ranto,\n[Bbm]Que paz e [Gb]gozo i[Ab]rás desfru[Db]tar."
     },
     {
         "numero": 322,
@@ -9921,7 +9921,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 322 - As Santas Escrituras\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nSão as [D]santas [A]Escri[D]turas\nQue nos [G]contam de Je[D]sus,\nO qual [A]vindo das al[D]turas\nFez bri[E]lhar nas trevas [A]luz!\nPra nos [D]dar e[A]terna [D]vida,\nTé a [G]morte se humi[A]lhou;\nTendo [D]já vencido a lida,\nDeus, o [A]Pai, O exal[D]tou.\n\nCoro:\nNunca [A]mais vai ser ouvido\nOutro conto de amor,\nQue con[A]verta um perdido,\nE rebelde pecador,\nComo o santo Evangelho,\nQue nos [G]fala de per[A]dão,\nE trans[D]forma o homem [G]velho\nNuma [D]nova [A]cria[D]ção.\n\nSobre a [D]cruz foi [A]derra[D]mado\nO Seu [G]sangue remi[D]dor;\nDuma [A]lança traspas[D]sado\nFoi o [E]lado do Se[A]nhor;\nSuas [D]mãos e [A]pés pre[D]garam\nCom uns [G]cravos, sobre a [A]cruz;\nTudo [D]isto me contaram\nDa bon[A]dade de Je[D]sus.\n\nQuero [D]conti[A]nuar ou[D]vindo\nA his[G]tória do Se[D]nhor;\nSalva[A]ção estou [D]fruindo\nDeste [E]conto de a[A]mor!\nDo juí[D]zo [A]fui li[D]berto,\nDa con[G]denação, da [A]dor.\nPela [D]Bíblia estou bem certo,\nQue Je[A]sus é o Salva[D]dor."
     },
     {
         "numero": 323,
@@ -9954,7 +9954,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 323 - Levantai Vossos Olhos\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nLevan[Bb]tai os vossos olhos para cima,\nÓ re[F]midos do Senhor Jesus!\nA fi[Bb]gueira mostra que se a[Eb]proxima\nO ve[F]rão: Brotos já pro[Bb]duz!\n\nCoro:\nLevan[Eb]tai, levan[Bb]tai!\nVossos o[F]lhos para o céu donde Je[F]sus virá;\nLevan[Eb]tai, levan[Bb]tai!\nA reden[Gm]ção breve [F]se fa[Bb]rá.\n\nMuitos [Bb]dizem que Jesus está tardando,\nPara [F]vir buscar o povo Seu;\nQual nos [Bb]dias de Noé, estão pe[Eb]cando,\nSem te[F]mer o bondoso [Bb]Deus.\n\nMuitos, [Bb]como Faraó, estão dizendo:\n“Quem é [F]o Senhor p’ra lhe ouvir?\"\nE tam[Bb]bém o coração endure[Eb]cendo:\nMas as [F]pragas estão p’ra [Bb]vir.\n\nSer ar[Bb]rebatado, eu, p’ro céu, quem dera!\nPois a I[F]greja Cristo levará.\nA fi[Bb]gueira está em flor, é prima[Eb]vera,\nLevan[F]tai os vossos o[Bb]lhos já."
     },
     {
         "numero": 324,
@@ -9987,7 +9987,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 324 - Jesus, o Melhor Amigo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nMeu Je[F]sus é o melhor a[Gm]migo,\nNEle [C]ponho toda a minha [F]fé;\nMinhas [F]chagas quer sarar,\nE minh’[Bb]alma consolar,\nOh, Je[C]sus é o melhor ami[F]go!\n\nCoro:\nJe[F]sus é o melhor a[C]migo,\nJe[C]sus é o melhor ami[F]go,\nSempre [F]prestes a ajudar,\nEle a [Bb]todos quer salvar,\nSim, Je[C]sus é o melhor ami[F]go!\n\nMeu Je[F]sus é o fiel [Gm]amigo,\nE me [C]dá Sua força e po[F]der;\nTorna em [F]gozo minha dor,\nMe ins[Bb]pira, dá valor;\nOh! Je[C]sus é o melhor ami[F]go!\n\nQuando [F]as ondas se em[Gm]bravecem,\nE meu [C]barco querem afun[F]dar,\nEle [F]dá-me calma e paz,\nE bo[Bb]nança sempre traz,\nSim Je[C]sus é o melhor ami[F]go!\n\nEle [F]deu a Sua pró[Gm]pria vida\nPra sal[C]var o ímpio peca[F]dor;\nOh! Ja[F]mais me quer deixar,\nNunca [Bb]me desamparar!\nSim, Je[C]sus é o melhor ami[F]go!"
     },
     {
         "numero": 325,
@@ -10020,7 +10020,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 325 - A Luz do Céu Raiou\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nNoutro [Eb]tempo, sei co[Bb]mo eu andei,\nDo pe[Bb]cado sob o [Eb]véu,\nMas do [Eb]céu raiou e em [Bb]mim entrou\nA luz [Bb]do glorioso [Eb]céu.\n\nCoro:\nEm meu [Eb]coração a luz [Bb]raiou\nDesde a [Bb]glória, pois Jesus me a[Eb]mou;\nE a[Eb]gora vivo sempre a[Ab]legre,\nDepois [Bb]que luz do céu [Eb]raiou!\n\nE po[Eb]der me dá, que só [Bb]vem de lá,\nDe Je[Bb]sus, que me sal[Eb]vou;\nE eu [Eb]vivo aqui, a lou[Bb]var a Deus,\nQue minh’[Bb]alma liber[Eb]tou.\n\nO des[Eb]canso entrou e o lu[Bb]tar findou,\nCom Je[Bb]sus, meu Salva[Eb]dor;\nSeu a[Eb]mor sem fim reve[Bb]lado a mim,\nEnche-[Bb]me de paz e a[Eb]mor.\n\nVou mo[Eb]rar, então, na fe[Bb]liz Sião,\nCom meu [Bb]Salvador Je[Eb]sus,\nPara [Eb]sempre ali, goza[Bb]rei prazer\nLá na [Bb]gloriosa [Eb]luz."
     },
     {
         "numero": 326,
@@ -10044,7 +10044,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 326 - Oh! Meu Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nÓ meu Jesus, quando lutas no caminho encontrar,\n[G]A Tua mão divina vem me aju[C]dar;\n[C]Não temerei amparado por Ti mesmo, meu Je[F]sus,\nÓ Salva[C/G]dor, a vi[G]tória me vem por Tua [C]luz,\n[Am]Por Ti espero somente, meu Se[E]nhor,\n[Am]Para andar de valor em va[E]lor;\nÓ meu Jesus, minhas forças hei de ver mais aumentar;\nTendo [C/G]a fé; Tua [G]graça me há de bas[C]tar.\n\nÓ meu Jesus, encostado em Teu braço vou andar,\n[G]E com amor na sã Palavra medi[C]tar;\n[C]Sempre assim na peleja,\npor Jesus eu vence[F]rei,\nE pe[C/G]la fé, abri[G]gado do mal esta[C]rei;\n[Am]Já bem armado as trevas desfa[E]rei,\n[Am]Pelo poder de Jesus, o meu [E]Rei!\nO meu Jesus, que me dás,\nno coração, do Teu amor,\nHei de [C/G]Te ver glo[G]rioso, no céu d’esplen[C]dor!\n\nÓ meu Jesus, o Teu nome invocarei com mui amor,\n[G]Todo o poder Te foi entregue Salva[C]dor;\n[C]De todo o ser, o joelho ante Ti se dobra[F]rá;\nQue és o Se[C/G]nhor, toda [G]língua testifica[C]rá,\n[Am]Os nossos pés, Salvador queiras fir[E]mar\n[Am]Na rocha, que não se pode aba[E]lar;\nÓ meu Jesus, Tua graça quero sempre procurar,\nTé que [C/G]eu vá nos Teus [G]braços enfim repou[C]sar."
     },
     {
         "numero": 327,
@@ -10078,7 +10078,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 327 - Teu Nome Precioso\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nJesus [F]Cristo, o Teu [C]nome\nE [Bb]tão doce para [C]mim -\nTua do[A]çura incompará[Bb]vel\nEnche-me [F]de amor sem [A]fim.\nTua do[Bb]çura incompa[F]rável\nEnche-me [C]de amor sem [F]fim.\n\nÉs a es[F]trela resplen[C]dente,\nQue re[Bb]brilha com ful[C]gor,\nE di[A]rige os meus pas[Bb]sos,\nNeste [F]mundo de hor[A]ror.\nE di[Bb]rige os meus [F]passos,\nNeste [C]mundo de hor[F]ror.\n\nTeus são [F]os eternos [C]braços,\nProte[Bb]gendo o segui[C]dor,\nQue não [A]fique enla[Bb]çado\nPio ma[F]ligno tenta[A]dor.\nQue não [Bb]fique enla[F]çado\nPio ma[C]ligno tenta[F]dor.\n\nCom meu [F]Salvador a[C]mado\nPosso a[Bb]legre prosse[C]guir,\nE com E[A]le eterno go[Bb]zo\nEu te[F]rei lá no por[A]vir.\nE com [Bb]Ele eterno [F]gozo\nEu te[C]rei lá no por[F]vir.\n\nOh! Teu [F]nome pre[C]cioso\nConti[Bb]nua a [C]soar\nPelo [A]mundo de peca[Bb]do,\nPara as [F]almas desper[A]tar!\nPelo [Bb]mundo de pe[F]cado,\nPara as [C]almas desper[F]tar!"
     },
     {
         "numero": 328,
@@ -10107,7 +10107,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 328 - O Pão da Vida\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nO [G]pão da vida, descido dos céus,\nDá [D]paz, saúde [G]e vigor;\nO [G]pão celeste, mandado por Deus,\nÉ [D]Cristo, o Salva[G]dor;\nO [D]Redentor, vem [G]sem tardar,\nDo [A]pecador o mal sa[D]nar!\nSe al[G]gum perdido buscar Tua [C]luz,\nDe[D]pressa vem a [G]paz lhe dar;\nNão [G]tardes mais, amoroso Je[C]sus,\nÓ [D]vem me confor[G]tar!\n\nHá [G]gozo santo p'ra quem tem a luz,\nEm [D]se lembrar do [G]seu Senhor,\nE [G]só falar do amor de Jesus,\nO [D]grande Reden[G]tor!\nTeu [D]jugo é doce, [G]meu Senhor,\nTeu [A]fardo é leve, que a[D]mor!\nSe [G]eu não posso levar minha [C]cruz,\nDe[D]pressa vem me a[G]judar;\nNão [G]tardes mais, amoroso Je[C]sus,\nÓ [D]vem me confor[G]tar!\n\nPor [G]duras provas e perseguições,\nTu [D]fazes o [G]fiel passar;\nE [G]quem vencer há de ter galardão,\nTam[D]bém no céu lu[G]gar,\nEu [D]lá verei Teu [G]esplendor,\nA [A]Tua glória. Salva[D]dor;\nSe [G]não puder carregar minha [C]cruz,\nDe[D]pressa vem me au[G]xiliar;\nNão [G]tardes mais, amoroso Je[C]sus,\nÓ [D]vem me confor[G]tar!\n\nJe[G]sus, o Teu insondável amor,\nMe [D]faz sentir no [G]coração;\nO a[G]mor de Deus, este santo amor,\nE [D]viverei, en[G]tão;\nA [D]Ti, Jesus, eu [G]dou louvor;\nTu [A]me dás graça e vi[D]gor;\nTu [G]és o pão que a vida pro[C]duz;\nMinh'[D]alma vem a[G]limentar;\nNão [G]tardes mais, amoroso Je[C]sus\nO [D]vem me confor[G]tar!"
     },
     {
         "numero": 329,
@@ -10131,7 +10131,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 329 - Jesus é Minha Paz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Je[Eb]sus [Ab]nos bra[Bbm]ços [Db]me to[Ab]mou,\n[Ab]Je[Eb]sus me [C]deu a [Eb]paz;\n[Db]A[Ab]gora [Fm]can[Db]to a [C]quem me a[Db]mou,\n[Ab]Je[Eb]sus [Ab/Eb]é mi[Eb]nha [Ab]paz!\n\n[Ab]Fa[Eb]min[Ab]to e [Bbm]se[Db]dento an[Ab]dei,\n[Ab]Sem [Eb]ter des[C]canso, a[Eb]qui;\n[Db][Ab]Mas água [Fm]vi[Db]va [C]eu acei[Db]tei;\nA[Ab][Eb]chei [Ab/Eb]descan[Eb]so a[Ab]qui!\n\n[Ab]O[Eb]nipo[Ab]ten[Bbm]te [Db]pra me a[Ab]mar,\nÉ [Eb]Cristo, o [C]Rei dos [Eb]céus;\n[Db]A[Ab]legre[Fm]men[Db]te [C]vou can[Db]tar;\n[Ab]A[Eb]chei [Ab/Eb]descan[Eb]so em [Ab]Deus!"
     },
     {
         "numero": 330,
@@ -10164,7 +10164,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 330 - A Fé dos Santos\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nPela [C]fé que uma vez foi entregue aos santos,\nQue nos [G]vem por Jesus, e nos seca o [C]pranto,\nPodem os [C]crentes, sem ter nenhum es[G]panto,\nProsse[G]guir nas pisadas do Se[C]nhor.\n\nCoro:\nNas tristezas, nas lutas, na dor,\nRecor[C]riam ao [D]caro Je[G]sus;\nA vi[F]tória lhes dava o Se[C]nhor,\nPelo [G]sangue vertido na [C]cruz.\n\nOs cristãos foram por tribunais vis julgados,\nNas prisões, inocentes, à força lançados,\nE de [C]seus bens terrestres despo[G]jados,\nMas a[G]legres seguiram o Se[C]nhor.\n\nPere[C]grinos os santos no mundo andavam,\nNas ca[G]vernas da terra se refu[C]giavam,\nE a[C]li reunidos, cele[G]bravam\nA Je[G]sus, seu amado Salva[C]dor.\n\nPela [C]fé é que nós, crentes, sempre devemos\nNos fir[G]mar em Jesus e assim vence[C]remos,\nE um [C]dia, no céu encontra[G]remos\nOs [G]fiéis, que amaram o Se[C]nhor."
     },
     {
         "numero": 331,
@@ -10193,7 +10193,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 331 - Ó Caro Salvador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nO caro Salvador, [Bb]manancial de amor,\n[Eb]Te [F]sinto em [Bb]mim!\n[Eb]Teu gozo a mim virá, jamais me faltará,\n[Eb]O qual me levará ao [Ab]céu [Bb]en[Eb]fim.\n\nÓ caro Salva[Bb]dor, riqueza de amor,\n[Eb]Ve[F]la por [Bb]mim;\n[Eb]Tem-me na Tua mão, ó grande Capitão,\n[Eb]E lutarei, então, con[Ab]ti[Bb]go as[Eb]sim.\n\nÓ caro Salvador, [Bb]meu vero intercessor.\n[Eb]O[F]ra por [Bb]mim;\n[Eb]Eu posso então falar, oh! deste amor sem par,\n[Eb]Que veio me salvar do [Ab]mun[Bb]do, [Eb]sim!\n\nÓ caro Salvador, [Bb]com Teu poder,\nSenhor, [Eb]O[F]pera em [Bb]mim;\nNa senda de valor, repleto de vigor,\nSem ter nenhum temor, irei assim!"
     },
     {
         "numero": 332,
@@ -10226,7 +10226,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 332 - Para o Céu eu vou\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nPara o [F]céu eu vou, embora, for nu[Bb]blado;\nO ca[C]minho, às vezes, espinhoso es[F]tá,\nPor Je[F]sus, meu Mestre, sempre bem [Bb]guiado,\nEm Seus [C]passos sigo, até que chegue [F]lá.\n\nCoro:\nAle[F]luia! P’ro céu vou cami[Bb]nhando,\nNada [C]me desanima[F]rá!\nPara o [F]céu eu me vou aproxi[Bb]mando,\nSempre [C]meu Jesus me guia[F]rá!\n\nPara o [F]céu eu vou, ainda que lu[Bb]tando\nContra [C]tentações, que surgem ante [F]mim:\nSob o [F]sangue de Jesus me abri[Bb]gando,\nEscon[C]dido e bem seguro, estou as[F]sim.\n\nPara o [F]céu eu vou, embora, mui can[Bb]sado,\nE a[C]migos velhos, voltem-se pra [F]trás.\nForte [F]sigo co'o Senhor Jesus ao [Bb]lado,\nConvi[C]dando a outros aceitar a [F]paz.\n\nPara o [F]céu eu vou, alegre cami[Bb]nhando:\nBreve [C]findará a peregrina[F]ção,\nSe can[F]sado, neste mundo vou an[Bb]dando,\nEu re[C]pousarei na divina! man[F]são."
     },
     {
         "numero": 333,
@@ -10250,7 +10250,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 333 - O Céu, Meu Lar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nÉ o meu lar, o céu, [A]o céu de [D]luz:\n[D]Livre da carne, o véu, [A]verei Je[D]sus;\n[D]Oh! Que fe[G]liz se[D]rei ao fado [G]do Se[D]nhor,\n[D]Lou[A]vando [D]ao meu Rei, [G]o [A]Salva[D]dor!\n\nÉ o meu lar, o céu, [A]o céu de [D]luz;\n[D]Por mim sofreu, qual [A]réu, o meu Je[D]sus:\n[D]Oh! Que fe[G]liz se[D]rei no reino [G]de a[D]mor,\n[D][A]Pois sempre [D]gozarei, [G]com [A]meu Se[D]nhor!\n\nÉ o meu lar, o céu, [A]o céu de [D]luz;\n[D]E com os meus troféus [A]vou a Je[D]sus:\n[D]Oh! Que fe[G]liz se[D]rei quando, com [G]mui fer[D]vor,\n[D]Aos [A]pés es[D]tar do Rei, [G]dan[A]do lou[D]vor!"
     },
     {
         "numero": 334,
@@ -10278,7 +10278,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 334 - O Fim Vem, Cuidado!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nO [F]fim de todas coisas vem, não [C]tarda, cui[F]dado!\nNão [F]queiras hoje recusar a [C]graça do Salva[F]dor:\nPro[C]cura bem de[F]pressa, fi[C]car abri[F]gado,\nNo [F]sangue do Cordeiro, no [C]sangue remi[F]dor.\n\nCoro:\nQue [F]san[Gm]gue pre[C]cio[F]so, [C]saiu de meu Je[F]sus!\nQue [F]sangue glorio[C][F]so, ver[Gm]tido foi, [C]na [F]cruz!\n\nO [F]fundamento do cristão é a [C]rocha e[F]leita,\nPor [F]isco pode resistir os [C]ventos da tenta[F]ção.\nA [C]todo o que sin[F]cero, a [C]Cristo a[F]ceita,\nO [F]sangue do Cordeiro ga[C]rante salva[F]ção.\n\nQuem [F]pois ouvir, há de viver com [C]Cristo na [F]glória,\nQuem [F]não ouvir há de morrer, tor[C]mentos padece[F]rá,\nPois [C]quem deseja [F]sobre o [C]mal a vi[F]tória,\nNo [F]sangue do Cordeiro po[C]der encontra[F]rá."
     },
     {
         "numero": 335,
@@ -10307,7 +10307,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 335 - Mui Perto Está o Dia\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Perto, sim, mui perto es[D]tá,\n[D]O dia não tarda[G]rá;\n[G]Iremos nós resi[C]dir\n[D]Com Jesus, que há de [G]vir.\n\n[G]Oh! Quanta glória há de [D]ser,\n[D]Se Cristo hoje des[G]cer,\n[G]Pois os fiéis em Je[C]sus,\n[D]Gozarão eterna [G]luz!\n\n[G]Que glória imensa, sem [D]par,\n[D]Havemos nós de go[G]zar\n[G]Ao lado, sim, do Se[C]nhor,\n[D]Nosso amado Salva[G]dor!\n\n[G]Devemos, pois, espe[D]rar,\n[D]E ao mundo olhos fe[G]char;\nAndemos sempre na luz,\nA buscar o Rei Jesus."
     },
     {
         "numero": 336,
@@ -10340,7 +10340,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 336 - Oração de Elias\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nE[F]lias [C]no Car[F]melo orou\nCom [Bb]insistência a [F]Deus;\nCur[Bb]vado ao [C]pó, [Dm]com fé cla[C/E]mou\nPor [F]chuva [C]lá dos [F]céus.\n\nCoro:\n[F]Chu[Bb]va, [F]manda [C]Senhor,\nA [F]chuva do [Bb]Santo [C]Consolador;\nManda chuva forte, Salvador:\nNa [Bb]Tua l[C]greja [Dm]faz des[C/E]cer\nA [F]chuva [C]de po[F]der.\n\nVai, [F]servo [C]meu, do [F]monte olhar\nSe [Bb]nuvens negras [F]vêm;\nPois [Bb]pode a[C]gora [Dm]Deus man[C/E]dar\nA [F]chuva a [C]nós tam[F]bém.\n\nUma [F]nuvem [C]surge [F]qual u'a mão,\nNo [Bb]horizonte a[F]lém,\n[Bb]Ao longe [C]ouve-[Dm]se um tro[C/E]vão:\nSim, [F]muita [C]chuva [F]vem.\n\nÓ [F]crente [C]frio, [F]vai buscar\nA [Bb]Deus em ora[F]ção,\nE [Bb]tua [C]vida [Dm]consa[C/E]grar,\nP’re [F]rece[C]ber a un[F]ção."
     },
     {
         "numero": 337,
@@ -10368,7 +10368,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 337 - O Bom Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nÓ bom Jesus, te[G]souro de po[D]der,\n[D]Quero sentir-Te. sempre no meu [A]ser!\n[D]Faz-me andar, oh, [G]sempre nesta [D]luz,\nPois [A]dentro de mim [D]vives, ó meu [A]bom Je[D]sus!\n\nCoro:\nOh! [D]Em mim, Já enfim, res[G]suscitou Je[D]sus;\nDas [A]trevas livre es[D]tou assim, por [A]Sua [D]luz!\n\nO bom Jesus, ó [G]fonte de a[D]mor,\n[D]Faz-me ouvir a Tua voz, Se[A]nhor;\n[D]Sempre viver de[G]li eu quero [D]sim,\n[A]Ó manifesta [D]mais o Teu po[A]der em [D]mim!\n\nO bom Jesus, real Consolador,\nLonge de Ti está o pecador!\n[D]Vives em mim, és [G]minha salva[D]ção;\nSó [A]é feliz, o [D]que Te tem no [A]Cora[D]ção!"
     },
     {
         "numero": 338,
@@ -10396,7 +10396,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 338 - Quero Jesus, Tua Luz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nQuero [F]sempre, Jesus, rece[Bb]ber Tua luz,\nReves[C]tir-me do Consola[F]dor;\nE um [F]dia nos céus, junto ao [Bb]trono de [C]Deus,\nFrui[F]rei abun[C]dante a[F]mor!\n\nCoro:\nÓ Je[Bb]sus, guarda o meu cora[F]ção,\nNele [C]faz Tua e[G]terna habita[C]ção,\nQuero [F]sempre Teu nome lou[Gm]var!\nPois qui[C]seste minh’alma resga[F]tar!\n\nSob o [F]sangue estarei abri[Bb]gado da lei,\nDo pe[C]cado e da vil tenta[F]ção;\nNeste [F]sangue há paz, gozo [Bb]que satis[C]faz\nE cer[F]teza de [C]vem per[F]dão!\n\nOh! Que [F]consolação eu te[Bb]rei em Sião,\nVendo a [C]face do meigo Je[F]sus;\nUm e[F]terno louvor eu da[Bb]rei ao Se[C]nhor,\nAo en[F]trar na ci[C]dade da [F]luz!"
     },
     {
         "numero": 339,
@@ -10429,7 +10429,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 339 - Jesus Ressuscitado\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Oh! Jesus ressuscitado,\n[Bb]Grande é o Teu po[Eb]der!\n[Eb]Sê comigo, ó meu amado,\n[Bb]Dá-me a graça e o sa[Eb]ber.\n\nCoro:\nP’[Eb]ra fazer a Tua vontade,\n[Bb]Quero de Ti mais po[Eb]der;\n[Eb]Dá-me a Tua santi[Ab]dade,\n[Bb]Quero só p’ra Ti vi[Eb]ver.\n\n[Eb]Meu Senhor, Tu és meu guia,\n[Bb]Dá-me força, vida e [Eb]luz;\n[Eb]Plena paz e alegria,\n[Bb]Me concede,ó meu Je[Eb]sus!\n\nEs a luz tão radiosa,\nQue me traz consolação;\n[Eb]Com Tua morte dolorosa,\n[Bb]Tu me deste a salva[Eb]ção.\n\n[Eb]Quero, ó Deus, agradecer-Te\n[Bb]O Teu grande, imenso a[Eb]mor,\n[Eb]Porque já me concedeste\n[Bb]O real Consola[Eb]dor."
     },
     {
         "numero": 340,
@@ -10462,7 +10462,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 340 - Um Povo Forte\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nEis que [Bb]surge um povo forte,\nReves[Bb]tido [Eb]de po[Bb]der;\nE não [Bb]teme nem a morte,\nQuem a e[F]le pertencer;\nE te[Bb]rá sublime sorte,\nPois com [Bb]Cristo [Eb]ao céu [Bb]vai,\nPodes [Bb]tu dizer tam[F]bém.\n“Sou um dos [Bb]tais”?\n\nCoro:\nUm dos [Bb]tais. Um dos tais.\nPo[Bb]des tu também di[Gm]zer: “Sou [C]um dos [F]tais”?\nUm dos [Bb]tais, um dos tais.\nPodes [F]tu também dizer: “Sou um dos [Bb]tais”?\n\nNo Ce[Bb]nác’lo reunidos,\nO po[Bb]der bus[Eb]cavam en[Bb]tão,\nPelo a[Bb]mor de Deus unidos\nA cla[F]mar em oração;\nEis que um [Bb]vento é descido\nE o [Bb]fogo [Eb]do céu [Bb]cai;\nPodes [Bb]tu dizer tam[F]bém:\n“Sou um dos [Bb]tais”?\n\nEste [Bb]povo destemido,\n(São os dis[Bb]cípulos [Eb]de Je[Bb]sus)\nPelo [Bb]mundo perseguido,\nPor le[F]var a sua cruz.\nE a[Bb]gora revestido\nCom po[Bb]der ao [Eb]mundo [Bb]sai;\nPodes [Bb]tu dizer tam[F]bém:\n“Sou um dos [Bb]tais”?\n\nÓ não [Bb]sejas descuidado\nPra bus[Bb]car o [Eb]dom de [Bb]Deus,\nDom que [Bb]te fará ditoso,\nDar-te-[F]á visões do céu.\nE Je[Bb]sus maravilhoso\nProcla[Bb]mando aos [Eb]outros [Bb]vais,\nPode[Bb]rás então di[F]zer:\n“Sou um dos [Bb]tais”."
     },
     {
         "numero": 341,
@@ -10486,7 +10486,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 341 - A Aspiração da Alma\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nMi[Ab]nh’alma [Db]as[Ab]pira [Eb]habi[Ab]tar\n[Ab]Nos átrios do Se[Eb]nhor,\nE [Ab]para [Fm]sempre ou[Db]vir [Eb]soar\nA [Ab]voz [Db]do [Ab/Eb]meu Re[Eb]den[Ab]tor.\n\nDes[Ab]can[Db]so [Ab]não se en[Eb]contra[Ab]rá\nNo [Ab]lar do peca[Eb]dor;\nSó [Ab]em Je[Fm]sus [Db]se acha[Eb]rá\nJus[Ab]ti[Db]ça, [Ab/Eb]paz e a[Eb][Ab]mor.\n\nÓ [Ab]vin[Db]de, [Ab]crentes, [Eb]va[Ab]mos já\nA [Ab]casa do Se[Eb]nhor,\n[Ab]Pois Ele [Fm]nos en[Db]sina[Eb]rá\nSer[Ab][Db]vi-Lo [Ab/Eb]com mui [Eb][Ab]fervor!"
     },
     {
         "numero": 342,
@@ -10519,7 +10519,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 342 - As Cordas do Coração\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nDo meu [D]coração vibram as [A]cordas,\nAfi[A]nadas pra o Mestre lou[D]var:\nO pe[D]cado este som não outorga:\nSó o [A]Gólgota as [E]pode afi[A]nar.\n\nCoro:\nAle[D]luia! Glória a [A]Deus,\nQue no [A]Gólgota a minh’alma afi[D]nou!\nAle[D]luia! Glória a [G]Deus,\nQue no Cal[D]vário a minh’[A]alma afi[D]nou!\n\nTambém [D]fomos no mundo afi[A]nados,\nMas não [A]era agradável o [D]som;\nMas no [D]Gólgota já transformados.\nTemos [A]nova harmo[E]nia e [A]tom.\n\nÉ Je[D]sus quem as almas a[A]fina,\nO instru[A]mento Ele cuida mui [D]bem,\nCada [D]dia o som mais refina,\nTé to[A]car os a[E]cordes de a[A]lém.\n\nSe pro[D]var esta afinação [A]queres.\nHoje [A]chega-te á cruz com a[D]mor;\nHarmo[D]nia terás se estiveres\nEm Je[A]sus, o teu [E]afina[A]dor!"
     },
     {
         "numero": 343,
@@ -10557,7 +10557,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 343 - Abre o Coração\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nÓ [Ab]pecador que [Db]não tens [Ab]luz.\n[Ab]Abre o cora[Eb]ção;\nA[Ab]ceita hoje o [Db]bom Je[Ab]sus;\n[Fm]Abre o [Eb]cora[Ab]ção!\n\nCoro:\n[Ab]Quem sinto [Db]bater [Ab]no meu cora[Eb]ção?\nJe[Ab]sus diz: “Abre [Db]sem tar[Ab][Fm]dar o teu [Eb]cora[Ab]ção”.\n\nTu [Ab]que almejas [Db]salvo [Ab]ser.\n[Ab]Abre o cora[Eb]ção;\nA [Ab]paz de Deus [Db]vem ob[Ab]ter,\n[Fm]Abre o [Eb]cora[Ab]ção!\n\n[Ab]Que meiga voz es[Db]cutas [Ab]já!\n[Ab]Abre o cora[Eb]ção;\nJe[Ab]sus tua alma [Db]salva[Ab]rá,\n[Fm]Abre o [Eb]cora[Ab]ção!\n\nSim, [Ab]hoje vem em [Db]Cristo [Ab]crer\n[Ab]Abre o cora[Eb]ção;\nNo [Ab]amanhã que [Db]vai ha[Ab]ver?\n[Fm]Abre o [Eb]cora[Ab]ção!\n\nOu[Ab]vindo a voz do [Db]bom Je[Ab]sus,\n[Ab]Abre o cora[Eb]ção;\nÓ [Ab]vem depressa, [Db]vem pra [Ab]luz,\n[Fm]Abre o [Eb]cora[Ab]ção!"
     },
     {
         "numero": 344,
@@ -10590,7 +10590,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 344 - Um Amigo Entre os Lírios\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Entre os lírios, no meio dos [F]vales\n'S[F]tá um amigo, que é caro pra [Bb]mim;\nQuero segui-Lo, isento dos males,\nVê-Lo no céu, com os anjos enfim.\n\nCoro:\n[Bb]Meu Salvador Je[Eb]sus, Ó Fi[Bb]lho do bom Deus;\n[Bb]Graças por Tua [Eb]luz, [F]que veio dos [Bb]Céus!\n[Bb]Por mim provaste a [Eb]Cruz,\n[F]Por mim morreste, Je[Bb]sus!\n\n[Bb]Hoje Te busco, ó vem, reve[F]lar-me\n[F]A luz divina, onde estás, meu Je[Bb]sus,\nCom Teu rebanho vem já a levar-me\nPara o rio que vida produz.\n\n[Bb]Ouve-me agora, Jesus mui a[F]mado,\n[F]Deixa-me Teu grande amor desfru[Bb]tar;\nNão mais me 'scondas Teu rosto adorado,\nPois me chamaste pra me libertar.\n\n[Bb]A voz de Cristo é pra mim mais pre[F]ciosa\n[F]Que a voz dos anjos; e do sol a [Bb]luz,\nNão tem o brilho da face radiosa\nQuando sorri meu amado Jesus."
     },
     {
         "numero": 345,
@@ -10619,7 +10619,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 345 - Oh! Tenho Gozo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Oh! Tenho gozo no meu cora[C]ção,\n[C]Também a vida, e santo fer[F]vor;\n[F]Pois Cristo me deu [D]real salva[Gm]ção\n[Bb]E a cer[F]teza dum [C]reino de a[F]mor!\n\n[F]No mundo nunca irás conhe[C]cer\n[C]O gozo santo do meu Salva[F]dor,\n[F]Que já desfruta, sim, [D]todo o que [Gm]crer,\n[Bb]E vive [F]sempre re[C]pleto de a[F]mor.\n\n[F]Louvemos juntos o Rei de Is[C]rael,\n[C]Por Sua graça, que nos dá vi[F]gor,\n[F]Pois Ele esconde o [D]crente [Gm]fiel,\n[Bb]Em Suas [F]asas de [C]paz e a[F]mor.\n\n[F]O Pai Eterno Seu povo se[C]lou,\n[C]Com a promessa do Consola[F]dor;\n[F]Oh! Foi de graça, que [D]Deus me sal[Gm]vou\n[Bb]Por Seu i[F]menso e [C]santo a[F]mor!"
     },
     {
         "numero": 346,
@@ -10657,7 +10657,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 346 - É Meu o Céu\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nQue ale[Eb]gria agora, é [Ab]meu o céu,\nPois Je[Eb]sus rasgou o sagrado [Bb]véu;\nA con[Eb]denação não mais [Ab]temerei,\nE meu [Eb]Reden[Ab]tor sempre [Bb]louva[Eb]rei.\n\nCoro:\nLá no [Eb]céu eu descansa[Bb]rei\nCom Je[Bb]sus, o nosso [Eb]Rei;\nVem a [Eb]Deus, ó peca[Bb]dor,\nPois no [Bb]céu te espera com a[Eb]mor.\n\nPelo [Eb]mundo eu soli[Ab]tário andei,\nFora [Eb]de Sodoma o céu avis[Bb]tei,\nPois o[Eb]lhei pra cima, p’ra [Ab]meu Jesus,\nQue por [Eb]mim mor[Ab]reu na san[Bb]grenta [Eb]cruz.\n\nEu sou [Eb]um soldado pra [Ab]combater.\nE com [Eb]Deus irei todo o mal ven[Bb]cer;\nA ban[Eb]deira é o san[Ab]gue de Jesus,\nQue por [Eb]mim ver[Ab]tido foi [Bb]lá na [Eb]cruz.\n\nQuando um dia eu venha a perecer,\nSim, meu coração cesse de bater,\nSubi[Eb]rei ao céu, sem [Ab]nenhum temor,\nDescan[Eb]sado nos [Ab]braços [Bb]do Se[Eb]nhor.\n\nAnte o [Eb]trono alegre [Ab]eu estarei,\nE com [Eb]Deus irei todo o mal ven[Bb]cer;\nHei de [Eb]ver as palmas da [Ab]multIdão\nQue ale[Eb]luias à [Ab]Deus, sempre [Bb]canta[Eb]rão."
     },
     {
         "numero": 347,
@@ -10686,7 +10686,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 347 - Vem a Cristo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nVem a [F]Cristo, vem agora,\nVem as[F]sim como es[C]tás;\nDe [C]Deus, sem demo[F]ra,\nO per[Bb]dão [C]obte[F]rás.\n\nCrê e [F]firma tua confiança\nNa Sua [F]morte por [C]ti;\nPois [C]gozo al[F]cança,\nTodo [Bb]que [C]faz as[F]sim.\n\nVem a [F]Cristo, não temendo\nPensa [F]no Seu a[C]mor;\nVem [C]logo, mas [F]crendo,\nPois te [Bb]cha[C]ma o Se[F]nhor.\n\nEle a[F]nela redimir-te,\nQuer li[F]vrar-te do [C]mal;\nAs [C]portas a[F]brir-te,\nDo pra[Bb]zer [C]divi[F]nal."
     },
     {
         "numero": 348,
@@ -10714,7 +10714,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 348 - Longe de Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nVa[Cm]gava longe de Jesus, em plena soli[G]dão,\nA[Cm]té que a preciosa luz encheu meu [Bb]cora[Eb]ção,\nAs[Bb]sim, os meus pe[Eb]cados vi, qual [Fm]negra es[Bb]curi[Eb]dão;\nAo [Bb]pé da cruz, en[Eb]tão, caí, [Cm]e re[Ab]cebi per[G]dão.\n\nCoro:\n[Eb]Cristo por mim so[Bb]frendo, lá na cruz mor[Eb]rendo,\n[Ab]Minh’alma sal[Eb]vou e [F]meus grilhôes já que[Bb]brou\nAle[Bb]luia!\n[Eb]Cristo por mim so[Bb]frendo, lá na cruz mor[Eb]rendo\n[Ab]Deu-me paz, [Eb]perdão, no [Fm]meu [Bb]cora[Eb]ção.\n\nJesus morreu em grande dor, a fim de me salvar,\nVer[Cm]teu Seu sangue expiador, que pôde [Bb]me la[Eb]var:\nSem [Bb]murmurar, so[Eb]freu Jesus por [Fm]mim, [Bb]vil peca[Eb]dor;\n[Bb]Por isso vim ao [Eb]pé da cruz, ven[Cm]cido [Ab]pelo a[G]mor.\n\nEs[Cm]cuta a voz do Salvador que chama-te pra [G]luz;\nCon[Cm]fessa-te um pecador, e vem ao [Bb]bom Je[Eb]sus,\n[Bb]Que te dará [Eb]real poder, o [Fm]gozo e [Bb]paz de [Eb]Deus;\nE [Bb]quando tudo [Eb]fenecer, tu [Cm]vive[Ab]rás no [G]céu."
     },
     {
         "numero": 349,
@@ -10747,7 +10747,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 349 - Os Dons do Céu\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Os dons do céu prometidos,\n[Bb]Pai espe[Eb]ramos a[Bb]qui;\n[F]Em santo amor reu[Bb]nidos,\n[C]Nós suplicamos a [F]Ti.\n\nCoro:\n[Bb]Manda, ó Senhor, [Eb]chuvas dos céus;\n[F]Chuvas do Consola[Bb]dor,\n[C]Manda dos céus, ó bom [F]Deus!\n[Bb]Manda, ó Senhor, [Eb]chuvas dos [D]céus,\n[Eb]Que nos dão sempre vi[Bb][F]gor;\n[Bb/F]Manda-nos [F]lá, ó bom [Bb]Deus!\n\n[Bb]Manda-nos chuvas constantes,\n[Bb]Chuvas do [Eb]Consola[Bb]dor;\n[F]Chuvas, sim, mas abun[Bb]dantes,\n[C]Chuvas de vida e de a[F]mor!\n\n[Bb]O Teu poder esperamos,\nO glo[Eb]rioso Se[Bb]nhor!\n[F]Dos altos céus aguar[Bb]damos\n[C]Chuvas do Consola[F]dor!\n\n[Bb]Pai abençoa os crentes\n[Bb]Que sempre es[Eb]tão a bus[Bb]car\n[F]A Tua face, te[Bb]mentes;\n[C]Chuvas, lhes queiras man[F]dar."
     },
     {
         "numero": 350,
@@ -10780,7 +10780,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 350 - A História da Cruz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nTens [Ab]tu lido a história da [Db]dura [Ab]cruz,\nNa [Ab]qual Je[Eb]sus mor[Ab]reu,\nDesfa[Db]zendo as trevas [Ab]raiou a [Eb]luz,\nMa[Db]nando o [Eb]sangue [Ab]Seu?\n\nCoro:\nJe[Eb]sus padeceu na [Ab]cruz por ti;\nJe[Ab]sus padeceu na [Eb]cruz!\nOh! [Ab]Grande amor do [Db]Salvador\nMor[Eb]rendo na cruz por [Ab]mim!\n\nTens [Ab]tu lido que Cristo [Db]não se quei[Ab]xou,\nNo [Ab]lenho, em [Eb]grande [Ab]dor,\nMas ao [Db]Pai o perdão ‘inda [Ab]supli[Eb]cou\nPra o [Db]povo [Eb]peca[Ab]dor?\n\nTens [Ab]tu lido que Cristo sal[Db]vou, por [Ab]fim,\nNa [Ab]cruz, um [Eb]malfei[Ab]tor?\nQue so[Db]frendo na cruz Lhe ro[Ab]gou:\n“De [Eb]mim, á [Db]lembra-[Eb]Te, Se[Ab]nhor”?\n\nTens [Ab]tu lido que Cristo excla[Db]mou na [Ab]cruz:\n“Eis [Ab]consu[Eb]mado [Ab]está”.\nFoi por [Db]mim, foi por ti, que mor[Ab]reu Je[Eb]sus,\nA[Db]ceita [Eb]Cristo [Ab]já."
     },
     {
         "numero": 351,
@@ -10823,7 +10823,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 351 - A Felicidade da Salvação\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]São felizes os que têm o [Bb]alegre [Gm]som\nDa [C]salvação real do nosso [F]Deus.\n[F]Pois eles têm ouvido num [Bb]suave tom,\nA [G]multidão que canta lá no [C]céu.\n\nCoro:\nJá os [F]filhos de Deus bem alegres es[C]tão,\nPo[C]rém no céu prazer melhor te[F]rão,\nOs [F]gozos do cristão, [Bb]apenas gotas são\nDo [C]mar de bênçãos, em [F]Sião!\n\n[F]Secam-se do mundo os manan[Bb]ciais por [Gm]fim,\nDei[C]xando aqui somente sequi[F]dão,\n[F]Porém, as fontes divinais não [Bb]são assim,\nPois [G]sempre águas vivas mana[C]rão.\n\n[F]Paulo e Silas, eis que na ca[Bb]deia es[Gm]tão,\nNo [C]tronco têm seguros mãos e [F]pés,\n[F]Mas sem se importarem, mes[Bb]mo na prisão,\nEn[G]toam hinos ao Senhor, com [C]fé!\n\n[F]Eis Estêvão numa grande e[Bb]xulta[Gm]ção,\nEm[C]bora às pedradas sucum[F]biu,\n[F]Porque do Espírito cheio teve [Bb]a visão:\nO [G]Salvador à dextra de Deus, [C]viu!\n\n[F]Muitos séculos têm-se pas[Bb]sado [Gm]já,\nDe[C]pois que Estêvão, pela fé mor[F]reu,\n[F]Mas salvação igual Jesus [Bb]ainda dá,\nA [G]todos crentes e fiéis em [C]Deus.\n\n[F]Qual pombinho já em canto [Bb]divi[Gm]nal,\nQue [C]louva: \"Aleluia”, em nosso [F]ser;\n[F]Se perguntares: “Onde apanha[Bb]rei igual?”\n“No [G]Gólgota” nós vamos respon[C]der."
     },
     {
         "numero": 352,
@@ -10847,7 +10847,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 352 - Jesus, Nossa Esperança\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nÓ Jesus, nos[A]sa esperança,\n[A]Vide santa - nós os [D]ramos;\n[D]Com fervor e [Bm]con[Em]fiança,\n[G#m]Vera [D]graça [A]Te ro[D]gamos,\n[G]Ó [A]Salva[D]dor.\n\n[D]Nossos cora[A]ções contritos\n[A]A Ti nós apresenta[D]mos.\n[D]Vem lavá-[Bm]los, Jesus [Em]Cristo.\nCom Teu sangue, suplicamos,\nÓ Salvador.\n\n[D]Aos que Tu tens [A]resgatado,\n[A]Mais e mais os puri[D]fica.\n[D]Já que os tens [Bm]pra luz [Em]chamado\n[G#m]Suas [D]almas [A]santi[D]fica,\n[G]Ó [A]Salva[D]dor."
     },
     {
         "numero": 353,
@@ -10875,7 +10875,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 353 - Vem, ó Pródigo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nÓ [F]tu qu’inda vagas no [Bb]mundo d’hor[Dm]ror,\nNas [F]trevas e [G]na escuri[C]dão,\nPor [F]que não descansas em [Bb]Cristo, o [C]Se[F]nhor,\nQue [Bb]trouxe do [C]céu Salva[F]ção.\n\nCoro:\nÓ [F]vem, ó pródigo, ó vem a Je[C]sus;\nPar[C]ti foi er[Bb]gui[F]do no [G]alto da [C]cruz;\nA[F]ceita agora de Deus o fa[Gm]vor;\nO [A]vem, sem de[Dm]mora a [C]Cristo, o Se[F]nhor.\n\nO [F]mundo jazia na [Bb]dura pri[Dm]são,\nMas [F]Cristo, a [G]porta a[C]briu;\nÓ [F]crê na mensagem que [Bb]dá sal[C]va[F]ção,\nPois [Bb]Cristo na [C]cruz te re[F]miu!\n\nQue [F]gozo completo te[Bb]rás em Je[Dm]sus,\nSe a[F]ceita[G]res o Seu per[C]dão;\nÓ [F]deixa o pecado e [Bb]vem pa[C]ra a [F]luz;\nEn[Bb]trega o [C]teu cora[F]ção."
     },
     {
         "numero": 354,
@@ -10904,7 +10904,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 354 - O Cuidado da Alma\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nEu [C]tenho que guardar\nMi[G]nh’alma imortal,\n[C]E prepará-la [G]pa[Am]ra en[G]trar,\nNo [C]reino [G]celes[C]tial.\n\nP’ra [C]isto eu fazer,\nMeu [G]Deus, vem me ajudar;\n[C]A Teu serviço, [G]sim, [Am]meu [G]ser,\nTe [C]quero [G]consa[C]grar.\n\nTeu [C]filho quero ser,\nDe [G]todo coração\n[C]E para sem[G]pre [Am]ob[G]ter\nTua e[C]terna [G]prote[C]ção.\n\nA[C]juda-me a velar,\nNa [G]fé me firmar bem,\n[C]Pois em Ti posso [G]con[Am][G]fiar,\nE [C]descan[G]sar tam[C]bém!"
     },
     {
         "numero": 355,
@@ -10932,7 +10932,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 355 - Fala do Amor de Cristo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Fala do amor de Cristo\n[G]Ao triste peca[D]dor,\n[D]Amor por todos visto\n[D]Na cruz do Reden[G]tor;\n[G]Com alegria canta\n[G]A paz que vem do [C]céu;\n[C]A tua voz le[G]van[Em]ta\nEm [D]glória a [G]Deus.\n\nCoro:\n[G]Cristo na cruz ganhou-nos\n[G]Eterna salva[D]ção.\nCom sangue Seu lavou-nos\n[D]O Rei da reden[G]ção!\nNo [G]templo, o véu rasgado;\n[G]Caminho abriu Je[C]sus\nNa cruz, inaugurado\nP’ro [D]céu de [G]luz!\n\n[G]Para os aflitos, canta,\n[G]As bênçãos que em Deus [D]há;\n[D]Da cruz pendão levanta\n[D]Pois ânimo nos [G]dá.\n[G]Canta para os perdidos\n[G]A graça de Je[C]sus;\n[C]Seu sangue já ver[G]ti[Em]do,\nQue [D]flui da [G]cruz!\n\n[G]Canta com esperança,\n[G]Na escuridão tam[D]bém,\n[D]Canta com confiança,\n[D]Há vida no a[G]lém;\n[G]Canta no alvor do dia,\n[G]E quando a noite [C]vem;\n[C]Em Cristo, harmo[G][Em]nia\nCom [D]Deus se ob[G]tém!"
     },
     {
         "numero": 356,
@@ -10966,7 +10966,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 356 - Oração Dominical\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nÓ nosso [Bb/F]Pai [F]que es[C]tás no [F]céu,\n[C]Do uni[F]verso o [G]benfei[C]tor;\n[F]Santificado [Bb]seja o nome [C]Teu,\nO glo[F][F]rioso [C]Deus de a[F]mor!\n\n[F]O rei[Bb/F]no Teu, [F]venha [C]com po[F]der,\n[C]Conforme [F]o a[G]núncio [C]Teu;\n[F]E seja fei[Bb]to sempre Teu que[C]rer,\n[F]Na ter[F]ra, [F]como [C]lá no [F]céu.\n\n[F]E ca[Bb/F]da dia [F]o [C]nosso [F]pão,\n[C]Dá-nos Se[F]nhor, e [G]sem fal[C]tar;\n[F]E nossas almas [Bb]que sedentas es[C]tão,\n[F]Vem pa[F]ra [F]sempre [C]sa[F]ciar.\n\n[F]Vem per[Bb]doar [F]nossas [C]faltas, [F]vem,\n[C]Pai glo[F]rioso [G]eter[C]na!;\n[F]Pois perdoado [Bb]temos nós, tam[C]bém,\n[F]Os [F]que a [F]nós fi[C]zeram [F]mal.\n\n[F]Da tenta[Bb]ção [F]queiras [C]nos li[F]vrar,\n[C]E do mal [F]nos a[G]fastar [C]bem,\n[F]Pois Te pertence o [Bb]céu, a terra e o [C]mar.\n[F]O rei[F]no [F]para [C]sempre, a[F]mém!"
     },
     {
         "numero": 357,
@@ -10994,7 +10994,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 357 - O Fim das Lutas\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Quando esta vida de lutas cessar,\n[Eb]Vou para o céu meu des[Ab]canso gozar\n[Bb]Com meu Jesus, lá na [Eb]glória sem fim;\n[Bb]Oh! Que ventura será para [Eb]mim!\n\nCoro:\n[Ab]Oh! Que prazer! Glória a Je[Eb]sus!\n[Eb]Eu hei de ver no céu de [Ab]luz;\n[Ab]Nunca morrer, a Je[Db]sus sempre [C]ver,\n[Db]Oh! Será [Ab]gozo e[Eb]terno, p’ra [Ab]mim!\n\nPenso na paz e no grande amor,\nDo lar celeste do meu Salvador;\n[Bb]Em ver Seu rosto, em [Eb]sorrir também,\n[Bb]Na grande glória do dia que [Eb]vem.\n\n[Ab]Pais e amigos, irmãos, hão de estar\n[Eb]No santo rio, de gozo [Ab]a cantar,\n[Bb]Sempre alegres, lou[Eb]vando ao Senhor,\n[Bb]Gozando bênçãos do seu Cria[Eb]dor."
     },
     {
         "numero": 358,
@@ -11027,7 +11027,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 358 - Senhor, Manda Teu Poder\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nOs [F]fiéis oravam unidos\nNum ce[C]náculo ao Se[F]nhor,\nQuando [F]foi do céu descido\nO [C]real Consola[F]dor!\n\nCoro:\n[F]Senhor, manda já o Teu poder.\n[C]Senhor, manda [F]já o Teu poder.\n[F]Senhor, manda já o Teu poder,\nE ba[C]tiza cada [F]Um!\n\nQual um [F]Vento veemente,\nO po[C]der a casa en[F]cheu;\nLínguas [F]vieram sobre os crentes,\nMas de [C]fogo, lá do [F]céu!\n\nNoutras [F]línguas, sim, falaram.\nComo [C]Cristo conce[F]deu;\nDo Es[F]pírito transbordaram,\nExal[C]tando o Rei do [F]céu!\n\nO po[F]der foi prometido\nPara os [C]servos do Se[F]nhor:\nE p’ra [F]todos concedido,\nSe o pe[C]direm com fer[F]vor!"
     },
     {
         "numero": 359,
@@ -11060,7 +11060,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 359 - Vem a Mim, Pecador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nEis que [Bb]clamo, Eu Jesus, o pode[Eb]roso,\nVem a [F]Mim, peca[Bb]dor;\nQuero [Bb]dar-te Minha paz, perdão e [Eb]gozo.\nVem a [C]Mim, sofre[F]dor.\n\nCoro:\nEu [F]te amo, ó pecador per[Bb]dido,\nMor[F]ri p’ra ser teu Salva[D][F]dor,\nPor teus [Bb]crimes e pecados fui fe[Eb]rido;\nVem a [F]Mim, sofre[Bb]dor.\n\nDos pe[Bb]cados hoje posso liber[Eb]tar-te,\nVem a [F]Mim, peca[Bb]dor;\nPois na [Bb]cruz, Eu padecendo, quis li[Eb]vrar-te,\nVem a [C]Mim, sofre[F]dor.\n\nHoje [Bb]quero te fazer feliz, di[Eb]toso,\nVem a [F]Mim, peca[Bb]dor;\nCom meu [Bb]sangue abri um trilho glo[Eb]rioso,\nVem a [C]Mim, sofre[F]dor.\n\nNão des[Bb]prezes com orgulho o Meu con[Eb]vite\nVem a [F]Mim, peca[Bb]dor;\nPois teu coração é fraco, não re[Eb]siste,\nVem a [C]Mim, sofre[F]dor."
     },
     {
         "numero": 360,
@@ -11093,7 +11093,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 360 - A Preciosa Fonte\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\n[D]Vem à fonte sanadora,\n[D]Que abriu o Salva[A]dor,\n[D]Cujas águas sedutoras\n[A]Têm um divinal sa[D]bor.\n\nCoro:\n[D]Oh! Preciosa [G]fonte sana[D]dora\n[A]Para todos corre, [D]sim!\n[D]Oh! Preciosa [G]fonte sana[D]dora!\n[A]Glória a Deus, me sara a [D]mim!\n\n[D]Nesta fonte, que nos sara,\n[D]Encontrei real per[A]dão;\nMi[D]nha veste fez-se clara,\n[A]Tenho purifica[D]ção.\n\n[D]Nesta fonte, que nos cura,\n[D]Deu-me Cristo, salva[A]ção;\n[D]Sã tornou minh'alma e pura,\n[A]E lhe deu consola[D]ção.\n\n[D]Vem à fonte que te cura;\nHo[D]je vem purifi[A]car\n[D]A tu'alma. que impura,\n[A]Lá no céu não pode en[D]trar."
     },
     {
         "numero": 361,
@@ -11126,7 +11126,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 361 - O Peregrino da Glória\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Peregrino segue para a glória,\n[Bb]Pois no céu em breve entra[Eb]rás!\n[Eb]Ouves já os [G]cantos de vitória?\n[Bb]Tua voz também lá uni[Eb]rás.\n\nCoro:\nSim, [Bb]queres en[Eb]toar\nO [Ab]cântico dos salvos, lá na [Eb]glória,\nQue nos [Bb]céus há de sempre [Eb]soar?\nSim, [Bb]queres tu can[Eb]tar,\nOs [Ab]gloriosos hinos de vi[Eb]tória?\nA Je[Ab]sus mil lou[Bb]vores en[Eb]toar?\n\n[Eb]Vem do céu um som de alegria,\n[Bb]Na escura noite te cha[Eb]mar,\n[Eb]Mui suave e [G]cheio de harmonia.\n- Ó minh'alma. volta pra teu [Eb]lar!\n\n[Eb]Raios últimos do sol se escondem,\n[Bb]Na dourada porta de [Eb]Sião;\n[Eb]Terminada a [G]luta estarei onde\n[Bb]As saudades não mais chega[Eb]rão.\n\n[Eb]De Jesus, o sangue, dá entrada;\n[Bb]Glória a Deus, a porta aberta es[Eb]tá!\n[Eb]Queres tu no [G]céu feliz morada?\n[Bb]Pois será mui triste não ir [Eb]lá."
     },
     {
         "numero": 362,
@@ -11159,7 +11159,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 362 - O Espírito Diz: Vem!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nO Es[Eb]pírito e a Noiva dizem:\n\"Vem be[Cm]ber da [F]água [Bb]da vida”;\nQue [Bb]voz de amor do [Eb]Salvador,\nA [F]uma alma per[Bb]dida!\n\nCoro:\nO Espírito diz: Vem! A Noiva diz: Vem!\nE [Ab]toma de [Eb]graça [Cm]da á[F]gua dá [Bb]vida.\nO Es[Eb]pírito diz: Vem! A [Bb]Noiva diz: [Eb]Vem!\nE [Ab]toma [Eb/Bb]de gra[Cm]ça da [Bb]água da vi[Eb]da.\n\nE o [Eb]que escuta diga: Vem!\n[Cm]E fale da [F]paz ob[Bb]tida,\nPois [Bb]recebeu [Eb]e já bebeu\nDa [F]água que lhe deu [Bb]vida.\n\nÓ [Eb]pecador sedento, vem!\nA [Cm]fonte das [F]águas [Bb]puras!\nVem [Bb]te saciar, vem [Eb]sem tardar,\nÓ [F]infeliz cria[Bb]tura!\n\n[Eb]Se tu quiseres, hoje: Vem!\nA [Cm]Cristo, [F]alma se[Bb]quiosa;\nTu [Bb]beberás, te [Eb]fartarás\nDa [F]água maravi[Bb]lhosa!"
     },
     {
         "numero": 363,
@@ -11187,7 +11187,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 363 - Consagração\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nA[F]mor e vida dou a Ti.\nJe[F]sus, pois lá na [C]cruz, por mim,\nVer[F]teste sangue [Bb]carmezim;\nMeu [F/C]Deus e Sal[C]va[F]dor!\n\nCoro:\nA[F]mor e vida dou a Ti,\nQue [F]foste à cruz so[C]frer por mim,\nA[F]mor e vida [Bb]dou a Ti,\nJe[F/C]sus, meu Sal[C]va[F]dor!\n\nTu [F]me salvaste, isto sei;\nA [F]minha fé em [C]Ti porei;\nFe[F]liz, agora [Bb]viverei!\nCon[F/C]tigo, meu [C]Je[F]sus!\n\nTu [F]que morreste sobre a cruz,\nCon[F]cede-me, Se[C]nhor Jesus,\nQue [F]sempre ande [Bb]na Tua luz,\nEm santifi[C]ca[F]ção."
     },
     {
         "numero": 364,
@@ -11220,7 +11220,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 364 - Oh, que Paz!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nOh! Que [Eb]paz eu sinto no Senhor Jesus\nPaz e[Bb]terna, que me faz an[Eb]dar na luz,\nE está em mim na prova e na dor;\nMinha paz é o Senhor!\n\nCoro:\nOh! Que [Bb]paz recebo [Eb]pela cruz\nPaz e[F]terna no Se[Bb]nhor.\nSe vi[Eb]ver sempre em Je[Fm]sus\nE ven[Bb]cer por Seu a[Eb]mor!\nOh! Que [Eb]paz que luz tem o [Ab]pecador\nQuando [Bb]vem a TI, Je[Eb]sus!\n\nOh! Que [Eb]paz eu tenho no meu coração,\nPaz e[Bb]terna, que me dá con[Eb]solação!\nE a [Ab]paz que goza to[Fm]do o fiel;\nDe Je[Bb]sus: o Ema[Eb]nuel!\n\nOh! Que [Eb]paz celeste me dá o Senhor!\nPaz e[Bb]terna, que me enche [Eb]de amor;\nEssa é [Ab]Cristo, a vitória [Fm]d’israel.\nQue pos[Bb]sui quem for [Eb]fiel!\n\nOh! A[Eb]mados, caminhemos com Jesus!\nSó pen[Bb]sando nEle e na [Eb]Sua cruz;\nE[Ab]le é a paz que alegra [Fm]o coração\nPois nos [Bb]dá o Seu per[Eb]dão!"
     },
     {
         "numero": 365,
@@ -11253,7 +11253,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 365 - Confiança em Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nDébil, [G]pobre, [D]cego [G]sou,\nNada [G]pode me va[D]ler;\nAos Teus [G]pés, ansioso vou,\n[C]Para [G/D]graça [D]ob[G]ter.\n\nCoro:\nSó em [G]Ti vou [D]con[G]fiar\nOh! Je[G]sus, meu Salva[D]dor,\nNos Teus [G]braços descansar\n[C]E [G/D]fruir o [D]Teu a[G]mor!\n\nMuito [G]tempo o [D]mal em [G]mim,\nHá rei[G]nado, sem ces[D]sar;\nEu, Se[G]nhor, acudo a Ti,\nDe[C]se[G/D]jando [D]descan[G]sar.\n\nToma [G]meu fra[D]quinho [G]ser,\nNele [G]faz habita[D]ção;\nNunca [G]deixes me reter,\n[C]Os ar[G/D]dis da [D]tenta[G]ção.\n\nCristo [G]vem ao [D]cora[G]ção\nPara os [G]males dissi[D]par:\nDá-me [G]hoje Teu perdão,\n[C]Vem mi[G/D]nh'alma [D]conso[G]lar."
     },
     {
         "numero": 366,
@@ -11296,7 +11296,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 366 - O Nascimento de Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nEm Be[Ab]lém nasceu Je[Eb]sus,\nNosso [Eb]grande Reden[Ab]tor,\nSendo [Ab]a bendita [Db]luz\nPara um [Eb]mundo peca[Ab]dor.\n\nCoro:\nOh! Ale[Db]luia a Cristo Je[Ab]sus,\nO En[Eb]viado, Filho de [Ab]Deus!\nGozo e [Db]luz que vida pro[Ab]duz,\nCristo [Ab]trouxe [Eb]lá dos [Ab]céus!\n\nCom pas[Ab]tores, a Be[Eb]lém\nVamos [Eb]a Jesus lou[Ab]var,\nNossa [Ab]gratidão, tam[Db]bém,\nDar a [Eb]quem nos quis sal[Ab]var.\n\nEm hu[Ab]milde adora[Eb]ção\nA Je[Eb]sus, sim, ofer[Ab]tar\nNosso [Ab]grato cora[Db]ção,\nQue sen[Eb]tiu o amor sem [Ab]par.\n\nLá do [Ab]céu Jesus des[Eb]ceu,\nFez-[Eb]se homem, sendo [Ab]Deus;\nNossas [Ab]dores pade[Db]ceu,\nPra le[Eb]var-nos para os [Ab]céus.\n\nDemos [Ab]glória, glória a [Eb]Deus,\nPelo [Eb]dom do Seu a[Ab]mor!\nLouva[Ab]remos, sim, nos [Db]céus,\nA Je[Eb]sus, com mais fer[Ab]vor.\n\nCan[Ab]tam anjos, glória a [Eb]Deus!\nPara os [Eb]homens santa [Ab]paz!\nCantam [Ab]glória os filhos [Db]Seus:\nSalve o [Eb]Rei, que gozo [Ab]traz."
     },
     {
         "numero": 367,
@@ -11325,7 +11325,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 367 - Espírito Consolador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\nEs[A]píri[E]to Con[A]sola[F#m]dor, di[A]vino e [D]eter[E]na!,\nPre[A]ciosa fonte [D]de amor e [E]vida imor[A]tal.\n\nCom [A]símbo[E]los que o [A]Salva[F#m]dor mor[A]rendo [D]nos dei[E]xou,\nCe[A]lebraremos [D]Seu amor, que [E]na cruz demons[A]trou.\n\nTu, [A]pão da [E]vida [A]Re[F#m]dentor! Em [A]nosso [D]cora[E]ção\nIn[A]funde graça, [D]com fervor, e [E]celestial un[A]ção.\n\nA[A]cende em [E]nós fo[A]go efi[F#m]caz de [A]fé e [D]de va[E]lor;\nCon[A]cede-nos per[D]dão e paz, hu[E]milhação e a[A][D]mor.\nA[A]mém."
     },
     {
         "numero": 368,
@@ -11353,7 +11353,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 368 - Jesus, Tudo prá Mim\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nEu es[G]tava no pecado, perdi[C]do, triste a [G]só,\nQue [D]diferença a[G]gora, Je[A]sus de mim tem [D]do.\nEu [G]hoje só confio na [C]graça que me [G]deu;\nO [G]Seu amor co[C]nheço e an[D]do para o [G]céu.\n\nCoro:\nJe[G]sus, tudo é p’ra mim, de culpa me li[D]vrou;\nA[D]mor e paz eterna,\nna [D]cruz p’ra mim ga[G]nhou;\nSim, [G]tudo é p’ra mim,\nmos[G]trou Seu imenso a[C]mor,\nGló[C]ria ao santo [G]nome. do a[D]mado Salva[G]dor!\n\nEs[G]tou pra o mundo morto, mas vi[C]vo pra Je[G]sus;\nSó [D]Ele é o pi[G]loto que [A]certo; me con[D]duz;\nA [G]Bíblia é que me ensina, que [C]na cruz pade[G]ceu;\nCom[G]prou-me com Seu [C]sangue e [D]Sua paz me [G]deu.\n\nMui [G]perto vou chegando do [C]glorioso [G]lar;\nMe [D]preparou mora[G]da, onde i[A]rei habi[D]tar,\nJe[G]sus me santifica, a[C]juda-me a lu[G]tar\nCon[G]tra a vil injus[C]tiça e, [D]mesmo me ne[G]gar."
     },
     {
         "numero": 369,
@@ -11381,7 +11381,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 369 - Sob as Asas de Deus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Db\n\n[Db]Sob as asas de Deus, descan[Ab]sado.\n[Ab]Inda que é noite confiando es[Db]tou;\n[Db]Sob Suas asas me [Gb]acho abri[Db]gado.\n[Gb]Fui redi[Db]mido, de [Ab]Cristo eu [Db]sou.\n\nCoro:\n[Db]Descansarei, [Ab]descansa[Db]rei,\n[Db]Sob Suas asas precio[Ab]sas!\n[Db]Descansarei, e [Gb]não teme[Db]rei.\n[Gb]Sob asas [Db]tão pode[Ab]ro[Db]sas!\n\n[Db]Sob Suas asas refúgio eu [Ab]tenho,\n[Ab]Meu coração pode, então, descan[Db]sar;\n[Db]E se aflito, a [Gb]Cristo [Db]eu venho,\n[Gb]Perfeito [Db]gozo vou [Ab]nEle encon[Db]trar.\n\n[Db]Sob Suas asas, promessa pre[Ab]ciosa!\n[Ab]Cristo me livra, me pode guar[Db]dar;\n[Db]Bem protegido, nas [Gb]asas glo[Db]riosas.\n[Gb]Paz e ale[Db]gria eu [Ab]posso a[Db]char."
     },
     {
         "numero": 370,
@@ -11409,7 +11409,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 370 - Grato a Ti\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Ó meu Senhor, dá-me [Bb]mais grati[F]dão,\n[C]Por tudo que Tu fizeste por [F]mim\n[F]Por Tua graça no [Bb]meu cora[F]ção,\n[G]Que me encheu de ventura sem [C]fim!\n\nCoro:\n[F]Mais grato a Ti, mais grato a Ti.\n[Bb]Mais consa[F]grado, ó [G]faz-me, Se[C]nhor!\n[F]Mais humilhado e [Bb]cheio de a[F]mor\n[Bb]Faz-me mais gra[F]to a ti, [C]mais grato a [F]Ti!\n\n[F]De graça deste ao [Bb]meu cora[F]ção\n[C]A santidade, a paz e a [F]fé;\n[F]Gozo celeste e [Bb]consola[F]ção,\n[G]E liberdade de estar aos Teus [C]pés.\n\n[F]O meu Senhor, Tu fi[Bb]zeste por [F]mim,\n[C]O que ninguém poderia fa[F]zer;\n[F]Na cruz pregado ver[Bb]teste, as[F]sim,\n[G]Sangue, no qual sempre posso ven[C]cer!"
     },
     {
         "numero": 371,
@@ -11437,7 +11437,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 371 - Breve Vem o Dia\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nBreve [Ab]vem o grande dia\nEm que [Db]lutas finda[Ab]rão;\nTodos [Ab]males, agonias,\nDeste [Eb]mundo cessa[Ab]rão.\n\nCoro:\nCessa[Db]rá no céu o [Ab]pranto,\nPois não [Ab]haverá mais [Eb]dor,\nE ou[Ab]vir-se-á o [Db]canto,\nDos re[Eb]midos do Se[Ab]nhor!\n\nOh! que gozo, estar com Cristo,\nEscutando a Sua voz!\nEu al[Ab]mejo hoje isto,\nE se[Eb]gui-Lo sempre a[Ab]pós!\n\nSe Je[Ab]sus Cristo é meu guia,\nO Ca[Db]minho hei de tri[Ab]lhar;\nQuem as[Ab]sim em Deus confia,\nLá no [Eb]Céu há de che[Ab]gar."
     },
     {
         "numero": 372,
@@ -11465,7 +11465,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 372 - Vencerá\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\n[A]Quem possui a Cristo, nEle firme está,\n[E]Achará poder para o mal [B]comba[E]ter;\n[A]Porque Suas promessas [C#]Ele cumpri[F#]rá.\n[B]Quem está em [E]Cristo, sempre há de ven[A]cer.\n\nCoro:\n[A]Vencerá, vencerá, por Seu sangue [Bm]vencerá;\n[E]Vencerá, vencerá, sempre vence[A]rá;\n[A]Pois Jesus que impera, novas forças [D]dá;\n[E]E quem nEle espera sempre vence[A]rá.\n\n[A]Em qualquer batalha, não desmaiará;\n[E]Do poder das trevas há de [B]triun[E]far;\nDeus lhe dará forças, nunca falhará;\nPorque Jeová combate em seu lugar.\n\n[A]Entre os inimigos, mui audaz será,\n[E]Quem unido a Cristo nunca [B]vaci[E]lar.\n[A]Em Jesus firmado, [C#]luz espargi[F#]rá;\n[B]A luz do Evange[E]lho para os liber[A]tar."
     },
     {
         "numero": 373,
@@ -11493,7 +11493,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 373 - Vem a Teu Salvador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nPeca[Bb]dor, que segues no mundo er[Eb]rante\nSem a[Bb]char con[C]sola[F]ção;\nHoje, [Bb]vem a Cristo, vem con[Eb]fiante.\nE te[F]rás a salva[Bb]ção!\n\nCoro:\nÓ vem ao teu Salvador,\n[Eb]Que foi morto sobre a [Bb]cruz,\n[Bb]Pois ali, salvou O vil pecador;\nó vem ao Senhor Jesus!\n\nPeca[Bb]dor, se tu sentes em [Eb]tu’ alma,\nDo pe[Bb]cado a es[C]cravi[F]dão;\nA Jesus, se vieres, com fé e calma,\nFruirás de Deus, o perdão.\n\nPeca[Bb]dor aflito e tão [Eb]doente.\nVem pra [Bb]Cristo [C]te cu[F]rar.\nVem a [Bb]Ele hoje humilde[Eb]mente.\nPois tu'[F]alma quer sal[Bb]var!"
     },
     {
         "numero": 374,
@@ -11521,7 +11521,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 374 - Vida Abundante\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Nós queremos ter vida abun[F]dante.\n[F]De pureza e de santi[Bb]dade,\n[Bb]Para amarmos a Deus em ver[F]dade,\n[F]Pela graça que Ele nos [Bb]deu.\n\nCoro:\n[Gm]Vem nos dar Tua vida abun[D]dante,\n[Gm]Nosso amado e di[Eb]vino Se[D]nhor;\n[Bb]Tua vida de gozo exul[F]tante,\nA[F]bundante no Consola[Bb]dor.\n\n[Bb]Nós queremos ter vida abun[F]dante\n[F]De amor, que o Pai nos tem [Bb]dado\n[Bb]Em Jesus, o Seu Filho a[F]mado,\n[F]Cuja vida por nós derra[Bb]mou.\n\n[Bb]Nós queremos ter vida abun[F]dante\n[F]De Jesus, a veraz forta[Bb]leza,\n[Bb]Que nos dá do perdão a cer[F]teza.\n[F]E nos encha de consola[Bb]ção."
     },
     {
         "numero": 375,
@@ -11554,7 +11554,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 375 - A Igreja Universal\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nNa [Ab]rocha firme, [Db]triun[Ab]fal.\nEs[Ab]tá a Igreja u[Eb]niversal;\nFun[Ab]dada foi por [Db]Ti, Je[Ab]sus,\nAo [Db]expi[Ab]rares [Eb]lá na [Ab]cruz.\n\nCoro:\nCom [Ab]Teu poder, en[Db]che meu [Ab]ser;\nÓ [Fm]Deus de a[Eb]mor, dá-[Eb]me fervor;\n[Ab]Remido estou, Teu [Db]filho [Ab]sou,\nCom [Fm]Teu po[Eb]der, ó vem me en[Ab]cher.\n\nA [Ab]graça imen[Db]sa do bom [Ab]Deus,\nLu[Ab]gar me deu, de [Eb]filho Seu,\nCom [Ab]plena paz no [Db]cora[Ab]ção,\nA[Db]mor ve[Ab]raz, e [Eb]salva[Ab]ção.\n\nEis, [Ab]pedra viva a[Db]gora [Ab]sou;\nNo [Ab]templo Seu me [Eb]colocou;\nDo [Ab]corpo Seu, um [Db]membro [Ab]sou,\nO [Db]sangue [Ab]Seu me [Eb]consa[Ab]grou.\n\nNa [Ab]rocha, não vai [Db]se aba[Ab]lar,\nA [Ab]Tua Igreja e [Eb]vencerá;\nQuan[Ab]do este mundo [Db]se aca[Ab]bar,\nCon[Db]ti[Ab]go, ela [Eb]reina[Ab]rá."
     },
     {
         "numero": 376,
@@ -11583,7 +11583,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 376 - Vamos Todos Trabalhar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Vamos todos [Bb]traba[F]lhar [C]para o Senhor Jesus,\n[F]Nosso guia Ele é, [C]para o campo nos con[F]duz,\n[C]Prontos [G]nós de[C]vemos 'star, [G]pois Jesus não vai tar[C]dar.\n[F]Subi[Dm]re[F/A]mos para o [Bb]céu, [C]onde vamos habi[F]tar.\n\n[F]Reunidos [Bb]em a[F]mor, [C]com Jesus, o Salvador,\n[F]Vamos sempre nos lembrar [C]das palavras do Se[F]nhor:\n“Orfãos [G]não vos [C]deixarei, [G]mas ao Pai, Eu roga[C]rei,\n[F]Dar-[Dm]vos o Con[F/A]sola[Bb]dor, [C]que do céu envia[F]rei”\n\n[F]Aos discípulos [Bb]orde[F]nou, [C]logo após ressuscitar:\n[F]O Evangelho de a[C]mor, ide a todos, sim, pre[F]gar,\n[C]O que [G]crê se [C]salvará, [G]e sinais recebe[C]rá,\n[F]Pelo Es[Dm]pí[F/A]rito de [Bb]Deus, [C]novas línguas fala[F]rá”.\n\n[F]Este selo [Bb]de a[F]mor [C]foi mandado por Jesus,\n[F]O cenác’lo todo encheu [C]de poder do céu, de [F]luz,\n[C]Compun[G]gidos, [C]os judeus, [G]creram no Rei divi[C]nal;\n[F]Acei[Dm]ta[F/A]ram a Je[Bb]sus [C]pelo poder do si[F]nal."
     },
     {
         "numero": 377,
@@ -11626,7 +11626,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 377 - As Promessas Que Não Falham\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]De Deus as [Eb]sentas pro[Ab]messas,\n[Db]Hoje se cumpri[C]rão.\n[Ab]Desde que a [Eb]Deus sempre [Ab]peças,\n[Bb]Crendo de cora[Eb]ção.\n\nCoro:\n[Ab]Terra e céus [Db/Ab]arden[Ab]do,\n[Ab]Os montes ‘stão tre[Bb]men[Eb]do,\n[Eb]Mas, nas promessas [Db]crendo,\n[Eb]Deus sempre as vai cum[Ab]prir!\n\n[Ab]Contando A[Eb]braão as es[Ab]trelas\n[Db]Na vastidão dos [C]céus,\n[Ab]Vendo-as bri[Eb]lhantes, tão [Ab]belas!\n[Bb]Creu inda mais em [Eb]Deus!\n\n[Ab]Se tens em [Eb]ti amar[Ab]gura,\n[Db]Firma-te, sim, em [C]Deus,\n[Ab]Breve, a [Eb]noite es[Ab]cura\n[Bb]Há de findar p’ros [Eb]Seus.\n\n[Ab]Se fo[Eb]res tu perse[Ab]guido,\n[Db]Só Deus te livra[C]rá;\n[Ab]O Filho [Eb]de Deus, o Un[Ab]gido,\n[Bb]Por ti combate[Eb]rá.\n\n[Ab]Se os teus [Eb]se tornam ini[Ab]migos,\n[Db]Querem te abando[C]nar,\n[Ab]Cristo, o me[Eb]lhor dos [Ab]amigos\n[Bb]Quer ao teu lado es[Eb]tar.\n\n[Ab]Crê, pois a [Eb]fé a[Ab]livia\n[Db]Teu sofrimento e [C]dor\n[Ab]Quem nas pro[Eb]messas con[Ab]fia,\n[Bb]No céu dará lou[Eb]vor!"
     },
     {
         "numero": 378,
@@ -11659,7 +11659,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 378 - As Pisadas do Mestre\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Db\n\n[Db]Quero seguir as pisadas do Mestre.\n[Db]Quero ir após o meu Rei e Se[Ab]nhor,\n[Db]Para que no Seu po[Gb]der me adestre,\n[Db]Eu vou o[Gb]rando ao [Ab]meu Reden[Db]tor.\n\nCoro:\nQuão [Gb]doce é seguir as [Db]pisadas do Mestre\n[Ab]Na bendita luz, [Db]perto de Jesus!\nQuão [Gb]doce é seguir as pi[Db]sadas do Mestre,\n[Ab]E levar a [Db]Cruz!\n\n[Db]Ando mais perto de Um que me guia,\n[Db]Quando o maligno me vem enga[Ab]nar;\n[Db]Que me sustenta na [Gb]grande porfia.\n[Db]Devo [Gb]por isso, o Seu [Ab]nome exal[Db]tar!\n\n[Db]Sigo Seus passos de terno carinho,\n[Db]Misericórdia, amor e mansi[Ab]dão;\n[Db]Qual ave que vai em [Gb]busca do ninho,\n[Db]Eu me di[Gb]rijo à [Ab]santa [Db]Sião.\n\n[Db]Quero seguir as pisadas de Cristo,\n[Db]Sempre acima desejo gal[Ab]gar.\n[Db]Para Sião, que [Gb]por fé eu avisto.\n[Db]Onde pra [Gb]sempre eu [Ab]vou descan[Db]sar."
     },
     {
         "numero": 379,
@@ -11692,7 +11692,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 379 - Salvo de Graça\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Que alegria, Je[Eb]sus me sal[Bb]vou.\n[F]Por Sua graça, pois Ele le[Bb]vou\n[Bb]Os meus pecados, cra[Eb]vando-os na [C]cruz,\nFa[F]zendo bri[Bb]lhar sobre [Eb]mim [F]a [Bb]luz.\n\nCoro:\n[Bb]Salvo de graça por meu Jesus!\n[Bb]Salvo de graça, [Gm]Já tenho a [D]luz!\n[Bb]Demos-Lhe glória por [Eb]grande vi[Bb]tória,\nQue [Eb]por mim ga[Bb]nhou o Se[Eb]nhor [F]Je[Bb]sus.\n\n[Bb]Sempre errante no [Eb]mundo an[Bb]dei,\n[F]Longe de Deus, dos preceitos da [Bb]lei,\n[Bb]Que me promete o [Eb]gozo sem [C]par,\nTam[F]bém liber[Bb]dade a[Eb]qui [F]me [Bb]dar.\n\n[Bb]Choro e prantos [Eb]não podem va[Bb]ler,\n[F]Nem seus esforços, nem grande sa[Bb]ber,\n[Bb]Para um perdido se[Eb]dento de [C]luz,\nSe [F]ele não [Bb]crer no Se[Eb]nhor [F]Je[Bb]sus.\n\n[Bb]Tenho descanso do [Eb]céu, gozo en[Bb]fim,\n[F]Pois Jesus Cristo salvou-me a [Bb]mim;\n[Bb]Quando eu entrar no Seu [Eb]reino de [C]luz.\nMe[F]lhor vou lou[Bb]var o Se[Eb]nhor [F]Je[Bb]sus."
     },
     {
         "numero": 380,
@@ -11736,7 +11736,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 380 - Abraão e Seu Sacrifício\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nDebaixo [G]dumas mui formo[C]sas tama[G]reiras,\nEstando [D]já Berseba na escuri[G]dão.\nAs aves [G]escutando, en[C]tre as ro[Em]sei[C]ras,\nSe vê an[D]dar o patriarca A[G]braão.\nSeu cora[C]ção perante Deus está a[G]flito,\nPois quer que [A]O sirvamos sem murmura[D]ção;\nE por a[G]mor pergunta [C]ao Senhor ben[G]dito:\n\"O meu a[D]mado filho queres Tu, en[G]tão?\"\n\nA voz de [G]Jeová po[C]tente é ou[G]vida:\n“O teu I[D]saque oferece para [G]Mim,\nEmbora fi[G]ques com tu’[C]alma dolo[Em]ri[C]da,\nPois te aben[D]çoo se fizeres tu as[G]sim”.\nDe aba[C]tido Abraão se torna [G]forte\nE Canta [A]hinos, pois com fé medita [D]já:\n“Deus pode [G]o meu filho [C]libertar da [G]morte!”\nE não te[D]mendo, segue para Mo[G]riá.\n\nAo pé do [G]monte do su[C]premo sacri[G]fício,\nProfunda [D]duvida entrou em A[G]braão:\n“Irei per[G]der da minha [C]vida o bene[Em]fi[C]cio?”\nE triste [D]começou subir com lenti[G]dão,\nPois ia [C]dar, do coração a espe[G]rança\n- No seu ou[A]tono, sacrifício duma [D]flor,&\nAssim le[G]vou o seu cor[C]deiro à ma[G]tança,\nEm obe[D]diência ao mandato do Se[G]nhor.\n\nIsaque [G]com a lenha, [C]presto vai na [G]frente,\nOh! Quanto [D]é formoso para A[G]braão!\nMas eis que [G]volta p’ra seu [C]pai suave[Em]men[C]te\nE lhe di[D]rige esta interroga[G]ção:\n“O fogo e a [C]lenha estou vendo que trou[G]xemos,\nMas o cor[A]deiro d’holocausto onde es[D]tá?”\nE a res[G]posta de A[C]braão na Bíblia [G]temos:\n“Meu filho, [D]Deus pra Si, Cordeiro prove[G]rá\"\n.\n\nChegando [G]Abraão [C]aonde Deus man[G]dara,\nFez um al[D]tar e nele a lenha arru[G]mou:\nE a seu [G]filho, que já [C]dantes amar[Em]ra[C]ra,\nTomando [D]nos seus braços sobre o altar dei[G]tou,\nMas quando [C]Abraão foi para imo[G]lá-lo,\nO Anjo [A]do Senhor bradou-lhe desde os [D]céus:\n“A tua [G]mão, ó não es[C]tendas p’ra ma[G]tá-lo;\nPorquanto [D]eu agora sei que temes [G]Deus”.\n\nErguendo [G]Abraão seus [C]olhos de re[G]pente,\nVê um cor[D]deiro, que no mato preso es[G]tá,\nE o to[G]mando, ofe[C]rece-o alegre[Em]men[C]te;\nAssim “No [D]monte do Senhor se prove[G]rá”.\nA voz do [C]Anjo é ouvida nova[G]mente;\n“Diz o Se[A]nhor: Porque fizeste esta a[D]ção,\nDeveras, [G]Eu abençoa[C]rei a tua se[G]mente,\nE nela, [D]as nações benditas se fa[G]rão”.\n\nO nosso I[G]saque ofere[C]cemos com fir[G]meza\nNo Mo[D]riá onde finda o i[G]deal,\nPois foi a[G]li que alcan[C]çaram forta[Em]le[C]za,\nOs vence[D]dores, sob canto angeli[G]cal;\nAli, o [C]nosso Deus jurou fideli[G]dade,\nTambém os [A]santos se encheram de va[D]lor,\nE só te[G]remos a per[C]feita santi[G]dade,\nDepois que [D]formos para o monte do Se[G]nhor."
     },
     {
         "numero": 381,
@@ -11765,7 +11765,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 381 - O Cordeiro de Deus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n[C]Vejo um homem na [F]cruz pendu[C]rado\n[G]A derramar sangue, por meu pe[C]cado,\nÉ o Cordeiro de [F]Deus imo[C]lado,\n[G]Que por mim [C]sofre gran[F][G]díssima [C]dor;\n[C]Quanto padece na [G]cruz, no al[C]tar,\n[G]Cristo Jesus, o meu [D]bom Salva[G]dor,\n[C]Para fazer-me um tesouro her[F]dar.\n[F]No santo [G]reino do Se[C]nhor!\n\n[C]Em oração, quando [F]rompe a [C]alva,\n[G]Sinto remorsos no fundo da [C]alma,\n[C]Porque na cruz sofreu [F]Cristo com [C]calma,\n[G]Todo cas[C]tigo, por [F]mim [G]peca[C]dor;\n[C]Quis o supremo Pai [G]determi[C]nar\n[G]Tão cruel morte ao [D]meu Salva[G]dor;\n[C]Para no céu conceder-me lu[F]gar\n[F]Junto de [G]Cristo Reden[C]tor.\n\n[C]Oh! Quanta dor não sen[F]tiu o E[C]terno,\n[G]Quando nos deu Cristo meigo e [C]terno!\n[C]Para minh’alma sal[F]var do in[C]ferno,\n[G]Por mim mor[C]reu o meu [F]bom [G]Salva[C]dor,\n[C]Os meus pecados na [G]cruz ex[C]piou\n[G]E morte horrenda so[D]freu com a[G]mor.\n[C]Mas sobre Si minha culpa to[F]mou,\n[F]O meu a[G]mado Reden[C]tor.\n\n[C]Faz Jesus Cristo. que [F]eu mais Te [C]ame\n[G]E mais e mais Tua graça pro[C]clame;\n[C]Livra-me de todos [F]fortes [C]liames,\n[G]Que sempre [C]tece o [F]vil [G]tenta[C]dor;\n[C]Sobre o altar, por mim [G]Cristo su[C]biu,\n[G]Oferecendo holo[D]causto de a[G]mor:\n[C]Qual um cordeiro, na cruz sucum[F]biu\n[F]Cristo Je[G]sus, meu Salva[C]dor."
     },
     {
         "numero": 382,
@@ -11793,7 +11793,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 382 - Olhando Para o Calvário\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Na cruz do Calvário o[Bb]lhan[F]do,\n[Bb]Avistei o Sal[C]va[F]dor;\n[F]Meu pecado ex[Bb]pian[F]do,\n[Bb]Revelou-se o [C]Seu a[F]mor.\n\nCoro:\n[D]Lá na fonte desta [Gm]luz,\n[C]que me trouxe um cla[F]rão,\n[F]Foi onde eu achei a[Bb]bri[F]go,\n[Bb]vida, paz e [C]salva[F]ção.\n\n[F]Vi Jesus cruci[Bb]fica[F]do\n[Bb]A sofrer tão gran[C]de [F]dor,\n[F]Foi Seu sangue derra[Bb]ma[F]do\n[Bb]Pelo pobre [C]peca[F]dor.\n\nÓ Cordeiro imacu[Bb]la[F]do,\n[Bb]Que morreste so[C]bre a [F]cruz!\n[F]Livra-me do vil [Bb]peca[F]do,\nÓ meu Salva[C]dor Je[F]sus!"
     },
     {
         "numero": 383,
@@ -11826,7 +11826,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 383 - O Sustento da Alma\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nDá sus[C]tento à minha vida,\nA Pa[Dm]lavra do Se[G]nhor;\nA minh’[G]alma abatida,\nVem po[G]der Consola[C]dor:\nLivra[C]mento glorioso\nNós a[C7]chamos em Je[F]sus,\nNEle o [F]coração di[C]toso\nJá des[C]fruta [G]Sua [C]luz.\n\nCoro:\nJesus [G]Cristo deu-me [C]salvação,\nTambém vi[G]da eter[C]nal;\nDeu-me [G]gozo no meu [C]coração,\nE poder celestial;\nSua [C]graça é bas[F]tante,\nDivi[G]na! é Seu a[C]mor;\nTenho [C]vida exul[F]tante,\nPelo [G]bom Consola[C]dor!\n\nSantos, [C]todos proclamemos\nQue Je[Dm]sus há de vol[G]tar,\nE que [G]Lhe servir devemos\nE sin[G]ceros O a[C]mar.\nResaur[C]giu da sepultura,\nE com [C7]vida se mos[F]trou\nAs fe[F]lizes cria[C]turas,\nQue no [C]mundo [G]tanto a[C]mou.\n\nQue não [C]haja ociosos\nNa I[Dm]greja do Se[G]nhor,\nMas, sim, [G]crentes fervorosos\nTraba[G]lhando com vi[C]gor;\nQuem a[C]qui tiver vencido\nPor Je[C7]sus e Seu a[F]mor,\nHá de [F]ter real ves[C]tido,\nPara as [C]bodas d’[G]esplen[C]dor!\n\nEntra[C]remos na formosa\nSala, [Dm]cheia de ful[G]gor,\nPrepa[G]rada para a Esposa\nDe Je[G]sus, o Salva[C]dor;\nQuando [C]formos lá chegados\nGrande [C7]festa have[F]rá;\nE Je[F]sus, que nos tem [C]dado\nSalva[C]ção, nos [G]servi[C]rá"
     },
     {
         "numero": 384,
@@ -11859,7 +11859,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 384 - Sinto Vida do Senhor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Sinto que vivo [Eb]no Se[Ab]nhor,\nQue [Ab]veio [Eb]me sal[Ab]var;\nE [Eb]Sua lei, por [Ab]Seu amor,\nDe[Bb]sejo sempre guar[Eb]dar.\n\nCoro:\n[Ab]Habitarei sempre em Jesus,\n[Ab]Firmá-Lo-ei no coração;\n[Fm]Deus, pela [E]fé, [Ab]em mim produz\n[Eb]Perfei[Ab]ção!\n\n[Ab]Sinto que vivo [Eb]no Se[Ab]nhor,\n[Ab]Em liber[Eb]dade [Ab]já,\nJe[Eb]sus me cobre [Ab]de favor,\nRe[Bb]pouso sempre me [Eb]dá.\n\n[Ab]Sinto que vivo [Eb]no Se[Ab]nhor,\nNa [Ab]rocha [Eb]eter[Ab]nal,\nQue [Eb]me sustenta [Ab]com vigor,\nNas [Bb]tempestades do [Eb]mal.\n\n[Ab]Sinto que vivo [Eb]no Se[Ab]nhor.\nE [Ab]sempre [Eb]vive[Ab]rei;\nPor [Eb]Seu poder con[Ab]solador,\nEm [Bb]Deus permanece[Eb]rei."
     },
     {
         "numero": 385,
@@ -11892,7 +11892,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 385 - Amemos o Senhor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Db\n\nIr[Db]mãos, amemos o Senhor,\nPor [Ab]Seu divinal a[Db]mor;\nPois a [Db]nossa cul[Ebm]pa expiou,\nCom [Db]sangue [Ab]que derra[Db]mou.\n\nCoro:\nIr[Ab]mãos, amemos [Db]o Senhor,\nPois [Eb]Ele Já nos a[Ab]mou;\nE [Db]do pecado [Ebm]enganador,\nCom Seu [Db]sangue [Ab]nos la[Db]vou.\n\nIr[Db]mãos, amemos o Senhor,\nO [Ab]nosso ensina[Db]dor;\nE[Db]le é a fon[Ebm]te do saber\nPra [Db]todo [Ab]que nEle [Db]crer.\n\nIr[Db]mãos, amemos o Senhor,\nO [Ab]nosso bom Salva[Db]dor;\nE o con[Db]sumador da[Ebm]quela fé,\nQue [Db]desce [Ab]do Deus, que “É”.\n\nIr[Db]mãos, amemos o Senhor,\nTam[Ab]bém o Consola[Db]dor,\nE a [Db]nosso Pai Ce[Ebm]lestial,\nQue [Db]paz [Ab]nos dá eter[Db]nal."
     },
     {
         "numero": 386,
@@ -11925,7 +11925,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 386 - Vencidos os Combates\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nÓ, não [Ab]temas tu, Esposa [Eb]de Jesus,\nEm jus[Eb]tiça Deus te edifica[Ab]rá!\nTua [Ab]tenda que dimana [Eb]viva luz,\n[Bb]Ele mais aumenta[Eb]rá.\n\nCoro:\n[Eb]Toda arma de ran[Ab]cor,\n[C]Contra ti se desfa[Fm][Eb]rá,\n[Db]Quando o inimigo\nse er[Ab]guer com seu furor\n[Eb]Ele não te vence[Ab]rá!\n\nToda [Ab]arma fabricada [Eb]com rancor.\nTe com[Eb]bate, mas jamais te vence[Ab]rá,\nO ini[Ab]migo que ataca [Eb]com furor,\n[Bb]O Senhor abate[Eb]rá.\n\nLá no [Ab]céu não hás de ter re[Eb]cordação\nDos com[Eb]bates que sofreste por a[Ab]mor;\nMas a[Ab]li terás sublime [Eb]posição\n[Bb]Com Jesus, teu Salva[Eb]dor.\n\nPa[Ab]triarcas e profetas [Eb]já estão\nLá no [Eb]céu te esperando com a[Ab]mor:\nSê [Ab]fiel e guarda a divi[Eb]na! unção\n[Bb]Para as bodas d’esplen[Eb]dor."
     },
     {
         "numero": 387,
@@ -11959,7 +11959,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 387 - Derrama Teu Espírito\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nDer[D]rama sobre nós o Teu Es[Em]pírito,\nCo[A]mo fizeste em Jerusa[D]lém;\nÀ [D]Tua grei, Ó manda o [G]mesmo fo[D]go.\nIn[D]dispen[A]sável para nós tam[D]bém!\nA [D]Tua grei, ó manda o mes[G]mo fo[D]go,\nIn[D]dispen[A]sável para nós tam[D]bém!\n\nDer[D]rama sobre nós o Teu Es[Em]pírito\nCo[A]mo em casa do centu[D]rião,\nE [D]dá-nos o poder da [G]Tua Pala[D]vra\nFa[D]zendo a [A]luz brilhar na escuri[D]dão.\nE [D]dá-nos o poder da [G]Tua Pala[D]vra\nFa[D]zendo a [A]luz brilhar na escuri[D]dão.\n\nDer[D]rama sobre nós o Teu Es[Em]pírito,\nE [A]dá-nos, hoje, muitas conver[D]sões;\nÓ [D]deixa-nos sentir po[G]der celes[D]te,\nE [D]vi[A]vifica os nossos cora[D]ções;\n[D]Ó deixa-nos sentir po[G]der celes[D]te,\nE [D]ví[A]vifica os nossos cora[D]ções.\n\nDer[D]rama sobre nós o Teu Es[Em]pírito,\nE [A]aos que sofrem dá Tua prote[D]ção;\nA o[D]rar ficamos em a[G]mor uni[D]dos,\nPa[D]ra ob[A]ter a prometida un[D]ção,\nA o[D]rar ficamos em a[G]mor uni[D]dos\nPa[D]ra ob[A]ter a prometida un[D]ção.\n\nDes[D]perta, Jesus Cristo, os que [Em]dormem\nO [A]mui profundo sono do \"jar[D]dim”;\nCo[D]mo operaste nos an[G]tigos tem[D]pos,\nCom [D]Teu po[A]der nos guia até o [D]fim.\nCo[D]mo operaste nos an[G]tigos tem[D]pos,\nCom [D]Teu po[A]der nos guia até o [D]fim."
     },
     {
         "numero": 388,
@@ -11983,7 +11983,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 388 - Canta, ó Crente\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Canta com vida, ó [Bb]cren[F]te!\n[C]Doce será Can[F]tar!\n[F]Anda só para a [Bb]fren[F]te,\n[C]Deixa o teu pe[F]sar;\n[C]Canta nas noites tristes,\n[F]Canta no sol, [G]na [C]luz;\n[F]O mal assim re[Bb]sis[F]tes:\n[C]Canta pra Je[F]sus!\n\n[F]Canta com vida, á [Bb]cren[F]te,\nA[C]legra o cora[F]ção!\n[F]Louva ao Deus cle[Bb]men[F]te,\n[C]Com feliz can[F]ção!\n[C]Cheio está o mundo\n[F]De turbação [G]e [C]dor;\n[F]Canta o amor pro[Bb]fun[F]do\n[C]Do teu Salva[F]dor.\n\n[F]Canta com vida, ó [Bb]cren[F]te!\n[C]Deus teu socorro [F]é;\n[F]Guarda-te a mão po[Bb]ten[F]te,\n[C]Se tiveres [F]fé.\n[C]Cristo, sim, te levanta,\n[F]Quando medroso [G]es[C]tás,\n[F]Se confiando [Bb]can[F]tas\n[C]Seu amor ve[F]raz."
     },
     {
         "numero": 389,
@@ -12011,7 +12011,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 389 - Lava-me ó Deus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Tua justiça eu quero cum[Eb]prir,\nA[F]legremente me vou bati[Bb]zar\n[Bb]Por imersão, para Cristo se[Eb]guir\n[Eb]E meus pe[Bb]cados, as[C]sim se[F]pul[Bb]tar.\n\nCoro:\n[Bb]Lava-me, lava-me, ó [Cm]Deus de amor,\n[Gm]No sangue [F]puro de [Eb]Cristo Je[D]sus;\n[Bb]Torna minh’alma mais alva que a [Eb]luz,\n[Eb]No sangue [Bb]puro de [C]Cristo [F]Je[Bb]sus.\n\n[Bb]Quando das águas eu ressusci[Eb]tar,\n[F]Já criação nova sou em Je[Bb]sus;\n[Bb]Posso e Ele servir e hon[Eb]rar,\n[Eb]Por crer [Bb]na obra su[C]blime [F]da [Bb]cruz.\n\n[Bb]Com toda força, meu bom Salva[Eb]dor,\n[F]Teu santo nome eu invoca[Bb]rei,\nPara que eu vá de valor em valor,\nAo céu de luz, onde descansarei."
     },
     {
         "numero": 390,
@@ -12050,7 +12050,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 390 - Um Coração Bondoso\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nUm [D]coração, bondoso sim, [G]custa dor, ob[D]ter;\nSer [A]manso, amoroso e santo em todo o [D]ser;\nMa[D]nando nova vida ao [G]coração - dá luz.\nE [D]toda a minha [A]lida será só em Je[D]sus.\n\nQuem [D]quer seguir os pessos\nde [G]nosso pai A[D]braão,\nNo [A]coração, os laços, então, se quebra[D]rão;\nI[D]saque é oferecido em [G]cima do altar;\nJa[D]có, com gran ge[A]mido, Raquel vai enter[D]rar.\n\nSe [D]grande é o sacrifí[G]cio - Isaque no al[D]tar,\nSe [A]torna em beneficio pra quem o ofer[D]tar,\nPois [D]tem profunda calma e [G]paz celestial,\nTam[D]bém de Deus al[A]cança, aprovação [D]real.\n\nNa [D]cova, Jeremias, la[G]menta grande [D]dor,\nNa es[A]curidão não via o bom Consola[D]dor;\nSim, [D]grandes amarguras se [G]tornam em prazer,\nVêm [D]anjos das al[A]turas “O sonhador” a [D]ver.\n\nA[D]rão foi castigado por [G]sua rebe[D]lião,\nE, [A]triste, humilhado, aceita exorta[D]ção;\nCon[D]sagra tua vida pra [G]Deus melhor honrar;\nAs[D]sim em dor e li[A]da, precisas te guar[D]dar.\n\nA[D]cima nuvens densas o [G]sol sempre a bri[D]lhar;\nPro[A]messas mais imensas não podem a ti fa[D]lhar.\nPõe [D]plena confiança em [G]quem não pode errar,\nJe[D]sus, já sem tar[A]dança vem tua dor sa[D]rar."
     },
     {
         "numero": 391,
@@ -12083,7 +12083,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 391 - Jesus no Monte da Ascensão\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nJe[Bb]sus disse aos dis[Cm]cípulos, no [F]monte, ao su[Bb]bir:\n\"De[Bb]tei-vos em Je[Eb]rusalém, pois [C]há de se cum[F]prir\nA [Bb]vinda glo[Cm]riosa [F]do Consola[Bb]dor,\nPra [Eb]revestir [Bb]as testemunhas [C]do [F]Se[Bb]nhor\".\n\nCoro:\nDes[Gm]cendo o fogo [D]do altar, o [Gm]vento de a[D]mor,\nDe[Eb]pressa foram [Bb]proclamar o [Cm]Sal[F]va[Bb]dor.\n\nEn[Bb]cheu-se o ce[Cm]nác'lo de [F]gloriosa [Bb]luz;\nDes[Bb]cendo o fogo [Eb]divina!, a [C]nós voltou Je[F]sus.\nE [Bb]todos, reves[Cm]tidos com [F]o poder do [Bb]céu,\nFa[Eb]laram noutras [Bb]línguas em lou[C]vor [F]a [Bb]Deus.\n\nO [Bb]povo, as[Cm]sustado com [F]o poder do [Bb]céu,\nNão [Bb]compreendeu que [Eb]isto foi o [C]que Deus prome[F]teu.\nMas [Bb]Pedro lhes [Cm]proclama: \"As[F]sim diz o Se[Bb]nhor:\nNo [Eb]fim dos dias, [Bb]Vos darei Con[C]so[F]la[Bb]dor\".\n\nAs[Bb]sim Jesus te [Cm]manda o[F]rar e espe[Bb]rar\nO [Bb]Santo Espíri[Eb]to de Deus, que [C]vem pra t’ensi[F]nar;\nJe[Bb]sus, a glo[Cm]riosa un[F]ção, te manda[Bb]rá,\nE [Eb]Seu amor su[Bb]blime, procla[C]mar [F]i[Bb]rás."
     },
     {
         "numero": 392,
@@ -12121,7 +12121,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 392 - Peregrinos Somos\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Ab]Peregrinos somos aqui\n[Ab]Té o labor fin[Eb]dar;\n[Ab]Deste mundo queremos ir\n[Bb]Ao celeste [Eb]lar.\n\nCoro:\nOh! [Eb]Pátria mui feliz\n[Ab]Em ti irei morar;\n[Eb]Eu irei morar\n[Ab]Eu irei morar\nJe[Eb]rusalém, oh [Ab]meu país\nE [Ab]meu que[Eb]rido [Ab]lar!\nJerusa[Eb]lém, oh meu [Ab]país\nE [Ab]meu que[Eb]rido [Ab]lar!\n\n[Ab]Minha grande consola[Ab]ção\nÉ sempre em ti mo[Eb]rar,\n[Ab]Oh, querida, bela Sião,\n[Bb]Meu eterno [Eb]lar!\n\n[Ab]Como o povo de Abraão,\n[Ab]Sempre a via[Eb]jar,\n[Ab]Para a terra da promissão,\n[Bb]Santo e doce [Eb]lar.\n\nÓ Senhor, queremos vencer,\nE de Ti alcançar\n[Ab]Gozo, paz, eterno prazer,\n[Bb]No bendito [Eb]lar!\n\nÉ o meu desejo, Jesus,\nSempre peregrinar;\n[Ab]Dirigido por lua luz\n[Bb]Té que chegue ao [Eb]lar."
     },
     {
         "numero": 393,
@@ -12145,7 +12145,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 393 - Há um Amigo Mui Chegado\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\n[D]Há um amigo [G]mui chega[D]do - [G]Cris[D]to Se[A]nhor,\n[D]Pois salvou-nos [G]do pe[D]cado e [A]do te[D]mor;\n[A]Este amigo agonizava.\n[D]Quando o mundo resgatava,\n[D]E de Deus o a[G]mor mostrava; [A]dai-Lhe lou[D]vor!\n\n[D]Conhecê-Lo [G]é ter [D]vida, [G][D]Cristo Se[A]nhor.\n[D]NEle nos é [G]permi[D]tida paz [A]no la[D]bor;\n[A]Ele sobre nós derrama\n[D]Sua graça, pois nos ama,\n[D]E pra Si a [G]todos chama; [A]dai-Lhe lou[D]vor!\n\nSempre é o mesmo, [G]nunca [D]muda. [G]Cris[D]to Se[A]nhor\nE a pedra [G]de a[D]juda; vem, [A]peca[D]dor!\n[A]Bom maná é no deserto,\n[D]Nosso guia, amigo certo,\n[D]Seu amor é [G]céu aberto; [A]dai-Lhe lou[D]vor!"
     },
     {
         "numero": 394,
@@ -12174,7 +12174,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 394 - A Mão ao Arado!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nQuem sua [Eb]mão ao arado já pôs,\nConstante precisa ser;\nO sol declina e, logo após,\nVai es[Eb]cu[Bb]re[Eb]cer.\n[Eb]Avante, em Cristo pen[Bb]sando,\n[Bb]Em oração vi[Eb]giando,\n[Eb]Com gozo e amor traba[Ab]lhando,\nPra [Bb]teu Se[Eb]nhor.\n\n[Eb]Não desanimes, por ser tua cruz\n[Bb]Maior que a de teu ir[Eb]mão;\n[Eb]A mais pesada le[Fm]vou teu Jesus,\nTe con[Eb]so[Bb]la, en[Eb]tão;\n[Eb]A tua cruz vai le[Bb]vando,\n[Bb]Como Jesus per[Eb]doando.\n[Eb]Alegremente an[Ab]dando\nPra o [Bb]lindo [Eb]céu.\n\n[Eb]Sê bom soldado de [Fm]Cristo Jesus,\nSo[Bb]frendo as afli[Eb]ções,\n[Eb]Não sufocando a [Fm]mensagem da cruz,\nNas per[Eb]se[Bb]gui[Eb]ções;\n[Eb]Vai Seu amor procla[Bb]mando,\n[Bb]Novas de paz, sim, le[Eb]vando.\n[Eb]Aos que estão aguar[Ab]dando\nA [Bb]salva[Eb]ção.\n\n[Eb]Quando, enfim, tu lar[Fm]gares a cruz,\nJe[Bb]sus te coroa[Eb]rá;\n[Eb]Com santo gozo em [Fm]glória e luz\nTe con[Eb]so[Bb]la[Eb]rá.\n[Eb]Esquecerás teus li[Bb]dares.\n[Bb]Tribulações e pe[Eb]sares,\n[Eb]Quando no céu desfru[Ab]tares,\nPer[Bb]feita [Eb]paz."
     },
     {
         "numero": 395,
@@ -12202,7 +12202,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 395 - Ide por Todo Mundo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Ide por todo o mundo e dizei:\n“E-Me [Eb]dado to[Bb]do o po[Eb]der\";\nIde. anun[Bb]ciai que já ressusci[Eb]tei.\nPra dar vi[Bb]da a [Eb]todo [Bb]o que [Eb]crer.\n\nCoro:\n[Eb]Confiando, irei onde me mandar;\nPela [Eb]terra, pelo mar tam[Bb]bém.\nEis [Eb]que estou convosco para vos guardar,\nPor to[Eb]dos os sécu[Bb]los. A[Eb]mém.\n\n[Eb]Ide e ensinai todas as nações;\nPubli[Eb]cai a salva[Bb]ção e [Eb]paz;\nCristo já ven[Bb]ceu a morte e seus gri[Eb]lhões,\nLiberda[Bb]de a[Eb]gora, a [Bb]todos [Eb]traz.\n\nDa salvação a porta aberta está;\nQuem por ela hoje quer entrar?\nE Jesus quem [Bb]oferece e quem [Eb]dá\nLivre entra[Bb]da [Eb]no ce[Bb]leste [Eb]lar."
     },
     {
         "numero": 396,
@@ -12235,7 +12235,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 396 - Além do Nosso Entendimento\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Muito além do nosso entendi[A]mento,\n[D]Alto mais que todo o pensa[G]mento,\n[G]Glorioso em seu sublime in[A]tento,\nÉ o amor de Deus, sem [G]par.\n\nCoro:\n[G]Grande a[Am]mor! A[A]mor de [D]Deus!\n[G]Enche [Am]a terra e [D]enche os [G]céus!\n[E]Grande amor! A[D]mor que abrange\nA [D]todo o mundo e a[G]tinge a mim!\n\n[G]Fez um sacrifício infi[A]nito\n[D]Dum valor imenso, inaudi[G]to;\n[G]Dando-nos o Filho Seu ben[A]dito;\n[D]Calculei o amor de [G]Deus!\n\n[G]Grande, foi mui grande o meu pe[A]cado;\n[D]Triste, perigoso o meu es[G]tado;\n[G]Mas o amor que nunca foi son[A]dado\n[D]Me salvou - o amor de [G]Deus!\n\n[G]Foi quem perdoou os peca[A]dores,\n[D]Rogos atendeu de malfei[G]tores,\n[G]Quem sarou os pobres sofre[A]dores,\n[D]Esse imenso amor de [G]Deus!"
     },
     {
         "numero": 397,
@@ -12263,7 +12263,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 397 - O Salvador me Achou\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Em pecados e temor o Salvador me a[F]chou,\n[F]Tão indigno pecador, sem ter do céu a [Bb]luz,\n[Bb]No Calvário ao morrer minh’alma resga[Eb]tou;\n[Eb]Meu perdão foi [Bb]consumado [F]lá na [Bb]cruz.\n\nCoro:\n[Bb]Vem ao Senhor, vem peca[Eb]dor:\n[Eb]Ele é terno e [Bb]mui fie!, [C]vem peca[F]dor!\n[Bb]Vem ao Senhor, Deus é a[Eb]mor;\n[Eb]Ouve Sua [Bb]terna voz “[F]Vem, peca[Bb]dor”!\n\n[Bb]Do sepulcro ressurgiu meu Redentor Je[F]sus;\n[F]Ele a morte já venceu - também o nosso al[Bb]goz;\n[Bb]Vida eterna o pecador goza por Sua [Eb]cruz\n[Eb]Pois os mortos [Bb]hão de ouvir Sua [F]terna [Bb]voz.\n\n[Bb]Para o céu subiu Jesus, ganha a vitória [F]cá.\n[F]E na dextra do bom Deus, tem-No por Media[Bb]dor,\n[Bb]Intercede em teu favor, não te detenhas [Eb]lá.\n[Eb]Não desprezes [Bb]esta voz de [F]teu Se[Bb]nhor."
     },
     {
         "numero": 398,
@@ -12291,7 +12291,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 398 - Perto do Meu Redentor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nDe[Ab]sejo estar em um lu[Db]gar\nMui [Eb]perto do meu Reden[Ab]tor;\nA[Ab]li eu posso descan[Db]sar,\nPor [Eb]Seu amparo e Seu a[Ab]mor.\n\nCoro:\nMui [Eb]perto do meu Reden[Ab]tor,\nSe[Ab]guro abrigo encontra[Eb]rei;\nMe [Ab]guardará do tenta[Db]dor,\nAs[Eb]sim eu nada teme[Ab]rei.\n\nNin[Ab]guém me poderá ti[Db]rar\nA [Eb]paz que frui o cora[Ab]ção;\nJe[Ab]sus bondoso vai me [Db]dar\nA [Eb]mais segura prote[Ab]ção.\n\nTris[Ab]tezas, nem temor te[Db]rei,\nEs[Eb]tando perto de Je[Ab]sus;\nEn[Ab]volto sempre me ve[Db]rei,\nCom [Eb]Seu fulgor, com Sua [Ab]luz."
     },
     {
         "numero": 399,
@@ -12319,7 +12319,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 399 - Terra de Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nDeste [Eb]mundo, sim, além, há [Ab]um país de [Eb]luz;\n[Eb]Oh! Não queres [Bb]ir lá? Oh! Não queres ir [Eb]lá?\nOnde as [Eb]trevas não se vêem,\npois [Ab]brilha ali Je[Eb]sus;\n[Eb]Oh! Não queres ir [Bb]lá? Oh! Não queres ir [Eb]lá?\n\nCoro:\n[Ab]Terra de Jesus, [Eb]terra de amor!\n[Eb]Oh! Não queres ir [Bb]lá? Oh! Não queres Ir [Eb]iá?\n[Ab]Onde brilha a luz [Eb]do meu Salvador;\n[Eb]Oh! Não queres [Bb]Ir lá? Oh! Não queres Ir [Eb]lá?\n\nPelas [Eb]portas de fulgor, não [Ab]pode o mal en[Eb]trar;\n[Eb]Oh! Não queres ir [Bb]lá? Oh! Não queres ir [Eb]lá?\nNem a [Eb]morte, luto ou dor, no [Ab]céu terão lu[Eb]gar,\n[Eb]Oh! Não queres [Bb]ir lá? Oh! Não queres ir [Eb]lá?\n\nOh! Que [Eb]divina! mansão Je[Ab]sus nos prepa[Eb]rou!\n[Eb]Oh! Não queres [Bb]ir lá? Oh! Não queres ir [Eb]lá?\nOnde [Eb]todos os irmãos\nvão [Ab]ver quem os sal[Eb]vou,\n[Eb]Oh! Não queres ir [Bb]lá? Oh! Não queres ir [Eb]lá?"
     },
     {
         "numero": 400,
@@ -12348,7 +12348,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 400 - Em Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Em Jesus, vivendo cada [Bb]dia,\n[Bb]Em Jesus eu tenho ale[Eb]gria!\n[Eb]Em Jesus, oh, doce harmo[Ab]nia!\n[Bb]Em Jesus, desfruto a paz de [Eb]Deus!\n\nEm Jesus, na rocha inabalável,\nEm Jesus, no homem incomparável!\n[Eb]Em Jesus, no Deus tão ado[Ab]rável!\n[Bb]Em Jesus, o mal não teme[Eb]rei!\n\n[Eb]Em Jesus a graça é infi[Bb]nita,\n[Bb]Em Jesus, oh! bênção inau[Eb]dita;\n[Eb]Em Jesus, minh'a!ma é ben[Ab]dita;\n[Bb]Em Jesus eu tenho salva[Eb]ção!\n\n[Eb]Em Jesus não temo o mal e a [Bb]morte,\n[Bb]Em Jesus estou firmado e [Eb]forte!\n[Eb]Em Jesus meu barco ruma ao [Ab]norte;\n[Bb]Em Jesus eu sempre hei de ven[Eb]cer!"
     },
     {
         "numero": 401,
@@ -12381,7 +12381,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 401 - Jesus Voltará\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\n[A]Tudo nos mostra que [E]Cristo já volta;\n[A]Breve Jesus volta[E]rá!\n[A]Já deste mundo o [E][A]mar se re[D]volta;\n[D]Breve Je[E]sus volta[A]rá.\n\nCoro:\n[A]Breve virá, [D]breve vi[E]rá,\n[A]Bre[D]ve Je[E]sus volta[A]rá.\n\n[A]Cristão, acorda, Sua [E]vinda é certa:\n[A]Breve Jesus volta[E]rá!\n[A]Pra recebê-Lo es[E]tás [A]bem a[D]lerta?\n[D]Breve Je[E]sus volta[A]rá\n\n[A]Crente proclama para [E]os pecadores:\n[A]Breve Jesus volta[E]rá!\n[A]Não haverá mais tris[E]te[A]zas nem [D]dores:\n[D]Breve Je[E]sus volta[A]rá.\n\n[A]Consola o cora[E]ção que lhe clama,\n[A]Breve Jesus volta[E]rá!\n[A]Pra Suas bodas o [E]bom [A]Rei nos [D]chama:\n[D]Breve Je[E]sus volta[A]rá."
     },
     {
         "numero": 402,
@@ -12410,7 +12410,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 402 - Ao Gólgota\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nAo [Eb]Gólgota as[Fm]cende alma [Eb]minha,\nCon[Bb]templa ali teu Se[Eb]nhor,\nTam[Eb]bém a ago[Fm]nia que [Eb]tinha,\nSo[Bb]frendo por ti com a[Eb]mor;\nNão [Ab]vês uma rubra tor[Eb]rente\nCo[Bb]brindo a terra de hor[Eb]ror?\nE o [Ab]sangue de Cristo ino[Eb]cente\nVer[Bb]tido por mim, peca[Eb]dor.\n\nMi[Eb]nh'alma, te [Fm]lava con[Eb]tente\nNo [Bb]sangue do teu Reden[Eb]tor!\nÉ [Eb]Cristo a [Fm]senda so[Eb]mente.\nQue [Bb]leva ao repouso de a[Eb]mor;\nJu[Ab]bila no onipo[Eb]tente\nPor [Bb]toda a Sua mer[Eb]cê,\nTam[Ab]bém pelo dom exce[Eb]lente\nDe [Bb]Cristo em todo o que [Eb]crê!\n\nMi[Eb]nh’alma, ó [Fm]sobe p'ra o [Eb]alto!\nA[Bb]li ouvirás o fa[Eb]lar\nD'A[Eb]quele a [Fm]quem eu e[Eb]xalto;\nNão [Bb]sabes que vê teu pe[Eb]nar?\nNa [Ab]graça divina me[Eb]dita,\nQue [Bb]tens em Jesus, teu Se[Eb]nhor;\nRe[Ab]cebe a glória ben[Eb]dita\nO[Bb]rando a Deus, com fer[Eb]vor!\n\nHo[Eb]sanas ao [Fm]onis[Eb]ciente!\nJe[Bb]sus veio aqui pra sal[Eb]var\nMi[Eb]nh'alma [Fm]da \"velha ser[Eb]pente”\nQue [Bb]anda no mundo a ten[Eb]tar;\nHo[Ab]sanas a Deus en[Eb]toemos\nPor [Bb]Sua Palavra de a[Eb]mor;\nHo[Ab]sanas e glória ren[Eb]demos,\nA [Bb]Cristo Jesus, o Se[Eb]nhor."
     },
     {
         "numero": 403,
@@ -12433,7 +12433,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 403 - Gozo Real\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nOh! Que [Bb]gozo real sinto [C]no meu ser,\nJá [F]tenho de Deus per[Bb]dão!\nPois Je[Bb]sus nos diz: Que qual[C]quer que crer\nRe[F]cebe salva[Bb]ção.\n\nCoro:\n[Bb]Se tu crês, [G]ó [C]vem o passo dar,\n[F]Vem o passo dar, sim, [Bb]vem o passo dar!\n[Bb]Se tu crês, ó [Eb]vem o passo dar,\n[F]Pois Jesus te quer sal[Bb]var.\n2 Por a[Bb]mor foi Cristo, meu [C]Redentor,\nDa [F]glória, aqui des[Bb]ceu;\nE trans[Bb]forma a vida dum [C]pecador,\nNa [F]graça que nos [Bb]deu.\n\nQue mer[Bb]cê, que amor o Se[C]nhor mostrou\nMor[F]rendo na dura [Bb]cruz;\nSangue [Bb]divina! por nós [C]derramou,\nO [F]Salvador Je[Bb]sus!"
     },
     {
         "numero": 404,
@@ -12461,7 +12461,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 404 - Em Glória Virá\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\nEs[A]pera do céu, seu Se[E]nhor, o [A]fiel\nA[A]guarda orando, pois [B]há de vol[E]tar\nNa [E]nuvem, em [A]glória o [E]Ema[F#m]nuel,\nCom [D]grande po[E]der, a fim de o bus[A]car.\n\nCoro:\nEm [A]glória virá o Filho de Deus,\n[E]Sempre orando Je[A]sus esperai;\nSe [D]virdes a “[A]estrela da [B]alva” no [E]céu,\nA[A]lerta [E]es[A]tai!\n\n[A]Ó Pai amoroso, en[E]via Je[A]sus.\nO [A]crente fiel O es[B]pera do [E]céu;\nÓ [E]manda-lhe lo[A]go a ce[E]leste [F#m]luz,\nEm [D]que há de [E]vir o Filho de [A]Deus.\n\nO [A]santo Evangelho se [E]há de cum[A]prir\nE [A]breve nas nuvens ve[B]remos Je[E]sus;\n“As[E]sim desce[A]rá como O [E]vistes [F#m]subir\"\nO [D]que S’imo[E]lou por nós sobre a [A]cruz!"
     },
     {
         "numero": 405,
@@ -12485,7 +12485,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 405 - Queres Perdão\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Queres ser salvo, [Eb]queres per[Ab]dão,\n[Db]Paz e repouso [Ab]no cora[Eb]ção?\n[Ab]O que farás para teres a [Db]luz?\n[Eb]Com toda a força - [Eb]Crê em Je[Ab]sus;\n[Ab]Se hoje queres em Cristo crer.\n[Eb]Inda que morto hás de vi[Ab]ver;\n[Ab]Deixa este mundo [Db]enganador,\n[Eb]Crê só em Cris[Bb]to. [Eb]teu Salva[Ab]dor.\n\nÓ crê em Cris[Eb]to - ei-Lo a[Ab]qui\n[Db]Em nosso meio, [Ab]chora por [Eb]ti;\n[Ab]Ele te ama; queres a [Db]luz?\n[Eb]Queres vitória? - [Eb]Crê em Je[Ab]sus,\nSim! Hoje creio no Salvador,\nE minha vida, meu Redentor;\n[Ab]Nas minhas lu[Db]tas, o Capitão;\n[Eb]Creio em Cris[Bb]to [Eb]de cora[Ab]ção.\n\n[Ab]Quando o inimigo [Eb]com seu ter[Ab]ror\n[Db]Ruge em torno [Ab]com mui fu[Eb]ror\n[Ab]Não desanimes por tua [Db]cruz,\n[Eb]Olha pra cima - [Eb]Crê em Je[Ab]sus;\n[Ab]E nas terríveis provas d’horror,\n[Eb]Segue avante com teu Se[Ab]nhor,\n[Ab]Ele te guarda [Db]da corrupção\n[Eb]E te li[Bb]berta [Eb]da tenta[Ab]ção."
     },
     {
         "numero": 406,
@@ -12513,7 +12513,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 406 - A Sombra do Meu Redentor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Preciso [C]sempre encos[F]tar-me\n[F]Aos pés do meu [C]bom Reden[F]tor;\n[Dm]Presto vi[A]rá pra le[Dm]var-me\n[G]Aos céus, minha pátria de a[C]mor.\n\nCoro:\nEu [F]preciso sempre lançar-me\nNos [F]braços do meu Redentor;\nSó em Je[F]sus vou também abri[Bb]gar-me\n[C]No Seu sublime a[F]mor.\n\nPreciso sempre deter-me\nA sombra do meu Redentor;\n[Dm]Não posso [A]só defen[Dm]der-me\n[G]E alçar a bandeira de a[C]mor.\n\n[F]Preciso [C]sempre che[F]gar-me\n[F]Contrito aos pés [C]do Salva[F]dor,\n[Dm]Para po[A]der conso[Dm]lar-me\n[G]No Seu abundante a[C]mor."
     },
     {
         "numero": 407,
@@ -12541,7 +12541,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 407 - Ó Criador Bendito\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nÓ [F]Criador bendito, ó [C]fonte de espe[F]rança,\nA [Bb]Ti, ó Pai contritos [C]buscamos com con[F]fiança;\nNos [F]deste em herança a [C]glória sempi[F]terna;\nO [Bb]pão da vida eterna, ó [C]manda-nos dos [F]céus!\n\nCoro:\nEx[C]celso Criador, supremo benfei[F]tor,\nO [Bb]Teu amor derrama em [C]nós, qual viva [F]chama\nEx[C]celso Criador, supremo benfei[F]tor,\nO [Bb]Teu amor derrama, por [C]Teu Consola[F]dor.\n\nU[F]nidos esperamos o [C]Teu celeste en[F]sino;\nÓ [Bb]manda, suplicamos por [C]Teu poder di[F]vino;\nA[F]ceita este hino, que [C]nós a Ti can[F]tamos,\nPois [Bb]gratos Te louvamos, por [C]Tua salva[F]ção.\n\nO [F]coração se alegra e [C]a alma está con[F]tente\nNo [Bb]dia em que se entrega\nao [C]Deus onipo[F]tente;\nQue [F]paz profunda sente a [C]alma do per[F]dido\nQue [Bb]hoje é um remido por [C]Cristo, o Salva[F]dor!"
     },
     {
         "numero": 408,
@@ -12570,7 +12570,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 408 - Abre os Meus Olhos\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Abre os meus o[Bbm]lhos em Tua luz,\n[Eb]Teu rosto quero [Ab]ver, Jesus,\n[C7]Põe em meu [Fm]cora[C7]ção Teu a[Fm]mor.\n[Bb]E dá-me a paz e Teu fer[Eb]vor;\n[Ab]Humildemente a[Bbm]cudo a Ti.\n[Eb]Porque Tua terna [Ab]voz ouvi\n[Ab]Meu guia sê, Es[Db]pírito [Eb]Consola[Ab]dor.\n\n[Ab]Abro os ouvi[Bbm]dos para ouvir\n[Eb]Tua Palavra a [Ab]me ungir.\n[C7]Belas pa[Fm]lavras [C7]de doce a[Fm]mor,\nÓ! Meu bendito Salva[Eb]dor,\n[Ab]Consagro a Ti [Bbm]meu frágil ser!\n[Eb]Para cumprir o [Ab]Teu querer,\n[Ab]Enche meu ser, Es[Db]pírito [Eb]Consola[Ab]dor.\n\n[Ab]Abre-me a men[Bbm]te para ver\n[Eb]O Teu amor em [Ab]gran poder;\n[C7]Dá-me Tua [Fm]graça, [C7]dá-me vi[Fm]gor;\n[Bb]Faz-me na luta, vence[Eb]dor;\n[Ab]Sê Tu o meu [Bbm]refugio aqui,\n[Eb]Aumenta mi[Ab]nha fé em Ti,\n[Ab]Sustenta-me, Es[Db]pírito [Eb]Consola[Ab]dor.\n\n[Ab]Abre-me a por[Bbm]ta divinal\n[Eb]Do Teu palácio [Ab]de cristal.\n[C7]Pois o Teu [Fm]lindo [C7]rosto Se[Fm]nhor,\n[Bb]Quero no céu ver, d’esplen[Eb]dor;\nE quando lá enfim entrar,\nTeu santo nome vou louvar\n[Ab]Pelo teu bom Es[Db]pírito [Eb]Consola[Ab]dor."
     },
     {
         "numero": 409,
@@ -12603,7 +12603,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 409 - Trabalhadores do Evangelho\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nTra[Ab]balhadores do Evangelho,\nEm breve ceifa[Eb]reis;\nQuer [Eb]fracos vós sejais, ou velhos,\nDo [Bb]céu vigor te[Eb]reis.\n\nCoro:\nOs [Ab]que esperam no Senhor\nNovas [Ab]forças obte[Eb]rão;\nComo á[Eb]guias voarão,\nSubi[Bb]rão para as altu[Eb]ras;\nCorre[Ab]rão sem se cansar,\nSem fa[Ab]tigar hão de an[Db]dar;\nCorre[Eb]rão sem se cansar,\nSem fati[Eb]gar hão [Bb]de an[Eb]dar;\nCorre[Ab]rão sem se can[Db]sar,\nA[Eb]té no céu che[Ab]gar!\n\nNo [Ab]bom trabalho, quantas vezes,\nEstamos a fa[Eb]lhar,\nSem[Eb]pre devemos nos revezes\nEm [Bb]Cristo con[Eb]fiar.\n\nJe[Ab]sus está ao nosso lado.\nSua força nos da[Eb]rá;\nO [Eb]nosso Salvador amado,\nSim, [Bb]tudo supri[Eb]rá.\n\nEm [Ab]Cristo sempre confiando\nSocorro vamos [Eb]ter;\nO [Eb]Salvador do céu baixando\nVi[Bb]rá nos socor[Eb]rer!"
     },
     {
         "numero": 410,
@@ -12627,7 +12627,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 410 - Jesus Meu Rei Glorioso\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Db\n\nJe[Db]sus é meu Rei glorioso,\nÉ [Db]grato cantar-Lhe lou[Ebm]vor;\nÉ [Ab]Rei, mas me torna ditoso,\nEn[Ab]chendo-me do Seu a[Db]mor;\nDei[Db]xando Seu trono de glória\nMe [Db]veio livrar desta [Gb]escória.\nJá sou mui feliz, [Db/Ab]já sou mui feliz [Ab]com [Db]Deus!\n\nJe[Db]sus é meu Rei mui amado,\nNas [Db]lutas, na dor, sempre es[Ebm]tá\nPa[Ab]ciente e humilde ao meu lado,\nA[Ab]juda e consolo me [Db]dá;\n[Db]Por isso constante O sigo,\n[Db]Pois é meu Pastor e a[Gb]migo.\n[Gdim]Já sou mui feliz, [Db]já sou mui feliz [Ab]com [Db]Deus!\n\nJe[Db]sus, que pudera eu dar-Te\nPor [Db]tanto amor para [Ebm]mim?\nBas[Ab]tante é servir-Te e amar-Te?\nE [Ab]tudo entregar-me [Db]a Ti?\nA[Db]ceita, então, minha vida,\nQue a [Db]Ti só, se prostra ren[Gb]dida.\n[Gdim]Já sou mui feliz, [Db/Ab]já sou mui feliz [Ab]com [Db]Deus!"
     },
     {
         "numero": 411,
@@ -12651,7 +12651,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 411 - Nós Somos Teus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Filho do e[Db]terno [Ab]Deus, nós somos [Eb]Teus!\n[Ab]Compraste-[Db]nos, Je[Ab]sus, [Eb]por Tua [Ab]cruz,\n[Db]Rendemo-nos, Se[Ab]nhor, [Eb]cheios de fé [Ab]e amor;\n[Db]Nós somos [Ab][Eb]Teus, Filho de [Ab]Deus!\n\n[Ab]O Teu ca[Db]minho, ó Deus [Ab]que leva ao [Eb]céu,\n[Ab]Faze-nos [Db]percor[Ab]rer [Eb]até mor[Ab]rer.\n[Db]Não tem que re[Ab]cear [Eb]todo o que nele [Ab]andar;\n[Db]Tu és, Se[Ab][Eb]nhor, o bom Pas[Ab]tor.\n\n[Ab]A quem nos [Db]quis sal[Ab]var vamos lou[Eb]var\n[Ab]Com voz e [Db]cora[Ab]ção, [Eb]em santa u[Ab]nião,\n[Db]Aceita, pois, [Ab]Senhor, [Eb]nosso veraz [Ab]louvor!\n[Db]Graças, oh! [Ab]Deus, [Eb]que somos [Ab]Teus!"
     },
     {
         "numero": 412,
@@ -12684,7 +12684,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 412 - Jesus Cristo, Bem Amado\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nGlória ao [G]Salvador di[D]vino.\nNosso [D]guia e Reden[G]tor,\nGlória [G]seja ao Deus [D]trino;\nAle[D]luia ao Deus de a[G]mor!\n\nCoro:\nJesus [D]Cristo, bem a[G]mado,\nPode[A]roso Salva[D]dor,\nEle [G]era ontem, é [D]hoje,\nSerá [C]sempre o [D]Deus de a[G]mor!\n\nAle[G]grar-se todos [D]devem\nPela [D]grande salva[G]ção;\nHonra e [G]glória a Deus e[D]levem,\nPois nos [D]dá Seu galar[G]dão.\n\nAdo[G]rei a Deus, com [D]canto,\nEle é [D]compassivo e [G]bom,\nÓ di[G]vino Espírito [D]Santo,\nDesça [D]sobre nós Teu [G]dom.\n\nAo Teu [G]nome seja [D]glória,\nO ben[D]dito e bom Se[G]nhor!\nTu nos [G]guias pra vi[D]tória,\nAle[D]luia ao Reden[G]tor!"
     },
     {
         "numero": 413,
@@ -12713,7 +12713,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 413 - Meu Pastor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Meu Pastor é Je[F]sus Cris[Bb]to\n[Eb]NEle quero [F]con[Bb]fiar;\n[Bb]Com Jesus, não te[F]nho fal[Gm]ta,\n[Eb]Junto a [F]Ele eu quEro an[Bb]dar;\n[Gm]Me conduz ao bom des[D]canso;\n[Bb]Para o campo [F]verde em flor,\n[Bb]Refrigera, sim, [F]minh’[Gm]alma,\n[Eb]Sa[Bb]ciando-[F]me de a[Bb]mor.\n\n[Bb]Ele é meu [F]companhei[Bb]ro;\n[Eb]Com Jesus dese[F]jo an[Bb]dar;\n[Bb]Pois me dá vigor [F]e [Gm]força,\n[Eb]P’ra que eu [F]possa cami[Bb]nhar;\n[Gm]Ele é quem dá co[D]ragem,\n[Bb]Para nada [F]eu temer;\n[Bb]Mesmo próximo [F]à mor[Gm]te\n[Eb]Certo es[Bb]tou que [F]vou ven[Bb]cer.\n\n[Bb]Caminhando [F]ao Seu [Bb]lado\n[Eb]Não mais teme[F]rei o [Bb]mal;\n[Bb]Seu bordão e Seu [F]ca[Gm]jado\n[Eb]Dão-me pro[F]teção [Bb]real;\n[Gm]Contra o meu ini[D]migo\n[Bb]O Senhor sem[F]pre virá;\n[Bb]Me prepara u[F]ma me[Gm]sa\n[Eb]E co[Bb]migo ne[F]la es[Bb]tá.\n\n[Bb]Unge a ca[F]beça mi[Bb]nha\n[Eb]Com óleo do [F]Seu a[Bb]mor;\n[Bb]O meu gozo é trans[F]bordan[Gm]te,\n[Eb]Pois meu [F]cálice tem dul[Bb]çor;\n[Gm]Por Sua miseri[D]córdia\n[Bb]E por Seu su[F]blime bem\n[Bb]Habitarei em [F]Sua [Gm]casa\n[Eb]Eter[Bb]namen[F]te, a[Bb]mém?"
     },
     {
         "numero": 414,
@@ -12741,7 +12741,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 414 - Tem Compaixão do Pecador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nÓ Salva[Bb]dor, ó Pai de amor?\nTem compai[F]xão do peca[Bb]dor;\nSem ser em [Bb]Ti não acha[Eb]rá\nA salva[F]ção, que [C]Tu [F]nos [Bb]dás.\n\nCoro:\nTem compai[F]xão, ó Salva[Bb]dor,\nTem compai[C]xão do peca[F]dor!\nÓ vem la[Bb]var seu cora[Eb]ção,\nÓ vem lhe [F]dar a [C]sal[F]va[Bb]ção!\n\nSem ser em [Bb]Ti não há perdão\nPra o peca[F]dor, nem salva[Bb]ção;\nSó mesmo [Bb]em Ti o peca[Eb]dor\nEncontra[F]rá um [C]Sal[F]va[Bb]dor.\n\nÓ Rei doa [Bb]reis, tem compaixão\nDo peca[F]dor na perdi[Bb]ção\nSeu cora[Bb]ção, ó vem la[Eb]var\nNo sangue [F]Teu puri[C][F]fi[Bb]car."
     },
     {
         "numero": 415,
@@ -12774,7 +12774,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 415 - Jesus Te Quer Curar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nA [Eb]terna voz do Salvador\n[Eb]Te fala como[Bb]vi[Eb]da;\n\"Ó [Eb]vem ao médico de amor,\nQue [Eb]dá aos mortos [Bb]vi[Eb]da\"!\n\nCoro:\n[Eb]Cristo Jesus te [Ab]quer cu[Eb]rar,\n[Eb]E tem poder p’[Ab]ra te cu[Eb]rar,\n[Eb]Dos males todos te livrar,\nSe [Eb]nEle con[Bb]fia[Eb]res!\n\n[Eb]Crê tu, a quem já Satanás\n[Eb]Há anos tem li[Bb]ga[Eb]do;\n[Eb]A fé te salva, vai-te em paz,\n[Eb]De todo o mal cu[Bb]ra[Eb]do!\n\nOs [Eb]surdos ouvem, cegos vêem,\nPois [Eb]Cristo é pode[Bb]ro[Eb]so!\nos [Eb]coxos saram e andam bem.\nPor [Eb]Seu poder glo[Bb]rio[Eb]so!\n\nSi[Eb]nais pra sempre seguirão\nAos [Eb]verdadeiros [Bb]cren[Eb]tes!\nDe[Eb]mônios, sim, expulsarão,\nE [Eb]curarão as [Bb]gen[Eb]tes."
     },
     {
         "numero": 416,
@@ -12807,7 +12807,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 416 - Quando o Povo Salvo Entrar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nAnjos [G]aos milhares, no [C]céu, ve[G]rão\nQuando o [G]povo salvo en[D]trar;\nCrentes [G]coroados tam[C]bém se[G]rão.\nQuando o [D]povo salvo en[G]trar.\n\nCoro:\nQuando o po[G]vo salvo en[D]trar,\nQuando o [G]povo salvo en[D]trar;\nMulto [G]grande alegria [C]no céu have[Am]rá,\nQuando o [D]povo salvo en[G]trar.\n\nOs re[G]midos lá hão de [C]se encon[G]trar,\nQuando o [G]povo salvo en[D]trar;\nVestes [G]brancas todos hão [C]de tra[G]jar,\nQuando o [D]povo salvo en[G]trar.\n\nTodos [G]vencedores, lá [C]hão de es[G]tar,\nQuando o [G]povo salvo en[D]trar;\nA tri[G]bulação não te[C]rá lu[G]gar,\nQuando o [D]povo salvo en[G]trar.\n\nO Cor[G]deiro morto, (que [C]vivo es[G]tá)\nQuando o [G]povo salvo en[D]trar;\nPara [G]sempre em glória do[C]mina[G]rá,\nQuando o po[D]vo salvo en[G]trar."
     },
     {
         "numero": 417,
@@ -12840,7 +12840,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 417 - Bastante Para Mim\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nNo meio [Ab]duma [Eb]grande dor,\nA [Eb]cruz de Cristo eu [Ab]vi,\nQual viva [C]fonte de a[Fm]mor,\nBas[Bb]tante para [Eb]mim!\n\nCoro:\n[Ab]Lá da [Eb]cruz corre sem ces[Ab]sar,\n[Ab]Inson[Eb]dável como é o [Ab]mar.\n[Ab]Esta graça, que [Db]brota as[Bbm]sim,\n[Eb]Basta para [Ab]mim!\n\nMeu coração, a vacilar\nE apenas, pude assim\nNa graça [C]crer; mas fui a[Fm]char\nBas[Bb]tante para [Eb]mim!\n\nCrava[Ab]dos já, en[Eb]tão, na cruz,\nOs [Eb]meus pecados [Ab]vi;\nE a graça a[C]chei de meu Je[Fm]sus;\nBas[Bb]tante para [Eb]mim!\n\nCom meu Je[Ab]sus eu [Eb]cantarei\nNo [Eb]céu, alegre, en[Ab]fim;\nQue Sua graça foi, direi:\nBastante para mim!"
     },
     {
         "numero": 418,
@@ -12868,7 +12868,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 418 - Sou Um Soldado\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nSou [G]um soldado de Jesus\nE [D]servo do Se[G]nhor;\nNão [G]temerei levar a cruz,\nSo[D]frendo grande [G]dor.\n\nCoro:\nDe[G]pois da batalha me coroará,\nDeus me coroará;\nDeus [G]me coroará;\nDe[G]pois da batalha me coroará,\nNa ce[C]les[D]tial man[G]são;\nLá ve[D]rei o meu [G]Rei,\nE te[G]rei meu galar[D]dão,\nDe[G]pois de batalha me coroará,\nNa ci[C]da[D]de de [G]Sião!\n\nLu[G]taram outros sem temor,\nMui [D]forte hei de [G]ser;\nPe[G]lejarei por meu Senhor,\nCon[D]fiando em Seu po[G]der.\n\nSe [G]eu for fiel ao meu Jesus\nE [D]não voltar pra [G]trás,\nAl[G]cançarei no céu de luz,\nLu[D]gar de santa [G]paz."
     },
     {
         "numero": 419,
@@ -12906,7 +12906,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 419 - Vinde, Pecadores\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nVinde [Ab]todos pecadores\nA Je[Eb]sus, o Salva[Ab]dor;\nVinde [Ab]logo, sem temores,\nEncon[Eb]trar o Reden[Ab]tor.\n\nCoro:\nSim eu [Eb]sei; Oh! Eu [Ab]sei,\nCristo [Eb]salva o perdido peca[Ab]dor!\nSim, eu [Eb]sei; oh! Eu [Ab]sei,\nCristo [Eb]salva o perdido peca[Ab]dor!\n\nDá aos [Ab]fracos, fortaleza;\nDas monta[Eb]nhas planos [Ab]faz,\nAo de[Ab]serto dá beleza,\nE aos [Eb]crentes, luz e [Ab]paz.\n\nNas fra[Ab]quezas, ei-Lo perto,\nDomi[Eb]nando a força [Ab]má;\nNo ca[Ab]minho, guia certo,\nE Sua [Eb]graça sempre [Ab]dá.\n\nTenho [Ab]gozo mui superno\nPelo [Eb]sangue que ver[Ab]teu,\nNem o [Ab]mundo, nem o inferno,\nTiram a [Eb]vida que me [Ab]deu.\n\nQuando [Ab]Cristo vier na glória\nA bus[Eb]car o povo [Ab]Seu.\nCanta[Ab]remos a história,\nDo a[Eb]mor de Deus, no [Ab]céu."
     },
     {
         "numero": 420,
@@ -12930,7 +12930,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 420 - O Que Buscas Ansioso?\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nO que buscas ansioso\nÓ perdido pecador?\n[C]Tudo que tens por precioso,\n[F]Murcha[C]rá qual [D]linda [G]flor!\n[C]Quando teu fim chegar,\nQuando teu [F]fim chegar,\n[C]Há de ces[G]sar o teu [C]gozo,\n[C]Mas vai o crente entrar,\n[C]Mas vai o [F]crente entrar,\n[G]Num lar eterno de repou[C]so!\n\n[C]Neste mundo há belas flores,\n[F]Que nos querem [C]seduzir,\n[C]Mas espinhos tÊm, que dores,\n[F]Hão de [C]sempre [D]produ[G]zir;\n[C]Mas Cristo, o Salvador,\nMas Cristo, o [F]Salvador,\n[C]De Saron [G]é linda [C]rosa,\n[C]Tem excelente odor,\n[C]Tem exce[F]lente odor,\n[G]E alegra a alma desdito[C]sa!\n\n[C]Larga o mundo e o pecado\n[F]Que te trazem [C]perdição;\n[C]E aceita de bom grado\n[F]A Je[C]sus no [D]cora[G]ção.\n[C]Vida eternal terás;\nVida eter[F]nal terás;\n[C]Sim, frui[G]rás santo [C]gozo;\n[C]Cristo será tua paz,\n[C]Cristo se[F]rá tua paz,\n[G]E os altos céus o teu repou[C]so."
     },
     {
         "numero": 421,
@@ -12944,7 +12944,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 421 - Careço de Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Quando de Ti ca[F]reço\n[Bb]Jesus, meu Salva[Eb]dor!\nO Teu amor, O vem m'alegrar,\nQuando de Ti careço."
     },
     {
         "numero": 422,
@@ -12972,7 +12972,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 422 - No Céu não Entra Pecado\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nNo [Eb]céu não [Bb]entra pe[Eb]cado\nFa[Eb]diga, [Bb]tristeza, nem [Eb]dor;\nNão [Eb]há cora[Bb]ção que[Eb]brantado,\nPois [Eb]todos são [Bb]cheios de a[Eb]mor,\nAs [Eb]nuvens da [Ab]vida ter[Eb]restre\nNão [Eb]podem a [Bb]glória ofus[Eb]car\nDo [Ab]reino de gozo ce[Eb]leste,\nQue [Eb]Deus quis pra [Bb]mim prepa[Eb]rar!\n\nCoro:\nI[Eb]rei eu p’ra linda cidade,\nJe[Eb]sus me dará um lu[Bb]gar,\nCo’os [Bb]crentes de todas Idades,\nA [Bb]Deus hei de sempre lou[Eb]var.\nDo [Eb]céu tenho muitas saudades,\nDas [Eb]glórias que lá hei de [Ab]ver;\nOh! Que [Ab]gozo vou [Eb]ter,\nQuando eu [Eb]vir meu Se[Ab]nhor,\nRo[Eb/Bb]deado de [Bb]grande esplen[Eb]dor!\n\nPa[Eb]gar não [Bb]é neces[Eb]sário\nA [Eb]casa, que [Bb]lá hei de [Eb]ter;\nE [Eb]meu eter[Bb]nal ves[Eb]tuário,\nNo [Eb]céu, nunca [Bb]vai se rom[Eb]per.\nJa[Eb]mais vive[Ab]rei em po[Eb]breza,\nA[Eb]flito no [Bb]meu santo [Eb]lar,\n[Ab]Ali há bastante ri[Eb]queza,\nDa [Eb]qual poda[Bb]rei desfru[Eb]tar.\n\nNo [Eb]céu o [Bb]luto é ba[Eb]nido,\nEn[Eb]terros não [Bb]hão de pas[Eb]sar;\nSe[Eb]pulcros ja[Bb]mais são er[Eb]guidos,\nLá [Eb]mortos não [Bb]vou encon[Eb]trar.\nOs [Eb]velhos se[Ab]rão transfor[Eb]mados;\nMu[Eb]dados nós [Bb]vamos fi[Eb]car.\nQuais [Ab]astros por [Eb]Deus espa[Eb]lhados\nNo [Bb]céu, para sempre bri[Eb]lhar."
     },
     {
         "numero": 423,
@@ -13006,7 +13006,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 423 - De Ti Preciso Mais\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Db\n\n[Db]Jesus, preciso [Ab]mais de a[Db]mor,\n[Gb]Reino de Deus, em [Db]meu cora[Ab]ção;\n[Ab]Da compaixão [Db]Tu és o Senhor;\n[Gb]De Ti pre[Ab]ciso [Db]mais.\n[Gb]De Ti preciso mais,\n[Db]Do Teu amor veraz;\n[Eb]Sei que estás pronto [Ab]pra me valer,\n[Db]De Ti pre[Ab]ciso [Db]mais!\n\n[Db]Jesus, preciso [Ab]mais de po[Db]der,\n[Gb]Dom do eterno [Db]Consola[Ab]dor;\nÉs o dador que [Db]enche meu ser;\n[Gb]De Ti pre[Ab]ciso [Db]mais!\n[Gb]De Ti preciso mais,\n[Db]Do Teu poder veraz,\n[Eb]Da lua graça, ó [Ab]vem me encher,\n[Db]De Ti pre[Ab]ciso [Db]mais!\n\n[Db]Jesus, preciso [Ab]mais Te imi[Db]tar,\n[Gb]Com humildade e [Db]submis[Ab]são;\n[Ab]Tua instrução eu [Db]quero guardar,\n[Gb]De Ti pre[Ab]ciso [Db]mais,\n[Gb]De Ti preciso mais,\n[Db]Da graça eficaz,\n[Eb]Sei que Tu queres [Ab]ma conceder,\n[Db]De Ti pre[Ab]ciso [Db]mais!\n\n[Db]Jesus, preciso [Ab]mais de ou[Db]vir\n[Gb]No meu silêncio a [Db]voz de a[Ab]mor,\n[Ab]Que dá vigor para [Db]eu Te servir.\n[Gb]De Ti pre[Ab]ciso [Db]mais.\n[Gb]De Ti preciso mais.\n[Db]A Tua voz veraz\n[Eb]No meu silêncio [Ab]sempre atender,\n[Db]De Ti pre[Ab]ciso [Db]mais!\n\n[Db]Jesus, preciso [Ab]mais comu[Db]nhão.\n[Gb]Contigo estar em [Db]santo Ta[Ab]bor;\nE esplendor, [Db]transfiguração;\n[Gb]De Ti pre[Ab]ciso [Db]mais.\n[Gb]De Ti preciso mais.\n[Db]Transformação veraz;\n[Eb]A Tua face eu [Ab]quero ter,\n[Db]De Ti pre[Ab]ciso [Db]mais!"
     },
     {
         "numero": 424,
@@ -13020,7 +13020,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 424 - Seu Precioso Sangue\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nJe[Bb]sus me salvou com Seu precioso [F]sangue;\nJe[F]sus me comprou com Seu precio[Eb/Bb]so san[Bb]gue,\nCom Seu poder já me curou;\nO meu pecado já cravou na cruz!\nJe[Bb]sus pra [F]sempre me sal[Bb]vou!"
     },
     {
         "numero": 425,
@@ -13058,7 +13058,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 425 - Perdido Andei\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nPer[Bb]dido neste mundo an[F]dei,\nI[Eb]merso em [C]sua escuri[F]dão;\nEm [Bb]vãs promessas confiei;\nNão [Eb]tinha [F]Deus, nem salva[Bb]ção.\n\nCoro:\nPerdido an[F]dei, mas me sal[Bb]vei,\nSendo guia[Eb]do pela [F]luz,\nQue no Cal[Gm]vário [Eb]avis[Cm]tei\nE me le[F]vou ao Rei Je[Bb]sus!\n\nSem forças 'stava pra viver,\nSem nada mais eu esperar;\nQuan[Bb]do uma luz eu pude ver,\nQue [Eb]veio [F]me ilumi[Bb]nar.\n\nFitei a luz e logo cri,\nE muito alegre eu fiquei;\nPra[Bb]zer do céu também senti;\nQuan[Eb]do essa [F]luz eu abra[Bb]cei.\n\nCon[Bb]fesso com satisfa[F]ção,\nQue [Eb]nessa [C]luz me sinto [F]bem;\nA [Bb]paz entrou no coração,\nPor[Eb]que vi [F]um abrigo a[Bb]lém.\n\nNos [Bb]braços do Senhor Je[F]sus,\nPra[Eb]zer eu [C]tenho em vi[F]ver,\nU[Bb]nido à salvadora luz,\nQue [Eb]Cristo [F]veio me tra[Bb]zer."
     },
     {
         "numero": 426,
@@ -13087,7 +13087,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 426 - União Dos Irmãos\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\nQuando a[A]qui nos reunimos,\nÓ ir[E]mãos, em santo a[A]mor,\nCerta[A]mente nós fruímos,\nBênçãos [D]do Con[E]sola[A]dor!\nSempre [E]pode Sua pre[A]sença,\nDe Je[E]sus testificar;\nCom pa[A]lavras e sentenças\nA quem [D]quer o [E]escu[A]tar.\n\nQuando [A]nós nos humilhamos\nAnte o [E]bom Consola[A]dor,\nO po[A]der que nós buscamos.\nNos con[D]cede [E]com a[A]mor;\nE se [E]vedes, glo[A]rioso,\nEm vi[E]são, Jesus passar,\nEis que [A]busca ansioso,\nUma [D]alma [E]bati[A]zar.\n\nQuando [A]todos nos achamos\nProntos [E]para escu[A]tar,\nPela un[A]ção, ouvir nós vamos\nO bom [D]Deus, a [E]nós fa[A]lar;\nE no [E]céu, sim, ao che[A]garmos,\nOh! Que [E]festa haverá,\nQuando [A]já nos encontrarmos\nNo lu[D]gar que [E]Deus da[A]rá!\n\nÓ re[A]midos, sempre firmes,\nEspe[E]rando com ar[A]dor,\nQue em [A]nós Deus mais confirme\nSeu po[D]der Con[E]sola[A]dor;\nEia! A[E]vante, a ca[A]minho,\nPela [E]gloriosa luz,\nPois de [A]nós vai mui vizinho,\nO a[D]mado e [E]bom Je[A]sus!"
     },
     {
         "numero": 427,
@@ -13120,7 +13120,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 427 - Vai Orando\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]De pesar estás cercado,\nEs pro[G]vado [A]pela [D]dor?\n[G]De sofrer estás cansado,\n[C]E tam[D]bém do teu la[G]bor?\n\nCoro:\n[G]Vai orando, [D]vai o[G]rando,\n[Em]Ao so[D]prar do [G]fura[D]cão.\n[G]O Senhor está velando,\n[G]Dar-te-[C]á con[D]sola[G]ção.\n\n[G]Nas doenças, incertezas,\n[C]Que tu'[G]alma [A]passa[D]rá,\n[G]Só Jesus dará firmeza,\n[C]E tam[D]bém te cura[G]rá.\n\n[G]Ao Senhor a voz eleva,\n[C]Ora a [G]Deus com [A]mui fer[D]vor,\n[G]Pois as faltas te releva\n[C]E mi[D]tiga a tua [G]dor.\n\n[G]Tarda Deus em consolar-te?\n[C]Vai o[G]rando [A]com po[D]der;\n[G]Presto, ajuda pode dar-te,\n[C]Teu pe[D]dido respon[G]der."
     },
     {
         "numero": 428,
@@ -13148,7 +13148,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 428 - A estrela da Alva\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nMostra-Te, estrela da manhã,\nÓ bondoso Salvador!\nSem Tua luz, a vida é vã,\n[F]Sem Tua [G]luz não temos vi[C]gor!\n[F]Sem Tua [C]luz não [G]temos vi[C]gor!\n\nCoro:\nÓ estrela [G]da al[C]va, [G]estrela que [Am]sal[G]va\n[C]A perdida [F]alma que [G]vaga sem ter dire[C]ção!\n\nCristo Jesus é, do fiel,\n[G]A estrela de ful[C]gor,\n[C]Também o bom Ema[F][Am]nuel,\n[F]Que de ma[G]nhã nos enche de a[C]mor,\n[F]Que de ma[C]nhã nos [G]enche de a[C]mor.\n\nBendita estrela dos hebreus,\n[G]Que o mundo ilumi[C]nou.\n[C]E nos mandou os [F]raios [Am]Seus,\n[F]Raios d’a[G]mor, que já nos sal[C]vou,\n[F]Raios d’a[C]mor, que [G]já nos sal[C]vou."
     },
     {
         "numero": 429,
@@ -13181,7 +13181,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 429 - Escuta o Evangelho\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nO peca[Bb/F]dor dese[F]joso\n[Dm]De verda[G]deiro per[C]dão,\n[F]A voz de [Bb/F]Cristo, [Dm]dito[Bb]so,\n[F/C]Escuta [C]com aten[F]ção!\n\nCoro:\n[F]Escuta [Bb]o Evan[F]gelho\nDo [C]Filho de [F]Deus,\n[F]O divi[Bb]nal con[F]selho,\nQue [F/C]vem dos mais [C]altos [F]céus!\n\nHo[F]je, [Bb/F]com fé e de [F]graça\n[Dm]Vem acei[G]tar o per[C]dão,\n[F]De Cristo, [Bb/F]pois te a[Dm]bra[Bb]ça,\n[F/C]Dando-te [C]a salva[F]ção!\n\n[F]Cristo [Bb/F]Jesus tem ver[F]tido\n[Dm]Seu sangue [G]com grande [C]dor,\n[F]Para [Bb/F]salvar-te, [Dm]perdi[Bb]do,\n[F/C]E te en[C]cher de a[F]mor!\n\n[F]Se tu con[Bb]trito a[F]ceitas\n[Dm]De Cris[G]to, o Seu per[C]dão,\n[F]Terás en[Bb]tão paz per[Dm]fei[Bb]ta\n[F/C]E gozo [C]da salva[F]ção."
     },
     {
         "numero": 430,
@@ -13210,7 +13210,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 430 - Evangelho da Salvação\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nOuves, como o Evangelho\nNos dá vera salvação.\n[Eb]E transforma o homem velho\n[Bb]Numa nova cria[Eb]ção?\nBem al[Ab]gum em mim não [Eb]via,\nMas so[Bb]mente corrup[Eb]ção,\nE can[Ab]sado da por[Eb]fia\nEm Je[Eb]sus a[Bb]chei per[Eb]dão.\n\n[Eb]Como a pomba que cansada\n[Bb]Foi na arca repou[Eb]sar,\n[Eb]A minh’alma fatigada\n[Bb]Em Jesus vai descan[Eb]sar;\nMas o [Ab]corvo foi s’em[Eb]bora,\nSobre os [Bb]mortos foi pou[Eb]sar,\nIsto [Ab]fazes tu a[Eb]gora?\nQuere[Eb]rás ao [Bb]mal vol[Eb]tar?\n\nÉ Jesus a minha arca\nOnde posso repousar,\n[Eb]E dali, do mal as marcas,\n[Bb]Nem eu posso avis[Eb]tar!\nOh! Quão [Ab]doce a cha[Eb]mada\nQue a [Bb]mim me fez Je[Eb]sus!\n“Vem, [Ab]ó alma tão can[Eb]sada,\nVem das [Eb]trevas [Bb]para [Eb]luz’.\n\n[Eb]Pecador que estás ouvindo\n[Bb]A mensagem do Se[Eb]nhor,\n[Eb]Tu na arca és bem-vindo,\n[Bb]No refúgio de a[Eb]mor,\nPois [Ab]as águas do pe[Eb]cado\nBre[Bb]ve te alcança[Eb]rão,\nPela [Ab]morte desper[Eb]tado,\nBate[Eb]rás na [Bb]porta em [Eb]vão!"
     },
     {
         "numero": 431,
@@ -13238,7 +13238,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 431 - Cristo Chama o Pecador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Cris[Dm]to chama, [C]chama, [F]cha[C]ma com muito amor,\n“[C]Hoje vem a [F][C]Mim, pecador!”\nA Cristo dá teu coração,\nManchado já por mal atroz;\nVem, hoje, [F]vem! Bela ocasião!\nNão queres [C]vir a esta [F]voz?\n\nCoro:\n[C]Aceita[F]rás ao Salvador?\n[C]É teu Senhor, e benfeitor;\n[F]Te chama [Bb]já, vem sem tardar,\n[C]Aceitarás o Salva[F]dor?\nAceita[C]rás o Salva[F]dor?\n\n[F]Cristo [Dm]chama, [C]chama, [F]cha[C]ma com muito amor;\n“[C]Hoje vem a [F][C]Mim, pecador!’\nA t’espe[F]rar está Jesus,\nPois quer te [Bb]dar amor sem [C]par;\nNão tardes [F]mais, vem para luz,\nNão ouves [C]tu Jesus cha[F]mar?\n\n[F]Cristo [Dm]chama, [C]chama, [F]cha[C]ma com muito amor;\n“[C]Hoje vem a [F]Mim, [C]pecador!”\nOh! Ama[F]nhã? Não viverás...\nE por la[Bb]var... teu cora[C]ção?\nTempo fe[F]liz tu perderás\nE não te[C]rás mais salva[F]ção."
     },
     {
         "numero": 432,
@@ -13276,7 +13276,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 432 - Consagrado ao Senhor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\n[D]Minha vida seja sim,\n[A]Consagrada a Ti, Se[D]nhor;\n[D]Possas sempre Tu por [G]mim,\n[A]Operar o Teu a[D]mor.\n\nCoro:\n[G]A minh’alma lava Salva[D]dor\n[G]No Teu sangue puro, carme[D]zim;\n[D]Minha vida toma [G]para ser, Se[D]nhor,\n[D]Tua [A]para sempre, [D]sim.\n\n[D]Que meus pés somente vão\n[A]Onde os santos possam [D]ir;\n[D]Numa eternal can[G]ção,\n[A]Minha voz se faça ou[D]vir.\n\n[D]Seja o meu tempo já,\n[A]Consagrado em Teu la[D]bor;\n[D]Que meus lábios, Jeo[G]vá,\n[A]Falem só do Teu a[D]mor.\n\n[D]Toma, ó Deus, o meu querer,\n[A]Faze-o Teu, ó Salva[D]dor,\n[D]Hoje habita no meu [G]ser;\n[A]Enche-me do Teu fer[D]vor.\n\nÓ recebe-me, Senhor,\nQuando venho me prostrar\n[D]A Teus pés, ó Salva[G]dor,\n[A]Hoje vem me consa[D]grar."
     },
     {
         "numero": 433,
@@ -13309,7 +13309,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 433 - Sois Benvindos\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Nossas vozes jubilosas\n[Eb]Ele[C]vamos com fer[F]vor,\n[Bb]Pela vinda amistosa\n[C]Dos obreiros do Se[F]nhor.\n\nCoro:\n[F]Sois bem-vindos,\n[F]Sois bem-[Bb]vindos,\n[Gm]Cam[Eb]peões de Jeo[D]vá!\n[Bb]Parabéns, mas não [Bb]fingi[Eb]dos,\n[Cm]A congrega[F]ção vos [Bb]dá.\n\n[Bb]Recebei os lutadores\n[Eb]Da ver[C]dade, do a[F]mor,\n[Bb]Demos a Jesus louvores,\n[C]Que os trouxe com vi[F]gor.\n\n[Bb]Abraçai os bons soldados\n[Eb]Das fi[C]leiras de Je[F]sus.\n[Bb]Aos que lutam denodados\n[C]Para difundir a [F]luz.\n\n[Bb]Dos fiéis é bem superno\n[Eb]Traba[C]lhar sem dila[F]ção;\n[Bb]Pra fazer que o Rei eterno\n[C]Reine em cada cora[F]ção!"
     },
     {
         "numero": 434,
@@ -13338,7 +13338,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 434 - A Teus Pés\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]A Teus pés, ó Jesus Cristo,\n[C]Tua face busca[F]rei,\n[F]Escutando qual Maria,\n[C]As palavras de a[F]mor;\n[Bb]A Teus pés, ó Jesus [F]Cristo,\n[C]Meu passado esquece[F]rei,\n[Bb]Pois Tua mão fiel e [F]terna,\n[C]Tem me salvo do te[F]mor.\n\n[F]A Teus pés, ó Jesus Cristo,\n[C]Acho terna compai[F]xão,\n[F]Para todos meus pesares\n[C]Meus conflitos, minha [F]dor;\n[Bb]Livra-me, ó Jesus [F]Cristo,\n[C]De cuidados, de afli[F]ção,\n[Bb]E concede-me cons[F]tante\n[C]Teu poder consola[F]dor!\n\n[F]A Teus pés, ó Jesus Cristo,\n[C]Eu desfruto Teu a[F]mor,\n[F]Em Teus olhos há doçura\n[C]Em Teu seio prote[F]ção;\n[Bb]Dá-me, ó Cristo, a Tua [F]mente.\n[C]Dá-me graça e fer[F]vor,\n[Bb]E que o mundo possa [F]sempre\n[C]Ver em mim a salva[F]ção.\n\n[F]A Teus pés, ó Jesus Cristo,\n[C]Tenho um gozo divi[F]nal!\n[F]A Teus pés encontro abrigo,\n[C]Oh! Bondoso Salva[F]dor!\n[Bb]Só em Ti, ó Jesus [F]Cristo,\n[C]Há consolo sem i[F]gual,\n[Bb]Para minh'alma aba[F]tida.\n[C]Neste mundo de hor[F]ror."
     },
     {
         "numero": 435,
@@ -13371,7 +13371,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 435 - Jesus Me Levantou\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nO [G]Salvador, por Seu amor,\nAo [D]mundo vil por [G]nós baixou,\nE [G]dum abismo de horror,\nMinh’[A]alma levan[D]tou!\n\nCoro:\nQue [G]salvação me [D]deu Jesus,\nA [D]qual na cruz p’ra [G]mim ganhou,\nEs[G]tando em sombra, à plena [C]luz,\nCom [C]seu po[D]der me levan[G]tou!\n\nA [G]Sua voz eu resisti!\nEn[D]quanto amante [G]me chamou,\nMas [G]Sua graça recebi,\nA [A]qual me levan[D]tou!\n\nOh! [G]Quanta dor sofreu por mim,\nNa [D]cruz pregado, [G]expirou.\nMas [G]me salvou Jesus assim,\nA[A]li me levan[D]tou!\n\nQue [G]dom feliz em mim se vê,\nPois [D]Sua graça [G]me salvou,\nMas [G]não compreendo eu, por quê\nJe[A]sus me levan[D]tou!"
     },
     {
         "numero": 436,
@@ -13399,7 +13399,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 436 - Crentes Cantai!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Crentes, cantai e entoai louvores\n[Bb]Ao Senhor, ao nosso [F]Deus,\nDeus de bondade infinita, imensa,\nCriador da terra e céus;\n[D]Que, com poder tão vasto e eficaz,\n[D]Deu-nos salvação e plena paz.\n[Bb]Glória e lou[F]vor ao Deus de a[Gm]mor;\nCom fer[D]vor, sincera[Eb]mente,\nGlória ao [Bb]Pai onipo[F]ten[Bb]te!\n\nCoro:\n[Bb]Ao nosso Criador,\nHonra e [Bb]glória tribu[F]temos,\n[F]Ao nosso Salvador,\nMil lou[F]vores entoe[Bb]mos;\n[D]E ao bom Consolador,\nHonra e lou[D]vor demos também;\n[Eb]Honra a Trindade para [F]sempre, a[Bb]mém.\n\n[Bb]Crentes, cantai e entoei louvares\n[Bb]A Jesus, o Salva[F]dor,\n[Gm]Que nos amou e nos salvou p'ra sempre,\n[Eb]Do poder do [F]tenta[Bb]dor,\n[D]Glória a Jesus, autor da salvação,\n[D]Toda honra, glória e adoração,\n[Bb]Glória e lou[F]vor ao Salva[Gm]dor,\nCom vi[D]gor, ardente[Eb]mente,\nGlória ao [Bb]Filho onis[F]cien[Bb]te!\n\n[Bb]Crentes, cantai e entoei louvores\n[Bb]Ao divino Precep[F]tor,\n[Gm]Que nos mandou Cristo, já exaltado,\n[Eb]Pela dextra [F]do Se[Bb]nhor;\n[D]Hoje louvei ao bom Consolador.\n[D]Que nos enche de fervente amor!\n[Bb]Glória e lou[F]vor ao instrui[Gm]dor,\nCom ar[D]dor, e um lindo [Eb]canto\nDai ao [Bb]Espírito [F]San[Bb]to!"
     },
     {
         "numero": 437,
@@ -13422,7 +13422,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 437 - O Dom Celeste\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nAssim que [F]Deus me batizou,\nA minha [F]alma viu mais [C]luz,\nPois dom ce[C]leste o Pai mandou,\nP’ra dar lou[C]vor ao meu Rei Je[F]sus,\nSou teste[F]munha do meu Senhor,\nE sempre dE[F]le vou fa[Bb]lar;\nTambém do [Bb]selo de a[F]mor,\nQue o meu cá[C]lice faz transbor[F]dar.\n\nCoro:\nLouvado se[Bb]ja Jesus, o [F]Cristo,\nQue conti[C]nua a bati[F]zar,\nCom língua es[Bb]tranha, nós temos [F]visto,\nO dom ce[C]leste, o Pai man[F]dar!\n\nO bom cami[F]nho vou trilhar,\nSe eu qui[F]ser obede[C]cer\nAo Evange[C]lho, à luz sem par,\nAonde vi[C]da vou rece[F]ber,\nDe Jesus [F]Cristo eu falarei,\nque é dos [F]homens Salva[Bb]dor;\nÓ vinde [Bb]hoje e rece[F]bei,\nDivina [C]graça do meu Se[F]nhor."
     },
     {
         "numero": 438,
@@ -13451,7 +13451,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 438 - Voltai-vos Para Mim\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nAs[Ab]sim a nós fa[Db]lou Je[Ab]sus:\n“Vol[Eb]tai-vos pare [Ab]Mim,\nA [Ab]salvação. a [Db]paz, a [Ab]luz,\nEn[Eb]contrareis en[Ab]fim”.\nÓ [Db]esperai o [Ab]bom Jesus,\nA es[Ab]trela da ma[Eb]nhã.\n[Ab]Pois Ele ao céu a [Db]vós con[Ab]duz;\nDei[Eb]xai a vida [Ab]vã!\n\nTam[Ab]bém ,Jesus vos [Db]disse as[Ab]sim:\n“Dá [Eb]vida, água [Ab]sou,\nE [Ab]quem tem sede [Db]venha a [Ab]Mim.\nDe [Eb]graça o dom Lhe [Ab]dou”.\nE [Db]do seu ventre.[Ab]sairão\nEm [Ab]glória ao Salva[Eb]dor,\nTor[Ab]rentes vi[Db]vas, que [Ab]serão:\nA [Eb]paz, a fé, o a[Ab]mor!\n\n[Ab]Ainda assim fa[Db]lou Je[Ab]sus\nA [Eb]todo o peca[Ab]dor:\n\"Ó [Ab]vinde a Mim, Eu [Db]sou a [Ab]luz,\nQue [Eb]brilha com ful[Ab]gor”;\n[Db]E tu, que ja[Ab]zes, ó mortal,\nNas [Ab]trevas de hor[Eb]ror,\nÓ [Ab]vem p'ra luz [Db]celes[Ab]tial,\nA [Eb]Cristo, o Salva[Ab]dor!\n\nOs [Ab]que remidos [Db]dEle [Ab]são,\nSeus [Eb]passos vão se[Ab]guir;\nA [Ab]Sua justiça, e [Db]Seu per[Ab]dão,\nDe [Eb]graça vão [Ab]fruir,\nJe[Db]sus é tudo [Ab]para mim;\nO [Ab]Rei, e meu Se[Eb]nhor;\nO[Ab]lhando, eu [Db]tenho [Ab]sim,\nDo [Eb]céu real vi[Ab]gor!"
     },
     {
         "numero": 439,
@@ -13480,7 +13480,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 439 - Aos Pés de Cristo Prostrados\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]De Cristo ressurgido,\n[Eb]Aos seus pés nos pros[Bb]tramos;\n[Bb]Com fé O a[Edim]dora[Bb]mos,\n[Gm]Do mundo é o [C]Salva[F]dor;\n[Bb]Nós, crentes redimidos,\n[Bb]Por sangue já la[F]vados,\n[F]Na graça bem guar[Bb]da[Gm]dos,\n[C]Temos de [F]Deus fa[Bb]vor!\n\n[Bb]Tudo que nós sofremos,\n[Eb]Cristo já tem pro[Bb]vado,\n[Bb]Ao pecador cansa[Bb]do,\n[Gm]Pode, quer [C]aju[F]dar;\n[Bb]Oh! Quanta dor nós vemos,\n[Bb]Cristo na cruz so[F]frendo,\n[F]Com sede ali mor[Bb]ren[Gm]do,\n[C]Para o mor[F]tal sal[Bb]var!\n\n\"[Bb]Eu tenho sede\", exclama\n[Eb]O divina! Cor[Bb]deiro,\n[Bb]Pregado no [Edim]madei[Bb]ro,\n[Gm]Na cruz da [C]maldi[F]ção;\n[Bb]Oh! Quanto Cristo ama\n[Bb]O pecador per[F]dido,\n[F]Pois sangue tem ver[Bb]ti[Gm]do,\n[C]Para lhe [F]dar per[Bb]dão!\n\n[Bb]A nós, que santos somos,\n[Eb]Dá-nos e vera [Bb]graça,\n[Bb]Para que assim [Edim]se fa[Bb]ça,\n[Gm]Em nós o [C]Teu que[F]rer,\n[Bb]Na cruz achar nós fomos\n[Bb]Consolo abun[F]dante,\n[F]Graça de Deus bas[Bb]tan[Gm]te,\n[C]E divi[F]na! po[Bb]der!"
     },
     {
         "numero": 440,
@@ -13508,7 +13508,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 440 - Faze Já o seu Querer\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Em viver pra Cristo firme [C]permanecerás\n[C]E a paz após, tu [F]sempre seguirás?\n[F]E ao pé da cruz os teus cui[Bb]dados deixarás?\n[C]Faze já o Seu que[F]rer!\n\nCoro:\nO [C]Seu poder e Seus dons [F]te dará;\nDe [C]gozo, Cristo, sim, te [F]inundará;\nDo [F]cora[C]ção as manchas [Bb]limpará\nFa[C]zendo tu, p’ra sempre, [C]Seu que[F]rer!\n\n[F]Queres ir após de Cristo e [C]carregar a cruz?\n[C]Queres conhecer a [F]paz que dá Jesus?\n[F]Queres que te guie com a [Bb]verdadeira luz?\n[C]Faze já o Seu que[F]rer!\n\n[F]Queres lá no céu os teus a[C]migos encontrar?\nDe[C]ves preparar tua [F]vida sem tardar,\n[F]Queres pra Jesus a [Bb]tua vida consagrar?\n[C]Faze já o Seu que[F]rer!"
     },
     {
         "numero": 441,
@@ -13541,7 +13541,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 441 - A Chuva do Consolador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nU[Ab]nânimes ao [Eb]pé da cruz,\nPe[Eb]dimos com fer[Ab]vor,\nNos [Ab]manda hoje, [Bb]ó Jesus,\nO [Bb]bom Consola[Eb]dor!\n\nCoro:\nSim, [Ab]manda outra chuva,\nÓ [Db]bom salva[Ab]dor!\nE [Eb]com Tua [Ab]chama\nDes[Bb]trói de nós o [Eb]mal;\nO [Ab]dá-nos a chuva,\nDo [Db]Consola[Ab]dor;\nAo [Db]povo Teu in[Ab]flama\nCom po[Eb]der celes[Ab]tial!\n\nQual [Ab]vivo fogo ou [Eb]furacão,\nO [Eb]fá-Lo a nós des[Ab]cer;\nE possa cada coração\nUm templo dEle ser.\n\nMe[Ab]diante a fé e [Eb]a oração,\nO [Eb]céu Tu abri[Ab]rás,\n[Ab]O óleo santo [Bb]da unção,\nEm [Bb]nós derrama[Eb]rás!\n\nPe[Ab]dimos nós, a[Eb]gora a Ti\nÓ [Eb]queima todo [Ab]mal\nE [Ab]vivifica-[Bb]nos aqui,\nCom [Bb]fogo celes[Eb]tial!"
     },
     {
         "numero": 442,
@@ -13569,7 +13569,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 442 - Breve Verei o Bom Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nBreve no [C]céu, Jesus há de aparecer\nEm glorio[G]sa luz; todos O [C]hão de ver\nNaquele [C]dia, então, eu hei de [F]receber\nDe Cristo [G]galardão; oh! que pra[C]zer!\n\nCoro:\nBreve ve[G]rei o bom Je[C]sus,\nE vive[G]rei em plena [C]luz;\nNo lindo [C]céu eu goza[F]rei...\nDe toda a [G]dor, por Deus, livre se[C]rei.\n\nNa vinda [C]do Senhor irei eu receber,\nDo Seu e[G]terno amor, repouso [C]e prazer,\n- Disso, meu [C]bom Jesus, tem-me fa[F]lado já\nE da ce[G]leste luz de Jeo[C]vá!\n\nNa vinda [C]do Senhor desfrutarei prazer,\nQuando meu [G]Salvador em glória a[C]parecer;\nEis que Ele [C]breve vem, os santos [F]levará\nPara a man[G]são de além, donde vi[C]rá!"
     },
     {
         "numero": 443,
@@ -13602,7 +13602,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 443 - Larga o Mundo!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nPeca[Eb]dor, um convite te queremos dar.\nUm con[Bb]vite divino e con[Eb]solador;\nHoje [Eb]queres à casa paternal voltar,\nOnde [Bb]Cristo te espera cheio [C]de a[Bb]mor.\n\nCoro:\nLarga o [Bb]mundo já, vem a[Eb]pós Jesus;\nO qual [Bb]pode agora mesmo [Eb]te salvar!\nTudo [Bb]pronto está, que di[Eb]vina [Cm]luz!\nCristo [Bb]hoje te convida para vir [Eb]cear!\n\nQuando [Eb]Cristo sofreu pregado lá na cruz;\nPrepa[Bb]rou pra teu ser um divi[Eb]nal manjar;\nE a[Eb]gora te chama para Sua luz;\nPois [Bb]tua alma faminta Ele [C]quer far[Bb]tar!\n\nÓ a[Eb]ceita o convite que Jesus te faz,\nQue fran[Bb]queia a entrada na man[Eb]são de luz;\nE o [Eb]gozo divino que te satisfaz,\nÓ a[Bb]ceita o convite do Se[C]nhor Je[Bb]sus!\n\nAi do [Eb]que o convite santo recusar,\nE ti[Bb]ver por profano o sangue [Eb]de Jesus;\nO ban[Eb]quete celeste não vai desfrutar,\nQuem despre[Bb]za o convite feito [C]lá na [Bb]cruz!"
     },
     {
         "numero": 444,
@@ -13635,7 +13635,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 444 - Escuta, Pobre Pecador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nEs[G]cuta, pobre pecador,\nEm [G]Cristo há per[D]dão;\nA[G]ceita agora o [C]Salvador,\nPois [D]nEle há salva[G]ção!\n\nCoro:\n[G]Vem a Cristo [C]sem tardan[G]ça,\n[G]Receber per[D]dão,\n[G]E a vida [C]d’esperan[G]ça\n[D]Fruirás, en[G]tão!\n\nPra [G]redimir-te, o Redentor\nSeu [G]sangue derra[D]mou!\nNa [G]cruz; sofrendo [C]grande dor,\nJe[D]sus te resga[G]tou!\n\nCami[G]nho certo é Jesus;\nA[G]chamos nEle [D]paz!\nCami[G]nho santo [C]e de luz,\nQue [D]sempre satis[G]faz!\n\nVem ho[G]je, vem te entregar\nDei[G]xando todo [D]mal,\nDeus [G]quer agora [C]te salvar,\nÓ [D]vem pra luz [G]real!"
     },
     {
         "numero": 445,
@@ -13668,7 +13668,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 445 - Resgatado Com O Sangue de Cristo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nCom [C]ouro e prata não [G]fui resgatado,\nTe[G]souro ter[C]restre, jamais [G]me li[C]vrou;\nO [C]preço foi o sangue de [F]Cristo, ma[C]nado\nNa [D]cruz do Calvário onde a vida [G]raiou!\n\nCoro:\nPor prata e [C]ouro não fui re[Dm]mido,\nNem por tesouro de mui valor,\nMas pelo [C]sangue que foi ver[F]tido\nPor Je[G]sus, meu Salva[C]dor!\n\nO [C]ouro e a prata va[G]lor, oh! não tinham\nPra [G]satisfa[C]zer a justi[G]ça de [C]Deus.\nMas [C]Cristo pagou toda [F]a dívida [C]minha;\nEn[D]cheu-me de amor e de paz lá do [G]céu.\n\nPor [C]ouro e por prata não [G]pude chegar-me\n[G]Diante de [C]Deus e o perdão [G]ob[C]ter;\nPio [C]sangue de Cristo, eu [F]pude lan[C]çar-me\nNa [D]graça divina e o favor rece[G]ber.\n\nPor [C]ouro e por prata não [G]fui redimido;\nA en[G]trada do [C]céu não se po[G]de com[C]prar;\nMas, [C]só pelo sangue de [F]Cristo ver[C]tido\nNa [D]cruz, poderemos a glória alcan[G]çar."
     },
     {
         "numero": 446,
@@ -13696,7 +13696,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 446 - Ó Vem Já!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nVem, [Ab]ó alma cansada, que [Eb]sentes dor,\nA teu [Eb]bom Salvador, a Je[Ab]sus,\nE con[Ab]fia no sangue do [Eb]Redentor,\nDerra[Eb]mado, que foi lá na [Ab]cruz.\n\nCoro:\n[Ab]Ó vem [Db]Já! Ó vem [Ab]Já! A Jesus vem [Eb]como estás;\n[Ab]Não demores [Db]pecador acei[Eb]tar o teu [Ab]Salvador.\n[Ab]Ó vem [Db]Já! Ó vem Já! [Ab]A Jesus vem [Eb]como estás,\n[Ab]Não demores [Db]pecador acei[Eb]tar o teu [Ab]Salvador.\n\nTu que [Ab]vagas mui longe do [Eb]Salvador,\nNo pe[Eb]cado, no mal preso es[Ab]tás;\nSó Je[Ab]sus é que vai te li[Eb-]vrar da dor.\nSalva[Eb]ção hoje mesmo te [Ab]dar.\n\nCristo [Ab]chama ainda: \"Ó [Eb]vindes Mim,\nOpri[Eb]midos, cansados, sem [Ab]paz;\nVida e[Ab]terna darei para [Eb]vós, enfim,\nNo meu [Eb]reino de gozo ve[Ab]raz\"."
     },
     {
         "numero": 447,
@@ -13729,7 +13729,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 447 - Nascer de Novo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: E\n\n[E]Nascestes de novo? Andas já com [F#m]Deus?\n[B]Pertences ao povo, que vai para os [E]céus?\n[E]Tens a lei escrita no teu cora[A]ção?\n[A]Em ti já ha[E]bita [B]plena salva[E]ção?\n\nCoro:\n[E]Se o caminho é estreito, a porta é tam[B]bém,\n[B]Tudo está feito, não demores, [E]vem!\n[E]No portal da vida Cristo acha[A]rás,\n[A]Ao findar a [E]lida lá no [B]céu tu esta[E]rás.\n\n[E]Já desceste às águas, passaste o [F#m]Jordão?\n[B]Tens ainda mágoas no teu cora[E]ção?\n[E]Foste batizado como foi Je[A]sus?\n[A]Segues a Seu [E]lado [B]para o céu de [E]luz?\n\n[E]O poder vindouro recebes[F#m]te já?\n[B]Tens o teu tesouro escondido [E]lá?\n[E]Vida de vitória vives já com [A]Deus?\n[A]Marchas para [E]glória? [B]Andas para os [E]céus?\n\n[E]Ao ouvir o brado: “Eis que Cris[F#m]to vem”,\n[B]Tens te preparado pra dizer a[E]mém?\n[E]Alvo é teu vestido, clara é tua [A]luz?\n[A]Canta co'os re[E]midos - [B]Vem, Senhor Je[E]sus."
     },
     {
         "numero": 448,
@@ -13748,7 +13748,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 448 - Crentes, Avançai\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nCrentes, a[Eb]vançai,\nFirmes [Eb]pelejai\nContra o [Bb]vício, contra o [Eb]mal!\nQuem quer [Eb]triunfar,\nCris[Eb]to agradar,\nVem à [F]luta divi[Bb]nal,\nNosso [Bb]guia é Je[Eb]sus,\nEle [Bb]sempre nos con[Eb]duz;\nA vi[Eb]tória nos da[Ab]rá,\nCristo [Bb]sempre vence[Eb]rá.\n\nO ce[Eb]leste lar\nVa[Eb]mos alcançar,\nSe lutarmos com valor;\nPara o céu marchai,\nSempre a[Eb]vante andai\nDando [F]glória ao Reden[Bb]tor.\nO Seu [Bb]sangue que ver[Eb]teu.\nSalva[Bb]ção a todos [Eb]deu;\nQuem crê [Eb]nEle goza[Ab]rá,\nVida e[Bb]terna frui[Eb]rá!"
     },
     {
         "numero": 449,
@@ -13781,7 +13781,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 449 - À Beira da Estrada\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nÀ beira da estrada estão\n[Bb]Muitos que es[F]peram a [C]salvação;\n[F]Podem tais almas sem Deus perecer,\n[Bb]Ou estás [F]pronto para [C]as socor[F]rer?\n\nCoro:\nQuem ho[Bb]je dirá: “Eis-me a[F]qui, Senhor,\nEu [C]quero aos perdidos fa[F]lar do amor,\nA [Bb]quantos na senda da [F]vida achar,\nDe [C]Cristo eu irei fa[F]lar\"\n\nÀ beira da estrada estão\n[Bb]Muitos que [F]buscam do [C]céu o pão;\n[F]Para os famintos, oh! quem falará\n[Bb]Do Evan[F]gelho que [C]lhes sacia[F]rá?\n\n[F]Pelo caminho em que vais,\n[Bb]Existem en[F]fermos es[C]pirituais;\n[F]Qual o bom samaritano, farás,\n[Bb]Ou qual es[F]criba, a[C]lém passa[F]rás?\n\n[F]Quando a jornada terminar\n[Bb]E o fim da es[F]trada se a[C]proximar,\nCo[F]nhecerás muitos na multidão,\n[Bb]Que rece[F]beram, de [C]Deus, salva[F]ção."
     },
     {
         "numero": 450,
@@ -13809,7 +13809,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 450 - Sol da Justiça\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]O sol da justiça vamos procla[C]mar\n[C]Sua luz resplandece em qualquer lu[F]gar,\n[F]Seu fulgor dourado de amor e [Bb]paz,\n[Gm]Salvação com[C]pleta aos caídos [F]traz.\n\nCoro:\n[F]Resplande[Bb]ce, ó sol verda[Gm]deiro!\nTeus celestes raios vamos espalhar;\n[F]Resplandece, ó sol verda[Bb]deiro!\n[F]Tão formosos raios [C]vamos procla[F]mar!\n\n[F]Resplendor celeste brilha desde os [C]céus.\n[C]Fala-nos de Cristo, do amor de [F]Deus;\n[F]Com Jesus nós vamos, todos, traba[Bb]lhar,\n[Gm]Do céu aos per[C]didos o esplendor le[F]var.\n\n[F]Só uns raios fortes deste resplen[C]dor,\n[C]Toda a terra podem inundar de a[F]mor;\n[F]Podem dum deserto fazer um jar[Bb]dim;\n[Gm]Resplendor do [C]sol. ó brilha para [F]mim."
     },
     {
         "numero": 451,
@@ -13837,7 +13837,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 451 - Meu Jesus Vem\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Os testemunhos in[C]dicam\n[D]Que breve Cristo vi[G]rá;\n[G]Já os sinais tes[C]tificam\n[D]Que Ele vem, não tarda[G]rá.\n[D]Oh! Dia de grande [G]glória,\n[Em]Para os re[C]midos se[D]rá!\n[G]Dia será de vi[C]tória;\n[D]Jesus em breve vi[G]rá.\n\nCoro:\n[D]Meu Jesus vem, [G]meu Jesus vem;\n[Em]Vou encon[C]trá-Lo no [D]céu!\n[G]Os anjos nas harpas [C]tangem,\n[D]Dando louvores a [G]Deus!\n\n[G]Tudo é trevas no [C]mundo,\n[D]A noite chegada es[G]tá,\n[G]Mas voz de amor mui pro[C]fundo\n[D]Diz que Jesus volta[G]rá.\n[D]Meu corpo já transfor[G]mado,\n[Em]Um céu a[C]berto acha[D]rá!\n[G]Com anjos mil a Seu [C]lado,\n[D]Jesus em breve vi[G]rá!\n\n[G]Tristezas desapa[C]recem\n[D]E dores não have[G]rá;\n[G]Estrelas já resplan[C]decem;\n[D]A festa começa[G]rá!\n[D]Descanso ali prome[G]tido,\n[Em]Minh'alma en[C]tão goza[D]rá;\n[G]Ouve a mensagem, per[C]dido;\n[D]Jesus em breve vi[G]rá!"
     },
     {
         "numero": 452,
@@ -13851,7 +13851,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 452 - Seguirei a Cristo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Sempre! Sempre! [Db]Seguirei a [Ab]Cristo!\n[Eb]Onde quer que Ele for, O seguirei,\n[Ab]Sempre! Sempre! [Db]Seguirei a [Ab]Cristo!\n[Db]Onde quer que [Ab]Ele for, O [Eb]segui[Ab]rei!"
     },
     {
         "numero": 453,
@@ -13879,7 +13879,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 453 - Deus é o mesmo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nOh! Co[Eb]mo é bom dos tempos primitivos lembrar\nE dos [Ab]aviva[Eb]mentos de que ou[Cm]vimos fa[Bb]lar;\nDeus quer [Eb]nos dar mais fervor espiri[Ab]tual.\nAo Seu [Ab]povo man[Eb]dar o poder [Bb]pentecos[Eb]tal.\n\nCoro:\nNosso [Eb]Deus é o mesmo hoje como então,\nEle [Eb]cura, batiza e nos [Cm]dá salvação.\nAbun[Eb]dante é aqui a vida espiri[Ab]tual\nPara [Ab]os que re[Eb]cebem poder [Bb]pentecos[Eb]tal!\n\nOh! Co[Eb]mo é bom dos crentes primitivos lembrar\nAs fer[Ab]ventes o[Eb]rações, o seu a[Cm]legre can[Bb]tar,\nDeus os [Eb]ouviu e sempre os livrou do [Ab]mal,\nE tam[Ab]bém os en[Eb]cheu de poder [Bb]pentecos[Eb]tal!\n\nAlguns [Eb]dizem: \"Mudado tudo hoje está\".\nMas eu [Ab]sei que meu [Eb]Deus nunca ja[Cm]mais muda[Bb]rá;\nDeus per[Eb]manecerá qual farol eter[Ab]nal,\nEn[Ab]viando ao Seu [Eb]povo poder [Bb]pentecos[Eb]tal!"
     },
     {
         "numero": 454,
@@ -13902,7 +13902,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 454 - Alegrai-vos, ó Remidos\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Glo[Bb]rioso [Eb]é o Cor[Bb]deiro,\n[Eb]Ele é [Ab]digno [Bb]de lou[Eb]vor;\nÉ o res[Bb]gate [Eb]verda[Bb]deiro\n[Eb]Do pe[Ab]cado [Bb]e do hor[Eb]ror,\n[Eb]Alegrai-[Bb]vos, ó re[Eb]midos;\n[Eb]Cantai glória ao [Bb]Reden[Eb]tor!\n\nCoro:\n[Eb]Ale[Cm]luia! [Ab]Ale[Bb]luia! [Eb]Cantai [Cm]glória e [Bb]dai lou[Eb]vor!\n[Eb]Ale[Cm]luia! [Ab]Ale[Bb]luia! [Eb]Cantai [Cm]glória ao [Bb]Reden[Eb]tor!\n\n[Eb]Honra, [Bb]gló[Eb]ria e do[Bb]mínio\n[Eb]A Je[Ab]sus, o [Bb]Rei dos [Eb]reis!\n[Eb]Que no [Bb]santo [Eb]vati[Bb]cínio\n[Eb]É a [Ab]luz dos [Bb]Seus [Eb]fiéis.\n[Eb]Alegrai-[Bb]vos, ó re[Eb]midos:\n[Eb]Cantai glória, e [Bb]vence[Eb]reis!"
     },
     {
         "numero": 455,
@@ -13931,7 +13931,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 455 - O Povo de Deus na Terra\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]O povo [Bb]de Deus, aqui [Ab]na terra [Eb]tem um sinal:\n[Eb]Povo [Bb]que vive em santa [Ab]guerra [Bb]contra o [Eb]mal;\n[Bb]Povo que espera [Eb]a Jesus Cristo, [F]que presto [Bb]vem\nÉ pois Ele mesmo, quem nos diz isto: \"Vigiei mui bem”.\n\n[Eb]A minha [Bb]paz, sim, não a do [Ab]mundo, [Eb]Eu vos darei\n[Eb]O cora[Bb]ção [Cm]de gozo pro[Ab]fundo, [Bb]Eu enche[Eb]rei;\n[Bb]Com o Seu braço [Eb]Ele nos guia, [F]oh! grande a[Bb]mor\n[Eb]Para os que Lhe pe[Fm]dem, logo en[Ab]via o Con[Bb]sola[Eb]dor!\n\nÓ vin[Bb]de a Mim, [Cm]Jesus con[Ab]vida, [Eb]quem sede tem!\n[Eb]Beber, ó [Bb]vinde, da água [Ab]da vida, [Bb]celeste [Eb]bem!\n[Bb]Cristo sacia [Eb]a alma sedenta [F]do peca[Bb]dor!\n[Eb]Salva, pu[Cm]rifi[Fm]ca e alimen[Ab]ta, en[Bb]che de a[Eb]mor!\n\n[Eb]Em Cristo. [Bb]cren[Cm]do sempre O se[Ab]guindo [Eb]quão doce é\n[Eb]A paz pro[Bb]funda e o amor sen[Ab]tindo: [Bb]Tudo [Eb]por fé\n[Bb]Feliz o homem [Eb]que guarde isto, [F]pois vida [Bb]tem\n[Eb]Há de reinar [Cm]sempre [Fm]com Jesus Cris[Ab]to na man[Bb]são de a[Eb]lém."
     },
     {
         "numero": 456,
@@ -13964,7 +13964,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 456 - A Fonte Transbordante\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\n[A]Oh! Que [E]fonte transbor[A]dante!\n[D]Mais pro[A]funda que o [E]mar.\nÉ de Deus, o amor i[D]menso,\nQue Je[E]sus me veio [A]dar.\n\nCoro:\nE[E]le me abriu a [A]porta,\n[D]E me [A]reconci[E]liou,\n[A]Por Seu sangue derra[D]mado;\npara [E]Deus me consa[A]grou.\n\n[A]Como a [E]pomba perse[A]guida\n[D]E can[A]sada estava [E]eu\n[A]Mas Jesus jamais re[D]jeita,\nQuem bus[E]car abrigo [A]Seu.\n\n[A]Graça [E]abundante[A]mente\n[D]Sobre [A]mim já derra[E]mou;\n[A]Onde abundou pe[D]cado,\nGraça [E]superabun[A]dou.\n\n[A]Quando alvo[E]recer meu [A]dia.\n[D]Com Je[A]sus, irei pro [E]céu;\n[A]Eu O exaltarei pra [D]sempre,\nPois [E]salvou um perdido [A]réu."
     },
     {
         "numero": 457,
@@ -13997,7 +13997,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 457 - O Festim de Glória\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Oh! Que festim de [C]gló[F]ria [D]para nós há de [Gm]ser!\n[C]Quando tiver nas [E]nu[Am]vens, [Bb]Cristo de apare[C]cer.\n\nCoro:\n[F]Oh! Nesse evento mui feliz\n[D]e de prazer tam[Gm]bém,\n[C]Eu hei de ver meu [F]bom Jesus,\n[C]fonte de todo [F]bem.\n\n[F]Nesse glorioso [C][F][D]dia, o corpo meu mor[Gm]tal,\n[C]Será como o de an[E][Am]jos, [Bb]no lar celes[C]tial.\n\n[F]Oh! Que ditosa [C]vin[F]da, [D]a do meu Salva[Gm]dor!\n[C]Eu O estou espe[E]ran[Am]do, [Bb]mui firme em Seu a[C]mor!\n\n[F]Ó Cristo, apressa o [C][F]dia [D]em que hás de vol[Gm]tar!\n[C]Para ver Tua [E]fa[Am]ce [Bb]eu ‘stou a espe[C]rar."
     },
     {
         "numero": 458,
@@ -14030,7 +14030,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 458 - Guia Meus Passos\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Guia meus passos, Senhor Jesus,\nSe[Am]nhor de con[D]sola[G]ção,\n[G]Leva-me à estrada da Tua luz,\nA [Am]fonte do [D]Teu per[G]dão.\n\nCoro:\n[G]Lá fora, eis a cho[C]rar, [G]sem Deus.\nsem luz, sem [D]lar.\n[G]O pecador... Ouve, Senhor,\na [A]queixa do [D]peca[G]dor.\n\n[G]Tuas ovelhas fiéis conduz\n[Am]Por vales, ver[D]géis em [G]flor,\n[G]Ao Teu aprisco, Senhor Jesus...\nJe[Am]sus, nosso [D]bom Pas[G]tor.\n\n[G]Na larga estrada vai triste e só\n[Am]O filho de Be[D][G]lial...\n[G]Triste, faminto, envolto em pó,\nEs[Am]cravo infe[D]liz do [G]mal.\n\n[G]Senhor dos simples, Senhor Jesus,\nOh! [Am]Glorioso [D]Deus de a[G]mor!\n[G]A ovelha errante atrai, conduz\nAo [Am]Teu redil, [D]bom Pas[G]tor."
     },
     {
         "numero": 459,
@@ -14063,7 +14063,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 459 - As Firmes Promessas\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nDe Deus mui [Ab]firmes são as promessas\nMais firmes [Eb]que as montanhas [Ab]são.\nQuando o so[Ab]corro terrestre cessa,\nOs de Deus [Eb]não falha[Ab]rão!\n\nCoro:\nDe Deus mui [Eb]firmes são as pro[Ab]messas,\nFalhando [Eb]tudo, não falha[Ab]rão;\nSe das es[Eb]trelas o brilho [Ab]cessa,\nMas as pro[Eb]messas brilha[Ab]rão!\n\nSe a fé [Ab]te falta, nos teus apertos,\nNas Suas pro[Eb]messas descansa em [Ab]paz.\nQuando és ten[Ab]tado, estou bem certo\nQue Cristo au[Eb]xílio te [Ab]traz.\n\nSe a febre arde, se extingue a vida\nE quer a morte te arrebatar,\nNas Suas pro[Ab]messas terás guarida\nBastante [Eb]pra te abri[Ab]gar.\n\nPromessa [Ab]temos que ao céu de gozo\nVirá le[Eb]var-nos o Rei Je[Ab]sus;\nEntão ao [Ab]crente fiel, corajoso,\nDará co[Eb]roa de [Ab]luz."
     },
     {
         "numero": 460,
@@ -14096,7 +14096,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 460 - Dize-o a Cristo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Se estás can[Eb]sado e aba[Bb]tido,\nDi[F]ze-o a Cristo; [Bb]Dize-o a Cristo;\n[Bb]Se te sentes [Eb]débil, confun[Bb]dido,\n[F]Dize-o ao teu Salva[Bb]dor.\n\nCoro:\nDize-o a Cristo; dize-o a Cristo;\n[Eb]Que é o a[Bb]migo mais [F]fiel;\n[Bb]Não há outro a[Eb]migo como [Bb]Cristo,\n[F]Dize-o ao Ema[Bb]nuel.\n\n[Bb]Quando estás de [Eb]tentação cer[Bb]cado,\n[F]Olha pra Cris[Bb]to; olha pra Cristo;\n[Bb]Quando rugem [Eb]hostes do pe[Bb]cado,\nO[F]lha p'ra teu Salva[Bb]dor.\n\n[Bb]Se saíram [Eb]outros já da [Bb]senda,\n[F]Segue a Cris[Bb]to; segue a Cristo;\n[Bb]Se aumenta [Eb]em torno a con[Bb]tenda,\n[F]Segue a teu Salva[Bb]dor.\n\n[Bb]Ao chegares [Eb]ao fim da jor[Bb]nada,\n[F]Confia em Cristo; [Bb]confia em Cristo;\n[Bb]Dar-te-á no [Eb]céu feliz en[Bb]trada,\n[F]Confia em teu Salva[Bb]dor."
     },
     {
         "numero": 461,
@@ -14125,7 +14125,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 461 - Jesus Chorou Sobre Jerusalém\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nJerusa[Eb]lém por Cristo é contem[Bb]plada.\nCom os [Bb]seus altos que rebri[Eb]lham lá,\nMas entre as [Cm]belas [G]torres levanta[Ab]das;\nVê as do [Bb]templo onde esteve [Eb]já;\nJesus com Seu olhar mui penetrante,\nNão vê somente o lindo exterior,\nMas sim [Eb]as almas [G]tristes, vacilan[Ab]tes.\nQue re[Bb]jeitaram Seu divino a[Eb]mor.\n\nJesus cho[Eb]rou: Seu coração ras[Bb]gado\nLamenta e [Bb]sente uma dor sem [Eb]par,\nPor ver [Cm]Seu povo [G]indo descuida[Ab]do,\nPra perdi[Bb]ção eterna cami[Eb]nhar!\nUm som a[Cm]legre sobe da ci[Ab]dade,\nO povo es[Bb]tá em festa a jubilar,\nMas quando o [Eb]sol, [G]se escondeu à tar[Ab]de,\nJesus [Bb]ao Cedrom foi pra lamen[Eb]tar.\n\nJerusa[Eb]lém, que segues o mau [Bb]trilho,\nE ape[Bb]drejas os fiéis de [Eb]Deus;\nÓ quantas [Cm]vezes [G]quis juntar teus fi[Ab]lhos,\nComo a gali[Bb]nha ajunta os pintos [Eb]seus;\nMas para [Cm]Mim, as portas tu fe[Ab]chaste,\nNo dia [Bb]que Eu vim te dar a paz;\nPor teu pe[Eb]cado [G]cega te tornas[Ab]te,\nNão acei[Bb]tando o meu amor ve[Eb]raz!\n\nAinda [Eb]se repete a mesma his[Bb]tória,\nJesus do [Bb]céu está a contem[Eb]plar\nCidades [Cm]que têm [G]aparente gló[Ab]ria,\nE conti[Bb]nua sempre a cho[Eb]rar;\nPois E[Cm]le é quem pode dar a [Ab]vida\nÀs multi[Bb]dões que na condenação\nRejeitam, [Eb]sim, a [G]graça ofereci[Ab]da,\nA eter[Bb]nal e grande salva[Eb]ção!"
     },
     {
         "numero": 462,
@@ -14139,7 +14139,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 462 - Glória ao Salvador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Glória! Glória! Ale[Eb]luia!\n[Eb]Glória! Glória ao nosso [Ab]Salvador!\n[Ab]Glória a Jesus! [Db]Glória a Jesus!\n[Ab]Nosso [Eb]grande Reden[Ab]tor."
     },
     {
         "numero": 463,
@@ -14167,7 +14167,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 463 - O Povo de Abraão\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nComo o [Bb]povo de Abraão\nPara a [F]terra de Sião\nEntre os [Bb]povos ini[Eb]migos [F]via[Bb]jou;\nHoje eu [Bb]cheio de amor,\nE de fé no Salvador,\nCaminhando para o céu, contente vou.\n\nCoro:\nLá no [Bb]céu, lá no [F]céu,\nAs [Bb]tristezas eu jamais conhece[F]rei;\nRuas [Bb]áureas brilham lá,\nNa ci[F]dade de Jeová;\nSempre a[Bb]legre, vou mar[Eb]chando [F]para o [Bb]céu!\n\nSusten[Bb]tado pelo amor\nDo ben[F]dito Salvador,\nVigiando, sempre orando, certo vou;\nDirigido pela luz\nDa pre[F]sença de Jesus,\nCami[Bb]nhando para o [Eb]céu, eu [F]sempre es[Bb]tou.\n\nLá no [Bb]céu eu chegarei,\nSua [F]glória gozarei\nCom a[Bb]queles que ser[Eb]virem [F]ao Se[Bb]nhor;\nQuero [Bb]sempre trabalhar\nPara [F]O glorificar,\nPra [Bb]que todos vejam em [Eb]mim o [F]Seu a[Bb]mor."
     },
     {
         "numero": 464,
@@ -14181,7 +14181,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 464 - Plena Graça\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Plena graça para [D]me salvar\n[D]Sangue puro para [G]me lavar,\nE poder pra sempre me guardar,\nTem meu Senhor."
     },
     {
         "numero": 465,
@@ -14214,7 +14214,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 465 - Ele Sofreu Por mim\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nEu [F]li que Je[C]sus fora [F]preso;\nDe [C]dor a minh'alma vi[F]brou;\nEu [F]antes as[C]sim não sen[F]tia,\nAgo[C]ra isto a mim empol[F]gou,\n[Bb]Eu li que Ele foi condu[F]zido\nÀ [F]corte de Jerusa[C]lém;\nA[F]li pade[Bb]ceu grande a[F]fronta.\nFoi c'[C]roado de espinhos tam[F]bém.\n\nCoro:\nEu [Bb]sei que eu era cul[F]pado,\nMas E[F]le sofreu já por [C]mim;\nEu [F]sei que Ele [Bb]era ino[F]cente,\nPa[C]decendo tudo as[F]sim.\n\nEu [F]li que Je[C]sus foi jul[F]gado;\nU'a [C]cruz mui pesada le[F]vou,\nE [F]nela, por [C]mim expi[F]rando,\nOs [C]meus vis pecados to[F]mou;\nEn[Bb]quanto na cruz, pendu[F]rado,\nU'a [F]lança Seu lado fu[C]rou;\nNa es[F]ponja Lhe [Bb]deram vi[F]nagre,\nE [C]Ele, por mim, o tra[F]gou\n\nDe[F]pois José [C]de Arima[F]téia\nE [C]outros discípulos tam[F]bém\nPu[F]seram-No, [C]em um se[F]pulcro,\nE os [C]guardas vigiavam [F]bem:\nEn[Bb]quanto no mundo, Ele [F]disse,\nQue ha[F]via de ressusci[C]tar,\nE [F]Deus fez en[Bb]tão um mi[F]lagre.\nFa[C]zendo-O dos mortos tor[F]nar!\n\nOs [F]guardas [C]ainda vi[F]giavam,\nQuan[C]do um anjo veio do [F]céu,\nE a [F]pedra que es[C]tava na [F]porta,\nCom [C]grande poder remo[F]veu;\nDe[Bb]pressa os laços [F]caíram;\nO [F]plano de Deus era as[C]sim;\n[F]E a luz e [Bb]a vida res[F]plendem,\nE [C]isto foi tudo por [F]mim!"
     },
     {
         "numero": 466,
@@ -14247,7 +14247,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 466 - Que Maravilha\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nA[Ab]migo, conheces, tam[Db]bém enal[Ab]teces\n[Ab]Jesus, o Filho de [Eb]Deus?\nTens [C]nEle já [Fm]crido, e [Db]assim rece[Ab]bido\n[Fm]Jesus, [Eb]o Filho de [Ab]Deus?\n\nCoro:\n[Ab]Que maravilha! [Db]Que maravilha!\n[Ab]Jesus, o Filho de [Eb]Deus!\n[C]Oh! Eu te [Fm]adoro! [Db]Sim, eu te [Ab]amo!\n[Fm]Jesus, o [Eb]Filho de [Ab]Deus!\n\nSe[Ab]guir, quem almeja, e [Db]n’alma de[Ab]seja\n[Ab]Jesus, o Filho de [Eb]Deus?\nQuem [C]foi re[Fm]jeitado por [Db]esse ado[Ab]rado\n[Fm]Jesus, o [Eb]Filho de [Ab]Deus?\n\nSe [Ab]hoje confiares, tam[Db]bém acei[Ab]tares\n[Ab]Jesus, o Filho de [Eb]Deus.\nI[C]rás ju[Fm]bilando, [Db]e sempre [Ab]louvando\n[Fm]Jesus, o [Eb]Filho de [Ab]Deus.\n\nDos [Ab]céus, muito breve, des[Db]cer pra nós [Ab]deve,\n[Ab]Jesus, o Filho de [Eb]Deusl\nÓ [C]vem, eu te [Fm]clamo. ó [Db]vem, pois [Ab]te amo,\n[Fm]Jesus, o [Eb]filho de [Ab]Deus."
     },
     {
         "numero": 467,
@@ -14280,7 +14280,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 467 - Sobre as Ondas do Mar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nOh! Por [G]que duvidar,\nSobre as [C]ondas do mar,\nQuando [G]Cristo caminho a[D]briu?\n- Quando [G]forçado és, contra as [C]ondas lutar,\nSeu a[G]mor a ti [D]quer reve[G]lar.\n\nCoro:\nSolta o [G]cabo da nau\nToma os remos na mão,\nE na[G]vega com fé em Je[D]sus;\nE en[G]tão, tu verás que bo[C]nança se faz\nPois com E[G]le, se[D]guro se[G]rás.\n\nTrevas [G]vêm te assustar,\nTempes[C]tades no mar?\n- Da mon[G]tanha o Mestre te [D]vê;\nE na [G]tribulação\nEle [C]vem socorrer,\nSua [G]mão bem te po[D]de sus[G]ter.\n\nPodes [G]tu recordar,\nMara[C]vilhas, sem par?\n- No de[G]serto ao povo far[D]tou;\nE o [G]mesmo poder\nEle [C]sempre terá,\nPois não [G]muda e [D]não falha[G]rá.\n\nQuando pe[G]des mais fé,\nEle [C]ouve, ó crê!\nMesmo [G]sendo em tribula[D]ção;\nQuando a [G]mão de poder o teu \"[C]ego” tirar,\nSobre as [G]ondas po[D]derás an[G]dar."
     },
     {
         "numero": 468,
@@ -14313,7 +14313,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 468 - Cristo Está Chamando\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Queres tu seguir a [C]Cristo,\n[C]E andar na [D]Sua [G]luz?\n[G]Queres ser por todos [Em]vis[A]to\n[G]Carregando a [D]tua [G]cruz?\n\nCoro:\n[D]Jesus Cristo está cha[G]mando,\n[C]Quer da morte te li[D]vrar;\n[G]Com paciência te espe[C]rando,\n[D]Vem, p’ra Ele te sal[G]var.\n\n[G]Queres hoje dar o [C]passo\n[C]E tornares-[D]te cris[G]tão?\n[G]Do pecado, rompe o [Em]la[A]ço\n[G]E terás a [D]salva[G]ção.\n\n[G]Por que tens tu resis[C]tido,\n[C]Esta voz de [D]compai[G]xão?\n[G]Sê do amor de Deus ven[Em]ci[A]do,\n[G]Vem, recebe a [D]salva[G]ção.\n\n[G]O que pede, aqui re[C]cebe,\n[C]O perdão no [D]sangue [G]Seu;\n[G]Quem da água viva [Em]be[A]be,\n[G]Jubilo te[D]rá no [G]céu!"
     },
     {
         "numero": 469,
@@ -14341,7 +14341,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 469 - Ao Estrugir a Trombeta\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nQuando a an[Eb]gelical trombeta neste mundo estrugir,\nO meu [Eb]nome ouvirei Jesus cha[Bb]mar;\nPois eu [Eb]creio na promessa, e que Deus a vai cumprir\nQuando ou[Eb]vir Jesus meu nome proclamar!\n\nCoro:\n[Eb]Glória! Glória! Aleluia!\nO meu [Eb]nome ouvirei Jesus cha[Bb]mar;\n[Eb]Glória! Glória! Aleluia!\nEu es[Bb]pero ouvir Jesus a me cha[Eb]mar.\n\nQuando o [Eb]céu for enrolado e o sol não der mais luz,\nO meu [Eb]nome ouvirei Jesus cha[Bb]mar;\nPassa[Eb]rão a terra, o mar, mas permanecerá Jesus,\nQue meu no[Eb]me vai na glória pronunciar.\n\nOh! Que [Eb]música suave há de ser pra eu ouvir\nO meu [Eb]nome Jesus Cristo anun[Bb]ciar,\nOh! Que [Eb]gozo vai minha alma lá nos altos céus fruir\nQuando o [Eb]Cristo o meu nome proclamar!"
     },
     {
         "numero": 470,
@@ -14374,7 +14374,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 470 - Batismo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nTua [F]graça. é Deus amado,\nVem ago[C]ra conce[F]der,\nAos que [F]vão ser batizados,\nDá-lhes [Bb]o Espí[C]rito e po[F]der.\n\nCoro:\nCom o [Bb]Teu Espírito [F]Santo,\nEstas [G]almas vem se[C]lar;\nDá-lhes vi[F]da e novo canto,\nP’ra Tua [Bb]glória [C]conquis[F]tar.\n\nA fim [F]de pra Ti viverem,\nMortos [C]para o mundo es[F]tão;\nPara o Es[F]pírito receberem,\nDá-lhes [Bb]puro [C]cora[F]ção.\n\nCom Espí[F]rito por Deus dado,\nVem, ó [C]vem já bati[F]zar,\nOs que [F]hoje seus pecados,\nVêm nas [Bb]águas, se[C]pul[F]tar.\n\nJá con[F]tigo ressurgidos,\nO Teu [C]nome louva[F]rão;\nEm Je[F]rusalém, vestidos;\nSim, de [Bb]branco, [C]reina[F]rão!"
     },
     {
         "numero": 471,
@@ -14402,7 +14402,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 471 - Avançai Fiéis\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Avançai, fiéis sol[C]dados,\n[G]Contra as hostes infer[D]nais;\n[G]Ouve-se de guerra, [C]brados,\nHomens [D]de Gideão se[G]jais;\n[D]Deste mundo, a ilu[G]são,\n[G]O terror da própria [D]morte\n[D]Não nos turba o cora[Em]ção;\n[A]Torna Deus, o fraco - for[D]te.\n\nCoro:\n[D]Pelo sangue [G]do Cordeiro\nNós vamos, sim, triunfar,\n[D]O Senhor, ao [G]vencedor vai [D]co[G]roar;\n[G]Hei de ven[C]cer\n[G]Com Jesus, o [Em]verda[D]deiro,\n[Am]Hei de vencer,\n[D]Pelo Seu po[G]der.\n\n[G]Avançai, fiéis sol[C]dados,\n[G]A seguir o pavi[D]lhão;\n[G]Ei-lo na frente arvo[C]rado\nPor Je[D]sus, nosso Capi[G]tão;\n[D]Escutemos o cla[G]mor\n[G]Dos que foram aba[D]tidos;\n[D]Vamos, logo sem te[Em]mor,\n[A]Em socorro dos feri[D]dos.\n\n[G]Avançai, fiéis sol[C]dados,\n[G]Sempre fortes, a lu[D]tar,\n[G]E os povos escravi[C]zados,\nIde a[D]vante, a liber[G]tar,\n[D]Manda Cristo avan[G]çar\n[G]A vanguarda dos re[D]midos;\n[D]Galardão hão de alcan[Em]çar\n[A]Os que forem destemi[D]dos!"
     },
     {
         "numero": 472,
@@ -14421,7 +14421,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 472 - Em Meu Lugar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Cristo Jesus lá na cruz já sofre\n[Bb]Em meu lugar, [Eb]em meu lugar;\n[Eb]Tudo por mim Ele ali padeceu,\n[Bb]Para a minh'alma sal[Eb]var.\n\n[Eb]Glória a Jesus, meu pecado cravou\n[Bb]Sobre a cruz, [Eb]sobre a cruz;\n[Eb]Sangue precioso minh'alma lavou;\n[Bb]Glória ao bondoso Je[Eb]sus."
     },
     {
         "numero": 473,
@@ -14449,7 +14449,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 473 - Outro Bem Não Acharei\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nQue outro [Eb]bem ansioso [Bb]buscarei?\nBem me[Bb]lhor, que Jesus não [Eb]acharei;\nNEle [Eb]só para sempre, [Bb]hei de estar,\nE de [Bb]cora[F]ção O a[Bb]mar.\n\nCoro:\nOutro [Eb]bem não procurarei,\nOutro [Eb]bem eu não acha[Bb]rei;\nJá em [Bb]mim, ‘stá Jesus,\nNEle [Bb]só vou con[Eb]fiar.\nQuem a[Eb]qui pode me saciar,\nNeste [Cm]mundo enganador?\nSó Je[Eb]sus, Je[Ab]sus, só Je[Bb]sus, Je[Ab]sus,\nRei [Bb]meu e fiei Se[Eb]nhor!\n\nA vai[Eb]dade do mundo a[Bb]cabará,\nTudo a[Bb]qui a seu tempo [Eb]findará;\nPara [Eb]sempre somente, há [Bb]de durar\nQuem na [Bb]luz de [F]Cristo an[Bb]dar.\n\nEntre os [Eb]homens não busca[Bb]rei a luz;\nNão mais [Bb]vivo, mais vive em [Eb]mim Jesus;\nSua [Eb]graça é bastan[Bb]te para mim,\nNão te[Bb]rá no [F]céu, mais [Bb]fim!"
     },
     {
         "numero": 474,
@@ -14493,7 +14493,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 474 - Paz, Doce Paz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n[C]Paz, [G]doce [C]paz! Que bro[F]ta, lá da [F/C][C]cruz;\nNos [F][D/F#]trouxe [C/G]paz o sangue [C/G]de [G]Je[C]sus.\n\n[C]Paz, [G]doce [C]paz! An[F]dar no Teu que[F/C][C]rer,\nDe [F][D/F#]Cristo, a [C/G]nós a paz vai [C/G]nos [G]tra[C]zer.\n\n[C]Paz, [G]doce [C]paz! Pra [F]todo o peca[F/C][C]dor!\nDes[F]can[D/F#]so e [C/G]paz tereis no [C/G]Sal[G]va[C]dor.\n\n[C]Paz, [G]doce [C]paz! Paz [F]na sepa[F/C]ra[C]ção,\nA [F]paz [D/F#]de [C/G]Cristo dá con[C/G]sola[G][C]ção!\n\n[C]Paz, [G]doce [C]paz! En[F]quanto ao meu por[F/C][C]vir,\nJe[F]sus, [D/F#]paz, [C/G]sempre me fa[C/G]rá [G][C]fruir.\n\n[C]Paz, [G]doce [C]paz! Não te[F]mo a morte, [F/C]a [C]dor,\nJe[F]sus [D/F#]ven[C/G]ceu a morte e [C/G]seu [G]ter[C]ror.\n\n[C]Paz, [G]doce [C]paz! Não [F]tardará [F/C]Je[C]sus,\nE [F][D/F#]nos da[C/G]rá celes[C/G]te [G]paz [C]e [F]luz. A[C]mém."
     },
     {
         "numero": 475,
@@ -14526,7 +14526,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 475 - Em Belém\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Lá em Belém nasceu Je[Cm]sus,\n[F]Príncipe excelso da [Bb]paz;\n[Bb]Amor divino e [Cm]santa luz,\n[F]Para o mundo perdido, Ele traz.\n\nCoro:\n[F]Louvemos ao Rei ben[Bb]dito;\n[F]Louvemos ao Rei ben[Bb]dito;\n[Eb]Louvemos ao Rei ben[Bb]di[Eb]to;\nO [F]Seu poder é infi[Bb]nito.\n\n[Bb]Honra e louvor em alta [Cm]voz,\nDe[F]mos ao Filho de [Bb]Deus,\nPois a certeza temos nós,\nDe herdar os refulgentes céus.\n\n[Bb]A jubilar os anjos es[Cm]tão,\n[F]Por ter nascido o Se[Bb]nhor;\n[Bb]Os magos vêm pra a[Cm]doração\n[F]De Jesus, o veraz Redentor.\n\n[Bb]Só mesmo o tão profundo a[Cm]mor\n[F]Do nosso bendito [Bb]Deus,\n[Bb]Mandava ao mundo [Cm]de horror,\n[F]O Seu Filho, pra salvar os Seus."
     },
     {
         "numero": 476,
@@ -14559,7 +14559,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 476 - O Cego de Jericó\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nEnquanto [G]para Jeri[D]có\nO bom Je[D]sus passa[G]va,\nUm cego, [G]filho de Ja[C]có,\nSem se can[D]sar clama[G]va:\n\nCoro:\n“Jesus, ó [G]Filho de De[D]vi,\nTem compai[D]xão de mim, Se[G]nhor!”\n“Jesus, ó [G]Filho de De[C]vi,\nAtende ao [D]meu cla[G]mor!”\n\nA multi[G]dão vendo-o cla[D]mar,\n- \"Sê quieto\", [D]lhe di[G]zia;\nMas ele [G]sem a escu[C]tar,\nMais forte [D]repe[G]tia.\n\nJesus en[G]tão mandou cha[D]mar\nO cego [D]que grita[G]va,\nQue veio [G]logo, sem tar[C]dar,\nMas “inda as[D]sim clama[G]va”\n\nJesus per[G]gunta com pra[D]zer:\n“Que queres [D]que te fa[G]ça?\"\n\"Jesus, eu [G]quero hoje [C]ver,\nPor Teu po[D]der e gra[G]ça”.\nEntão Je[G]sus lhe respon[D]deu:\n“Vai, a tua [D]fé te sal[G]vou”.\nE logo [G]viu, o Barti[C]meu,\nE ao bom Je[D]sus lou[G]vou!"
     },
     {
         "numero": 477,
@@ -14592,7 +14592,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 477 - Sede Fortes\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nSede fortes, irmãos na lida,\nE Cristo quem vos conduz;\n[C]Garantindo eterna vida,\n[C]Aos que trilharem na [F]luz.\n\nCoro:\n[F]Sim, andai na luz de Cristo,\n[F]Libertos [Dm]da eterna [Gm]dor;\nBus[C]cai, vós que a tendes [F]visto,\nA [Gm]glória [C]do Reden[F]tor!\n\n[F]Sede santos, velai orando,\n[F]Amai com santo fer[C]vor;\n[C]Muitos ficarão chorando,\n[C]Na vinda do Salva[F]dor.\n\n[F]Os fiéis adormecidos,\n[F]A voz do anjo ouvi[C]rão;\n[C]Transformados os remidos,\n[C]A Cristo encontra[F]rão.\n\n[F]E vereis naquele dia\n[F]Sua glória em esplen[C]dor,\n[C]Fruireis paz e alegria,\n[C]Nos braços do Salva[F]dor."
     },
     {
         "numero": 478,
@@ -14635,7 +14635,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 478 - Eis-me Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Eis-me, Jesus, Te lou[C]vando,\nPois [D]Tu padeceste as[G]sim;\n[G]O sangue Teu derra[C]mando,\nNa [D]dura cruz por [G]mim.\n\nCoro:\nGlória, aleluia! ó Cordeiro,\nTua [D]vida deu-me [G]paz!\n[E]Dou-Te louvor verda[Am]deiro,\nPor [D]graça tão ve[G]raz!\n\n[G]Do Teu amor me en[C]cheste,\nOh! Ma[D]ravilhoso Je[G]sus;\n[G]Quando o Espírito me [C]deste,\nTra[D]zendo gozo à [G]flux!\n\n[G]Os Teus discípulos, fi[C]zeste\nEm [D]línguas estranhas fa[G]lar;\n[G]O mesmo a mim conce[C]deste,\nE [D]dás a quem bus[C]car.\n\n[G]Que Teu Espírito [C]desça,\nA [D]fim de Teu povo se[G]lar,\n[G]Realizando a pro[C]messa\nNa[D]quele que con[G]fiar.\n\n[G]Os dons do Santo Es[C]pírito\nSão [D]nove, que Cristo nos [G]dá;\n[G]E ao que pede con[C]trito,\nJe[D]sus não os nega[G]rá.\n\nÉ Teu amor, céu e gozo,\nNo qual sempre me alegrarei;\n[G]Ao meu Senhor tão bon[C]doso,\nMil [D]glórias Lhe da[G]rei!"
     },
     {
         "numero": 479,
@@ -14668,7 +14668,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 479 - Ao Raiar do Novo Ano\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nÉ meia noite, o ano já fenece,\nNós elevamos os olhos aos céus,\n[C]Todos o[F]rando para que co[C]mece\n[C]O ano [G]novo na graça de [C]Deus.\n\nCoro:\n[C]As nossas [F]vozes juntas levan[C]temos,\n[C]Com ale[G]gria e suave [C]som;\n[C]Em grati[F]dão a Cristo, jubi[C]lemos,\n[C]Pelo [G]raiar de mais um ano [C]bom.\n\n[C]Senhor, pedimos [F]nós ardente[C]mente,\n[C]Ouve, por [G]Teu infinito a[C]mor;\n[C]Salva da [F]nossa pátria toda [C]gente,\n[C]Pra Tua [G]honra, e pra Teu lou[C]vor.\n\n[C]As nossas almas [F]torna impo[C]lutas,\n[C]Não nos dei[G]xando em fraqueza [C]cair,\n[C]Nossa ora[F]ção, Senhor, hoje es[C]cuta,\n[C]Para po[G]dermos aqui Te ser[C]vir.\n\n[C]Graças a Ti, por [F]esse ano [C]findo,\n[C]Pois nos su[G]priste com muito po[C]der;\n[C]Graças a [F]Ti, por esse ano [C]vindo,\n[C]Pois bênçãos [G]mil vamos nós rece[C]ber."
     },
     {
         "numero": 480,
@@ -14692,7 +14692,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 480 - Fim do Ano\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nDeus e[F]terno, em Tua presença,\nNossos [C]séculos horas [F]são\nE um se[F]gundo a existência\nDa hu[C]mana gera[F]ção;\nMas o [Bb]homem que ao Teu [C]lado,\nPela [G]fé quer já [C]voar,\nNeste [F]mundo de pecado,\nLento o [C]tempo vê pas[F]sar.\n\nOutro [F]ano há fenecido,\nQue o vi[C]ver mais encur[F]tou,\nE o des[F]canso apetecido,\nAlgo [C]mais se aproxi[F]mou.\nGraças [Bb]mil por Teus fa[C]vores,\nTua I[G]greja, ó Deus, Te [C]dá!\nAle[F]luias e louvores,\nTeu po[C]der nos suste[F]rá!\n\nTu pro[F]teges as famílias,\nVisi[C]tando cada [F]lar;\nSe o Se[F]nhor nos auxilia,\nQue nos [C]pode aqui fal[F]tar?\nOnde [Bb]quer que Te ame o [C]homem,\nE Te [G]sirva, andando [C]bem,\nFaze [F]que seja o Teu nome\nExal[C]tado sempre! A[F]mém! [Bb]A[F]mém!"
     },
     {
         "numero": 481,
@@ -14730,7 +14730,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 481 - Cristo e Sua Humilhação\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nTu dei[F]xaste, Senhor,\nTua [Bb]glória, [C]esplen[F]dor,\nQuando ao [Bb]mundo qui[F]seste des[C]cer,\nNão pu[F]deram achar\nEm Be[Bb]lém [C]um lu[F]gar,\nNum pre[C]sépio Tu foste nas[F]cer.\n\nCoro:\nVem ao [F]meu cora[C]ção, ó [Bb]Cristo,\nNele [F]tenho p’ra Ti um lu[C]gar!\nVem ao [F]meu cora[C]ção, ó [Bb]Cristo [F]vem!\nNele [F]podes p’ra [C]sempre mo[F]rar!\n\nHinos [F]de adoração,\nAnjos [Bb]no [C]céu Te [F]dão,\nTe ren[Bb]dendo ex[F]celso lou[C]vor.\nMas hu[F]milde o Senhor\nVeio ao [Bb]mundo [C]de hor[F]ror,\nPra dar [C]vida ao mais vil peca[F]dor!\n\nAs ra[F]posas aqui\nCovas [Bb]têm [C]para [F]si,\nE seus [Bb]ninhos as [F]aves do [C]céus,\nSó não [F]teve um lugar\nP’ra ca[Bb]be[C]ça pou[F]sar\nJesus [C]Cristo, o Filho de [F]Deus.\n\nDo céu [F]vieste Jesus,\nNos tra[Bb]zendo [C]Tua [F]luz,\nQue [Bb]nos dá eter[F]nal salva[C]ção;\nE com [F]ódio e furor\nTe cra[Bb]va[C]ram, Se[F]nhor,\nSobre a [C]cruz, donde deste o per[F]dão!\n\nAle[F]luias nos céus,\nAo Cor[Bb]dei[C]ro de [F]Deus!\nQuando [Bb]vier o Seu [F]povo bus[C]car;\nSua [F]voz se ouvirá\nE pra [Bb]mim, [C]oh! Di[F]rá:\n“Vem, Eu [C]tenho pra ti um lu[F]gar”."
     },
     {
         "numero": 482,
@@ -14769,7 +14769,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 482 - Comunhão\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nBen[C]dito Jesus, nós cha[F]mamos por [C]Ti,\nCer[C]camos Tua mesa, Se[G]nhor;\nPor [C]Teu Paracleto nos [F]preside aqui;\nVem en[G]cher-nos de santo fer[C]vor.\n\nA [C]grande ternura do [F]Teu cora[C]ção\nCha[C]mou-nos aqui, oh! Se[G]nhor!\nPra [C]nós celebrarmos em [F]santa união,\nTua [G]morte, oh! bom Reden[C]tor!\n\nOs [C]pés dos Teus servos la[F]vando, Se[C]nhor,\nQui[C]seste o exemplo nos [G]dar,\nDa [C]Tua humildade, do [F]Teu grande amor,\nQue entre [G]nós deve sempre rei[C]nar.\n\nA[C]bençoaste o pão e o par[F]tiste a di[C]zer:\n“To[C]mai o meu corpo e co[G]mei,\nE [C]todas as vezes, pois [F]é o dever,\nEm me[G]mória de Mim o fa[C]zei”.\n\nO [C]cálice da Nova A[F]liança de a[C]mor,\nNo [C]Teu sangue, ó meigo Je[G]sus,\nNos [C]encha de graça, de [F]novo vigor,\nNos a[G]nime na senda da [C]luz!\n\nQue[C]remos, Jesus, neste [F]ato de a[C]mor,\nO [C]Teu memorial cele[G]brar;\nPra [C]nós ele tem um infi[F]nito valor,\nUm va[G]lor que jamais vai ces[C]sar."
     },
     {
         "numero": 483,
@@ -14797,7 +14797,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 483 - Ora Vem Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Db\n\n[Db]Disse Jesus, eis que presto Eu [Ab]venho,\n[Ab]Trago comigo, tam[Db]bém galardão;\n[Db]Venho do céu com a [Gb]glória que [Db]tenho,\nO vi[Eb]giai firmes na ora[Ab]ção!\n\nCoro:\nO[Db]ra vem Jesus, glo[Gb]riosa [Db]luz,\n[Db]Ainda nós Te esperamos; o[Eb]ra vem Je[Ab]sus!\nDe [Db]ver-Te, se[Ab]dentos [Db]bradamos: Oh! [Gb]Senhor Je[Db]sus\nPor [Db]Ti [Gb/Db]velando es[Db]tamos; o[Ab]ra vem, Je[Db]sus!\n\n[Db]Disse Jesus, eis que presto Eu [Ab]venho,\n[Ab]E os remidos pro [Db]céu levarei,\n[Db]E em lugar do o[Gb]próbrio do [Db]lenho,\n[Bb]Uma co[Eb]roa pra eles da[Ab]rei!\n\n[Db]Disse Jesus, eis que presto Eu [Ab]venho,\n[Ab]A minha Igreja [Db]vou arrebatar;\n[Db]Hoje buscai-Me [Gb]com todo o em[Db]penho,\n[Bb]Para que [Eb]Eu possa vos prepa[Ab]rar!"
     },
     {
         "numero": 484,
@@ -14825,7 +14825,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 484 - Meus Pecados Levou\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nHouve [Eb]Um que morreu por meus [Ab]crimes na [Eb]cruz,\n'Inda [Bb]indigno e vil como [Eb]sou;\nSou fe[Eb]liz, pois Seu sangue ver[Ab]teu meu Je[Eb]sus\nE com [Bb]este, meus crimes la[Eb]vou.\n\nCoro:\nMeus pe[Eb]cados levou na cruz onde morreu\nO su[F]blime e meigo Je[Bb]sus: os des[Eb]prezos sofreu,\nA mi[Ab]nh ‘alma sal[Eb]vou\nE mu[Ab]dou minhas [Bb]trevas em [Eb]luz.\n\nEle é [Eb]terno e amável, não [Ab]há outro i[Eb]gual!\nPois con[Bb]verte o infiel cora[Eb]ção;\nE [Eb]por essa paciência e a[Ab]mor divi[Eb]nal\nEstou [Bb]livre da condena[Eb]ção.\n\nMeu a[Eb]nelo constante é em [Ab]Cristo vi[Eb]ver,\nMeu ca[Bb]minho, Seu exemplo mar[Eb]cou;\nE pra [Eb]dar-me a vida, Je[Ab]sus quis mor[Eb]rer;\nSobre a [Bb]cruz meus pecados le[Eb]vou."
     },
     {
         "numero": 485,
@@ -14858,7 +14858,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 485 - Andando Para o Céu\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n'Stou an[Eb]dando para o céu\nOnde os [Bb]santos já es[Eb]tão:\n'Stou a[Bb]legre e satis[Eb]feito!\nMinha [Eb]pátria é Sião,\nMor[Bb]te lá não entra[Eb]rá;\nQue ale[Bb]gria ali se[Eb]rá!\n\nCoro:\nOh! [Ab]Glória! Aleluia!\nMeu de[Eb]sejo é estar no céu;\n‘Stou a[Bb]legre é satis[Eb]feito;\nOh! [Ab]Glória! Aleluia!\nMeu de[Eb]sejo é estar no céu;\nQue ale[Bb]gria ali se[Eb]rá!\n\n'Stou an[Eb]dando para o céu,\nOnde as [Bb]ruas de ouro [Eb]são;\n'Stou a[Bb]legre e satis[Eb]feito!\nTenho a[Eb]li feliz mansão,\nMeu Je[Bb]sus lá esta[Eb]rá!\nQue ale[Bb]gria ali se[Eb]rá!\n\n'Stou an[Eb]dando para o céu,\nOnde [Bb]reina gozo e [Eb]paz,\n‘Stou a[Bb]legre e satis[Eb]feito!\nGozo [Eb]santo e veraz\nTodo o [Bb]crente ali te[Eb]rá,\nQue ale[Bb]gria ali se[Eb]rá!\n\n‘Stou an[Eb]dando para o céu,\nPara [Bb]ver meu Salva[Eb]dor;\n‘Stou a[Bb]legre e satis[Eb]feito!\nCanta[Eb]rei o Seu louvor,\nPois mi[Bb]nh’alma alegre es[Eb]tá;\nQue ale[Bb]gria ali se[Eb]rá!"
     },
     {
         "numero": 486,
@@ -14886,7 +14886,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 486 - Vasos Transbordantes\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Qual vazio vaso 'stá teu cora[D]ção,\n[D]Para receber de Deus a salva[G]ção?\n[G]Só Jesus teu vaso [B]poderá en[Em]cher,\n[Am]De bençãos que dão po[D]der.\n\nCoro:\n[G]Deixa encher teu [C]vaso [D]até transbor[G]dar;\n[G]Que Jesus tua [D]vida possa gover[G]nar,\n[G]Põe teu sacri[C]fício [D]hoje sobre o al[Em]tar;\n[C]E verás as [D]bênçãos descer sem ces[G]sar.\n\n[G]A vida abundante tu recebe[D]rás,\n[D]E constantemente em Deus te alegra[G]rás,\n[G]Qual ribeiro d’água, [B]o Senhor quer [Em]ver\n[Am]O deserto flores[D]cer\n\n[G]O Senhor precisa vasos para en[D]cher.\n[D]Mas vazios vasos que irão con[G]ter\n[G]Toda a Sua graça, [B]brasas do al[Em]tar,\n[Am]Para o fogo espa[D]lhar."
     },
     {
         "numero": 487,
@@ -14910,7 +14910,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 487 - Doxologia\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Glória! Glória! Glória seja ao [Ab]grande Deus onipo[Bb]tente\nAo Teu [Eb]nome damos gló[Ab]ria porque és onis[Bb]ciente;\nAle[Eb]luia! Ale[Ab]luia a Deus [Bb]Pai onipre[Eb]sente.\n\n[Eb]Glória! Glória! Glória a Je[Ab]sus, o Salvador [Bb]amado,\nAo Teu [Eb]nome damos gló[Ab]ria, porque tens nos liber[Bb]tado\nAle[Eb]luia! Ale[Ab]luia a Je[Bb]sus ressusci[Eb]tado.\n\n[Eb]Glória! Glória! Glória seja [Ab]dada ao Espírito [Bb]Santo,\nAo Teu [Eb]nome damos gló[Ab]ria, entoamos este [Bb]canto;\nAle[Eb]luia! Ale[Ab]luia ao Deus [Bb]trino, ao Deus [Eb]Santo."
     },
     {
         "numero": 488,
@@ -14943,7 +14943,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 488 - O Áureo Dia\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nAo [D]ralar do áureo dia, o bom [Em]Jesus vem nos buscar\nPra com [A]Ele, sempre estarmos lá no [D]céu;\nOs mi[D]lhões purificados pelo [Em]sangue de Jesus\nSubi[A]rão pra contemplar o amado [D]Seu.\n\nCoro:\nQuando os [D]salvos congre[Em]gados,\nDentre os [A]povos e na[D]ções,\nVirem [D]Cristo mui a[G]mado,\nOh! Que [A]gozo encherá seus cora[D]ções.\n\nLá da Índia vem um povo que Jesus purificou\nE da África, as tribos chegarão,\nQuem de [D]Cristo, a mensagem lhes le[Em]vou, os conquistou\nJuntos [A]todos, lá no céu se alegra[D]rão.\n\nQuando [D]os milhões da China,\ntodos [Em]que Jesus ganhou\nJuntos [A]dos que foram salvos no Bra[D]sil,\nLá no [D]céu unidos, glória derem [Em]todos a Jesus,\nTriun[A]fantes estarão no Seu re[D]dil.\n\nEspa[D]lhemos a mensagem, que Je[Em]sus nos entregou\nDa glo[A]riosa nova que vem lá da [D]cruz;\nQue Seu [D]sangue precioso puri[Em]fica o pecador,\nDerra[A]mando nele gloriosa [D]luz."
     },
     {
         "numero": 489,
@@ -14972,7 +14972,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 489 - Chegai Para Adorar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nChe[F]gai, pastorzinhos, che[C]gai p'ra ado[F]rar\nO [Bb]Rei do uni[F]verso, que [C]nasce em Belém,\nSim, [F]ricos presentes po[C]demos Lhe [F]dar.\n[Bb]A fé o a[F]mor, nossa [C]vida tam[F]bém.\n\nUm [F]rústico teto a[C]brigo Lhe [F]dá;\nPor [Bb]casa um pre[F]sépio, por [C]templo um portal;\nNum [F]leito de palhas dei[C]tado es[F]tá,\nQuem [Bb]deu às es[F]trelas a [C]luz celes[F]tial.\n\nSe[F]guindo uma estrela que [C]veio O anun[F]ciar,\nOs [Bb]magos do O[F]riente a[C]trás dEle, vão:\nE [F]diante se prostram do [C]Rei de Ju[F]dá,\nDe in[Bb]censo, ouro e [F]mirra, tri[C]buto Lhe [F]dão.\n\nOh! [F]Glória, Aleluia, os [C]salvos Te [F]dão,\nHo[Bb]sanas os [F]anjos, en[C]toam também.\nLou[F]vai ao Messias, que [C]trouxe per[F]dão;\nA [Bb]Cristo Je[F]sus, que nas[C]ceu em Be[F]lém."
     },
     {
         "numero": 490,
@@ -15005,7 +15005,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 490 - Passando Está\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Db\n\nVem, [Db]fatigado coração,\n[Db]Cristo está [Ab]passando;\nA [Db]Ele estende tua mão,\nNo [Eb]Seu amor, con[Ab]fiando.\n\nCoro:\n[Db]Passando es[Ab]tá - passando es[Db]tá...\n[Db]O amoroso [Ab]Salvador!\n[Ab]Vem tu a Ele, ó [Db]pecador!\n[Db]Passa aqui - [Ab]Chama [Db]por ti.\n\nVem, [Db]oprimido pecador,\n[Db]Cristo está [Ab]passando;\nVem [Db]receber do Seu amor,\nQue [Eb]te está ofer[Ab]tando!\n\n[Db]Vem, ó faminto, te fartar!\n[Db]Cristo está [Ab]passando;\nO [Db]pão da vida vem tomar;\nPor [Eb]que estás demo[Ab]rando?\n\nVem, [Db]pecador, sem demorar,\n[Db]Cristo está [Ab]passando;\nNos [Db]braços Seus vem te lançar,\nJe[Eb]sus te está cha[Ab]mando."
     },
     {
         "numero": 491,
@@ -15043,7 +15043,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 491 - Há Poder no Sangue de Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]O teu pecado tu [Eb]queres dei[Bb]xar?\nNo [F]sangue há poder, [Bb]sim, há poder;\n[Bb]Queres do mal a vi[Eb]tória ga[Bb]nhar?\nSeu [F]sangue tem este po[Bb]der!\n\nCoro:\nHá po[Bb]der, sim, [Eb]força e vi[Bb]gor\nNeste [F]sangue de Je[Bb]sus;\nHá po[Bb]der, [Eb]sim, no bom Salva[Bb]dor;\nOh! Con[F]fia no Cristo da [Bb]cruz.\n\n[Bb]Queres os ví[Eb]cios abando[Bb]nar?\nNo [F]sangue há poder, [Bb]sim, há poder;\n[Bb]Confia em Cristo pa[Eb]ra te cu[Bb]rar;\nSeu [F]sangue tem este po[Bb]der!\n\n[Bb]Oh! Paralítico, [Eb]queres an[Bb]dar?\nNo [F]sangue há poder, [Bb]sim, há poder;\n[Bb]Para fazer-te tam[Eb]bém cami[Bb]nhar,\nSeu [F]sangue tem esse po[Bb]der!\n\n[Bb]Queres pureza pra [Eb]teu cora[Bb]ção?\nNo [F]sangue há poder, [Bb]sim, há poder;\n[Bb]Mais lealdade, mais [Eb]consagra[Bb]ção,\nSeu [F]sangue tem este po[Bb]der!\n\n[Bb]Queres de Cristo a men[Eb]sagem le[Bb]var?\nNo [F]sangue há poder, [Bb]sim, há poder;\n[Bb]Queres co’os anjos, na [Eb]glória can[Bb]tar?\nSeu [F]sangue tem este po[Bb]der!"
     },
     {
         "numero": 492,
@@ -15076,7 +15076,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 492 - Jesus Virá do Céu\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nJe[D]sus em breve virá do [A]céu,\nCum[A]prir o que subindo prome[D]teu,\nTu[D]do re[Bm]vela que [G]virá presto,\nCom E[A]le iremos pra o reino [D]Seu.\n\nCoro:\nJe[D]sus com sangue me tem com[A]prado,\nE [A]pelo Espírito me tem se[D]lado;\n‘S[D]tou remido, tenho o pe[G]nhor\nDa [G]minha he[A]rança em meu Se[D]nhor.\n\nE, [D]pelo mundo sem descan[A]sar,\nOs [A]mensageiros 'stão a anun[D]ciar\nO [D]Evan[Bm]gelho do [G]Filho amado,\nQue a [A]este mundo quis resga[D]tar!\n\nDo [D]mundo inteiro já vão che[A]gar!\nEm bre[A]ve tu não achas mais lu[D]gar;\nSe [D]vir de[Bm]sejas, não [G]te demores,\nMas [A]vem depressa pra te sal[D]var.\n\nJá [D]vem o dia, clareando es[A]tá,\nPois [A]a trombeta em breve soa[D]rá,\nA [D]Sua [Bm]Noiva em [G]vestes brancas,\nJe[A]sus pra glória conduzi[D]rá."
     },
     {
         "numero": 493,
@@ -15109,7 +15109,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 493 - Ao Pai Voltai\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nAo [G]Pai voltai, vós [C]que chorais,\nVol[G]tai ao lar pa[D]terno;\nPois [G]lá Jesus, em [C]santa luz,\nVos [D]dá um gozo eter[G]no!\n\nCoro:\nAo [G]Pai voltai, vol[D]tai ao lar e[G]terno;\nA [G]Deus tomai, ao [D]vosso lar pater[G]no.\n\nO [G]Pai está an[C]sioso lá,\nPois [G]quer vos ver a [D]salvo;\nTe[G]reis então a [C]salvação\nSe [D]Cristo for o al[G]vo!\n\nO [G]mal deixai e [C]regressei\nPra o [G]lar do Pai glo[D]rioso,\nEn[G]tão, assim, se[C]reis enfim\nPra [D]sempre mui dito[G]so.\n\nNão [G]recuseis, mas [C]escolhei\nA [G]Cristo, o vero [D]trilho;\nVol[G]tai ao lar, pra [C]lá morar,\nCom [D]Deus e com Seu Fi[G]lho."
     },
     {
         "numero": 494,
@@ -15142,7 +15142,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 494 - Jerusalém Celestial\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nJerusa[Bb]lém celestial,\nMansão de [F]paz tão divi[Bb]nal!\nDe jaspe [Bb]tem muro em redor;\nOnde é [C]a luz, o meu Se[F]nhor.\n\nCoro:\nJerusa[Bb]lém, mansão de [Eb]luz,\nJerusa[F]lém de meu Je[Bb]sus!\nCidade [Bb]que p’ra nós fez [Eb]Deus;\nEterna [F]glória para os filhos [Bb]seus.\n\nUm rio [Bb]tem. e qual cristal,\nCuja água [F]faz ser imor[Bb]tal;\nAs árvores [Bb]lá mui belas são,\nE pra cu[C]rar oh! servi[F]rão.\n\nAli não [Bb]há mais pranto e dor;\nA maldi[F]ção não tem vi[Bb]gor;\nA noite [Bb]foi e não vem mais;\nO sol [C]raiou, passaram os \"[F]ais\".\n\nAli ve[Bb]rei o meu Senhor,\nContempla[F]rei seu resplen[Bb]dor,\nE canta[Bb]rei o seu louvor\nEm grati[C]dão e com fer[F]vor."
     },
     {
         "numero": 495,
@@ -15170,7 +15170,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 495 - Cristo à Porta Está\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n[C]Jesus Cristo á por[G]ta está;\n[G]Bate sempre [C]para entrar;\n[C]Se ouvires a[F]bre já;\n[G]Abre o cora[C]ção.\n\nCoro:\nA[C]bre o cora[G]ção!\nA[G]bre o cora[C]ção!\n[C]Jesus quer te [F]libertar;\nA[G]bre o cora[C]ção!\n\n[C]Jesus bate ain[G]da lá\n[G]E, se não a[C]brires já,\n[C]Ele triste [F]voltará;\n[G]Abre o cora[C]ção!\n\n[C]Jesus bate, a[G]bre já,\n[G]Abre, sim, ó [C]pecador!\n[C]O juízo à [F]porta está;\n[G]Abre o cora[C]ção!"
     },
     {
         "numero": 496,
@@ -15203,7 +15203,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 496 - Jesus me Tirou da Lama\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nJa[Eb]zia num lago de [Bb]fama, de horror,\nNão [Ab]tinha espe[Eb]rança em [Bb]mim, pecador,\nMas [Eb]tenho clamado a Je[Ab]sus Salvador,\nPra [Eb]fora do lago me ti[Bb]rou o Se[Eb]nhor.\n\nCoro:\n[Eb]Dum lago horrível Jesus me tirou,\n[Cm]Sobre a rocha meus [F]pós fir[Bb]mou!\n[Eb]Um novo canto em [Ab]mim soou,\nAo [Eb]Salvador, Ale[Bb][Eb]luia!\n\nA[Eb]gora desejo a [Bb]Cristo seguir,\nCom [Ab]todo o meu [Eb]ser eu O [Bb]quero sentir,\n[Eb]Pois Ele salvou-me a [Ab]fim de O servir,\nE [Eb]para Seu gozo, eu tam[Bb]bém [Eb]fruir.\n\nSo[Eb]mente eu quero ser[Bb]vir ao Senhor,\nCom [Ab]todo pra[Eb]zer e com [Bb]muito fervor,\nAs[Eb]sim vou andar de va[Ab]lor em valor,\nNa [Eb]luz gloriosa do [Bb]Consola[Eb]dor!\n\nPra [Eb]sempre agora eu [Bb]proclamarei,\n\"Foi [Ab]crendo em [Eb]Cristo que [Bb]me libertei,\nE [Eb]foi no Seu sangue [Ab]que me lavei,\nNa [Eb]rocha eterna mais me [Bb]firma[Eb]rei!\""
     },
     {
         "numero": 497,
@@ -15236,7 +15236,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 497 - Meu Bom Salvador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nJe[G]sus é precioso, meu [C]bom Salva[G]dor,\nPra [D]sempre O louvo, pois [G]deu-me a [D]luz;\nSe [G]débil me encontro me dá Seu vi[C]gor,\nPra [D]mim é precioso Je[G]sus!\n\nCoro:\nPre[G]cioso é Jesus, meu Jesus!\nPre[D]cioso é Jesus, minha [G]luz!\nQue [G]glória será o Seu rosto mi[C]rar!\nPra [D]mim é precioso Je[G]sus!\n\nAn[G]dando no mundo, sem [C]Deus, a va[G]gar,\nNa [D]senda do mal, que a [G]morte con[D]duz,\nMe [G]disse Jesus: “Eu te quero sal[C]var”\nPra [D]mim á precioso Je[G]sus!\n\nJá [G]por Sua graça, eu [C]posso go[G]zar;\nEn[D]cheu-me de gozo do [G]reino da [D]luz;\nCon[G]templo por fé, meu celeste lu[C]gar.\nPra [D]mim é precioso Je[G]sus!\n\nJe[G]sus é precioso, pois [C]me quis sal[G]var,\nMor[D]rendo por mim pendu[G]rado na [D]cruz,\nE [G]mui glorioso virá me bus[C]car,\nPra [D]mim é precioso Je[G]sus!"
     },
     {
         "numero": 498,
@@ -15269,7 +15269,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 498 - Guia-me ó Salvador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Guia-me, ó Salvador, [Eb]pela senda divi[Ab]na!,\n[Ab]Ao Teu lado, sem temor, [Eb]tenho gozo pere[Ab]nal!\n\nCoro:\n[Db]Cristo! [Ab]Cristo! Não me [Fm]deixes, ó Se[Eb]nhor;\n[Ab]Guia-me por Teu amor, [Eb]e serei um vence[Ab]dor.\n\n[Ab]Não me deixes, ó Senhor, [Eb]neste horrendo e\nforte [Ab]mar; [Ab]Leva-me por Teu amor [Eb]para o meu eterno [Ab]lar.\n\nÉs a minha salvação, meu querido Redentor;\n[Ab]Da terrível corrupção [Eb]me salvaste com a[Ab]mor!\n\n[Ab]Quero Teu somente ser, [Eb]Te amar e Te ser[Ab]vir,\n[Ab]Cristo é, para mim, viver [Eb]e morrer, o céu [Ab]fruir."
     },
     {
         "numero": 499,
@@ -15298,7 +15298,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 499 - A Santa Bíblia\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Santa Bí[Db]blia, para [Ab]mim,\nÉs o [Db]meu te[Eb]souro, [Ab]sim;\n[Ab]Tu con[Eb]téns a lei de Deus\n[Ab]E me [Eb]mostras lindos céus;\n[Ab]Tu me dizes [Db]quem eu [Ab]sou,\n[Ab]Donde [Db]vim, pra [Eb]onde [Ab]vou!\n\n[Ab]Tu repreendes [Db]meu fa[Ab]lar,\n[Ab]Me e[Db]xortas [Eb]sem ces[Ab]sar.\n[Ab]Alu[Eb]mias os meus pés,\n[Ab]E me [Eb]guias, pela fé,\n[Ab]Para as fon[Db]tes de a[Ab]mor,\n[Ab]Do ben[Db]dito [Eb]Salva[Ab]dor!\n\nÉs a voz dos [Db]altos [Ab]céus,\n[Ab]Do Es[Db]píri[Eb]to de [Ab]Deus.\n[Ab]Que vi[Eb]gor pra alma dá,\n[Ab]Quando em a[Eb]flição está;\n[Ab]Me ensinas [Db]triun[Ab]far\n[Ab]Dentre os [Db]mortos, [Eb]do pe[Ab]car!\n\n[Ab]Por Tua santa [Db]letra [Ab]sei,\n[Ab]Que com [Db]Cristo [Eb]reina[Ab]rei;\n[Ab]Eu que [Eb]tão indigno sou,\n[Ab]Por Tua [Eb]luz, ao céu eu vou;\n[Ab]Santa Bíblia [Db]para [Ab]mim,\nÉs o [Db]meu te[Eb]souro, [Ab]sim!"
     },
     {
         "numero": 500,
@@ -15331,7 +15331,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 500 - Quero ver a Jesus Cristo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Db\n\nQuero [Db]ver a Jesus Cristo, meu pre[Db]cio[Gb/Db]so Salva[Db]dor,\nVer [Db]a face do meu Mestre, que por [Bbm]mim so[Eb]freu na [Ab]cruz;\nQue[Db]ro ir ao céu sublime, ver o [Db]tro[Gb/Db]no do Se[Db]nhor,\nVive[Db]rei, sim, nessa pátria [Db/Ab]de eterno [Ab]gozo e [Db]luz.\n\nCoro:\nQuero [Db][Gb]ver a dese[Db]jada\nPátria [Ab]onde reina eterno a[Db]mor;\nQuero [Db]ter feliz mo[Bbm]rada,\nCom Je[Db/Ab]sus, meu [Ab]Salva[Db]dor.\n\nQuero [Db]dar a Jesus Cristo, sem [Db]reser[Gb/Db]va, meu a[Db]mor.\nE tam[Db]bém viver pra sempre entre o [Bbm]coro an[Eb]geli[Ab]cal;\nQuero [Db]ser um mensageiro condu[Db]zindo [Gb/Db]o peca[Db]dor\nPara a [Db]cruz de Jesus Cristo, para [Db/Ab]a pátria [Ab]celes[Db]tial.\n\nPe[Db]la obra redentora de Je[Db]sus [Gb/Db]que me sal[Db]vou.\nVive[Db]rei eternamente p’ra [Bbm]gozar o [Eb]Seu a[Ab]mor;\nPelo [Db]sangue do Cordeiro, redi[Db]mi[Gb/Db]do já es[Db]tou\nCom as [Db]hastes redimidas lou[Db/Ab]varei ao [Ab]meu Se[Db]nhor\n\nVou mo[Db]rar na minha pátria que Je[Db]sus [Gb/Db]foi prepa[Db]rar,\nHabi[Db]tar entre os remidos pe[Bbm]lo sangue [Eb]do Se[Ab]nhor;\nEntre os [Db]anjos e os arcanjos lá [Db]no reino [Gb/Db]eu vou\nE dar [Db]glórias para sempre ao [Db/Ab]bondoso [Ab]Salva[Db]dor."
     },
     {
         "numero": 501,
@@ -15359,7 +15359,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 501 - Vencendo Com o Bom Capitão\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]O que serve a Deus de [D]coração, vence o [G]mal;\n[G]Quem vencer terá um ga[D]lardão [Am]e[A]ter[D]nal;\nÓ não queiras mais de[G]sanimar, [D]quando vier a [Em]prova[B]ção;\n[G]Vencerá, quem puro [C]conservar [G/D]seu co[D]ra[G]ção.\n\nCoro:\n[G]Com to[D]do o fervor, contra o [G]tentador,\n[G]Vence[C]rá então, [G/D]co’o bom [D]Capi[G]tão!\n\n[G]Nada poderá a [D]fé tirar, que dá [G]Deus;\n[G]Pois seu povo sempre [D]vai guiar [Am]para [A]os [D]céus;\n[D]Quem a Ele tudo [G]confessar, [D]nunca luta[Em]rá em [B]vão,\n[G]Vencerá, quem puro [C]conservar seu [G/D]co[D]ra[G]ção.\n\n[G]Eis que as armas para [D]combater vêm dos [G]céus,\n[G]São as armas d’efi[D]caz po[Am]der do [A]bom [D]Deus;\n[D]Com a espada pode pe[G]lejar [D]e vencer a [Em]tenta[B]ção,\n[G]Vencerá, quem puro [C]conservar seu [G/D]co[D]ra[G]ção."
     },
     {
         "numero": 502,
@@ -15388,7 +15388,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 502 - Ó Pastor Bendito\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Db\n\nÓ Pastor ben[Gb]dito, [Ebm]escuta\n[Ebm]De [Ddim]Teus filhos [Ab]a ora[Db]ção,\n[Db]Cordei[Gb]rinhos [Gbm]que, na [Db]luta,\n[Bbm]Dão a [Ab]Ti seu cora[Db]ção.\n\n[Db]Cristo Rei, meu [Gb]so[Ebm]berano,\n[Ebm]Fa[Ddim]ze que ao [Ab]repou[Db]sar\n[Db]Te con[Gb]temple em [Gbm]brando [Db]so[Bbm]no,\nE Te [Ab]busque ao desper[Db]tar.\n\n[Db]Graças mil, Pas[Gb]tor [Ebm]amado,\n[Ebm]Hoje Teus cor[Ab]deiros [Db]dão,\n[Db]Pois Tuas [Gb]mãos, [Gbm]oh! nos têm [Db]dado\n[Bbm]Que ves[Ab]tir e nosso [Db]pão.\n\n[Db]Pequeninos, [Gb]Te [Ebm]busca[Ebm]mos,\nEsta noite em [Ab]ora[Db]ção,\n[Db]Reve[Gb]ren[Gbm]tes espe[Db]ramos,\n[Bbm]De ma[Ab]nhã ua nova un[Db][Gb/Db]ção. A[Db]mém."
     },
     {
         "numero": 503,
@@ -15421,7 +15421,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 503 - Vidas Consagradas ao Trabalho\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Db\n\n[Db]Cristo bus[Db]ca [Ab]corações já [Db]puros,\n[Db]Que proclamem sempre [Eb]o perdão da [Ab]cruz,\n[Ab]Que aos transgres[Db]sores [Bbm]mostre os bens futuros,\n[Gb]Pra voltarem [Db]do pe[Gb]cado [Ab]para [Db]luz!\n\nCoro:\n[Db]Ide trabalhar além nos campos do Se[Ab]nhor,\n[Ab]Que para a sega se apresentam brancos [Db]Já;\nDe[Ab]pressa ao la[Db]bor, or[Ab]dena Jeo[Db]vá,\n[Gb]Desfrutareis, en[Gb]tão, Seu [Ab]grande a[Db]mor!\n\n[Db]Lá[Dbdim]bios pu[Db]ros [Ab]Cristo neces[Db]sita,\n[Db]Que com gozo falem [Eb]desta salva[Ab]ção;\n[Ab]Línguas cheias [Db]duma [Bbm]graça infinita,\n[Gb]Que proclamem [Db]aos ca[Gb]tivos, [Ab]reden[Db]ção!\n\n[Db]Cristo bus[Db]ca [Ab]mãos, mas consa[Db]gradas,\n[Db]Para trabalhar com [Eb]santa pronti[Ab]dão;\n[Ab]Pedem vosso au[Db]xi[Bbm]lio messes já douradas,\n[Gb]Os trigais ma[Db]duros [Gb]breve [Ab]Cai[Db]rão!\n\n[Db]Vi[Dbdim]das san[Db]tas [Ab]Cristo neces[Db]sita,\n[Db]Que aos pecadores [Eb]mostrem Seu po[Ab]der,\n[Ab]Em Jesus fir[Db]ma[Bbm]das e também contritas,\n[Gb]Para que por [Db]elas, [Gb]faça [Ab]Seu que[Db]rer."
     },
     {
         "numero": 504,
@@ -15455,7 +15455,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 504 - Momento Solene\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nÉ sole[Bb]ne o momento;\n[Cm]Já ex[Ab]pirando [Fm]o a[Bb]no es[Eb]tá;\n[Cm]Presto como o pensamento,\n[G]O que resta [Bb]passa[Eb]rá.\n\n[Eb]Débil sopro [Bb]é a existência,\n[Cm]Breve, e[Ab]fême[Fm]ra [Bb]qual [Eb]flor;\n[Cm]Pois somente tem a ciência,\n[G]Quem ao tem[Bb]po dá va[Eb]lor.\n\n[Eb]Nome, fama, impé[Bb]rio, glória...\n[Cm]Nada hu[Ab]mano [Fm]fi[Bb]ca em [Eb]pé;\n[Cm]Pois só firme é a vitória,\n[G]Que se alcança [Bb]pela [Eb]fé.\n\n[Eb]Néscio o homem [Bb]que atrás corre\n[Cm]Pra alcan[Ab]çar bens [Fm]sob [Bb]os [Eb]céus;\n[Cm]Ai do mísero que morre,\n[G]Sem achar a [Bb]paz de [Eb]Deus!\n\n[Eb]A insondável e[Bb]ternidade\nÉ ben[Ab]di[Fm]ta por [Bb]Je[Eb]sus,\n[Cm]Que me dá imortalidade,\n[G]Gozo eterno, [Bb]plena [Eb]luz!"
     },
     {
         "numero": 505,
@@ -15488,7 +15488,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 505 - As Palavras de Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nA[D]nelo eu ou[Em]vir a voz do [A]meu bom Salva[D]dor,\nSeus [D]ditos um ban[G]quete são, ban[A]quete de a[D]mor\nQual [D]o maná ce[Em]lestial, [A]vigor me dão tam[D]bém,\nMe [D]trazem sempre [G]instrução do [A]Mestre de Be[D]lém.\n\nCoro:\nAs pa[D]lavras [Em]do Senhor,\nSão pa[A]lavras [D]de vigor,\nMe en[D]sinam, me [Em]guiam,\n[D/F#]Me trazem a [G]luz, as [D/A]palavras [A]de Je[D]sus.\n\nSó [D]as pala[Em]vras de Jesus in[A]fundem-me va[D]lor,\nA[D]fastam do meu co[G]ração os ma[A]les e a [D]dor.\nA [D]mansidão do [Em]Salvador me [A]fazem conhe[D]cer,\nO [D]gozo divi[G]nal do céu me [A]trazem ao meu [D]ser.\n\nEm [D]todo tempo [Em]meu Jesus, pa[A]lavras me di[D]rá,\nNas [D]provas elas [G]são meu bem, sua [A]voz me alenta[D]rá,\nMinh’[D]alma nelas [Em]tem a paz, quem [A]pode me tur[D]bar,\nJe[D]sus me dá [G]real festim me [A]chama pra [D]cear.\n\nLu[D]gar não há. nem [Em]haverá no [A]mundo de hor[D]ror.\nEm [D]que o perdido [G]tenha paz a [A]não ser no Se[D]nhor\nPois, [D]as palavras [Em]que nos diz, são [A]fonte de po[D]der,\nPra [D]todo pobre [G]pecador, que [A]humilhado [D]crer."
     },
     {
         "numero": 506,
@@ -15512,7 +15512,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 506 - Bíblia Sagrada\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\n[D]Bíblia Sagrada, de Deus man[A]dada;\n[A]Celeste tocha, de vera [D]luz,\n[D]Torna minh'alma cheia de [G]calma,\nPois nela [D]ouço a [A]voz de Je[D]sus!\n\nBíblia gloriosa, jóia preciosa,\nÉ meu tesouro do coração.\n[D]Que me enriquece, me forta[G]lece;\nMostra-me em [D]Cristo [A]a salva[D]ção!\n\n[D]Bíblia bendita, graça infi[A]nita,\n[A]De Deus revela, o Seu po[D]der!\n[D]Dom verdadeiro ao mundo in[G]teiro,\nDela ob[D]tenho [A]sumo sa[D]ber!"
     },
     {
         "numero": 507,
@@ -15540,7 +15540,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 507 - Jesus Salva\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nO [Ab]Salvador te [Eb]quer salvar,\nÓ [Eb]pecador, vem [Ab]sem tardar;\nRe[Ab]cebe no teu [Db]coração\nA [Eb]gloriosa [Ab]salvação!\n\nCoro:\nJesus [Ab]salva, Jesus [Eb]salva,\nJe[Ab/Eb]sus salva o peca[Ab]dor.\nEle te [Eb]ama, hoje te [Ab]chama,\nCom [Ab]Sua voz de a[Eb]mor;\nJesus [Ab]salva, Jesus [Eb]salva,\nJesus [Ab]salva o pecador.\nVem tu a[Db]gora, vem sem de[Ab]mora,\nTe entre[Db]gar ao Se[Ab]nhor.\n\nO [Ab]Salvador te [Eb]chama, vem,\nRe[Eb]cebe logo o [Ab]sumo bem;\nA [Ab]salvação, o [Db]dom de Deus,\nA [Eb]Jesus Cristo, o [Ab]Rei dos céus.\n\nO Salvador, chorando está,\nPor que não te entregas já?\nVem [Ab]hoje mesmo [Db]a Jesus.\nVem [Eb]receber ce[Ab]leste luz!"
     },
     {
         "numero": 508,
@@ -15569,7 +15569,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 508 - Sua Palavra Revelada\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n[C]Justa, ex[F]plí[G]cita e mui [C]pura\nÉ a [G]lei do [D]meu Se[G]nhor;\n[C]Para os [F]tristes [G]dá ven[C]tura,\n[C]Liber[F]tando-os [G]do te[C]mor.\n\n[C]Sua Pa[F]lavra [G]reve[C]lada\nÉ cau[G]dal de [D]gran po[G]der.\n[C]Donde a [F]alma a[G]tribu[C]lada,\n[C]Pode a [F]seu sa[G]bor be[C]ber.\n\nO[C]lha [F]para o [G]céu tão [C]belo\n[C]Onde es[G]tá teu [D]Reden[G]tor;\n[C]Para [F]sempre [G]cesse o [C]duelo;\n[C]Faze a [F]paz com [G]teu Se[C]nhor.\n\n[C]Clama ao [F]Salva[G]dor, e [C]a alma\n[C]Lhe en[G]trega, ó [D]peca[G]dor!\n[C]Ele [F]paz da[G]rá e [C]calma,\n[C]Dando [F]fim à [G]tua [C]dor!"
     },
     {
         "numero": 509,
@@ -15602,7 +15602,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 509 - Ao Passar o Jordão\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nQuando o [Ab]Jordão passarmos unidos,\nE en[Db]trarmos no céu, vere[Eb]mos lá,\nComo a[Ab]reia da praia os re[Db]midos,\nOh! Que [Eb]gloriosa vista se[Ab]rá!\n\nCoro:\n[Ab]Tantos como a areia da praia!\n[Ab]Tantos como a areia do [Eb]mar!\nQue [Ab]gozo sentirá\nTodo o [Db]salvo pois ve[Ab]rá,\nSim, [Ab]tantos como a areia da [Eb][Ab]praia!\n\nQuando [Ab]virmos os salvos do mundo,\nQue a [Db]morte jamais alcança[Eb]rá,\nSe sau[Ab]darem com gozo pro[Db]fundo,\nOh! Que [Eb]gloriosa vista se[Ab]rá!\n\nLá na [Ab]margem do rio da vida,\nOnde [Db]paz e justiça have[Eb]rá,\nNós ve[Ab]remos a terra prome[Db]tida;\nOh! Que [Eb]gloriosa vista se[Ab]rá!\n\nQuando [Ab]Cristo Jesus contemplarmos,\nCo[Db]roado no céu como es[Eb]tá,\nE pros[Ab]trado aos Seus pés ado[Db]rarmos,\nOh! Que [Eb]gloriosa vista se[Ab]rá!"
     },
     {
         "numero": 510,
@@ -15640,7 +15640,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 510 - A Riqueza Divinal\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nUm [G]dom real Deus despertou\nNos [D]seus [C]fiéis - Dom [D]de cu[G]rar!\nTo[G]da a doença Deus sarou,\nE [D]sara [C]ainda e [D]vai sa[G]rar;\n[G]Por Jesus, por Jesus,\nOh! [D]Não fa[C]lhou, nem [D]vai fa[G]lhar!\n\nCoro:\nOh! [G]Que riqueza divinal,\nEu [G]gozo já por fé e luz,\n[G]Por visão triunfal,\nMais [D]goza[C]rei com [D]meu Je[G]sus!\n\nÉs [G]cego? Crê, que tu verás,\nÉs [D]mudo? [C]Crê, que [D]vais fa[G]lar;\nÉs [G]surdo? Crê que ouvirás,\nÉs [D]coxo? [C]Crê, que [D]vais an[G]dar;\n[G]Fé em Deus, fé em Deus,\nCrê [D]que Je[C]sus te [D]vai cu[G]rar!\n\nDe [G]que sofreis? Dos rins, pulmões?\nDe [D]febre, [C]gripe, ou [D]cora[G]ção?\nDe [G]tosse, nervos, ou lesões?\nDe [D]pele, [C]dentes, [D]deflu[G]xão?\n[G]Sarareis, sarareis,\nPe[D]lo po[C]der da [D]ora[G]ção!\n\nDei[G]xai as capas e vereis,\nAs [D]mara[C]vilhas [D]do Se[G]nhor!\nTi[G]rai a pedra e gozareis\nAs [D]grandes [C]bênçãos [D]do a[G]mor!\n[G]Fé em Deus, Fé em Deus,\nA [D]quem ren[C]demos [D]o lou[G]vor!\n\nQuando [G]a doença a nós vem ter,\nEm [D]Deus deve[C]mos [D]con[G]fiar,\nPois [G]Jesus Cristo tem poder,\nPra [D]num mo[C]mento [D]nos cu[G]rar;\n[G]Glória a Deus, glória a Deus.\nQue é [D]podero[C]so [D]pra sa[G]rar."
     },
     {
         "numero": 511,
@@ -15673,7 +15673,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 511 - Glorioso Deus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\n[D]Glorioso [A]Deus, que está no [D]céu,\n[G]Conselheiro [D]é [E]contra o re[A]vés.\n[D]Se aqui trevas [A]há, m'ilumina[D]rá;\n[G]Na tribula[D]ção, nEle os crentes fir[A]mados es[D]tão.\n\nCoro:\nOh! Quão [D]bom é nosso [G]Deus!\nTudo [A]preparou p’ra os [D]Seus,\nQue por Ele, chegarão,\nSatis[A]feitos à Sua man[D]são.\n\n[D]Vindo a morte [A]dar golpe em meu [D]lar,\n[G]Então, eu bem [D]sei, [E]onde acha[A]rei,\n[D]Paz que satis[A]faz, pois Jesus me [D]traz\n[G]O que me é mis[D]ter e o que me possa a[A]qui con[D]ter.\n\n[D]Longe do meu [A]lar, sinto eu pe[D]sar,\n[G]Mas o bom Je[D]sus [E]dá-me Sua [A]luz.\n[D]E minh'alma [A]diz: \"'Stás em mim fe[D]liz,\n‘S[G]tou contigo a[D]qui\", estarás, sim, co[A]migo a[D]li.\n\n[D]Peregrino [A]sou, mas em breve esta[D]rei\n[G]Onde fica[D][E]rei sempre com Sua [A]grei;\n[D]Lá hei de go[A]zar Seu amor sem [D]par;\n[G]Grato canta[D]rei aleluias ao [A]grande [D]Rei."
     },
     {
         "numero": 512,
@@ -15706,7 +15706,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 512 - O Amor Inesgotável\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nO [Bb]santo amor de Cristo, que não terá i[Cm]gual;\nA [F]Sua vera [Bb]graça, su[C]blime e eter[F]nal,\n[Bb]E a miseri[F]córdia imensa como o [Bb]mar,\nA [Eb]qual ao céu a[Bb]tinge, com [F]gozo, hei de can[Bb]tar.\n\nCoro:\n[Bb]Como é inesgo[Cm]tável\n[F]O amor de meu Je[Bb]sus!\n[Bb]Rico e Inefável; [Eb]nada é compa[Cm]rável\n[F]Ao amor de [C]meu [F]Je[Bb]sus!\n\nJe[Bb]sus andou no mundo, e o povo O procu[Cm]rou,\nE [F]todas as an[Bb]gústias, sim, [C]aos Seus pés dei[F]xou;\nE [Bb]Seu amor bro[F]tava, qual rio divi[Bb]nal.\nPu[Eb]jante, forte, [Bb]imenso, sa[F]nando todo o [Bb]mal.\n\nTam[Bb]bém, nos olhos cegos pôs uma no[Cm]va luz,\nA [F]luz que nos dá [Bb]vida, que [C]já brilhou na [F]cruz;\nE [Bb]deu também às [F]almas, a glória de Seu [Bb]ser,\nAo [Eb]implantar Sua [Bb]graça, e [F]Seu real po[Bb]der.\n\nO a[Bb]mor de Jesus Cristo, no mundo, é um fa[Cm]nal,\nQue [F]marca vito[Bb]rioso a [C]senda do i[F]deal;\nEm[Bb]bora passem os a[F]nos, é sempre efi[Bb]caz,\nPre[Eb]cioso é dar [Bb]à alma in[F]comparável [Bb]paz."
     },
     {
         "numero": 513,
@@ -15749,7 +15749,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 513 - Minha Alma Quer Ter\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Vem, ó meu [Bb]bom Jesus, [F]me conso[C]lar;\n[F]Vem, leva-[Bb]me daqui, [C]pra contigo es[F]tar.\n\nCoro:\nMi[F]nh’alma Te quer, vem ó meu Jesus sem [C]par!\n[F]Vem, leva-[Bb]me daqui, p’[C]ra contigo es[F]tar.\n\n[F]Que sofri[Bb]mento atroz [F]eu sinto a[C]qui.\n[F]Longe da [Bb]pátria além, [C]choro eu por [F]Ti.\n\n[F]Quero des[Bb]canso ter [F]ao pé de [C]Ti.\nDe[F]sejo [Bb]só partir [C]deste mundo a[F]qui.\n\nNa[F]da me sa[Bb]tisfaz [F]longe do [C]lar,\n[F]Que prepa[Bb]raste ali, [C]para eu mo[F]rar.\n\n[F]Que glória, [Bb]que prazer [F]eu senti[C]rei,\n[F]Quando eu da[Bb]qui, partir, [C]com o eterno [F]Rei.\n\n[F]Vem, ora [Bb]vem, Senhor, [F]é Rei dos [C]céus!\n[F]Vem já me [Bb]libertar, [C]para estar com [F]Deus."
     },
     {
         "numero": 514,
@@ -15777,7 +15777,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 514 - Em Glória Esplendente\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nEm [Eb]glória esplen[Ab]dente, [Eb]na nuvem luzente,\nAo [Cm]mundo vi[Bb]rá, outra [F]vez, o Se[Bb]nhor;\nO [Eb]santo Cor[Ab]deiro, [Eb]que lá no ma[Ab]dei[Bb]ro,\nVer[Cm]teu o Seu [Ab]sangue pu[Bb]rifica[Eb]dor.\n\nCoro:\nSe [Eb]Cristo agora vol[Bb]tar, tu’alma irá jubi[Eb]lar?\nTens [Eb]lâmpada pronta e as [Ab]vestes tam[F]bém,\nP’ra [Bb]ires com Cristo a[Eb]lém?\nNão [Eb]mais te demores, mas [Ab]vem a Je[F]sus.\nA [Bb]fim de acender tua [Eb]luz.\n\nCo[Eb]meçando a i[Ab]ra, pe[Eb]rece a mentira,\n[Cm]No dia da [Bb]vinda de [F]Cristo, o Se[Bb]nhor;\nO mundo, enganado, no vício e pecado,\nNão vai tomar parte nas bodas de amor.\n\nA [Eb]graça per[Ab]feita, [Eb]não temendo, aceita,\nPois [Cm]breve Je[Bb]sus há de [F]vir, lá do [Bb]céu;\nÓ [Eb]veste [Ab]tu'alma, com [Eb]graça e com [Ab]cal[Bb]ma.\nDe [Cm]dia e de [Ab]noite, o[Bb]rando ao teu [Eb]Deus."
     },
     {
         "numero": 515,
@@ -15810,7 +15810,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 515 - Se Cristo Comigo Vai\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nSe, [C]pelos vales, eu pere[F]grino vou an[C]dar\nOu [C]na luz gloriosa de [D]Cristo habi[G]tar,\nI[G]rei com meu Senhor pra [C]onde Ele for.\nCon[F]fiando na [C]graça de [G]meu Salva[C]dor.\n\nCoro:\nSe [C]Cristo comigo vai, eu i[G]rei\nE [G]não temerei, com gozo irei; comigo [C]vai;\nE [C]grato servir a Jesus, levar a [F]cruz;\nSe [F]Cristo comigo [C]vai, [G]eu i[C]rei.\n\nSe [C]lá para o deserto Je[F]sus me quer man[C]dar;\nLe[C]vando boas novas de [D]salvação sem [G]par;\nEu [G]lidarei, então, com [C]paz no coração.\nA [F]Cristo se[C]guindo, sem [G]mais dila[C]ção.\n\nSe[C]rá a minha sorte a [F]dura cruz le[C]var,\nSua [C]graça e Seu poder, quero [D]sempre aqui con[G]tar.\nCon[G]tente com Jesus, le[C]vando a minha cruz.\nEu [F]falo de [C]Cristo [G]que é minha [C]luz.\n\nAo [C]Salvador Jesus eu de[F]sejo obede[C]cer,\nPois [C]na Sua Palavra en[D]contro o meu sa[G]ber;\n[G]Fiel a Deus serei, o [C]mundo vencerei,\nJe[F]sus vai co[C]migo, não [G]mais teme[C]rei."
     },
     {
         "numero": 516,
@@ -15838,7 +15838,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 516 - Cristo Meu Vero Amigo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nAntes [Ab]eu não conhecia a Je[Bb]sus o Salvador;\nPois vi[Eb]via em pecados e te[Ab]mor;\nMas a[Ab]chei que minhas culpas, so[Bb]bre Si Jesus levou\nE meu [Eb]gozo nunca mais aqui ces[Ab]sou.\n\nCoro:\nÉ Jesus [Bb]Cristo [Eb]meu vero a[Ab]migo,\n[Ab]Que minhas [Bbm]culpas [Eb]per[Ab]doou.\nÉ Jesus Cristo meu vero amigo,\n[Ab]Pois a mi[Bbm]nh’alma [Eb]liber[Ab]tou.\n\nAntes, [Ab]eu não conhecia essa [Bb]purificação\nE o po[Eb]der que desejava o cora[Ab]ção.\nMas [Ab]vigor das promessas a mi[Bb]nh’a!ma transformou\nE Je[Eb]sus á fonte viva me le[Ab]vou.\n\nPronto es[Ab]tou pra ir com Cristo a men[Bb]sagem proclamar,\nPelas [Eb]vinhas onde vou a traba[Ab]lhar;\nBem eu [Ab]sei que é poderoso;\nSua [Bb]graça me dará; E vi[Eb]tória plena me concede[Ab]rá."
     },
     {
         "numero": 517,
@@ -15871,7 +15871,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 517 - Cura Divina\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Cristo Jesus hoje [Eb]vai te cu[Bb]rar,\n[Bb]Se podes [F]crer, se podes [Bb]crer.\n[Bb]Pois tem virtude e [Eb]graça sem [Bb]par,\nPra cu[F]rar teu ser!\n\nCoro:\n[Bb]Vem, Vem, [C]para te curar,\n[F]Crê, crê, [Bb]que hás de ver;\n[Eb]Cura di[C/E]vina se [Bb/F]manifestar\nNo teu [C]fra[F]co [Bb]ser!\n\n[Bb]Crendo em Cristo i[Eb]rás rece[Bb]ber.\n[Bb]Cura do [F]céu, cura do [Bb]céu;\n[Bb]Pois Ele tem ‘inda o [Eb]mesmo po[Bb]der,\nO po[F]der de Deus!\n\n[Bb]Mui poderoso é [Eb]Cristo Je[Bb]sus,\n[Bb]Pra te cu[F]rar, pra te cu[Bb]rar.\n[Bb]Todas as doenças cra[Eb]vou sobre a [Bb]cruz,\nPara [F]te sarar!\n\n“[Bb]Não te hei dito: [Eb]Se creres [Bb]em Mim,\n[Bb]Que hás de [F]ver, que hás de [Bb]ver;\n[Bb]Cura divina ma[Eb]nando en[Bb]fim,\nSe pu[F]deres crer!”"
     },
     {
         "numero": 518,
@@ -15899,7 +15899,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 518 - Salva-Vidas\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Por seus pecados, 's[D]tá o peca[G]dor\n[G]Qual pobre náufrago [A]sem Salva[D]dor;\n[G]Que triste sorte, pe[D]rece no [G]mar,\n[G]Nada, se cansa, e [D]vai afun[G]dar.\n\nCoro:\n[G]Orando, joga ao que se afoga,\n[D]O salva-vidas sem [G]demorar;\n[G]Antes que desça - Desapareça\n[C]Nas profun[D]dezas do [G]mar.\n\n[G]O salva-vidas não [D]queres lan[G]çar\n[G]Ao que s’afoga nas [A]ondas do [D]mar?\n[G]Que morte horrível tem [D]o peca[G]dor,\n[G]Que não aceita o [D]bom Salva[G]dor!\n\nÉ Jesus Cristo, o Filho de Deus;\nO salva-vidas lançado dos céus;\n[G]Cristo te pode sal[D]var hoje a[G]té,\n[G]O salva-vidas se[D]gura com [G]fé."
     },
     {
         "numero": 519,
@@ -15932,7 +15932,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 519 - Achei Jesus, Meu Salvador\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nAchei Jesus, o meu Salvador,\nDe amor fiel, veraz;\nNão [Bb]cessarei de Lhe [F]dar lou[Bb]vor,\nPois [Eb]tenho a [Bb]salva[C]ção e [F]paz.\n\nCoro:\n[Bb]Salvo por [Cm]Cristo sou,\n[F]Salvo por [Bb]quem me amou!\n[Bb]Perfeita paz, Ele a[Eb]gora me traz,\nPorque [F]salvo es[Bb]tou!\n\nVem [Bb]me guardar Sua [F]forte [Bb]mão,\nDe [Eb]todo o [Cm]vício e [Bb/F][F]mal;\nVen[Bb]cendo vou cada [F]tenta[Bb]ção;\nSus[Eb]tém-me o [Bb]braço [C]divi[F]nal.\n\nJe[Bb]sus me achou, tão a[F]flito e [Bb]mal,\n[Eb]Sem ter [Cm]consola[Bb/F][F]ção;\nCha[Bb]mou-me a Si, com a[F]mor [Bb]real;\nChe[Eb]guei-me e a[Bb]chei a [C]salva[F]ção.\n\nDa [Bb]morte eterna me [F]resga[Bb]tou,\nDa [Eb]dura es[Cm]cravi[Bb/F][F]dão;\nNa [Bb]rocha eterna se[F]guro es[Bb]tou;\nCan[Eb]tando [Bb]vou, com [C]grati[F]dão."
     },
     {
         "numero": 520,
@@ -15960,7 +15960,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 520 - A Doce e Preciosa Voz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nEu me a[F]chei num estado de [Bb]tristeza e dor,\nJá pre[C]vendo da vida o [F]fim;\nHoje, e[F]xulto ao lembrar-me da [Bb]hora fe[C]liz,\nEm que [F]Cristo o[C]lhou para [F]mim.\n\nCoro:\nE[Bb]ra só Sua doce e pre[F]ciosa voz\nQue [C]eu sempre [G]ouvia [C]soar,\nEntão, [F]recebia espe[Gm]rança,\nQue Je[C]sus me havia de cu[F]rar.\n\nHoje, [F]eu bem alegre testi[Bb]fico a vós,\nQue Je[C]sus, o meu bom Salva[F]dor,\nÉ o [F]meu defensor, o meu [Bb]guia e [C]luz,\nMeu con[F]forto, na [C]luta, na [F]dor.\n\nOh!Que [F]dia ditoso e [Bb]belo pra mim,\nEm que ou[C]vi a voz de meu Se[F]nhor,\nExor[F]tanto-me a nEle eu [Bb]bem con[C]fiar,\nPois cu[F]rou-me, por [C]Seu grande a[F]mor!"
     },
     {
         "numero": 521,
@@ -15993,7 +15993,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 521 - Vem o Passo Dar!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Com teu pe[Eb]cado vem [Bb]já pra Jesus.\n[Bb]Ele te [F]quer per[Bb]doar.\n[Bb]Deixa as [Eb]trevas, [Bb]vem já para a luz;\n[F]Vem tua vida sal[Bb]var.\n\nCoro:\nVem! Vem! Vem o passo dar!\n[F]Vem teu coração entregar;\n[Bb]Vem Já dizer: “Je[Eb]sus me salvou,\n[Bb/F]Do meu pecado [F]limpo es[Bb]tou”.\n\n[Bb]Contra o pe[Eb]cado outra [Bb]fonte não há,\n[Bb]Só Jesus [F]pode lim[Bb]par;\n[Bb]Dos teus te[Eb]mores e [Bb]culpas, vem já\n[F]NEle te refu[Bb]giar.\n\n[Bb]Oh! Que o[Eb]ferta [Bb]por ti fez Jesus,\n[Bb]Para te [F]purifi[Bb]car!\n[Bb]Deu o Seu [Eb]sangue no [Bb]alto da cruz;\n[F]Vem tua alma la[Bb]var!\n\n[Bb]Vem dar o [Eb]passo, sem [Bb]hesitação,\n[Bb]Jesus te [F]quer per[Bb]doar;\n[Bb]Agora [Eb]mesmo to[Bb]ma a salvação\n[F]Vem tua vida sal[Bb]var."
     },
     {
         "numero": 522,
@@ -16022,7 +16022,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 522 - Rei da Glória\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nO [Em]Rei [D]da [G]glória, [D]quem se[G]rá,\nSe[G]nhor o[Em]nipo[D]ten[G]te?\nSó [Em]Deus, [D]o [G]Filho, o [D]pode [G]ser.\nQue [G]reina e[Em]terna[D]men[G]te.\nAs [C]chagas [D]que Ele [G]rece[C]beu,\nA [A]morte que [D]na [A]cruz so[D]freu,\nO [C]pro[Am]vam cabal[D]men[G]te!\n\nA [Em]mor[D]te [G]que Ele à [D]morte [G]deu,\nGa[G]nhando [Em]a vi[D]tó[G]ria,\nA [Em]se[D]pul[G]tura [D]que rom[G]peu,\nSu[G]bindo à ex[Em]celsa [D]gló[G]ria,\nDe[C]claram [D]Seu [G]real po[C]der,\nE ao [A]mundo dão [D]a [A]conhe[D]cer,\nQue [C]Cristo é o [Am]Rei da [D]gló[G]ria!\n\n[Em]Eis, e[D]le[G]vado [D]lá no [G]céu,\nJe[G]sus, o [Em]Rei da [D]gló[G]ria,\nA[Em]li [D]rei[G]nando a[D]lém do [G]véu,\nCom [G]Deus, na e[Em]terna [D]gló[G]ria,\nOn[C]de re[D]mida [G]multi[C]dão,\nNum [A]êxtase de [D]a[A]dora[D]ção,\nDá [C]a Je[Am]sus a [D]gló[G]ria!\n\nOh! [Em]Quão [D]fe[G]liz quem [D]nEle [G]crer,\nPois [G]vê-Lo-[Em]á na [D]gló[G]ria!\nSim, [Em]to[D]do a[G]quel’que [D]renas[G]cer\nTem [G]o pe[Em]nhor da [D]gló[G]ria!\nCon[C]fessa [D]ser um [G]peca[C]dor.\nCon[A]fia só [D]no [A]Salva[D]dor,\nJe[C]sus, o [Am]Rei da [D]gló[G]ria!"
     },
     {
         "numero": 523,
@@ -16055,7 +16055,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 523 - Cristo, a Fonte Escondida\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Db\n\n[Db]Cristo nos deu uma fonte escon[Ab]dida.\n[Ab]Que qualquer sede po[Db]de estancar.\n[Db]E cujas águas re[Gb]pletas [Db]de vida,\n[Bb]Sempre de [Eb]graça nos hão de far[Ab]tar.\n\nCoro:\nÁ[Db]gua sairá, [Gb]viva mana[Db]rá\nDa [Db]fonte que abriu o Senhor, á[Eb]gua corre[Ab]rá!\nSe [Db]todos qui[Ab]serem be[Db]ber, não [Gb]se esgota[Db]rá;\nMi[Db]lhares de milhares [Db]venham; sem[Ab]pre sai[Db]rá!\n\n[Db]Há muitas fontes de gozo no [Ab]mundo,\n[Ab]Nelas os homens vão [Db]sempre beber,\n[Db]Mas são cisternas [Gb]e poços i[Db]mundos,\n[Bb]Que águas [Eb]vivas não podem con[Ab]ter.\n\n[Db]Já muitos homens gastaram di[Ab]nheiro,\n[Ab]Sem a fonte de [Db]Deus encontrar;\n[Db]Mas Jesus Cristo é o [Gb]nosso ro[Db]teiro,\n[Bb]Que para a [Eb]fonte, nos há de [Ab]guiar.\n\n[Db]Oh, Aleluia ao bom Pai su[Ab]premo,\n[Ab]Pelas bênçãos que a [Db]todos quer dar,\n[Db]E pela fonte [Gb]de paz que nós [Db]temos,\n[Bb]Em nosso [Eb]ser, para nos ale[Ab]grar!"
     },
     {
         "numero": 524,
@@ -16088,7 +16088,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 524 - Cristo Pensa em Mim\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Atra[Bb]vés da tempes[F]tade\n[Dm]Em qualquer [G]calami[C]dade,\n[F]Me conso[Bb]la esta [Dm]verda[Bb]de:\n[F/C]Cristo pensa em [F]mim.\n\nCoro:\n[F]Pensa em [Bb]mim, Je[F]sus\nLá na ex[C]celsa [F]luz;\n[F]Já provaste a cruz,\nCom amor sem fim;\nSatis[Bb]feito es[F]tou,\nSem medo vou;\nCristo pensa em [C]mim.\nCristo pensa em [F]mim.\n\n[F]Quando con[Bb]forto eu de[F]sejo,\n[Dm]Força, ousa[G]dia al[C]mejo,\n[F]Nisto, [Bb]pois, eu tu[Dm]do ve[Bb]jo:\n[F/C]Cristo pensa em [F]mim.\n\n[F]Se eu [Bb]receio o ini[F]migo,\n[Dm]Tendo te[G]mor do pe[C]rigo,\n[F]Em Jesus [Bb]encontro a[Dm]bri[Bb]go:\n[F/C]Cristo pensa em [F]mim.\n\n[F]Caso [Bb/F]eu vá ausen[F]tar-me,\n[Dm]Dos meus ir[G]mãos sepa[C]rar-me,\n[F]Nisto [Bb/F]hei de conso[Dm]lar-me:\nCristo [C]pensa em [F]mim."
     },
     {
         "numero": 525,
@@ -16121,7 +16121,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 525 - Vencendo Vem Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nJá re[Bb]fulge a glória eterna\nDe Jesus, o Rei dos reis!\nBreve os [Eb]reinos deste mundo\nSegui[Bb]rão as suas leis!\nOs si[Bb]nais da sua vinda\nMais se [Bb]mostram [D]cada [Gm]vez:\nVen[Eb]cendo [Bb/F]vem Je[F][Bb]sus!\n\nCoro:\n[Bb]Glória! glória! Aleluia!\n[Eb]Glória! glória! Ale[Bb]luia!\n[Bb]Glória! glória! Ale[Bb][Gm]luia!\n[Gm]Ven[Eb]cendo [Bb/F]vem Je[F][Bb]sus!\n\nO cla[Bb]rim que chama os crentes\nA batalha já soou:\nCristo, à [Eb]frente do seu povo,\nMulti[Bb]dões já conquistou.\nO ini[Bb]migo, em retirada,\nSeu fu[Bb]ror já [D]demons[Gm]trou:\nVen[Eb]cendo [Bb/F]vem [F]Je[Bb]sus!\n\nEis que em [Bb]glória refulgente\nSobre as nuvens descerá,\nE as na[Eb]ções e os reis da terra\nCom po[Bb]der governará.\nSim, em [Bb]paz e santidade\nToda a [Bb]terra [D]rege[Gm]rá:\nVen[Eb]cendo [Bb/F]vem [F]Je[Bb]sus!\n\nE por [Bb]fim entronizado\nAs nações irá julgar:\nTodos, [Eb]grandes e pequenos,\nO [Bb]Juiz hão de encarar.\nE os re[Bb]midos triunfantes,\nLá no [Bb]Céu i[D]rão can[Gm]tar:\n- “[Gm]Ven[Eb]ceu [Bb/F]o Rei [F]Je[Bb]sus!”"
     },
     {
         "numero": 526,
@@ -16159,7 +16159,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 526 - Grandioso És Tu\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nSenhor, meu Deus, quando eu, maravilhado,\nContemplo a tua imensa criação,\nA terra e o [Bb]mar e o céu todo es[Eb]trelado\nMe vêm fa[F]lar da tua perfei[Bb]ção.\n\nCoro:\nEntão minh’[Bb]alma [Eb]canta a ti, Se[Bb]nhor:\n- “Grandioso és [F]Tu! - grandioso és [Bb]Tu!”\nEntão minh’[Bb]aima [Eb]canta a ti, Se[Bb]nhor:\n- “Grandioso és [Cm]Tu! - grandio[F]so és [Bb]Tu!”\n\nQuando as es[Bb]trelas, tão de mim dis[Eb]tantes,\nVejo a bri[F]lhar com vivido esplen[Bb]dor,\nRelembro, oh! [Bb]Deus, as glórias cinti[Eb]lantes\nQue meu Je[F]sus deixou, por meu a[Bb]mor!\n\nOlho as [Bb]florestas murmurando ao [Eb]vento\nE, ao ver que [F]Tu plantaste cada [Bb]pé,\nRecordo a [Bb]cruz, o lenho tão [Eb]cruento,\nE no teu [F]Filho afirmo a mi[Bb]nha fé.\n\nE quando [Bb]penso que Tu não pou[Eb]paste\nTeu Filho a[F]mado por amor de [Bb]mim,\nMeu cora[Bb]ção, que nele Tu ga[Eb]nhaste,\nTransborda, oh! [F]Pai, de amor que não tem [Bb]fim!\n\nE quando [Bb]Cristo, o amado meu, vol[Eb]tando,\nVier dos [F]céus o povo seu bus[Bb]car,\nNo lar e[Bb]terno quero, jubi[Eb]lando,\nA tua [F]santa face contem[Bb]plar."
     },
     {
         "numero": 527,
@@ -16188,7 +16188,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 527 - Dominador É Deus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nDomi[G]nador é Deus sem [D]par,\nPois, [D]com potente [G]mão,\nA [G]tempestade faz ces[C]sar,\nE [G]reina [D]paz, en[G]tão.\n\nOs [G]céus e terra Ele [D]criou;\nSe[D]res e manan[G]ciais.\n[G]Sua vontade Ele di[C]tou,\nE [G]vida a [D]todos [G]traz.\n\nOh! [G]santos! nele espe[D]rai!\nA[D]té em afli[G]ção;\nPois [G]as promessas do bom [C]Pai\nJa[G]mais nos [D]falha[G]rão.\n\nOh! [G]Jamais duvideis de [D]Deus!\nDe[D]vemos con[G]fiar.\nEle abençoa os filhos seus,\nPor muito os amar."
     },
     {
         "numero": 528,
@@ -16212,7 +16212,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 528 - Eu Te Amo, Ó Deus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nEu [Eb]te amo, ó Deus, não [Ab]só por[Eb]que\nAl[Ab]mejo o Céu [Bb]fruir,\n[Bb]Nem só por[Eb]que eu [Ab]temo a[Eb]qui\n[Eb/G]Na morte [Ab]su[Bb]cum[Eb]bir.\n\nEu [Eb]te amo, ó Deus, por[Ab]que na [Eb]cruz\nPro[Ab]vaste o teu a[Bb]mor:\nJe[Bb]sus des[Eb]ceu e em [Ab]meu lu[Eb]gar\nMor[Eb/G]reu, so[Ab]fren[Bb]do a [Eb]dor.\n\n[Eb]Por isso, ó Deus, o [Ab]meu a[Eb]mor\nE[Ab]terno há de [Bb]ser.\nCan[Bb]tar no [Eb]Céu o [Ab]teu lou[Eb]vor\n[Eb/G]Será o [Ab]meu [Bb]pra[Eb]zer."
     },
     {
         "numero": 529,
@@ -16226,7 +16226,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 529 - Em Sua Graça\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Em sua graça, [Eb]seu rico amor.\n[Ab]Veio do [Db]Céu a Be[Eb]lém meu Se[Ab]nhor.\n[Ab]Que maravilha! [Eb]Meu Salvador\n[Ab]Por mim na [Db]cruz [Eb]mor[Ab]reu!"
     },
     {
         "numero": 530,
@@ -16245,7 +16245,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 530 - Vivifica a Tua Igreja\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Gm\n\n[Gm]Vivi[D]fi[Eb]ca a [D]tua i[Gm]greja,\nÓ ben[Gm]di[Cm]to Sal[D]va[Gm]dor!\n[Gm]Sem tua [D]gra[Eb]ça, [D]e[Gm]la murcha\n[Bb]Fica[Gm]rá, e [Cm]sem [D]vi[Gm]gor.\n\n[Bb]Vivi[F]fica! - [Gm]vivi[D]fica\n[Gm]Nossas [F]al[Gm]mas, oh! [F]Se[Bb]nhor!\n[Gm]Vivi[D]fi[Eb]ca! - [D]vivi[Gm]fica\n[Bb]Nos[F][Bb]sas al[Gm]mas, [Cm]oh! Se[D][Gm]nhor!"
     },
     {
         "numero": 531,
@@ -16278,7 +16278,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 531 - Nome Precioso\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Leva tu contigo o nome\n[Db]De Jesus, o Salva[Ab]dor!\n[Eb]Este nome dá con[Ab]forto\n[Eb]Hoje, sempre e onde [Ab]for.\n\nCoro:\nNome [Db]bom! - doce à [Ab]fé\n- A espe[Ab]rança do por[Eb]vir!\nNome [Ab]bom! - doce à [Db]fé\n- A espe[Ab/Eb]rança [Eb]do por[Ab]vir!\n\n[Ab]Este nome leva sempre\n[Db]Para bem te defen[Ab]der:\n[Eb]Ele é a arma ao teu al[Ab]cance,\n[Eb]Quando o mal te apare[Ab]cer.\n\n[Ab]Oh! que nome precioso!\n[Db]Gozo traz ao cora[Ab]ção!\n[Eb]Sendo por Jesus a[Ab]ceito,\n[Eb]Tu terás o seu per[Ab]dão.\n\n[Ab]Santo nome! adorável!\n[Db]Tem Jesus, o amado [Ab]teu:\n- \"[Eb]Rei dos reis”, \"Senhor e[Ab]terno”\n[Eb]Tu o aclamarás no [Ab]Céu."
     },
     {
         "numero": 532,
@@ -16292,7 +16292,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 532 - Santo Nome\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Este nome [Eb]santo,\n[Eb]Nome de Je[Ab]sus,\n[Ab]Doce melo[Db]dia\n[Eb]Em meu coração pro[Ab]duz."
     },
     {
         "numero": 533,
@@ -16321,7 +16321,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 533 - Honras Sejam ao Cordeiro\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n[C]Cristo, nosso [Am]Salva[E]dor,\n[F]Ado[C]ramos-[D]te, Se[G]nhor!\n[C]Gratos, damos-te louvor,\nHonras [C]se[G]jam ao Cordeiro!\n\n[C]Ele foi que [Am]pade[E]ceu,\n[F]Que por [C]nós na [D]cruz mor[G]reu!\n[C]E que assim por nós se deu,\nHonras [C]se[G]jam ao Cor[F/G]dei[C]ro!\n\n[C]Sofredor que a[Am]li pe[E]nou,\n[F]Vence[C]dor que [D]triun[G]fou!\n[C]Salvador que nos amou,\nHonras [C]se[G]jam ao Cor[G]dei[C]ro!\n\n[C]Digno és Tu, Se[Am]nhor, que a [E]ti\n[F]Demos [C]nosso [D]culto a[G]qui!\n[C]Como os teus, nos céus, ali\nHonras [C]se[G]jam ao Cordeiro!"
     },
     {
         "numero": 534,
@@ -16335,7 +16335,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 534 - Cristo É Real Pra Mim\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Cristo é [Cm]real [Bbm]pra mim,\n[Eb]Cristo é real pra [Ab]mim,\nE[Db]le vive em meu ser;\n[Ab/Eb]Sua paz posso [Fm]ter,\nPois [Bb]Cristo é [Eb]real pra [Ab]mim."
     },
     {
         "numero": 535,
@@ -16363,7 +16363,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 535 - Tu És Fiel Senhor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Tu és [Fm]fiel, Senhor, [Bb]meu Pai celes[Eb]te:\n[Ab]Pleno po[Eb]der aos teus [F]filhos da[Bb]rás.\n[Bb]Nunca mu[Eb]daste: tu nunca fal[Ab]taste:\nTal co[Eb/Bb]mo eras, tu [Bb]sempre se[Eb]rás.\n\nCoro:\n[Bb]Tu és [Eb]fiel, Senhor! [C]Tu és [Fm]fiel, Senhor!\n[Bb]Dia após [Eb]dia, com [F]bênçãos sem [Bb]fim,\n[Bb]Tua mer[Eb]cê me sustenta e me [Ab]guarda.\n[Adim]Tu és [Bb]fiel, Se[Bb]nhor, fiel a [Eb]mim.\n\n[Eb]Flores e [Fm]frutos, mon[Bb]tanhas e [Eb]mares,\n[Ab]Sol, Lua, es[Eb]trelas no [F]céu a bri[Bb]lhar:\n[Bb]Tudo [Eb]criaste na terra e [Ab]nos ares.\n[Adim]Todo o Univer[Bb]so vem [Bb]pois te lou[Eb]var!\n\n[Eb]Pleno per[Fm]dão tu dás: [Bb]paz, seguran[Eb]ça:\n[Ab]Cada mo[Eb]mento me [F]guias, Se[Bb]nhor.\n[Bb]E, no por[Eb]vir, oh! que doce espe[Ab]rança:\n[Adim]Desfru[Eb/Bb]tarei do [Bb]teu rico [Eb]favor!"
     },
     {
         "numero": 536,
@@ -16382,7 +16382,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 536 - Amigo Sem Igual\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nAmi[G]go sem igual!\nAmi[D]go sem igual!\nJe[D]sus morreu, em meu lugar,\nA [D]fim de me sal[G]var.\nAmi[G]go sem igual!\nAmi[G]go sem i[D]gual!\nSeu [D]grande amor não [A]muda[D]rá,\nE [D]nunca falha[G]rá.\n\nAmi[G]go sem igual!\nAmi[D]go sem igual!\nBem [D]perto está e quer salvar\nQuem ne[D]le con[G]fiar.\nAmi[G]go sem igual!\nAmi[G]go sem i[D]gual!\nCon[D]vida com i[A]menso a[D]mor\nA [D]todo o peca[G]dor."
     },
     {
         "numero": 537,
@@ -16396,7 +16396,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 537 - Sempre Comigo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Sempre comigo [Eb]está Je[Bb]sus.\n[Bb]Seja nas trevas, [C]seja na [F]luz;\n[Bb]Ele protege-me, [Eb]cuida de [Bb]mim;\n[Eb]Eu quero a[Bb]mar a quem [C]me guarda [F]as[Bb]sim."
     },
     {
         "numero": 538,
@@ -16410,7 +16410,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 538 - Tu, Senhor, És Nosso Amigo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nTu, Se[Eb]nhor, és nosso a[Ab]migo,\nQue [Db]vieste nos sal[Ab]var,\nTu, que [Ab]nos tens sempre a[Db]mado,\nVives [Eb]para nos guar[Ab]dar."
     },
     {
         "numero": 539,
@@ -16434,7 +16434,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 539 - Ao Pensar na Dor Crucial\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nAo pen[F]sar no sofrer e na [Bb]dor [C]cru[F]cial\nQue na [F]cruz supor[Bb]tou por a[F]mor nosso [C]Rei,\nPróprio [F]eu, vida, enfim, e pra[Bb]zer [C]munda[F]nal,\nCoisas [Bb]vãs a[F]qui nunca [C]mais ama[F]rei.\n\nDestas [F]mãos, destes pés sangue es[Bb]tá [C]a jor[F]rar,\nManan[F]cial de po[Bb]der, e de [F]paz, e de a[C]mor.\nSempre i[F]rei nesta cruz do Se[Bb]nhor [C]me glo[F]riar,\nNeste a[Bb]mor sem [F]fim pelo [C]vil peca[F]dor.\n\nNem do [F]Céu a extensão é ca[Bb]paz [C]de con[F]ter\nA ampli[F]dão sem i[Bb]gual e o po[F]der deste a[C]mor.\nLá no [F]Céu, pela fé neste a[Bb]mor [C]e po[F]der,\nEsta[Bb]rei aos [F]pés do meu [C]bom Salva[F]dor."
     },
     {
         "numero": 540,
@@ -16458,7 +16458,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 540 - Ao Ver a Cruz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nAo [Eb]ver morrer na [Bb]rude [Eb]cruz,\nEm [Cm]dor e an[Ab]gústia meu Je[Bb]sus,\nCom[Bb]preendo ser um [Eb]peca[Bb]dor,\nE [Fm]meu or[Bb]gulho sem va[Eb]lor.\n\nAs [Eb]mãos, os pés e a [Bb]fronte em [Eb]dor\nDer[Cm]ramam [Ab]sangue por a[Bb]mor;\nOh! [Bb]santa mão! Fe[Eb]rida [Bb]mão!\nDe[Fm]seja [Bb]dar-me salva[Eb]ção.\n\nDou [Eb]graças mil a [Bb]meu Je[Eb]sus;\nO a[Cm]mor pro[Ab]vado sobre a [Bb]cruz\nI[Bb]rá sustar e [Eb]condu[Bb]zir\nA [Fm]minha [Bb]vida no por[Eb]vir."
     },
     {
         "numero": 541,
@@ -16486,7 +16486,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 541 - Calvário, Revelação de Amor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nNo Cal[F]vário contemplamos\nNosso [F]meigo Salva[D]dor!\n- [Gm]Oh! re[C]velação de a[F]mor! -\nO misté[F]rio há tanto oculto,\nDeus em [F]Cristo reve[D]lou!\n- [Gm]Oh! re[C]velação de a[F]mor!\n\nCoro:\nCal[F]vário! - Calvário!\n- [C]Oh! grande [F]dor!\nCal[F]vário! - Calvário!\n- [Gm]Oh! re[C]velação de a[F]mor!\n\nDeus a[F]mou a este mundo\nE seu [F]Filho ofere[D]ceu.\n- [Gm]Oh! re[C]velação de a[F]mor! -\nO Se[F]nhor, na cruz morrendo,\nDe nós [F]se compade[D]ceu!\n- [Gm]Oh! re[C]velação de a[F]mor!\n\nDeus, o [F]Pai, olhou o Calvário\nE seu [F]Filho abando[D]nou!\n- [Gm]Oh! re[C]velação de a[F]mor! -\nMas so[F]frendo este abandono,\nCristo [F]deu-nos seu per[D]dão!\n- [Gm]Oh! re[C]velação de a[F]mor!"
     },
     {
         "numero": 542,
@@ -16520,7 +16520,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 542 - História de Cristo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Conta-me a história de [Bb]Cristo,\n[Cm]Grava-a no [Bb]meu cora[Eb]ção,\n[Eb]A linda história inaudi[Cm]ta,\n[Bb]De graça, paz e perdão!\n[Bb]Conta como Ele, encarnando,\n[Ab]Veio no mundo morar,\n[Cm]E aos peca[G]dores, in[Ab]dignos,\n[Bb]De Deus o amor reve[Eb]lar!\n\n[Eb]Conta como Ele, bon[Bb]doso,\n[Cm]Nunca a nin[Bb]guém rejei[Eb]tou,\n[Eb]Como, de mãos estendi[Cm]das,\n[Bb]Todos a si convidou!\n[Bb]Como não pode o bom Mestre,\n[Ab]Seja a quem for, recusar,\n[Cm]Se, conven[G]cido e con[Ab]trito,\n[Bb]O seu convite acei[Eb]tar.\n\n[Eb]Conta-me quando no [Bb]monte\n[Cm]Sobre a ci[Bb]dade cho[Eb]rou,\n[Eb]pois orgulhosa e re[Cm]belde\n[Bb]O seu amor rejeitou!\n[Bb]Conta como Ele ainda chora\n[Ab]Sobre os que seguem o [Eb]mal;\n[Cm]E, endure[G]cidos, re[Ab]sistem\n[Bb]Ao seu amor divi[Eb]nal.\n\n[Eb]Conta também como [Bb]Cristo,\n[Cm]Mesmo na [Bb]cruz, se lem[Eb]brou\n[Eb]Dos seus cruéis inimi[Cm]gos,\n[Bb]E ao Pai por eles rogou!\n[Bb]Como ao ladrão moribundo\n[Ab]Tão prontamente escu[Eb]tou,\n[Cm]E, nesse [G]dia, con[Ab]sigo\n[Bb]Para o descanso o le[Eb]vou!\n\n[Eb]Conta-me as duras a[Bb]frontas\n[Cm]Que mansa[Bb]mente so[Eb]freu:\n[Eb]Como, na cruz levanta[Cm]do,\n[Bb]Ele por ímpios morreu!\n[Bb]Dá-me o viver na certeza\n[Ab]De que foi mesmo por mim!\n[Cm]Que seu a[G]mor inefá[Ab]vel\n[Bb]Não tem mudança nem [Eb]fim!"
     },
     {
         "numero": 543,
@@ -16534,7 +16534,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 543 - Cristo, Meu redentor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Cristo, [Bbm]meu Redentor!\n[Eb]Cristo, meu [Ab]bom Pastor!\n[Ab]Tu, que morreste, e teu [Db]sangue verteste,\nÉs meu [Eb]Salva[Ab]dor!"
     },
     {
         "numero": 544,
@@ -16558,7 +16558,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 544 - Creio, Senhor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n[C]Cristo Je[F]sus, o [G]sangue [C]teu,\nTeu grande a[F]mor e [D]re[G]tidão\n[C]São pa[E]ra [Am]mim glo[C]rioso [F]véu\n[C]A me co[Am]brir com [G]teu per[C]dão.\n\n[C]Creio, Se[F]nhor, na [G]reden[C]ção\nDada na [F]cruz ao [D]peca[G]dor,\n[C]Que res[E]ga[Am]tou da [C]perdi[F]ção\n[C]Meu pobre [Am]ser, por [G]santo a[C]mor.\n\n[C]Creio, Se[F]nhor, que [G]nunca [C]mais\nMal há de en[F]trar no [D]lar do A[G]lém,\n[C]Que, pe[E]la [Am]cruz, os [C]imor[F]tais\n[C]Desfruta[Am]rão o e[G]terno [C]bem."
     },
     {
         "numero": 545,
@@ -16600,7 +16600,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 546 - Manhã da Ressurreição\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Quando, enfim, vol[C/G]tar o [G]Salva[Em]dor,\nNo [B]ventu[D]roso alvor,\n[G]Nunca mais serão a morte a[G/D]troz e a [G]dor.\n\n[G]Que manhã! [C/G]feliz res[G]surrei[Em]ção!\nQueri[B]dos [D]lá estão!\n[G]Todos os remidos vida em [G/D]Deus te[G]rão.\n\n[G]Oh! prazer su[C/G]premo [G]que se[Em]duz!\nRes[B]susci[D]tar em luz!\nVer a paz do Céu a contemplar Jesus!"
     },
     {
         "numero": 547,
@@ -16628,7 +16628,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 547 - O Rei Está Voltando\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nOs [Bb]fiéis são trasladados; seu tra[Eb]balho aqui fin[C]dou.\nA car[F]reira desses santos, nesta [Bb]vida já cessou.\nDo Se[Bb]nhor os bons cei[Bb+]feiros, termi[Eb]naram seu la[C]bor;\nA co[F]lheita completou-se: é a [Bb]vinda do Senhor!\n\nCoro:\nO [Bb]Rei está voltando! o [Eb]Rei está vol[C]tando!\nA trombe[F]ta está soando, para os [Bb]santos trasladar.\nSim, o [Bb]Rei está voltando! o [Eb]Rei está vol[C]tando!\nAle[F]luia! Ele vem nos bus[Bb]car!\n\nDesta [Bb]Terra estão subindo os re[Eb]midos para o [C]céu,\nAo encontro do Deus Filho, que aparece além do véu.\nE o [Bb]templo está de[Bb+]serto; sua [Eb]pregação ces[C]sou.\nÉ noti[F]cia em toda parte: “Jesus [Bb]Cristo já voltou!”\n\nOs re[Bb]midos vão subindo: é a [Eb]festa celes[C]tial:\nTodo o [F]Céu está se abrindo, num “Bem-[Bb]vindo!” sem igual,\nQual o [Bb]som de mui[Bb+]tas águas, nós [Eb]ouvimos en[C]toar\nAleluias ao Cordeiro! - vamos indo para o Lar!"
     },
     {
         "numero": 548,
@@ -16642,7 +16642,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 548 - Breve Jesus Há de Vir\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Breve Jesus há de [Bb]vir lá do [F]Céu, buscar-nos para o [C]Lar.\n[F]Devo estar pronto, ao Je[Bb]sus che[F]gar, e [F/C]assim vou [C]para o [F]Lar."
     },
     {
         "numero": 549,
@@ -16666,7 +16666,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 549 - Ora Vem, Senhor Jesus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nSe[Eb]nhor, não mais re[Bb]tardes\nA [Eb]luz [Eb/G]do reino [Ab]Teu,\nPois [Eb]já a vida a[Fm]qui\n[Ab]To[Bb]da [Eb/Bb]em dor se [Bb]conver[Eb]teu.\n\nPor [Eb]Ti, Jesus, an[Bb]siosos\nEs[Eb]tão [Eb/G]os cora[Ab]ções;\nOh! [Eb]vem, sem mais tar[Fm]dar,\n[Ab]Des[Bb]fa[Eb/Bb]zer as [Bb]afli[Eb]ções.\n\n[Eb]Com fé a Igreja a[Bb]guarda\nO al[Eb]vor [Eb/G]da tua [Ab]luz,\nE está a suplicar:\n“Ora vem, Senhor Jesus!”"
     },
     {
         "numero": 550,
@@ -16680,7 +16680,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 550 - Breve Ele Volta\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Breve Ele [D]volta;\n[D]Quando, eu não [G]sei;\n[G]Breve Ele [D]volta;\n[D]Jesus virá outra [G]vez."
     },
     {
         "numero": 551,
@@ -16694,7 +16694,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 551 - O Santo Espírito\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Db\n\n[Db]O Santo Espírito, [Ab]Consolador,\nJá nos en[Ab]cheu de [Db]seu eterno amor,\nDe sua gra[Db]ça e [Gb]plena unção,\n[Gb]Pra anun[Db]ciarmos a salva[Gb]ção! A[Db]mém."
     },
     {
         "numero": 552,
@@ -16727,7 +16727,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 552 - Quando para o Céu Nós Formos\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n[C]Canta o grande amor de Cristo,\n[G]Sua graça e compai[C]xão:\n[C]Num lugar tran[F]qüilo e belo\n[G]Faz-nos eternal man[C]são.\n\nCoro:\nQuando ao Céu nós chegarmos,\nOh! que [C]dia de [D]júbilo há de [G]ser!\nA Je[C]sus da[F]remos\nHo[G]sanas, cheios de pra[C]zer.\n\n[C]Somos hoje peregrinos:\n[G]Nuvens toldam nosso [C]céu,\n[C]Mas um dia - es[F]trada finda -\n[G]Não mais sombras, não mais [C]véu.\n\n[C]Vamos ser leais, portanto,\n[G]Seja em crer, seja em ser[C]vir!\n[C]Um relance [F]lá da Glória\n[G]Atração dá ao por[C]vir.\n\n[C]Eia, ao galardão depressa:\n[G]Vamos logo ao Céu che[C]gar:\n[C]Abrem-se os por[F]tais gloriosos:\n[G]Eis Jesus a nos sau[C]dar."
     },
     {
         "numero": 553,
@@ -16751,7 +16751,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 553 - Oh! Pai, o Santo Espírito\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nOh! [G]Pai, o Santo Es[C]pírito,\nPe[Am]dimos, [C]vem [G/D]nos [D]dar,\nPra [G]que Ele venha [C]já\n[Am]O seu po[G/D]der nos [D]outor[G]gar!\n\nCon[G]vença-nos de [C]todo o mal,\nCon[Am]sole os [C]cora[G/D][D]ções,\nAm[G]pare-nos a [C]fé\nEm [Am]meio à [G/D]dor e ás a[D]fli[G]ções!\n\nHa[G]bite nossos [C]corações\nPra [Am]sermos [C]templos [G/D][D]teus,\nO[G]pere conver[C]são\nE [Am]reden[G/D]ção, oh! [D]nosso [G]Deus!"
     },
     {
         "numero": 554,
@@ -16765,7 +16765,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 554 - O Evangelho\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nO [Eb]meu Salvador, por [Ab]seu grande amor,\nDo [Eb]céu, veio aqui mor[Bb]rer,\nPra, salvo, levar quem nele confiar\nE ir sempre com Ele viver."
     },
     {
         "numero": 555,
@@ -16794,7 +16794,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 555 - O Redentor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Sei que vive o Redentor,\n[Eb]Sei que há [Bb]vida em [F]seu fa[Bb]vor.\n[Eb]Ele a[Bb]qui na [F]cruz mor[Bb]reu:\n[Eb]Reina em [Bb]glória [F]lá no [Bb]Céu.\n\n[Bb]Vive para interceder\n[Eb]E nas lu[Bb]tas [F]me va[Bb]ler,\n[Eb]Vive [Bb]pra me [F]susten[Bb]tar,\n[Eb]E do [Bb]mal me [F]resguar[Bb]dar.\n\n[Bb]Deus me livra do temor,\n[Eb]Mino[Bb]rando a [F]minha [Bb]dor.\n[Eb]A tris[Bb]teza [F]me des[Bb]faz,\n[Eb]Dá-me go[Bb]zo, [F]vida e [Bb]paz.\n\n[Bb]Vive! Hosanas eu lhe dou!\n[Eb]Vi[Bb]ve! reina! e [F]salvo eu [Bb]sou!\n[Eb]Vivo [Bb]nele, o [F]Reden[Bb]tor,\n[Eb]Sempre [Bb]firme em [F]seu a[Bb]mor!"
     },
     {
         "numero": 556,
@@ -16822,7 +16822,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 556 - Lê a Bíblia\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nSe de[F]sejas conhecer\nA men[F]sagem [Dm]do Se[C]nhor,\nTua [C]alma enriquecer\nNa Ver[F]dade e no Amor,\n\nCoro:\nLê a [Bb]Bíblia! - Teu fervor\nNela [F]vem alimentar!\nTua vida redimida\nNo Se[F]nhor vai exultar.\nLê a [Bb]Bíblia - Teu fervor\nNela [F]vem alimentar!\nTua vida redimida\nNo Se[Bb]nhor vai [C]exul[F]tar.\n\nSe al[F]mejas alcançar\nAs pro[F]messas [Dm]de Je[C]sus\nE pre[C]tendes caminhar\nSob a [F]proteção da Cruz,\n\nSe em ver[F]dade queres ir\nHabi[F]tar [Dm]com o Se[C]nhor,\nJunto [C]dele usufruir\nDo mais [F]rico e pleno amor."
     },
     {
         "numero": 557,
@@ -16851,7 +16851,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 557 - A Palavra da Vida\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Cristo, oh! celeste vida,\n[G]Mani[C]festa o [D]teu po[G]der!\n[G]Vivifica os sem-alento,\n[G]Faze [C]os mortos [D]revi[G]ver!\n[D]Vida eterna - [G]vida eterna\n[G]Vem a todos conce[D]der!\n[G]Vem a to[C]dos [D]conce[G]der!\n\n[G]Abre-nos teu santo Livro!\n[G]Brilhe em [C]nós a [D]luz dos [G]céus!.\n[G]Esclarece todo o engano\n[G]E dos [C]erros li[D]vra os [G]teus!\n[D]Ilumina! - [G]ilumina\n[G]Nossas almas, Rei dos [D]céus!\n[G]Nossas al[C]mas, [D]Rei dos [G]céus!\n\n[G]Na leitura desta Bíblia\n[G]Dá-nos [C]gozo, [D]oh! Se[G]nhor!\n[G]Tendo, pelo teu ensino,\n[G]Comu[C]nhão em san[D]to a[G]mor,\n[D]Exulte[G]mos - exultemos\n[G]Entoando o teu lou[D]vor!\n[G]Entoan[C]do o [D]teu lou[G]vor!\n\n[G]Pelo estudo da Palavra\n[G]Apren[C]demos [D]oh! Je[G]sus!\n- [G]Deus concede os belos frutos Que tua instrução pro[D]duz.\nDesfrutamos - [G]desfrutamos\n[G]Alegria, vida e [D]luz!\n[G]Ale[C]gria, [D]vida [G]e [C/G]luz! A[G]mém."
     },
     {
         "numero": 558,
@@ -16879,7 +16879,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 558 - Daí-me a Bíblia\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Dai-me a Bíblia, [Eb]que eu tanto a[Ab]nelo:\n[Db]Por seu caminho [Ab]quero sempre an[Eb]dar.\n[Ab]Por suas palavras [Eb]são a grata [Ab]nova\n[Db]Que Jesus Cristo [Eb]veio anun[Ab]ciar.\n\nCoro:\n[Ab]Dai-me a Bíblia, livro tão pre[Db]cioso!\n[Ab]Doutrina Santa: fonte é de [Eb]luz.\n[Ab]E seus ensinos, [Eb]qual farol glo[Ab]rioso,\n[Db]A nós conduzem [Eb]ao Senhor Je[Ab]sus.\n\n[Ab]Dai-me a Bíblia: [Eb]dela eu pre[Ab]ciso,\n[Db]Pois do pecado [Ab]a mim vai li[Eb]vrar\n[Ab]E suas palavras [Eb]são tão pode[Ab]rosas,\n[Db]Que minha alma [Eb]podem reno[Ab]var.\n\n[Ab]Dai-me a Bíblia! [Eb]Que meu guia [Ab]seja!\n[Db]E nesta vida [Ab]meu caminho e [Eb]luz!\n[Ab]E seus ensi[Eb]nos - o roteiro [Ab]certo -,\n[Db]Que me conduzam [Eb]para o bom Je[Ab]sus."
     },
     {
         "numero": 559,
@@ -16907,7 +16907,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 559 - Bíblia Sagrada\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Bíblia Sagrada,\n[F]És a Palavra de [Bb]Deus:\n[Bb]És o mapa da jor[F]nada\n[F]Dos que seguem para o [Bb]Céu.\n[Eb]És a carta enviada,\n[Eb]Que o Atalaia tem na [Bb]mão:\n[Bb]És as velas da jan[Eb]ga[F]da\nDos que levam a salva[Bb]ção.\n\nCoro:\nLivro de a[Bb]mor,\n[Bb]Livro que nos dá pra[F]zer\nNo Salva[F]dor,\n[F]No Espírito e no sa[Bb]ber.\nLivro ben[Bb]dito!\n[Bb]Só em ti pode habi[Eb]tar\n[Eb]A Palavra de a[Bb]mor,\n[Bb]Que dos lábios do Se[F]nhor\n[F]Saiu para em ti fa[Bb]lar.\n\n[Bb]Bíblia Sagrada,\n[F]És o livro de ful[Bb]gor,\n[Bb]És a jóia rejei[F]ta[F]da\nPelo vitupera[Bb]dor.\n[Eb]És o livro para a sen[Eb]da,\nContra o horror da corru[Bb]ção.\n[Bb]És o livro que nos [Eb]manda\nFalar desta salva[Bb]ção.\n\n[Bb]Bíblia Sagrada,\n[F]És a luz do meu Bra[Bb]sil,\n[Bb]És a lança e a es[F]pada\n[F]Deste povo varo[Bb]nil.\n[Eb]És dos dedos, o brilhan[Eb]te,\nÉs do jardim, a linda [Bb]flor,\n[Bb]És a luz mais ra[Eb]diante\n[F]Que nos mostra o Salva[Eb]dor."
     },
     {
         "numero": 560,
@@ -16935,7 +16935,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 560 - Tenho Paz em Meu Ser\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nTenho [D]paz em meu ser, uma perfeita [G]paz,\nQue o [D]mundo não me pode [A]dar.\nE na [D]prova fatal ou na luta mor[G]tal\nTenho [D]paz para [E]me confor[A]tar.\n\nCoro:\n[D]Em meu ser habita Cristo, o Se[A]nhor.\n[A]Em meu ser habita profundo a[D]mor!\n[D]Sim, não me desampara: Ele é [G]fiei:\n[G]Estará co[D]migo, [A]meu Salva[D]dor.\n\nQuando [D]eu fui a Jesus, encontrei plena [G]luz,\nDe [D]paz a minh’alma inun[A]dou.\nToda [D]noite passou: novo dia [G]raiou,\nPorque [D]Cristo Je[E]sus me sal[A]vou.\n\nEsta [D]paz sem igual, que me livra do [G]mal,\nSu[D]blime, sem par, eter[A]nal,\nNão a [D]quero deixar: ela vai me aju[G]dar,\nTé che[D]gar à man[E]são celes[A]tial."
     },
     {
         "numero": 561,
@@ -16963,7 +16963,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 561 - Que Bênção!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nQue [G]bênção: a lua brilhando no espaço!\nQue [C]bênção: as [G]ondas que [D]rolam no mar!\nQue [G]bênção: as flores brotando nos campos!\nMas [C]a maior [G]bênção eu [D]vou te con[G]tar:\n\nCoro:\nJe[G]sus me sal[C]vou, dos pecados [G]meus,\nQue [C]bênção, Je[G]sus! que [D]bênção, meu [G]Deus!\nJe[G]sus me sal[C]vou, dos pecados [G]meus,\nQue [C]bênção, Je[G]sus! que [D]bênção, meu [G]Deus!\n\nQue [G]bênção: as aves que cantam e encantam!\nQue [C]bênção: [G]crianças em [D]simples brincar!\nQue [G]bênção: rebanhos pastando entre os rios!\nMas [C]a maior [G]bênção eu [D]vou te con[G]tar:\n\nQue [G]bênção: amigos que a mim procuram!\nQue [C]bênção: a [G]Pátria, a [D]qual posso amar!\nQue [G]bênção: família, saúde, fartura!\nMas [C]a maior [G]bênção eu [D]vou te con[G]tar:"
     },
     {
         "numero": 562,
@@ -16982,7 +16982,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 562 - Autor da Vida\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nAutor da [F]vida. [C]Cristo, [F]Deus!\nA vida [F]fluis a [C]teu que[F]rer.\nPerdão por [Bb]ti nos vem dos [F]céus\nE tu nos [C]dás real pra[F]zer,\nFazendo em [Bb]nosso cora[F]ção\nRaiar a [C]luz da salva[F]ção.\n\nNos deste a [F]vida e[C]terna a [F]nós -\nOutrora [F]mortos [C]para [F]Deus -\nFizeste ou[Bb]vir a tua [F]voz\n- A voz que vi[C]vifica os [F]teus.\nPra te ren[Bb]der real lou[F]vor,\nEstamos [C]juntos, oh! Se[F]nhor!"
     },
     {
         "numero": 563,
@@ -16996,7 +16996,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 563 - Sempre Feliz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nFe[Eb]liz, eu sou feliz, feliz, oh! [Bb]sempre mui feliz!\nPois [Bb]Cristo veio e me salvou, meu [Eb]coração lavou.\nFe[Eb]liz, eu sou feliz, oh! [Ab]sempre mui feliz!\nFeliz, eu sou feliz, feliz, oh! sempre mui feliz!"
     },
     {
         "numero": 564,
@@ -17029,7 +17029,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 564 - Conta as Bênçãos\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nSe da vida as vagas procelosas são,\nSe, com desalento, julgas tudo vão,\n[Eb]Conta as muitas bênçãos, dize-as [Bb]duma vez,\n[Bb]E verás, surpreso, quanto Deus já [Eb]fez!\n\nCoro:\n[Eb]Conta as bênçãos! dize [Bb]quantas são,\n[Bb]Recebidas da di[Eb]vina mão!\n[Eb]Vem di[Ab]zê-[Bb]las, todas du[Eb]ma vez,\n[Eb]E verás, sur[Ab]preso, quanto [Bb]Deus já [Eb]fez!\n\n[Eb]Tens acaso mágoas? Triste é [Bb]teu lidar?\nE a cruz pesada, que tens [Eb]de levar?\n[Eb]Conta as muitas bênçãos, não du[Bb]vidarás,\n[Bb]E em canto alegre os dias passa[Eb]rás.\n\n[Eb]Quando vires outros com seu [Bb]ouro e bens,\n[Bb]Lembra que tesouros prome[Eb]tidos tens!\n[Eb]Nunca os bens da terra po[Bb]derão comprar\n[Bb]A mansão celeste que vais habi[Eb]tar.\n\n[Eb]Seja o conflito fraco ou [Bb]forte aqui,\n[Bb]Não te desanimes: Deus se[Eb]rá por ti,\n[Eb]Seu divino auxílio, mino[Bb]rando o mal,\n[Bb]Te dará consolo, e galardão fi[Eb]nal."
     },
     {
         "numero": 565,
@@ -17053,7 +17053,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 565 - Tu És Meu\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Jesus, eu sei que [D]tu és meu,\n[G]O Dom que [C]Deus, o Pai, me [D]deu.\n[G]Teus fei[Em]tos majes[Am]tosos são\n[D]O gozo [G]do meu [D]cora[G]ção.\n\n[G]Tudo o que tens, é [D]para mim.\n[G]O meu pra[C]zer está em [D]ti.\n[G]Tomaste a[Em]qui o [Am]meu lugar,\n[D]Pra eu es[G]tar no [D]santo [G]lar.\n\n[G]Por mim estás nos [D]céus. Jesus.\n[G]Que eu mostre a[C]qui a tua [D]luz!\n[G]Revele [Em]sempre o [Am]teu amor!\n[D]Até que [G]venhas, [D]meu Se[G]nhor!"
     },
     {
         "numero": 566,
@@ -17081,7 +17081,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 566 - Paz Perfeita, Sim, Busquei\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nPaz per[Eb]feita, sim, busquei,\nE ja[Ab]mais a encon[Eb]trei,\nPois o [Bb]preço não queria eu pa[Eb]gar.\nLonge [Eb]de Deus a vagar,\nSua pro[Ab]messa a rejei[Eb]tar.\nDo pe[Bb]cado não querendo me apar[Eb]tar.\n\nCoro:\nMas a[Eb]gora estou vi[C]vendo pra Je[Fm]sus,\nEscon[Bb]der-me quero junto à sua [Eb]Cruz.\nInda [Eb]que sofrendo [Ab]dor,\nQuero es[Ab]tar com meu Je[Eb]sus:\nEncon[Bb]trei por fim a vida em meu Se[Eb]nhor.\n\nEu es[Eb]tava em oração,\nDeus to[Ab]cou meu cora[Eb]ção\nE me [Bb]disse: “Põe tua vida no al[Eb]tar\nPa[Eb]ra eu santificar!”\nO pe[Ab]cado então dei[Eb]xei:\nMinha [Bb]vida a Deus eu logo dedi[Eb]quei.\n\nCom seu [Eb]sangue me comprou,\nO meu [Ab]ser purifi[Eb]cou.\n- Uma [Bb]vida de -vitória encon[Eb]trei.\n“Teus pe[Eb]cados perdoei\nPelo muito que te amei”\nTernamente me falou o Grande Rei."
     },
     {
         "numero": 567,
@@ -17095,7 +17095,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 567 - Sou Feliz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Sou feliz, feliz, feliz no meu vi[Bb]ver!\n[Bb]Sou feliz, pois tenho um grande Salva[Eb]dor.\n[Eb]Desde quando me salvou com o [Ab]seu po[F]der,\n[Bb]Vivo alegre, mui feliz no [Eb]seu amor."
     },
     {
         "numero": 568,
@@ -17128,7 +17128,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 568 - Manso e Suave\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Manso e suave, é [Db]Cristo cha[Ab]mando:\n[Ab]Chama por [Fm]ti e por [Eb]mim.\n[Ab]Eis que Ele às portas es[Db]pera ve[Ab]lando:\n[Ab]Vela por [Eb]ti e por [Ab]mim,\n\nCoro:\nVem [Eb]já! vem [Ab]já! [Eb]alma can[Bb]sada, vem [Eb]já!\n[Ab]Manso e suave, Je[Db]sus convi[Ab]dando,\n[Ab]Chama: - “Vem, [Eb]pecador, [Ab]vem!”\n\n[Ab]Com paciência, Ele es[Db]tá espe[Ab]rando,\n[Ab]Hoje, [Fm]por ti e por [Eb]mim.\n[Ab]Oh! não desprezes a [Db]quem, convi[Ab]dando,\n[Ab]Chama [Eb]por ti e por [Ab]mim.\n\n[Ab]Correm os dias, as [Db]horas se [Ab]passam,\n[Ab]Passam por [Fm]ti e por [Eb]mim.\n[Ab]Transes de morte, por [Db]fim, vão che[Ab]gando,\n[Ab]Tanto por [Eb]ti e por [Ab]mim.\n\n[Ab]Oh! quanto amor que Je[Db]sus nos tem [Ab]dado!\n[Ab]Tudo [Fm]por ti e por [Eb]mim!\n[Ab]Seu sangue foi sobre a [Db]Cruz [Ab]derramado,\n[Ab]Sim, foi [Eb]por ti e por [Ab]mim."
     },
     {
         "numero": 569,
@@ -17161,7 +17161,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 569 - Morri na cruz por Ti\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n“Mor[C]ri na cruz por [F]ti:\nMor[G]ri pra te li[C]vrar!\nMeu [C]sangue, ali, ver[F]ti,\nE [G]posso te sal[C]var.”\n\nCoro:\n“Mor[G]ri! morri na [C]cruz por ti:\n- Que [G]fazes tu por [C]mim?\nMor[G]ri! morri na [C]cruz por ti:\n- Que [G]fazes tu por [C]mim?”\n\n“Vi[C]vi assim por [F]ti,\nEm [G]dor, em dissa[C]bor,\nE [C]tudo fiz a[F]qui\nPra [G]ser teu Salva[C]dor.”\n\n\"So[C]fri na cruz por [F]ti, -\nA [G]fim de te sal[C]var.\nA [C]vida conse[F]gui,\nQue [G]tu irás go[C]zar.”\n\nEu [C]trouxe a salva[F]ção,\nDos [G]altos céus lou[C]vor.\nÉ [C]certo meu per[F]dão,\nÉ [G]grande o meu a[C]mor!”"
     },
     {
         "numero": 570,
@@ -17199,7 +17199,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 570 - A Última Hora\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n- Ao fin[F]dar o la[Bb]bor desta [F]vida\nQuando a mor[C]te a teu lado che[F]gar,\nQue des[F]tino há de [Bb]ter a [F]tua alma?\nQual se[C]rá no futuro teu [F]lar?\n\nCoro:\nMeu a[Bb]migo, hoje tu tens a es[F]colha:\n- Vida ou [C]morte - qual vais acei[F]tar?\nAma[Bb]nhã pode ser muito [F]tarde:\nHoje [C]Cristo te quer liber[F][Bb/F]tar.\n\nTu pro[F]curas a [Bb]paz neste [F]mundo,\nEm praze[C]res que passam em [F]vão.\nMas, na [F]última [Bb]hora da [F]vida,\nEles [C]não mais te satisfa[F]rão.\n\n- Por a[F]caso tu [Bb]riste, ó a[F]migo,\nQuando ou[C]viste falar de Je[F]sus?\nMas so[F]mente Je[Bb]sus pode [F]dar-te\nSalva[C]ção pela morte na [F]cruz.\n\nTens man[F]chada tua [Bb]alma e não [F]podes\nContem[C]plar o semblante de [F]Deus:\nSó os [F]crentes [Bb]de corações [F]limpos\nPode[C]rão ter o gozo nos [F]céus.\n\nSe de[F]cides dei[Bb]xar teus pe[F]cados,\nE entre[C]gar tua vida a Je[F]sus,\nTrilha[F]rás, sim, [Bb]na última [F]hora\nUm ca[C]minho brilhante de [F]luz."
     },
     {
         "numero": 571,
@@ -17213,7 +17213,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 571 - Rende o Coração\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Rende o coração agora [C]a Jesus,\n[C]Pois está á tua espera, [F]com amor.\n[F]Quem se entrega a Cristo goza paz e luz;\n[C]Oh! Vem ao Salva[F]dor!"
     },
     {
         "numero": 572,
@@ -17227,7 +17227,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 572 - A Porta Sou\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\n'A [A]porta sou eu'. [D]diz o Senhor,\nAl[E]guém entrando por [A]mim, por mim,\n[A]Salvo será, [D]salvo será; [A/E]sal[E]var-se-á"
     },
     {
         "numero": 573,
@@ -17241,7 +17241,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 573 - A Graça de Nosso Senhor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nA [Eb]graça de [Ab]nos[Bb]so Se[Eb]nhor,\n[Bb]E o a[F]mor de [Bb]Deus,\nE a comu[Eb]nhão do Espírito [Ab]San[Eb]to,\n[Bb]Sejam [Cm]conosco. A[Bb]mém, A[Eb]mém."
     },
     {
         "numero": 574,
@@ -17255,7 +17255,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 574 - Ó Pai Bondoso\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nÓ Pai bondo[A]so, vem nos [D]guiar!\n[D]No novo [G]ano [A]vem nos guar[D]dar!"
     },
     {
         "numero": 575,
@@ -17279,7 +17279,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 575 - Espero em Ti\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Eu só espero em ti,\n[Bb]Cordeiro, que por mim,\n[Eb]Fos[F]te à [Bb]cruz.\n[Eb]Ouve minha oração.\n[Eb]Dá-me a tua mão,\n[Eb]Enche meu coração\nCom [Ab]san[Bb]ta [Eb]luz!\n\n[Eb]Dá-me consolação,\n[Bb]Guarda meu coração!\n[Eb]Teu [F]grande a[Bb]mor,\n[Eb]Teu sangue carmesim,\n[Eb]Deste na cruz por mim.\n[Eb]Que eu viva para ti,\nCom [Ab]mui[Bb]to ar[Eb]dor!\n\n[Eb]A trilha seguirei,\n[Bb]E provas eu terei.\n[Eb]Meu [F]guia [Bb]sê.\n[Eb]Do mal vem me livrar:\n[Eb]Puro me conservar!\n[Eb]Pra sempre vou cantar\nO [Ab]teu [Bb]lou[Eb]vor."
     },
     {
         "numero": 576,
@@ -17308,7 +17308,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 576 - Assim como estou\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nAs[F]sim [Bb]como [C]es[F]tou: sem nada dizer,\nSe[Dm]não que por [Bb]mim [Gm]vieste a mor[C]rer.\nE [C]me convidaste a [F]ti [G]recor[C]rer:\nBen[Gm]dito Je[Bb]sus, me che[C]go a [F]ti!\n\nAs[F]sim [Bb]como [C]es[F]tou: sem mais demorar,\nMi[Dm]nha alma do [Bb]mal que[Gm]rendo lim[C]par,\nA [C]ti, que de tudo me [F]po[G]des la[C]var:\nBen[Gm]dito Je[Bb]sus, me [C]chego a [F]ti!\n\nAs[F]sim [Bb]como [C]es[F]tou: em grande aflição.\nTão [Dm]digno de [Bb]morte e [Gm]da perdi[C]ção,\nRo[C]gando-te vida, com [F]paz [G]e per[C]dão:\nBen[Gm]dito Je[Bb]sus, me che[C]go a [F]ti!\n\nAs[F]sim [Bb]como [C]es[F]tou: o teu grande amor\nMe [Dm]vence: e [Bb]crendo em [Gm]ti, sem te[C]mor,\nEu [C]quero servir-te, di[F]vi[G]no Se[C]nhor!\n- Ben[Gm]dito Je[Bb]sus, me che[C]go a [F]ti!"
     },
     {
         "numero": 577,
@@ -17336,7 +17336,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 577 - Em Fervente Oração\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nEm fer[F]vente oração, vem o teu coração\nNa pre[C]sença de Deus derra[F]mar!\nMas só po[F]des fruir o que estás a pedir,\nQuando tu[C]do deixares no Al[F]tar.\n\nCoro:\nQuando [Bb]tudo perante o Se[F]nhor estiver,\nE [Bb]todo o teu [G]ser Ele [C]controlar,\nSó, en[F]tão, hás de ver que o Senhor tem poder,\nQuando [C]tudo deixares no Al[F]tar.\n\nMara[F]vilhas de amor te fará o Senhor.\nAten[C]dendo à oração que acei[F]tar.\nSeu i[F]menso poder, te virá socorrer,\nQuando [C]tudo deixares no Al[F]tar.\n\nSe o[F]rares, porém, sem o teu coração\nTer a [C]paz que o Senhor pode [F]dar,\nFoi por [F]Deus não Sentir que tua alma se abriu,\nTudo, [C]tudo, deixando no Al[F]tar."
     },
     {
         "numero": 578,
@@ -17388,7 +17388,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 579 - Porque te Afliges?\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Oh! por [Bb]que te a[Eb]fli[Bb]ges, pobre coração?\n[Eb]Pois o [C]teu Je[Bb]sus [Eb]quer [F]dar conso[Bb]lação.\nSão demais as cargas? É cruel a dor?\nOlha para o céu e vê teu lar de amor.\n\n[Eb]Pe[Bb]sa na cons[Eb]ciência [Bb]teu pecado vil?\n[Eb]Olha [C]para a [Bb]cruz, [Eb]Je[F]sus é tão gen[Bb]til!\n[Bb]Seu precioso san[Ab]gue Ele [Eb]já ver[Bb]teu\n[Eb]Para dar per[Ab]dão e a[Bb]brir caminho ao [Eb]céu.\n\n[Eb]Quando [Bb]te com[Eb]primem [Bb]garras de temor,\n[Eb]Quando em a[C]fli[Bb]ções, [Eb]con[F]fia no Se[Bb]nhor.\n[Bb]Ele te protege, [Ab]triste [Eb]cora[Bb]ção!\n[Eb]Ele te con[Ab]duz ao [Bb]céu com sua [Eb]mão!"
     },
     {
         "numero": 580,
@@ -17412,7 +17412,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 580 - Salmo 121\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Ergo os meus [C]olhos [D]para os altos [G]montes:\n[G]O meu so[C]cor[G]ro, de onde me vi[D]rá?\n[D]O meu so[G]corro vem do Deus e[D]terno\n[G]Que fez a [B]ter[C]ra, fez o [D]céu e o [G]mar.\n\n[G]Ele te [C]guarda [D]se teu pé va[G]cila:\n[G]Teu guarda [C]nun[G]ca tosqueneja[D]rá.\nÉ tua [G]sombra: nem de noite a [D]lua\n[G]Nem o sol de [B]dia [C]te mo[D]lesta[G]rão.\n\n[G]Todos os [C]males [D]Ele é quem a[G]fasta,\n[G]Pois tua [C]al[G]ma Ela guarda[D]rá.\n[D]Guarda a [G]saída, guarda a tua en[D]trada,\n[G]Sim, desde a[B]gora, [C]para [D]sempre, a[G]mém."
     },
     {
         "numero": 581,
@@ -17441,7 +17441,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 581 - Castelo Forte\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nCas[D]telo forte [Bm]é nos[E]so [A]Deus,\nAmpa[D]ro e for[Em]tale[A][D]za:\nCom [D]seu poder de[Bm]fen[E]de os [A]seus\nNa [D]luta e na [Em]fra[A]que[D]za.\nNos [D]tenta [E]Sata[A]nás,\nCom fú[D]ria [G]perti[D]naz,\nCom [Bm]artimanhas [A]tais\nE as[G]tú[D]cias [B]tão [Em]cruéis,\nQue i[G]guais não [D]há [Em]na [A]Ter[D]ra.\n\nA [D]nossa força [Bm]na[E]da [A]faz:\nEs[D]tamos, sim, [Em]perdi[A][D]dos.\nMas [D]nosso Deus so[Bm]cor[E]ro [A]traz\nE [D]somos pro[Em]tegi[A][D]dos.\nDe[D]fende-[E]nos Je[A]sus,\nO [D]que ven[G]ceu na [D]cruz\nO Se[Bm]nhor dos altos [A]céus.\nE [G]sen[D]do [B]tam[Em]bém [F#]Deus,\n[G]Triunfa [D]na [Em]bata[A][D]lha.\n\nSe [D]nos quisessem [Bm]de[E]vo[A]rar\nDemô[D]nios não [Em]con[A]ta[D]dos,\nNão [D]nos podiam [Bm]as[E]sus[A]tar,\nNem [D]somos der[Em]rota[A][D]dos.\nO [D]grande a[E]cusa[A]dor\nDos [D]servos [G]do Se[D]nhor\nJá [Bm]condenado es[A]tá:\nVen[G]ci[D]do [B][Em]cai[F#]rá\nPor [G]uma [D]só [Em]pala[A][D]vra.\n\nQue [D]Deus a luta [Bm]ven[E]ce[A]rá,\nSa[D]bemos com [Em]cer[A]te[D]za,\nE [D]nada nos as[Bm]sus[E]ta[A]rá\nCom [D]Cristo por de[A]fe[D]sa.\nSe [D]temos [E]de per[A]der\nFamí[D]lia, [G]bens, po[D]der,\nE, em[Bm]bora a vida [A]vá,\nPor [G]nós [D]Je[B][Em]sus es[F#]tá,\nE [G]dar-nos-[D]á [Em]seu [A]rei[D]no"
     },
     {
         "numero": 582,
@@ -17474,7 +17474,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 582 - A Barca da Vida\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nEu [F]tenho de andar neste mundo\nQual [F]barca vogando no [C]mar,\nMas [F]sei o segredo profun[G]do\nDe [G]nele jamais naufra[C]gar:\n\nCoro:\n[F]Cristo é o Pi[C]loto [F]para me [C]guiar,\n[F]Da vida a [Bb]barca, a[F]té no [C]Céu che[F]gar.\n\nA [F]luz que ao Céu me dirige,\nA [F]Santa Palavra de [C]Deus,\nDes[F]vios e faltas corri[G]ge,\nMos[G]trando o caminho dos [C]céus.\n\nO [F]mar tormentoso da vida\nRu[F]gindo, me busca per[C]der,\nMas [F]sempre por Cristo manti[G]da,\nMinh’[G]alma bonança há de [C]ter.\n\nAs[F]sim eu não temo perigo:\nNão [F]vou naufragar neste [C]mar.\nSe [F]Cristo Jesus vai comi[G]go,\nNo [G]céu, sim, eu hei de en[C]trar."
     },
     {
         "numero": 583,
@@ -17503,7 +17503,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 583 - Sê Tu Meu Guia\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Sê tu meu Guia, ó Cristo: estou me[Eb]droso\n[Eb]De andar sozinho [Bb]pela soli[Eb]dão!\n[Ab]Sê tu meu Guia, e o ermo pa[Eb4]voro[Eb]so\n[Ab/C]Já não se[Db]rá lu[Eb]gar de escuri[Ab]dão!\n\n[Ab]Sê tu meu Guia, leva-me a [Eb]teu lado,\n[Eb]Pois, junto a ti de[Bb]sejo estar, Se[Eb]nhor!\n[Ab]Pois por teu braço, estando assim [Eb4]firma[Eb]do,\n[Ab/C]Não hei de [Db]trope[Eb]çar nem ter te[Ab]mor.\n\n[Ab]Sê tu meu Guia, em tempo ra[Eb]diante,\n[Eb]Ou na bonança, ou [Bb]mesmo em tempo[Eb]ral!\n[Ab]Sê tu meu Guia, que eu prossiga [Eb4]avan[Eb]te,\n[Ab/C]Sem me afas[Db]tar do [Eb]rumo divi[Ab]na!.\n\nSê tu meu Guia, até que tenha entrada\nna casa paternal, no Céu além;\n[Ab]Ali, enfim. minha alma des[Eb4]cansa[Eb][Ab/C]da\nTerá con[Db]tigo [Eb]seu eterno [Ab]bem."
     },
     {
         "numero": 584,
@@ -17527,7 +17527,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 584 - O Piloto\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nGuia, [Bb]Cristo, [Eb]minha [Bb]nau\nSobre o [Eb]revol[F]toso [Bb]mar,\nTão en[F]furecido e [Bb]mau,\nQuer fa[F]zê-la naufra[Bb]gar.\nVem Je[Bb]sus, oh! [Eb]vem [Bb]guiar,\nMinha [Eb]nau vem [F]pilo[Bb]tar!\n\nComo [Bb]sabe [Eb]sere[Bb]nar\nBoa [Eb]mãe o fi[F]lho [Bb]seu.\nVem, a[F]calma, assim, o [Bb]mar\nQue se e[F]leva até o [Bb]céu.\nVem Je[Bb]sus, oh! [Eb]vem [Bb]guiar,\nMinha [Eb]nau vem pi[F]lo[Bb]tar!\n\nSe, no [Bb]porto [Eb]quando en[Bb]trar,\nMais o [Eb]mar se en[F]fure[Bb]cer,\nQue me possa deleitar\nEm ouvir Jesus dizer:\n\"Entra, pobre [Eb]via[Bb]jor,\nNo des[Eb]canso [F]do Se[Bb]nhor.”"
     },
     {
         "numero": 585,
@@ -17541,7 +17541,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 585 - Jesus me Satisfaz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\nJe[A]sus me satis[D]faz.\nE [Bm]gozo [D]sua [E]paz;\nCom [A]Ele vou,\nCon[D]tente es[Bm]tou:\n- Je[A/E]sus me [E]satis[A]faz."
     },
     {
         "numero": 586,
@@ -17555,7 +17555,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 586 - Gozo e Vida Tenho\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Gozo e [Bb]vida te[Eb]nho [Bb]no meu cora[Eb]ção,\n[Ab]Desde que Jesus [Eb]Cristo [Bb]deu-me seu per[Eb]dão."
     },
     {
         "numero": 587,
@@ -17579,7 +17579,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 587 - Neste Lenho me Glorio\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\n[C]Neste lenho [G]me glo[C]rio,\n[C]Manan[C/G]cial de [C]res[D]plen[G]dor;\n[C]Brilha intenso [G]o su[C]plício\n[C]Do di[G]vino Reden[C]tor.\n\n[C]Quando temos [G]cari[C]dade,\n[C]Mansi[C/G]dão, per[C]fei[D]to a[G]mor,\n[C]Uma intensa [G]clari[C]dade\n[C]Mostra ao [G]mundo seu ful[C]gor.\n\n[C]Que suprema [G]dor e an[C]gústia\n[C]Supor[C/G]tou o [C]Sal[D]va[G]dor!\n[C]Sim, por morte [G]tão ter[C]rível\n[C]Redi[G]miu-nos com a[C]mor."
     },
     {
         "numero": 588,
@@ -17603,7 +17603,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 588 - Sou Mui Feliz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Fui pecador, per[Db]verso e [Ab]mau,\n[Fm]Longe de [Bb]Ti va[Eb]guei!\n[Eb]Mas, mui fe[Ab]liz eu [C]hoje [Fm]sou,\n[Ab/Eb]Jesus, meu [Eb]Deus e [Ab]Rei.\n\n[Ab]Eu percebi a [Db]tua [Ab]voz\n[Fm]A me cha[Bb]mar: \"Oh, [Eb]vem!\n[Eb]Vem, filho [Ab]meu! Eu [C]dar-te-[Fm]ei\n[Ab/Eb]O meu per[Eb]dão! Sim, [Ab]vem!”\n\n[Ab]Logo a teus pés, hu[Db]milde, [Ab][Fm]vim,\nE me pros[Bb]trei, Se[Eb]nhor!\n[Eb]Oh! sou fe[Ab]liz, por[C]que sen[Fm]ti\n[Ab]O teu be[Eb]nigno a[Ab]mor!"
     },
     {
         "numero": 589,
@@ -17617,7 +17617,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 589 - Quádruplo Amém\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]A[A][D][B]mém, A[Em][C]mém, A[D]mém, A[G]mém!"
     },
     {
         "numero": 590,
@@ -17641,7 +17641,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 590 - Contentamento\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Eu já contente estou: [Bb]Tenho Je[Eb]sus!\n[Eb]Com alegria vou: [Bb]Tenho Je[Eb]sus!\n[Bb]Gozo que o [Eb]mundo traz, [Ab]bem ce[Eb]do se des[Bb]faz:\n[Eb]Tenho perfeita [Cm]paz, [Bb]paz em Je[Eb]sus.\n\n[Eb]Eu posso envelhecer, [Bb]nunca Je[Eb]sus!\n[Eb]Eu posso empobrecer, [Bb]nunca Je[Eb]sus!\n[Bb]Tudo [Eb]me suprirá, [Ab]sempre me [Eb]vale[Bb]rá,\n[Eb]Nada me fal[Cm]ta[Bb]rá, tendo Je[Eb]sus.\n\n[Eb]Vai tudo aqui findar, [Bb]menos Je[Eb]sus!\n[Eb]Quando o Juiz che[Bb]gar: é meu Je[Eb]sus!\n[Bb]Bem grato [Eb]me há de ser [Ab]quando meu [Eb]Rei des[Bb]cer.\n[Eb]Certo Ele irá di[Cm]zer: “[Bb]Sou teu Je[Eb]sus!”"
     },
     {
         "numero": 591,
@@ -17665,7 +17665,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 591 - Pura, Sim, Mais Pura\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Pura, sim, [Bbm]mais pura [Eb]quero a mente [Ab]ter!\n[Ab]Gozo, sim, mais [Eb]gozo possa eu conhecer!\n[Ab]Oh! Jesus Ben[Bbm]dito, [Eb]ouve esta ora[Ab]ção,\nPois a ti per[Db]ten[Eb]ce o meu cora[Ab]ção.\n\n[Ab]Calmo, sim, mais [Bbm]calmo [Eb]sempre quero es[Ab]tar.\n[Ab]Firme, sim, mais [Eb]firme possa eu sempre andar!\n[Ab]Nunca me esmo[Bbm]reça [Eb]este cora[Ab]ção,\nPois em Cristo [Db]tenho [Eb]toda a perfei[Ab]ção.\n\n[Ab]Alto, sim, [Bbm]mais alto [Eb]que as estrelas [Ab]vou.\n[Ab]Perto, sim, mais [Eb]perto de Jesus estou.\n[Ab]Cristo é meu mo[Bbm]delo, [Eb]sempre o segui[Ab]rei:\nTudo quanto a[Db]nelo [Eb]nele encontra[Ab]rei."
     },
     {
         "numero": 592,
@@ -17698,7 +17698,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 592 - O Lugar de Bênção e Paz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nEu es[G]tou no lu[C]gar onde há [G]bênção e paz,\nOnde [G]sinto comigo Je[D]sus.\nAos hu[G]mildes seu sangue asse[C]gura per[G]dão:\nSeu Es[C]pírito os [G]en[D]che de [G]luz.\n\nCoro:\nEs[D]tou no lugar onde há [G]bênção e paz,\nOnde [C]Cristo nos [G]mostra afei[D]ção.\nDescan[G]sai! exulta!! confes[C]sai-o!\n- Publi[G]cai que nele [D]há salva[G][C]ção.\n\nQue ale[G]gria es[C]tar onde há [G]bênção e paz!\nQue ri[G]queza de amor sem i[D]gual:\nO can[G]sado recebe ali[C]mento e vi[G]gor:\nPara o [C]triste há con[G]so[D]lo [G]real!\n\nQue ter[G]nura es[C]tar onde há [G]bênção e paz,\nE per[G]dão de inefável va[D]lor!\nMas so[G]mente os fiéis é que [C]podem con[G]tar\nEsta [C]graça do [G]bom [D]Salva[G]dor.\n\nHá lou[G]vor sem i[C]gual onde há [G]bênção e paz!\nE eis que os [G]anjos desejam can[D]tar\nCom os [G]homens, em coro, a ben[C]dita mer[G]cê\nDe Je[C]sus, que nos [G][D]veio sal[G]var!"
     },
     {
         "numero": 593,
@@ -17712,7 +17712,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 593 - Estou Seguro\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Oh! Jesus, meu [Bb]Salvador,\nEs[Eb]tou seguro em [Ab]teu amor,\n[Ab]E por ti sou vence[Db]dor,\n[Eb]Pois estás comi[Ab]go!"
     },
     {
         "numero": 594,
@@ -17741,7 +17741,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 594 - Fé Persistente\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nAl[Ab]mejo a fé que [Db]for[Ab]te é\n[Ab]Diante [Fm]do ter[Eb]ror,\nQue, [Eb]calma, [Fm]não re[Ab]cua[Db]rá\nDo [Ab]mundo a[Eb]terra[Ab]dor.\n\nA [Ab]fé que não me [Db]faz quei[Ab]xar\nNa [Ab]dor da [Fm]corre[Eb]ção,\nMas [Eb]quanto o [Fm]fogo [Ab]mais ar[Db]der,\nMais [Ab]firma o [Eb]cora[Ab]ção.\n\nA [Ab]fé que sempre [Db]brilha [Ab]mais\nNo [Ab]negro [Fm]fura[Eb]cão,\nQue [Eb]no pe[Fm]rigo [Ab]sente [Db]paz,\nAu[Ab]daz na es[Eb]curi[Ab]dão.\n\nÓ [Ab]Deus, me dá ta[Db]ma[Ab]nha fé,\nQue [Ab]venha o [Fm]que [Eb]vier!\nEn[Eb]tão [Fm]na lide [Ab]prova[Db]rei\nCe[Ab]lestial [Eb]pra[Ab]zer."
     },
     {
         "numero": 595,
@@ -17760,7 +17760,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 595 - Somente a Ti!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: A\n\nQuem tenho, ó [A]Deus, no [Bm]céu aí\nSe[E]não a ti - somente a [A]ti!\nE mais nin[A]guém a[Bm]doro aqui\nA[E]lém de [A]ti, so[E]mente a [A]ti!\n\nA Rocha [A]deste [Bm]coração\nÉs [E]tu, Senhor, e meu qui[A]nhão.\nCom teu o[A]lhar [Bm]guiar-me-ás\nE em [E]glória [A]me re[E]cebe[A]rás."
     },
     {
         "numero": 596,
@@ -17788,7 +17788,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 596 - Gratidão\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Eu te agradeço, Jesus, meu Senhor,\nAs tuas bênçãos a [C]flux.\n[C]Eu me enlevo por teu grande amor\nManifestado na [F]cruz!\n[F]Ao lado estou das riquezas dos céus,\nFluídas de tuas [Bb]mãos.\n[Bb]Quero cantar mil can[F]tares!\n- Oferta pro[C]funda do meu cora[F]ção! ;\n\nCoro:\n[F]Louvemos, [Dm]pois, o [Bb]nosso [C]Rei Je[F]sus,\n[F]Que por a[Dm]mor mor[Bb]reu na [C]dura [F]cruz!\n[Gm]Só Ele nos dá paz,\nSua [C]graça [A/C#]satis[Dm]faz:\n[F]Louvemos, [Dm]pois, o [Bb]nosso [C]Rei Je[F]sus!\n\n[F]Tua bondade é sublime e real,\nEternamente pra [C]mim.\n[C]Aceita agora o meu voto leal\nPor tua graça sem [F]fim!\nTu nos provês da fartura dos céus,\nCom tuas divinas mãos.\n[Bb]Por isto canto mil [F]cantos,\nQue jorram de [C]dentro do meu cora[F]ção!\n\n[F]Mui amoroso és, Cristo Jesus,\nDesde o Calvário de [C]dor.\n[C]Onde abriu-se a fonte da Luz\nQue sara o sofre[F]dor.\nPor gratidão, quero sempre cantar\nLouvores de salvação,\n[Bb]Quero cantar mil can[F]tares\nCom gozo i[C]menso do meu cora[F]ção!"
     },
     {
         "numero": 597,
@@ -17812,7 +17812,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 597 - Graça Dou\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nGraças [Bb]dou por esta [F]vida: pelo bem que reve[Bb]lou.\nGraças [Bb]dou pelo fu[Eb]turo, e por [F]tudo que pas[Bb]sou.\nPelas [Eb]bênçãos derra[Bb]madas, pela dor, pela afli[F]ção,\nPela [Bb]graça reve[Eb]lada! - graças [F]dou pelo per[Bb]dão.\n\nGraças [Bb]pelo azul ce[F]leste e por nuvens que há tam[Bb]bém,\nPelas [Bb]rosas do ca[Eb]minho, por es[F]pinhos que elas [Bb]têm,\nPela es[Eb]curidão da [Bb]noite, pela estrela que bri[F]lhou,\nPela [Bb]prece respon[Eb]dida, pelo [F]sonho que fa[Bb]lhou.\n\nPela [Bb]cruz e o sofri[F]mento e por toda prova[Bb]ção,\nPelo a[Bb]mor que é sem me[Eb]dida, pela [F]paz no cora[Bb]ção,\nPela [Eb]lágrima ver[Bb]tida, pelo alivio que é sem [F]par.\nPelo [Bb]dom da eterna [Eb]vida, sempre [F]graças hei de [Bb]dar!"
     },
     {
         "numero": 598,
@@ -17856,7 +17856,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 598 - Riquezas do Céu\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nOh! bus[D]cai, não as riquezas\nDeste [E]mundo de incerte[A]zas!\nAs do [D]Céu não têm tris[G]tezas:\nOh! bus[A]cai-as, sim, bus[D]cai!\n\nOh! bus[D]cai. não as loucuras\nQue só [E]trazem amar[A]guras.\nMas as [D]eternais ven[G]turas:\nOh! bus[A]cai-as, sim. bus[D]cai!\n\nOh! bus[D]cai Jesus primeiro,\nAo [E]real, fiel Cor[A]deiro!\nNele há [D]gozo verda[G]deiro:\nOh! bus[A]cai-o, sim, bus[D]cai!\n\nSim, bus[D]cai Jesus bendito,\nSeu a[E]mor é infi[A]nito,\nIne[D]fável, inau[G]dito:\nOh! bus[A]cai-o, sim, bus[D]cai!\n\nOh! bus[D]cai a santidade,\nA pure[E]za, a cari[A]dade!\nCom te[D]mor, com humil[G]dade,\nOh! bus[A]cai-as! sim, bus[D]cai!\n\nDe Je[D]sus imitadores,\nSede [E]bons trabalha[A]dores!\nE bus[D]cai os peca[G]dores:\nOh! bus[A]cai-os, sim, bus[D]cai!\n\nCom a[D]mor, a convidá-los.\nIde a[E]gora procu[A]rá-los,\nPois Je[D]sus manda cha[G]má-los:\nOh! bus[A]cai-os, sim, bus[D]cai!"
     },
     {
         "numero": 599,
@@ -17880,7 +17880,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 599 - Herdeiro do Reino\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nÓ tu, herdeiro do [F]reino ce[Bb]leste,\n[Bb]Não, não dormites, o [C]fim vai che[F]gar;\n[F]Oh! cinge as armas e [Eb]põe-te na [Bb]luta,\n[Gm]Pois [F]a vi[Bb]tória de[F]sejas ga[Bb]nhar.\n\n[Bb]Não te detenham praze[F]res ter[Bb]renos,\n[Bb]Pois bem depressa te[C]rão de pas[F]sar;\n[F]Oh! deixa a vida que ao [Eb]mundo te [Bb]prende,\n[Gm]Vem, [F]vem a [Bb]Cristo que [F]te há de sal[Bb]var!\n\n[Bb]Eis as potências dis[F]postas à [Bb]luta;\n[Bb]Sê fervoroso, [C]fiel, bom cris[F]tão;\nJá no horizonte refulgem as glórias\nOh! nobre herdeiro, prorrompe em canção!"
     },
     {
         "numero": 600,
@@ -17904,7 +17904,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 600 - Mãos ao Trabalho\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Mãos ao trabalho, [Bb]cren[F]tes,\n[C]Vai já passando o al[F]vor.\nVa[F]mos, enquanto [Bb]te[F]mos\n[C]Nossa vida em [F]flor!\n[C]Vamos, enquanto é dia,\n[F]Com força traba[C]lhar:\n[F]Eia que em vindo a [Bb]noi[F]te,\n[C]Já não há li[F]dar!\n\n[F]Mãos ao trabalho, [Bb]cren[F]tes,\n[C]Andai, enquanto há [F]luz:\n[F]Eia, que, agora é [Bb]tem[F]po\n[C]De servir Je[F]sus!\n[C]Ide o vigor da vida\n[F]Todos ao bem vo[C]tar.\n[F]Eia, que em vindo a [Bb]noi[F]te,\n[C]Já não há li[F]dar!\n\n[F]Mãos ao trabalho, [Bb]cren[F]tes,\n[C]Breve nos chega o [F]fim.\n[F]Firmes, enquanto a [Bb]mor[F]te\n[C]Não tocar cla[F]rim!\n[C]Vamos, irmãos, à obra,\n[F]Por Cristo traba[C]lhar:\n[F]Eia, que em vindo a [Bb]noi[F]te,\n[C]Vamos descan[F]sar!"
     },
     {
         "numero": 601,
@@ -17927,7 +17927,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 601 - A Seara está Madura\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nA [Eb]seara está madura;\nHá tra[Eb]balho pra fa[Bb]zer.\nOuve a [Eb]voz de Deus chamando\nPara à [Bb]ceifa te tra[Eb]zer!\n\nCoro:\nDo teu la[Eb]bor o fruto aumenta,\nQuando [Eb]vives sempre a o[Bb]rar.\nTerás [Eb]Justa recompensa,\nSe tu [Bb]fores traba[Eb]lhar.\n\nBem-a[Eb]venturado o servo\nQue vi[Eb]veu a traba[Bb]lhar.\nAo [Eb]fiel o Pai declara:\n\"No meu [Bb]gozo vais en[Eb]trar.\""
     },
     {
         "numero": 602,
@@ -17951,7 +17951,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 602 - Juntos Trabalhamos\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[F]Juntos traba[Bb]lhamos [Cm]pelo nosso [F]Rei;\n[F]Frutos mostra[Bb]remos [C]quando aqui vol[F]tar.\n[F]Homens maus bus[Bb]camos [Cm]para a sua [D]grei,\n[Bb]Pois o nosso [Eb]Rei também os [F]quer sal[Bb]var.\n\n[F]Mesmo em nossa [Bb]casa [Cm]nosso derre[F]dor,\n[F]Vamos traba[Bb]lhando [C]pelo Salva[F]dor..\n[F]Nossa recom[Bb]pen[Cm]sa há de ser [D]maior,\n[Bb]Sendo-lhe [Eb]fiéis e ao seu su[F]premo a[Bb]mor.\n\n[F]Temos a men[Bb]sagem [Cm]para procla[F]mar.\n[F]Tempos peri[Bb]gosos [C]são os a[F]tuais;\n[F]Cristo em breve [Bb]vol[Cm]ta, temos que lu[D]gar;\n[Bb]Sempre avante, [Eb]assim - Retroce[F]der, ja[Bb]mais!"
     },
     {
         "numero": 603,
@@ -17980,7 +17980,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 603 - Método de Deus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nÉ [F]bom fa[C]lar com al[F]guém\nDe [C]Cristo, de [F]Cristo,\nÉ [F]bom fa[C]lar com al[F]guém\nDe [C]Cris[F]to.\n\nVai [F]hoje e [C]traze al[F]guém\nA [C]Cristo, a [F]Cristo,\nSim, [F]vai e [C]traze al[F]guém\nA [C]Cris[F]to.\n\nVai [F]hoje o[C]rar por al[F]guém\nA [C]Cristo. a [F]Cristo.\nSim, [F]vai o[C]rar por al[F]guém\nA [C]Cris[F]to.\n\nAl[F]guém as[C]sim salva[F]rás\nPor [C]Cristo, por [F]Cristo.\nE [F]grande [C]gozo te[F]rás\nEm [C]Cris[F]to."
     },
     {
         "numero": 604,
@@ -18004,7 +18004,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 604 - Senhor, os Mensageiros Teus\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nSe[Eb]nhor, os mensa[Bb]geiros [Eb]teus\nI[Ab]rão levar [Cm]por onde [Bb]for\nA [Eb]luz da graça ao [D]mundo [Gm]mau,\nE [Fm]a fé no [Bb]Salva[Eb]dor.\n\nSe[Eb]nhor, envia o[Bb]breiros [Eb]bons,\n[Ab]De fé, cora[Cm]gem, zelo e a[Bb]mor;\n[Eb]Fiéis a Ti e ao [D]seu de[Gm]ver,\n[Fm]Leais ao [Bb]Reden[Eb]tor.\n\nSe[Eb]nhor, possamos [Bb]todos [Eb]nós\nA[Ab]qui do teu per[Cm]dão fa[Bb]lar;\nA [Eb]quem do mal ca[D]tivo es[Gm]tá,\nA[Fm]té Je[Bb]sus vol[Eb]tar."
     },
     {
         "numero": 605,
@@ -18032,7 +18032,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 605 - Quero te Servir\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Quero, Jesus, fazer o teu querer;\n[Db]Quero servir-te, [Ab]sim.\n[Ab]Tua palavra sempre obedecer,\n[Bb]Pois tens amado a [Eb]mim.\n\nCoro:\n[Ab]Quero Te servir\n[Eb]Oh! meu Salva[Ab]dor\n[Ab]Quero Te ser[Db]vir,\n[Ab]Pois és o [Eb]meu Pas[Ab]tor.\n\nNesta jornada sempre confiarei\nNo teu grandioso amor.\n[Ab]Tua mensagem sempre levarei\n[Bb]Aos que padecem [Eb]dor.\n\nUm dia, aqui, as lutas findarão;\nContigo estarei.\n[Ab]Alegre irei, sim, à feliz Sião,\n[Bb]Com tua santa [Eb]grei."
     },
     {
         "numero": 606,
@@ -18046,7 +18046,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 606 - Triunfo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Eu triunfa[C]rei [G]pelo san[Em]gue de Je[D]sus;\n[Am]Sim, triunfarei [D]pela sua [G]cruz."
     },
     {
         "numero": 607,
@@ -18070,7 +18070,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 607 - Luz após Trevas\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\n[Eb]Luz após trevas, [Cm]glória após [Fm]luz,\n[Bb]Ganho após perda, trono após [Eb]cruz,\n[Eb]Paz após luta, fruto após flor,\n[Ab]Riso após [Eb]pranto, [Bb]gozo após [Eb]dor.\n\n[Eb]Crente após ímpio, [Cm]justo após [Fm]réu,\n[Bb]Graça após ira, vista após [Eb]véu,\nSol após chuva, mel após sal,\nLar após lida, bem após mal.\n\n[Eb]Perto após longe, [Cm]Cristo após [Fm]eu,\n[Bb]Vida após tumba, terra após [Eb]Céu,\n[Eb]Glória, paz, vida, fé, trono e luz\n[Ab]Tudo isso eu [Eb]tenho, [Bb]crendo em Je[Eb]sus."
     },
     {
         "numero": 608,
@@ -18094,7 +18094,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 608 - Se em Teu Caminho\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nSe [C]em teu caminho a[G]qui\nA escuri[C]dão e as [Am]sombras [G]vêm,\nE [C]se nenhum fulgor sor[F]ri,\nTra[F]zen[Dm]do luz do [G]vasto a[C]lém,\nTe[F]rás a luz do [C]Céu.\n\nSe [C]em teu viver a[G]qui\nPersegui[C]ção trou[Am]xera [G]dor,\nTrou[C]xer o sofrimento a [F]ti,\nOh, [F]sim en[Dm]tão, em [G]teu fa[C]vor\nVi[F]rás paz do [C]Céu.\n\nMas [C]oh! se o teu so[G]frer\nE a luta a[C]troz [Am]findar a[G]qui,\nE a [C]paz, enfim, puderes [F]ter.\nQuão [F]calmo e [Dm]bom, quão [G]doce a [C]ti\nSe[F]rão lar do [C]Céu."
     },
     {
         "numero": 609,
@@ -18108,7 +18108,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 609 - Vitória Deus Dará a Mim\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nVitória [F]Deus dará a [C]mim, eu [F]sei,\nVitória [F]Deus dará a [C]mim, eu [F]sei.\nSe eu an[Bb]dar em plena luz,\nCon[F]fiar só em Jesus,\nVitória [F/C]Deus dará a [C]mim, eu [F]sei."
     },
     {
         "numero": 610,
@@ -18122,7 +18122,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 610 - Fé É a Vitória\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\n[F]Fé é a vi[C]tória,\n[C]Sim, fé sempre [Bb/F]tem [F]poder.\n[Bb]Fé é a vi[F]tória:\nAo [F/C]mundo i[C]rá ven[F]cer."
     },
     {
         "numero": 611,
@@ -18136,7 +18136,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 611 - Cristo, Comandante\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nSempre a[Ab]vante! manda o Gene[Eb]ral;\nSem[Eb]pre avante! guerra contra o [Ab]mal!\nFirmes, [Ab]fortes, nunca vaci[Db]lar!\nPois os seus [Eb]fiéis irão ga[Ab]nhar."
     },
     {
         "numero": 612,
@@ -18160,7 +18160,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 612 - Ó Pai Eterno\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nÓ Pai eterno que no Céu ha[A]bitas,\n[C#]Nós, os teus [D]fi[B][Em]lhos, vimos te pe[A]dir\n[A]Que nos am[D]parem tuas mãos bendi[G]tas.\nEm nossas lu[D]tas [Em]hoje e [A]no por[D]vir.\n\n[D]Não nos impute nossos vis pe[A]cados.\n[C#]Teus, nós se[D]ja[B]mos, [Em]sempre mais e [A]mais;\n[A]Pois, con[D]fiantes, somos vigo[G]ra[G#dim]dos\nEm teus pa[D]ternos [Em]braços [A]divi[D]nais.\n\nÓ Pai, transforma nossa natu[A]reza,\n[C#]Vem ensi[D]nar-[B][Em]nos a fazer o [A]bem.\n[A]Em nossa [D]mente dá-nos mais pu[G]reza,\nMais santi[D]dade, [Em]por Je[A]sus. A[D]mém."
     },
     {
         "numero": 613,
@@ -18174,7 +18174,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 613 - Vitória Final\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Quando chegar ao fim da jor[Eb]nada,\n[Bb]Finda a luta e ao Céu eu [Eb]for;\n[Eb]Doce será. sim, go[Ab]zar o [Eb]repouso\n[Ab]E as boas [Eb]vindas de [Bb]Cristo, Se[Eb]nhor."
     },
     {
         "numero": 614,
@@ -18213,7 +18213,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 614 - Terra Feliz\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nEu a[G]visto uma [C]terra fe[G]liz,\nOnde i[G]rei para sempre mo[D]rar:\nHá man[G]sões nesse [C]lindo [G]país,\nQue Je[G]sus foi pra [C]mim [D]prepa[G]rar.\n\nVou mo[G]rar! - vou mo[D]rar\nNessa [D]terra celeste por[G]vir!\nVou mo[G]rar! - vou mo[C]rar!\nNessa [G/D]terra ce[D]leste por[G]vir!\n\nCanta[G]rei nesse [C]lindo [G]país\nBelos [G]hinos ao meu Salva[D]dor.\nPois a[G]li vive[C]rei bem fe[G]liz,\nSem an[G]gústias, [C]tris[D]tezas, nem [G]dor.\n\nVou can[G]tar! - vou can[D]tar\nNessa [D]terra celeste por[G]vir!\nVou can[G]tar! vou can[C]tar\nNessa terra ce[D]leste por[G]vir!\n\nDeixa[G]rei este [C]mundo, afi[G]nal,\nPa[G]ra ir a Jesus ado[D]rar.\nNessa [G]linda ci[C]dade [G]real,\nEm ventu[G]ras sem [C]fim [D]vou es[G]tar.\n\nVou es[G]tar! - vou es[D]tar\nNessa [D]terra celeste por[G]vir!\nVou es[G]tar! - vou es[C]tar\nNessa terra ce[D]leste por[G]vir!"
     },
     {
         "numero": 615,
@@ -18227,7 +18227,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 615 - Vou Rumo ao Meu Lar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nVou [G]rumo ao meu lar, meu [C]lar celestial;\nVou [G]rumo ao meu lar e a [A]Cris[D]to;\nLá, [G]não mais pesar, tris[C]tezas ou dor;\nVou [G]rumo ao meu lar e a [D]Cris[G]to."
     },
     {
         "numero": 616,
@@ -18251,7 +18251,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 616 - Quanto Almejo!\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Quanto almejo, [Eb]lar ce[Ab]leste,\n[Ab]Tua [Bb]glória [Eb]ver!\n[Eb]Vestes [Ab]brancas, [F]pere[Bbm]nais,\nDe [Eb]Deus rece[Ab]ber!\n\n[Ab]Quanto almejo [Eb]junto aos [Ab]coros\n[Ab]Minha [Bb]voz er[Eb]guer!\n[Eb]Com meu [Ab]Mestre [F]cami[Bbm]nhar,\nSe[Eb]rá meu pra[Ab]zer!\n\n[Ab]Quanto almejo [Eb]sua [Ab]volta,\n[Ab]Vê-lo [Bb]vir em [Eb]luz,\n[Eb]Para em [Ab]breve [F]des[Bbm]frutar\nA [Eb]paz com Je[Ab]sus!"
     },
     {
         "numero": 617,
@@ -18265,7 +18265,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 617 - Quanto Anelo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nQuanto a[D]nelo contemplar a [G]Cristo;\nQuanto ane[D]lo seu di[Bm]vino rosto [A]ver!\n'Stou cansado de andar qual peregrino triste aqui;\nQuanto anelo eu a Cristo ter."
     },
     {
         "numero": 618,
@@ -18304,7 +18304,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 618 - É Nosso o Lar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nÉ [F]nosso lar dos céus, no [C]qual não entra o [F]mal,\nMora[F]da, junto ao santo [Dm]Deus, na [Bb]glória [C]divi[F]nal.\n\n[F]mão do amante Pai con[C]duz-nos para o [F]lar:\nBen[F]dito lar que sem[Dm]pre foi de [Bb]Deus o [C]seu lu[F]gar.\n\nO [F]sangue de Jesus já [C]no-lo assegu[F]rou;\nA [F]sua morte sobre a [Dm]cruz, o [Bb]títu[C]lo fir[F]mou.\n\nE o [F]bom Consolador, pe[C]nhor da reden[F]ção.\nPra o [F]céu nos leva com a[Dm]mor, [Bb]paz e sa[C]tisfa[F]ção.\n\nCon[F]solador sem par a[C]qui será pra [F]nós,\nA[F]té ouvirmos nesse [Dm]lar de [Bb]Cristo a [C]terna [F]voz.\n\nE[F]ternamente, então, fol[C]gando no Se[F]nhor,\nNo [F]lar faremos, em can[Dm]ção, [Bb]soar o [C]seu lou[F]vor."
     },
     {
         "numero": 619,
@@ -18328,7 +18328,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 619 - Meu Lar, Jerusalém\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nFe[Eb]liz Jerusa[Bb]lém, [Eb]meu lar!\n[Eb]Em ti almejo es[Bb]tar!\nSen[Ab]tir a [Eb]calma em [Bb]glória [Cm]ali,\n[Eb/G]E teu [Eb/Bb]prazer go[Eb]zar.\n\nOh! [Eb]lar feliz de a[Bb]mor e [Eb]paz!\nJar[Eb]dim sem outro i[Bb]gual!\nO [Ab]teu ful[Eb]gor de [Bb]glória e [Cm]luz,\nJa[Eb/G]mais [Eb]o [Bb]viu mor[Eb]tal.\n\nJe[Eb]sus em breve i[Bb]rá vol[Eb]tar,\nE a [Eb]paz do lar de a[Bb]lém\nI[Ab]rá, en[Eb]tão, [Bb]em ti rei[Cm]nar,\n[Eb/G]Meu lar - [Eb/Bb]Jerusa[Eb]lém"
     },
     {
         "numero": 620,
@@ -18361,7 +18361,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 620 - Na Jornada Para Jerusalém\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nNa jor[Bb]nada para o Céu,\nVivo [Eb]sempre a medi[Bb]tar.\nMuito a[Bb]legre vou can[Eb]tando\nE se[F]guindo pro meu [Bb]lar.\nMuito a[Bb]legre vou can[Eb]tando\nE se[F]guindo pro meu [Bb]lar.\n\nCoro:\nSei que [Bb]é cer[Eb]ta a vi[Bb]tória,\nQue Je[C]sus me garan[F]tiu:\nEu vou che[Bb]gar à Glória (bis)\nQue o mor[F]tal inda não [Bb]viu.\n\nCami[Bb]nhando com Jesus,\nMeu pra[Eb]zer sempre aumen[Bb]tou:\nReve[Bb]lou-me o amor [Eb]da cruz,\nQue meus [F]crimes per[Bb]doou\nReve[Bb]lou-me o amor [Eb]da cruz,\nQue meus [F]crimes per[Bb]doou.\n\nUm cla[Bb]rão da luz do Céu\nMinha [Eb]alma ilumi[Bb]nou\nEn[Bb]tão vi o abismo e[Eb]terno\nDo qual [F]Deus já me sal[Bb]vou.\nEntão [Bb]vi o abismo e[Eb]terno\nDo qual [F]Deus já me sal[Bb]vou.\n\nNesta [Bb]senda gloriosa,\nMe a[Eb]jude o meu [Bb]Rei:\nTenho [Bb]paz, e mui di[Eb]tosa,\nE mais [F]paz no Céu te[Bb]rei.\nTenho [Bb]paz, e mui di[Eb]tosa.\nE mais [F]paz no Céu te[Bb]rei."
     },
     {
         "numero": 621,
@@ -18375,7 +18375,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 621 - Juntos, no Céu\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nIremos [F]juntos viver no Céu;\nFe[C]lizes vamos ser.\nFe[F]lizes lá no Céu,\nIremos [F]juntos viver no Céu:\n[C]Jesus e [F]eu!"
     },
     {
         "numero": 622,
@@ -18403,7 +18403,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 622 - Tão Grato me é Lembrar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nTão [Bb]grato [Eb]me é lem[Bb]brar\nQue [Eb]cada [F]dia es[Bb]tou\nMais [Bb]perto [Eb]do ce[Bb]leste lar,\nEm [Eb]que mo[F]rar eu [Bb]vou!\n\nCoro:\n[F]Cada [Bb]vez mais perto do lar,\n[Bb]Perto do [Eb]meu e[Bb]terno lar,\nEm [F]que morar eu [Bb]vou.\n\nEm [Bb]breve [Eb]vou par[Bb]tir\nPra [Eb]onde [F]não há [Bb]dor.\nDe[Bb]lícias no [Eb]céu vou [Bb]fruir\nNa[Eb]quele [F]lar de a[Bb]mor.\n\nO [Bb]Mestre, [Eb]que [Bb]leal\nEu [Eb]seja [F]sempre a[Bb]qui!\nPois quero junto aos salvos mil\nContigo estar ai."
     },
     {
         "numero": 623,
@@ -18427,7 +18427,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 623 - Oh, Sim, Bem Sei\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nOh, [D]sim, [A]bem [Bm]sei que o [G]Reden[D]tor\nNos [Bm]altos [E]céus es[A]tá;\nQue [D]vê-[A]lo-[Bm]ei ao [G]regres[A]sar,\nE [Bm]a vi[G]da [A]me da[D]rá.\n\nÀ [D]ple[A]na [Bm]luz [G]dos olhos [D]meus\nVe[Bm]rei o [E]Salva[A]dor;\nEm [D]car[A]ne, [Bm]sim, ve[G]rei a [A]Deus,\nNa [Bm]paz [G]do [A]céu de a[D]mor.\n\nOh, [D]sim, [A]bem [Bm]sei, bem [G]certo es[D]tou\nQue [Bm]vive, a[E]lém, meu [A]Rei;\nE [D]pe[A]lo [Bm]seu e[G]terno a[A]mor,\nCom [Bm]Ele [G]vi[A]ve[D]rei."
     },
     {
         "numero": 624,
@@ -18451,7 +18451,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 624 - Anseio um Lugar de Amor\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nAn[G]seio a paz, um lu[D]gar de amor!\nSaudo[G]so estou deste [D]lar feliz;\nSu[G7]bir em vestes [C]de fulgor\nAo [D]sempi[A]terno, [D]bom [G]pais.\n\nJa[G]mais virão os pe[D]cados vis\nA [G]penetrar nos por[D]tais de luz;\nSe[G7]rá no centro [C]do pais\nO [D]trono e[A]terno [D]de Je[G]sus.\n\nAli [G]fruir infindáveis [D]paz,\nAli viver [G]são os sonhos [D]meus;\nE o [G7]doce enlevo [C]que me traz,\n[D]Real se [A]torne, [D]queira [G]Deus!"
     },
     {
         "numero": 625,
@@ -18484,7 +18484,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 625 - Glória Indizível\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: C\n\nTenho [C]lido da [G]bela ci[C]dade\nSi[F]tuada no Reino de [C]Deus,\nAmura[C]da de [G]jaspe lu[C]zente,\nE jun[D]cada com áureos tro[G]féus.\nBem no [G]meio da praça eis o [C]rio\nDa vi[D]da e vigor eter[G]nal;\nMas meta[C]de da glória ce[F]leste\nJa[G]mais se contou ao mor[C]tal.\n\nCoro:\nJa[C]mais se contou ao mor[F]tal!\nJa[D]mais se contou ao mor[G]tal!\nMe[C]tade da glória ce[F]leste\nJa[G]mais se contou ao mor[C]tal!\n\nTenho [C]lido dos [G]belos pa[C]lácios,\nQue Je[F]sus foi no Céu prepa[C]rar,\nOnde os [C]santos [G]fiéis, para [C]sempre,\nMui fe[D]lizes irão habi[G]tar;\nNem tris[G]teza, nem dor, nem ve[C]lhice\nVe[D]remos no lar pater[G]nal;\nMas me[C]tade da glória ce[F]leste\nJa[G]mais se contou ao mor[C]tal.\n\nTenho [C]lido das [G]vestes bri[C]lhantes,\nDas co[F]roas que os crentes te[C]rão,\nQuando o [C]Pai os cha[G]mar procla[C]mando:\n- “Rece[D]bei eternal galar[G]dão!”\nTenho [G]lido que os santos na [C]glória\nTem [D]gozo e prazer pere[G]nal.\nMas me[C]tade da glória ce[F]leste\nJa[G]mais se contou ao mor[C]tal.\n\nTenho [C]lido da his[G]tória ben[C]dita\nDe Je[F]sus, o fiel Reden[C]tor,\nQue por [C]nós pade[G]ceu no Cal[C]vário\nE re[D]cebe ao mais vil peca[G]dor.\nTenho [G]lido do sangue ver[C]tido\nQue a [D]todos redime do [G]mal;\nMas me[C]tade da glória ce[F]leste\nJa[G]mais se contou ao mor[C]tal."
     },
     {
         "numero": 626,
@@ -18498,7 +18498,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 626 - Tríplice Amém\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]A[C]mém, [G]A[A][G]mém, A[D][G]mém!"
     },
     {
         "numero": 627,
@@ -18512,7 +18512,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 627 - Finda-se Minha Prisão\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nLá, eu ve[F]rei meu Salva[C]dor,\nCoros de [C]anjos quero ouvir;\nJunto também hei de cantar\nQue meu Jesus me quis remir."
     },
     {
         "numero": 628,
@@ -18531,7 +18531,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 628 - Além do céu Azul\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nA[G]lém do céu azul,\nFoi Je[D]sus preparar\nUm [D]lar pra dar a quem\nA vi[G]tória alcançar.\nPor [G]Ele consegui\nA vi[C]da do porvir,\nCom [D]fé no meu Senhor Je[G]sus.\n\nBem [G]sei que eu de mim\nNada [D]tenho pra dar\nMas [D]sei que meu Jesus\nJá me [G]veio salvar.\n[G]Por Ele livre estou,\nSe[C]guindo a Ele vou,\nA[D]té seu rosto ver a[G]lém."
     },
     {
         "numero": 629,
@@ -18545,7 +18545,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 629 - Conversaremos Ali no Céu\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nConversa[F]remos ali no [C]Céu,\nConversa[C]remos: Jesus e [F]eu.\nDirá o por[F]quê do meu so[Bb]frer.\nNaquele [F]dia [C]eu entende[F]rei."
     },
     {
         "numero": 630,
@@ -18559,7 +18559,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 630 - Não Há Separação na Glória\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\nNão [Bb]há separação na [Eb]gló[Bb]ria;\nNa alvo[F]rada, nas al[Bb]turas.\nNão [Bb]há separação na [Bb]glória,\nQuando [F]estivermos lá no [Bb]Céu!"
     },
     {
         "numero": 631,
@@ -18597,7 +18597,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 631 - Neste Lugar\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Bb\n\n[Bb]Eis plantada neste dia,\n[Eb]Qual se[C]mente singu[F]lar,\n[Bb]Esta pedra - que alegria\n[C]Faz o povo aqui can[F]tar!\n\nCoro:\nOu[F]vi, oh! Terra e toda [Bb]gente,\n[Gm]O lou[A]vor, a grati[D]dão\n[Bb]A Jesus e ao Pai so[Eb]mente\n[Cm]Pelas almas [F]que vi[Bb]rão!\n\n[Bb]Tantas vidas tão vazias\n[Eb]Ou re[C]pletas de afli[F]ção,\n[Bb]Neste templo, novos dias\n[C]No Senhor desfruta[F]rão!\n\n[Bb]Quantos jovens sem futuro\n[Eb]A esta [C]Casa hão de che[F]gar\n-[Bb]E desfeito o negro muro\n[C]Paz e amor vão respi[F]rar!\n\n[Bb]Mães e esposas suspirosas\n[Eb]A cla[C]mar, aqui vi[F]rão;\n[Bb]Logo após. vitoriosas,\n[C]Glória e glória ao Rei da[F]rão!\n\n[Bb]Muitos seres quebrantados,\n[Eb]Nesta [C]Casa de Ora[F]ção,\n[Bb]Pelo Espírito visitados,\n“[C]Aleluia!” exclama[F]rão."
     },
     {
         "numero": 632,
@@ -18630,7 +18630,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 632 - Mais um Templo\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\n[G]Hoje, inaugura-se aqui, santo Deus,\n[G]Mais um padrão de teu amor:\n[G]Um novo templo, fanal para os céus,\n[G]Causa de [D]mais lou[G]vor!\n\nCoro:\n[D]Glória a [G]Deus! - [D]glória a [G]Deus\n[G]Cantem os filhos [D]teus!\n[G]Glória a Deus! - glória a Deus!\n[C]Glória nos [D]altos [G]céus!\n\n[G]Casa de cultos e fonte de luz,\n[G]Onde, Senhor, dás salvação\n[G]Pelo Evangelho que trouxe Jesus,\n[G]Com tanta [D]compai[G]xão!\n\n[G]Marco sublime da proclamação\n[G]Do teu amor - do teu querer:\n[G]Os pecadores aqui ouvirão\n[G]Qual é o [D]seu de[G]ver.\n\n[G]Seja esta casa lugar de oração,\n[G]Habitação tua, oh! Deus!\n[G]E porta do Céu, lugar de perdão,\n[G]Vida de [D]paz nos [G]céus!"
     },
     {
         "numero": 633,
@@ -18658,7 +18658,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 633 - Meu Brasil\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nMeu Bra[Ab]sil, nação gi[Db]gante e mui su[Ab]blime,\nCreio [Ab]ver-te muito breve bem [Eb]maior,\nComba[Ab]tendo a iniqüi[Db]dade, o vicio, o [Ab]crime,\nRedi[Ab]mido aos pés de [Eb]Cristo, o Salva[Ab]dor.\n\nCoro:\nMeu Bra[Ab]sil! - meu Brasil!\nAbre o [Db]largo peito e [Ab]deixa a luz [Eb]raiar!\nMeu Bra[Ab]sil! - meu Bra[Db]sil!\nO Evan[Eb]gelho de Jesus te quer sal[Ab]var!\n\nDebe[Ab]lar a escuri[Db]dão minh'alma an[Ab]seia\nDo teu [Ab]meio, onde o Evangelho prega a [Eb]paz.\nEspa[Ab]lhando livros [Db]santos a man[Ab]cheia,\nA vi[Ab]tória, meu Bra[Eb]sil, alcança[Ab]rás.\n\nNão te [Ab]peço, meu Se[Db]nhor, poder, ri[Ab]queza,\nNem as [Ab]glórias que oferece o mundo [Eb]vil:\nDá que eu [Ab]possa ver ful[Db]gindo de be[Ab]leza,\nNa co[Ab]roa de Je[Eb]sus - o meu Bra[Ab]sil."
     },
     {
         "numero": 634,
@@ -18681,7 +18681,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 634 - Oração pela Pátria\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\nMinha [Ab]Pátria para [Bbm]Cristo!\n- Eis a [Eb]minha peti[Ab]ção.\n- Minha [Ab]Pátria tão que[Db]rida,\nEu te [Bb]dei meu cora[Eb]ção.\nLar pre[Ab]zado, lar for[Eb]moso,\nÉ [Eb]por ti o meu a[Ab]mor.\nQue o meu [Ab]Deus de excelsa [Db]graça\nTe dis[Eb]pense seu fa[Ab]vor!\n\nCoro:\nSalve [Eb]Deus a minha [Ab]Pátria,\nMinha Pá[Ab]tria varo[Db]nil!\nSalve [Bbm]Deus a minha [Ab]terra,\nEsta [Db]terra [Eb]do Bra[Ab]sil!\n\nQuero, [Ab]pois, com ale[Bbm]gria,\nVer fe[Eb]liz a mãe gen[Ab]til,\nPor ven[Ab]cer o Evan[Db]gelho\nNesta [Bb]terra do Bra[Eb]sil.\nBrava [Ab]gente brasi[Eb]leira.\nLonge [Eb]vá temor ser[Ab]vil;\nOu fi[Ab]car a Pátria [Db]salva,\nOu mor[Eb]rer pelo Bra[Ab]sil."
     },
     {
         "numero": 635,
@@ -18705,7 +18705,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 635 - Eis o Brasil em Tuas Mãos\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Eb\n\nÓ nos[Eb/G]so Rei [Ab]e [Eb]Re[F]den[Bb]tor,\n[Eb]Vem aten[Ab]der-[Eb]nos [Bb]a oração;\n[Eb]Sê o supremo [Ab]Prote[Bb]tor,\n[Eb]Eis o Brasil em [Bb]tua [Eb]mão.\n\n[Eb]Dá compreen[Eb/G]são [Ab]e [Eb]bên[F]çãos [Bb]mil\n[Eb]Aos que di[Ab]ri[Eb]gem [Bb]a nação;\n[Eb]Põe neles zelo [Ab]mais fe[Bb]bril\n[Eb]Por tua Lei e [Bb]reti[Eb]dão.\n\n[Eb]Pai, quando, en[Eb/G]fim, [Ab]vol[Eb]tar [F]Je[Bb]sus,\n[Eb]Vier para [Ab]dar-[Eb]nos [Bb]galardão,\n[Eb]Com os remidos [Ab]lá na [Bb]luz,\n[Eb]Dá ao Brasil a [Bb]salva[Eb]ção."
     },
     {
         "numero": 636,
@@ -18734,7 +18734,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 636 - Por nossa Pátria Oramos\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: E\n\n[Em]Por nossa Pátria o[B]ra[Em]mos\nA [Em]ti, supremo [B]Deus!\nPor [Em]nosso lar [C]clama[G]mos\nA [G]ti, ó [Em]Rei dos [B]céus!\n[E]Bendize a vida pastoril,\nGo[B]verna o [E]brio [C#m]senho[B]ril,\nMode[E]ra a lida [A]mercantil!\n- [E]Deus salve a [B]Pá[E]tria!\n\n[Em]Da Pátria, que nos [B]des[Em]te,\nDes[Em]vie tua [B]mão\nDes[Em]graças, fome e [C]pes[G]te,\nPer[G]fídia [Em]e sedi[B]ção!\n[E]Sustenta a ordem nacional,\n[B]O bom go[E]verno im[C#m]par[B]cial,\nE [E]dá-nos graça [A]divinal!\n- [E]Deus salve a [B]Pá[E]tria!\n\n[Em]Dá-nos real ci[B]vis[Em]mo,\n[Em]Fiel, constante, au[B]daz!\nPro[Em]move o cristia[C]nis[G]mo\nDo [G]Prínci[Em]pe da [B]paz!\n[E]Da Pátria afasta crenças vás,\n[B]Derrama [E]bênçãos [C#m]tempo[B]rãs!\nDomi[E]nem só. doutri[A]nas sãs!\n- [E]Deus salve a [B]Pá[E]tria!\n\n[Em]A tua Igreja in[B][Em]flama\n[Em]Com zelo e terno a[B]mor,\nE [Em]seja o seu pro[C]gra[G]ma\nCum[G]prido [Em]com vi[B]gor!\n[E]Então, os salvos de Jesus,\n[B]Lutando [E]fir[C#m]mes pela [B]Cruz,\nDi[E]fundirão de [A]Cristo a luz\n[E]Por toda a [B]Pá[E][A]tria! A[E]mém."
     },
     {
         "numero": 637,
@@ -18767,7 +18767,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 637 - Hino à Bandeira Nacional\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: Ab\n\n[Ab]Salve [Eb]lindo pendão da espe[Ab]rança!\n[Eb]Salve, símbolo augusto da paz!\n[Ab]Tua [Eb]nobre presença à lem[Fm]brança\nA gran[Db]deza da Pátria nos [C]traz.\n\nCoro:\nRe[Db]cebe o a[Eb]feto que se en[Ab]cerra\nEm nosso [Db]peito [Eb]juve[Ab]nil,\nQue[Db]rido [Eb]símbolo [Ab]da terra,\nDa a[Ab]mada terra [Eb]do Bra[Ab]sil!\n\n[Ab]Em teu [Eb]seio formoso re[Ab]tratas\n[Eb]Este céu de puríssimo azul,\n[Ab]A ver[Eb]dura sem-par destas [Fm]matas,\nE o es[Db]plendor do Cruzeiro do [C]Sul.\n\n[Ab]Contem[Eb]plando teu vulto sa[Ab]grado,\n[Eb]Compreendemos o nosso dever,\n[Ab]E o Bra[Eb]sil. por seus filhos a[Fm]mado,\nPode[Db]roso e feliz há de [C]ser.\n\n[Ab]Sobre a i[Eb]mensa nação brasi[Ab]leira,\n[Eb]Nos momentos de festa ou de dor,\n[Ab]Paira [Eb]sempre, sagrada ban[Fm]deira,\nPavi[Db]lhão da justiça e do a[C]mor!"
     },
     {
         "numero": 638,
@@ -18790,7 +18790,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 638 - Hino Nacional Brasileiro\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: F\n\nOu[F]viram do Ipiranga as margens plácidas\nDe um povo heróico o brado retum[C]bante,\nE o [C]sol da liberdade, em raios fúlgidos,\nBrilhou no céu da Pátria nesse ins[F]tante.\nSe o pe[A]nhor dessa i[Dm]gualdade\nConse[A]guimos conquistar com braço [Dm]forte,\nEm teu [G]seio, ó liber[C]dade,\nDesa[G]fia o nosso peito á própria [C]morte!\nO Pátria a[C7]mada, idolatrada, salve! salve!\nBra[F]sil, um sonho intenso, um raio vívido\nDe amor e de esperança à terra [C]desce,\nSe em [C]teu formoso céu, risonho e límpido,\nA imagem do Cruzeiro resplan[F]dece.\nGi[F]gante pela própria natu[Bb]reza,\nÉs [G]belo, és forte, impávido, co[C]losso,\nE o [A]teu futuro espelha essa gran[Dm]deza.\n\nCoro:\nTerra ado[F]rada, entre outras mil és tu, Bra[Bb]sil,\nÓ Pátria a[F]mada!\nDos filhos [F]deste solo és [Bb]mãe gen[F]til,\nPátria a[C]mada, Bra[F]sil!\n\nDei[F]tado eternamente em berço esplêndido,\nAo som do mar e à luz do céu pro[C]fundo,\nFul[C]guras, ó Brasil, florão da América,\nIluminado ao sol do Novo [F]Mundo!\nDo que a [A]terra mais [Dm]garrida\nTeus ri[A]sonhos, lindos campos têm mais [Dm]flores,\n“Nossos [G]bosques têm mais [C]vida,\nNossa [G]vida”, no teu seio, “mais amo[C]res”.\nÓ Pátria a[C7]mada, idolatrada, salve! salve!\nBra[F]sil, de amor eterno seja símbolo\nO lábaro que ostentas estre[C]lado,\nE [C]diga o verde louro desta flâmula:\n“Paz no futuro e glória no pas[F]sado\".\nMas, se [F]ergues da justiça a clava [Bb]forte,\nVe[G]rás que um filho teu não foge à [C]luta,\nNem [A]teme, quem te adora, a própria [Dm]morte."
     },
     {
         "numero": 639,
@@ -18823,7 +18823,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 639 - Hino da Independência\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: D\n\nJá po[D]deis da Pátria [A]fi[D]lhos\nVer con[A]tente a mãe gentil,\nJá [A]raiou a liber[D]dade\nNo hori[A]zonte do Bra[D]sil!\nJá [A]raiou a liberdade\nJá raiou a liberdade\nNo hori[A]zonte do Brasil.\n\nCoro:\nBrava [A]gente brasi[D]leira\nLonge [A]vá temor ser[D]vil\nOu fi[F#]car a Pátria [Bm]livre\nOu mor[A]rer pelo Bra[D]sil\nOu fi[G]car a Pátria [D]livre\nOu mor[A]rer pelo Bra[D]sil\n\nMal [D]soou na serra ao [A]lon[D]ge\nNosso [A]grito varonil;\nNos i[A]mensos ombros, [D]logo,\nA ca[A]beça ergue o Bra[D]sil!\nNos i[A]mensos ombros, logo,\nNos imensos ombros, logo,\nA ca[A]beça ergue o Brasil.\n\nOs gri[D]lhões que nos for[A]ja[D]va\nDa per[A]fídia astuto ardil\nHouve [A]mão mais pode[D]rosa\nZombou [A]deles o Bra[D]sil.\nHouve [A]mão mais poderosa\nHouve mão mais poderosa\nZombou [A]deles o Brasil!\n\nPara[D]béns, ó brasi[A]lei[D]ros\nJá com [A]garbo juvenil\nDo Uni[A]verso entre as na[D]ções\nResplan[A]dece a do Bra[D]sil.\nDo Uni[A]verso entre as nações\nDo Universo entre as nações\nResplan[A]dece a do Brasil."
     },
     {
         "numero": 640,
@@ -18856,7 +18856,7 @@ var HINOS_DATA = [
                 }
             ]
         },
-        "cifras": "Cifra do hino 640 - Hino da Proclamação da República do Brasil\n\nEm breve, as cifras deste hino estarão disponíveis."
+        "cifras": "Tom: G\n\nSeja um [G]pálio de [C]luz desdo[G]brado\n[C]Sob a [G]larga amplidão destes céus\nEste [D]canto re[G]bel, que o passa[Em]do\nVem re[D]mir dos mais torpes labéus!\nSeja um [D]hino de glória que fale\nDe espe[G]ranças de um novo porvir!\nCom vi[C]sões de triunfos em[G]bale\nQuem por [C]ele lutando sur[G]gir!\n\nCoro:\nLiber[G]dade! Liberdade!\nAbre as asas sobre nós!\nDas [C]lutas na tempes[G]tade\nDá que ouçamos tua voz!\n\nNós nem [G]cremos que es[C]cravos ou[G]trora\n[C]Tenha ha[G]vido em tão nobre pais...\nHoje, o rubro lampejo da Aurora\nAcha irmãos, não tiranos hostis.\nSomos [D]todos iguais! Ao futuro\nSabe[G]remos, unidos, levar\nNosso au[C]gusto estandarte que, [G]puro,\nBrilha, o[C]vante, da Pátria no al[G]tar!\n\nSe é mis[G]ter que de [C]pertos va[G]lentes\n[C]Haja [G]sangue no nosso pendão,\nSangue [D]vivo do he[G]rói Tiraden[Em]tes\nBati[D]zou este audaz pavilhão!\nMensa[D]geiros da paz, paz queremos,\nE de a[G]mor nossa força e poder,\nMas da [C]guerra nos transes su[G]pramos\nHeis de [C]ver-nos lutar e ven[G]cer!\n\nDo Ipi[G]ranga é pre[C]ciso que o [G]brado\n[C]Seja um [G]grito soberbo de fé!\nO Bra[D]sil já sur[G]giu liberta[Em]do,\nSobre as [D]púrpuras régias de pé!\nEia, [D]pois, brasileiros, avante!\nVerdes [G]louros colhamos louçãos!\nSeja o [C]nosso pais, triun[G]fante,\nLivre [C]terra de livres ir[G]mãos!"
     }
 ];
 
