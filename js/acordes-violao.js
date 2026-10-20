@@ -319,7 +319,55 @@ var AcordesViolao = (function () {
         return s.join('');
     }
 
+    // ----- transposição -----
+
+    // Grafia preferida de cada tom (maior / menor) e se ele usa bemóis
+    var TONS_MAIORES = ['C', 'Db', 'D', 'Eb', 'E', 'F', 'F#', 'G', 'Ab', 'A', 'Bb', 'B'];
+    var TONS_MENORES = ['Cm', 'C#m', 'Dm', 'Ebm', 'Em', 'Fm', 'F#m', 'Gm', 'G#m', 'Am', 'Bbm', 'Bm'];
+    var TONS_BEMOL = ['F', 'Bb', 'Eb', 'Ab', 'Db', 'Dm', 'Gm', 'Cm', 'Fm', 'Bbm', 'Ebm'];
+
+    /** Tom transposto, ex.: transporTom('G', 3) → 'Bb'. */
+    function transporTom(tom, semitons) {
+        var m = String(tom).trim().match(/^([A-G])(#|b)?(m?)/);
+        if (!m) return tom;
+        var pc = (notaParaClasse(m[1], m[2]) + semitons % 12 + 12) % 12;
+        return (m[3] ? TONS_MENORES : TONS_MAIORES)[pc];
+    }
+
+    /** Transpõe um acorde; "bemol" escolhe a grafia (Bb x A#). */
+    function transporAcorde(nome, semitons, bemol) {
+        var m = String(nome).match(/^([A-G])(#|b)?(.*?)(?:\/([A-G])(#|b)?)?$/);
+        if (!m) return nome;
+        var tabela = bemol ? NOTAS_BEMOL : NOTAS_SUSTENIDO;
+        var mover = function (letra, acidente) {
+            return tabela[(notaParaClasse(letra, acidente) + semitons % 12 + 12) % 12];
+        };
+        return mover(m[1], m[2]) + m[3] + (m[4] ? '/' + mover(m[4], m[5]) : '');
+    }
+
+    /**
+     * Transpõe uma cifra inteira ([Acorde]sílaba + linha "Tom: X").
+     * Devolve o texto, o tom original e o tom resultante.
+     */
+    function transporCifra(texto, semitons) {
+        var linhaTom = texto.match(/^Tom:\s*([A-G][#b]?m?)/m);
+        var primeiro = texto.match(/\[([A-G][#b]?m?)/);
+        var original = linhaTom ? linhaTom[1] : (primeiro ? primeiro[1] : '');
+        var novo = original ? transporTom(original, semitons) : '';
+        if (!semitons) return { texto: texto, tomOriginal: original, tom: original };
+
+        var bemol = TONS_BEMOL.indexOf(novo) >= 0;
+        var resultado = texto
+            .replace(/\[([^\]]+)\]/g, function (_, acorde) {
+                return '[' + transporAcorde(acorde, semitons, bemol) + ']';
+            })
+            .replace(/^Tom:\s*[A-G][#b]?m?/m, 'Tom: ' + novo);
+        return { texto: resultado, tomOriginal: original, tom: novo };
+    }
+
     return {
+        transporCifra: transporCifra,
+        transporAcorde: transporAcorde,
         interpretar: interpretar,
         posicoes: posicoes,
         notas: notas,

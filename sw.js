@@ -3,7 +3,7 @@
  * Caching strategy for offline functionality
  */
 
-var CACHE_NAME = 'harpa-crista-v6';
+var CACHE_NAME = 'harpa-crista-v7';
 var urlsToCache = [
     '/',
     '/index.html',

@@ -1215,6 +1215,43 @@ body {
     outline: none;
 }
 
+/* ---- Mudar tom da cifra ---- */
+.transpose-controls {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 20px;
+}
+
+.transpose-label {
+    min-width: 72px;
+    text-align: center;
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+}
+
+.transpose-label strong {
+    color: var(--accent-gold);
+    font-size: 1.05rem;
+}
+
+.transpose-label small {
+    color: var(--text-muted);
+}
+
+.btn-transpose-save {
+    background: var(--accent-gold);
+    border: none;
+    color: #000;
+    font-weight: 600;
+}
+
+.btn-transpose-save:hover {
+    background: #f8e070;
+    color: #000;
+}
+
 /* ---- Modal do acorde (diagrama no violão) ---- */
 #modalAcorde .modal-content {
     background: var(--bg-secondary) !important;

@@ -12,6 +12,7 @@ $(document).ready(function () {
     var isPlaying = false;
     var currentFontSize = 16;
     var audioType = '';
+    var chordTranspose = 0; // semitons em relação à cifra salva (só na tela)
     var chordVoicings = [];
     var chordVoicingIndex = 0;
 
@@ -204,7 +205,22 @@ $(document).ready(function () {
 
         $container.append(alertHtml);
 
-        var lines = chordsText.split('\n');
+        // Transposição: só altera a exibição; "Salvar neste tom" grava como cifra do usuário
+        var transposed = AcordesViolao.transporCifra(chordsText, chordTranspose);
+        var offsetLabel = chordTranspose === 0 ? '' :
+            ' <small>(' + (chordTranspose > 0 ? '+' : '−') + formatSemitones(Math.abs(chordTranspose)) + ')</small>';
+        $container.append(
+            '<div class="transpose-controls">' +
+            '  <button class="font-size-btn" id="btnTomMenos" title="Baixar meio tom" aria-label="Baixar meio tom"><i class="bi bi-dash-lg"></i></button>' +
+            '  <span class="transpose-label">Tom <strong>' + escapeHtml(transposed.tom || '?') + '</strong>' + offsetLabel + '</span>' +
+            '  <button class="font-size-btn" id="btnTomMais" title="Subir meio tom" aria-label="Subir meio tom"><i class="bi bi-plus-lg"></i></button>' +
+            (chordTranspose !== 0 ?
+                '  <button class="btn btn-sm btn-outline-secondary" id="btnTomOriginal">Tom original</button>' +
+                '  <button class="btn btn-sm btn-transpose-save" id="btnTomSalvar"><i class="bi bi-save me-1"></i>Salvar neste tom</button>' : '') +
+            '</div>');
+        var displayText = transposed.texto;
+
+        var lines = displayText.split('\n');
         var $pre = $('<pre class="fade-in"></pre>');
 
         lines.forEach(function (line) {
@@ -248,9 +264,29 @@ $(document).ready(function () {
             e.preventDefault();
             if (confirm('Deseja excluir a cifra personalizada?')) {
                 localStorage.removeItem('harpa_cifra_' + currentHymn.numero);
+                chordTranspose = 0;
                 renderChords();
             }
         });
+
+        $('#btnTomMenos').on('click', function () { chordTranspose--; renderChords(); });
+        $('#btnTomMais').on('click', function () { chordTranspose++; renderChords(); });
+        $('#btnTomOriginal').on('click', function () { chordTranspose = 0; renderChords(); });
+        $('#btnTomSalvar').on('click', function () {
+            var msg = 'Salvar esta cifra no tom ' + transposed.tom + '?\n\n' +
+                'Ela passará a ser a sua cifra deste hino. Para voltar à original, use "Excluir" no aviso da cifra.';
+            if (!confirm(msg)) return;
+            localStorage.setItem('harpa_cifra_' + currentHymn.numero, transposed.texto);
+            chordTranspose = 0;
+            renderChords();
+        });
+    }
+
+    /** 1 → "½ tom", 2 → "1 tom", 3 → "1½ tom"... */
+    function formatSemitones(n) {
+        var tons = Math.floor(n / 2);
+        var meio = n % 2 ? '½' : '';
+        return (tons ? tons : '') + meio + (tons > 1 || (tons === 1 && meio) ? ' tons' : ' tom');
     }
 
     function renderEditor($container, type, initialText) {
